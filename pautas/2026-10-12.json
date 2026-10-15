@@ -1,0 +1,367 @@
+{
+ "semana": "2026-10-12",
+ "geradoEm": "2026-10-15T14:34:08+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "titulo": "Fim da escala 6x1: o que muda para quem trabalha seis dias por semana",
+   "secao": "Brasil",
+   "gancho": "O Senado aprovou na quarta (14/10) a PEC que reduz a jornada de 44 para 40 horas, a maior mudança desde 1988. A dúvida que mais aparece agora é prática: quando vale e para quem.",
+   "slides": [
+    {
+     "titulo": "O fim da 6x1 passou no Congresso",
+     "texto": "Senado aprova PEC que garante dois dias de folga e reduz a jornada máxima de 44 para 40 horas semanais, sem corte de salário."
+    },
+    {
+     "titulo": "A votação",
+     "texto": "Na quarta (14/10), foram 75 votos a favor e 1 contra, de Hamilton Mourão (Republicanos-RS). A Câmara já tinha aprovado o texto em maio. Como o Senado não mudou nada, a PEC vai direto à promulgação."
+    },
+    {
+     "titulo": "Por que é histórico",
+     "texto": "É a primeira redução da jornada desde a Constituição de 1988, que baixou o limite de 48 para 44 horas. Por ser emenda constitucional, não passa por sanção nem pode ser vetada pelo presidente."
+    },
+    {
+     "titulo": "Quando começa a valer",
+     "texto": "A transição começa a contar da publicação da emenda, que ainda não tem data. Cerca de 60 dias depois, a jornada cai para 42 horas e entra a escala 5x2. As 40 horas chegam em até 14 meses."
+    },
+    {
+     "titulo": "Quem é afetado",
+     "texto": "O Dieese estima cerca de 22 milhões de trabalhadores com carteira na escala 6x1. Ficam de fora quem tem diploma superior e ganha a partir de cerca de R$ 21,2 mil por mês. Acordos coletivos podem prever outras escalas."
+    },
+    {
+     "titulo": "O que dizem os dois lados",
+     "texto": "Lula chamou a aprovação de conquista histórica. A CNI diz que a medida é eleitoreira e eleva custos num país com falta de mão de obra. Rogério Marinho (PL) defende um modelo alternativo, de pagamento por hora."
+    },
+    {
+     "titulo": "Contexto eleitoral",
+     "texto": "A votação foi antecipada a 11 dias do segundo turno. Flávio Bolsonaro, candidato do PL, votou a favor, e o partido liberou a bancada. Quem vencer em 25/10 vai conduzir a regulamentação."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Agência Pública, Exame, CNN Brasil, ND Mais (dados do Dieese). Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "O Senado aprovou nesta quarta-feira, por 75 votos a 1, a PEC que acaba com a escala 6x1. A jornada máxima cai de 44 para 40 horas semanais, sem redução de salário, e o trabalhador passa a ter dois dias de folga por semana. É a primeira mudança desse tipo desde 1988. As regras não valem de imediato: a transição começa depois da promulgação, ainda sem data, e leva até 14 meses para chegar às 40 horas. Governo e centrais sindicais comemoram; a CNI diz que a medida aumenta custos e foi votada por interesse eleitoral. No carrossel, explicamos quem é afetado, as exceções e o calendário. Na sua área de trabalho, a mudança é viável no prazo previsto?",
+   "hashtags": [
+    "#Escala6x1",
+    "#JornadaDeTrabalho",
+    "#Senado",
+    "#Trabalho",
+    "#Brasil",
+    "#PEC",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto oficial do plenário do Senado na votação (Agência Senado, com crédito, uso livre com atribuição). Slide 4: linha do tempo simples (promulgação → +60 dias: 42h e 5x2 → até 14 meses: 40h). Slide 2: placar 75 x 1 em destaque. Paleta sóbria, marca d'água Atlas Diário no canto.",
+   "fontes": [
+    {
+     "titulo": "Agência Pública: Fim da escala 6x1 é a maior mudança na jornada desde 1988",
+     "url": "https://apublica.org/2026/10/fim-da-escala-6x1-e-a-maior-mudanca-na-jornada-do-trabalhador-brasileiro-desde-1988/"
+    },
+    {
+     "titulo": "Exame: Fim da escala 6x1 aprovada no Senado: o que acontece agora e quando começa",
+     "url": "https://exame.com/brasil/fim-da-escala-6x1-aprovada-no-senado-o-que-acontece-agora-e-quando-comeca/"
+    },
+    {
+     "titulo": "ND Mais: Quando começa a jornada de 40 horas e como será a transição",
+     "url": "https://ndmais.com.br/politica/escala-6x1-quando-comeca-jornada-40-horas-como-sera-transicao"
+    },
+    {
+     "titulo": "CNN Brasil: Hamilton Mourão é o único senador a votar contra a PEC do fim da 6x1",
+     "url": "https://www.cnnbrasil.com.br/politica/hamilton-mourao-e-o-unico-senador-a-votar-contra-a-pec-do-fim-da-6x1/"
+    },
+    {
+     "titulo": "CNN Brasil: CNI reage à PEC com fim da escala 6x1",
+     "url": "https://www.cnnbrasil.com.br/politica/cni-reage-a-pec-com-fim-da-escala-6x1-inoportuna-e-eleitoreira/"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "titulo": "Israel vota em 27/10: a primeira eleição desde o 7 de outubro",
+   "secao": "Mundo",
+   "gancho": "Faltam 12 dias para a eleição que decide se Netanyahu continua no poder. As pesquisas mostram empate entre os blocos, e a possibilidade de retomada da guerra com o Irã paira sobre a campanha.",
+   "slides": [
+    {
+     "titulo": "Israel vai às urnas em 27 de outubro",
+     "texto": "Primeira eleição desde o ataque do Hamas em 2023. Em jogo: se Benjamin Netanyahu, o premiê mais longevo do país, continua no cargo."
+    },
+    {
+     "titulo": "Como funciona",
+     "texto": "Os eleitores escolhem partidos, não candidatos. As 120 cadeiras do Knesset são divididas de forma proporcional, e só entra quem passa de 3,25% dos votos. Para governar, é preciso uma coalizão com pelo menos 61 cadeiras."
+    },
+    {
+     "titulo": "Os principais nomes",
+     "texto": "Netanyahu (Likud) lidera o bloco de direita com religiosos e nacionalistas. Na oposição: o ex-chefe militar Gadi Eisenkot (Yashar), a chapa de Naftali Bennett e Yair Lapid, Avigdor Lieberman e o Democratas, de Yair Golan."
+    },
+    {
+     "titulo": "O que dizem as pesquisas",
+     "texto": "Na sondagem Zman Yisrael/Times of Israel de 7 e 8/10, a oposição tinha 55 cadeiras e o bloco de Netanyahu, 51. No Canal 13, o resultado se inverteu: 55 a 50. Nenhum chega a 61."
+    },
+    {
+     "titulo": "O peso dos partidos árabes",
+     "texto": "As legendas árabes somam 14 a 15 cadeiras nas pesquisas. Os dois blocos dizem que não governarão com elas. Sem elas, o impasse pode se repetir, e Netanyahu seguiria como premiê interino."
+    },
+    {
+     "titulo": "Os temas da campanha",
+     "texto": "A responsabilidade pelo 7 de outubro, o alistamento militar de ultraortodoxos e o Irã dominam o debate. Segundo a Axios, Netanyahu discutiu com Trump retomar os ataques; a Casa Branca nega e diz que não atacará antes das midterms."
+    },
+    {
+     "titulo": "O que vem depois",
+     "texto": "O resultado oficial está previsto para 4/11. Em seguida, o presidente Isaac Herzog indica quem tentará formar governo. Se ninguém chegar a 61 cadeiras, as negociações podem se arrastar por semanas."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Times of Israel, JTA, Axios, CNN Brasil. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Israel elege um novo Knesset em 27 de outubro, na primeira votação desde o ataque do Hamas de 2023. O sistema é proporcional e nenhum partido governa sozinho: é preciso reunir 61 das 120 cadeiras. As pesquisas mais recentes mostram os blocos de Netanyahu e da oposição empatados, ambos longe da maioria. Do lado de Netanyahu estão Likud, partidos religiosos e a direita nacionalista; do outro, nomes como Gadi Eisenkot, Naftali Bennett e Yair Lapid. A campanha gira em torno do 7 de outubro, do alistamento de ultraortodoxos e da possibilidade de retomar a guerra com o Irã. No carrossel, explicamos como a eleição funciona e o que pode acontecer depois. Na sua opinião, qual tema deve pesar mais na decisão do eleitor israelense?",
+   "hashtags": [
+    "#Israel",
+    "#EleicaoIsrael",
+    "#Netanyahu",
+    "#OrienteMedio",
+    "#Geopolitica",
+    "#PoliticaInternacional",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto do plenário do Knesset (Wikimedia Commons, licença livre, com crédito). Slide 4: gráfico de barras horizontais com os blocos nas duas pesquisas (oposição 55/50, Netanyahu 51/55, árabes 14/15) e linha marcando 61. Slide 3: fotos oficiais dos líderes (sites do governo/Knesset ou Wikimedia Commons, com crédito).",
+   "fontes": [
+    {
+     "titulo": "Times of Israel: Anti-Netanyahu bloc regains lead but both camps short of majority",
+     "url": "https://www.timesofisrael.com/toi-poll-anti-netanyahu-bloc-regains-lead-but-both-camps-fall-short-19-days-ahead-of-vote/"
+    },
+    {
+     "titulo": "JTA: Netanyahu faces a daunting playing field ahead of Oct. 27",
+     "url": "https://www.jta.org/2026/10/13/israel/checkmate-netanyahu-faces-a-daunting-playing-field-ahead-of-oct-27"
+    },
+    {
+     "titulo": "Axios: Inside Trump, Netanyahu's dilemma: strike Iran before elections or wait",
+     "url": "https://axios.com/2026/10/13/netanyahu-trump-iran-war-elections"
+    },
+    {
+     "titulo": "CNN Brasil: Veja como funcionam as eleições de Israel e quem pode substituir Netanyahu",
+     "url": "https://www.cnnbrasil.com.br/internacional/veja-como-funcionam-as-eleicoes-de-israel-e-quem-pode-substituir-netanyahu/"
+    },
+    {
+     "titulo": "Wikipedia (referência): 2026 Israeli legislative election",
+     "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "titulo": "Entenda as midterms: o que está em jogo nos EUA em 3 de novembro",
+   "secao": "EUA",
+   "gancho": "A menos de três semanas da votação, os modelos de previsão dão vantagem aos democratas na Câmara e uma disputa mais aberta no Senado. O resultado define os dois últimos anos do governo Trump.",
+   "slides": [
+    {
+     "titulo": "Os EUA votam em 3 de novembro",
+     "texto": "As eleições de meio de mandato decidem quem controla o Congresso nos dois últimos anos do governo Trump. Hoje, os republicanos têm a Casa Branca, a Câmara e o Senado."
+    },
+    {
+     "titulo": "O que está em disputa",
+     "texto": "Todas as 435 cadeiras da Câmara, 35 das 100 do Senado e 36 governos estaduais. Também há cerca de 100 consultas populares em 37 estados."
+    },
+    {
+     "titulo": "Como está o Congresso hoje",
+     "texto": "No Senado, 53 republicanos contra 47 democratas e aliados. Na Câmara, 218 republicanos, 214 democratas, um independente que vota com o partido republicano e duas vagas abertas. A margem é mínima."
+    },
+    {
+     "titulo": "O que dizem as previsões",
+     "texto": "O modelo de Nate Silver dava, em 8/10, 93% de chance de os democratas tomarem a Câmara e 75% no Senado. Em revista da Associação Americana de Ciência Política, os 12 modelos apontam Câmara democrata; no Senado, divergem."
+    },
+    {
+     "titulo": "Por que o partido do presidente costuma perder",
+     "texto": "É um padrão histórico: a eleição vira um teste do governo. A aprovação de Trump estava em cerca de 35% na pesquisa Reuters/Ipsos de setembro. Há exceções, como em 2002, depois do 11 de Setembro."
+    },
+    {
+     "titulo": "Os temas que movem o voto",
+     "texto": "Custo de vida, preço dos combustíveis desde o início da guerra com o Irã, em fevereiro, imigração e deportações. O redesenho de distritos em estados como Texas e Califórnia também mexe no mapa."
+    },
+    {
+     "titulo": "O que muda depois",
+     "texto": "Se os democratas vencerem uma das casas, poderão barrar projetos e abrir investigações contra o governo. Se os republicanos mantiverem as duas, Trump segue com maioria para aprovar sua agenda."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Newsweek/Silver Bulletin, PS: Political Science & Politics (APSA), The National/Reuters-Ipsos, Axios. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Em 3 de novembro, os americanos vão às urnas nas eleições de meio de mandato, as midterms. Estão em disputa todas as 435 cadeiras da Câmara, 35 das 100 do Senado e 36 governos estaduais. Hoje os republicanos controlam as duas casas, por margens pequenas. Os principais modelos de previsão dão vantagem aos democratas na Câmara; no Senado, a disputa está mais aberta. Historicamente, o partido do presidente perde espaço nessas eleições, e custo de vida, combustíveis, a guerra com o Irã e imigração aparecem entre as preocupações dos eleitores. O resultado vai definir o quanto Trump consegue aprovar nos dois anos finais do mandato. Para você, qual tema deve decidir as midterms?",
+   "hashtags": [
+    "#Midterms",
+    "#EleicoesEUA",
+    "#EstadosUnidos",
+    "#Congresso",
+    "#Trump",
+    "#PoliticaAmericana",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto do Capitólio (Architect of the Capitol ou Wikimedia Commons, domínio público). Slide 3: gráfico de hemiciclo simples com a composição atual da Câmara e do Senado. Slide 4: duas barras com as probabilidades do Silver Bulletin (Câmara 93%, Senado 75%), com a data 8/10 indicada. Slide 2: mapa dos EUA destacando os estados com eleição para o Senado.",
+   "fontes": [
+    {
+     "titulo": "Newsweek: Democrat chances of winning House, Senate hit new high — Nate Silver forecast",
+     "url": "https://www.newsweek.com/democrat-chances-of-winning-house-senate-hit-new-high-nate-silver-forecast-12545290"
+    },
+    {
+     "titulo": "EurekAlert/Cambridge University Press: Forecasters predict Democrats to take House but race for Senate hard to call",
+     "url": "https://www.eurekalert.org/news-releases/1147571"
+    },
+    {
+     "titulo": "The National: Early voting begins in some states ahead of crucial US midterms",
+     "url": "https://www.thenationalnews.com/news/us/2026/09/18/early-voting-begins-in-some-states-ahead-of-crucial-us-midterms/"
+    },
+    {
+     "titulo": "Axios: Inside Trump, Netanyahu's dilemma: strike Iran before elections or wait",
+     "url": "https://axios.com/2026/10/13/netanyahu-trump-iran-war-elections"
+    },
+    {
+     "titulo": "Wikipedia (referência): 2026 United States elections",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "titulo": "Entenda as terras raras: o trunfo da China na disputa com EUA e Europa",
+   "secao": "Tecnologia",
+   "gancho": "Nesta quinta (15/10), Pequim garantiu licenças de exportação à União Europeia enquanto os líderes do bloco discutem em Bruxelas como reduzir a dependência. O Brasil, dono da segunda maior reserva do mundo, está no centro dessa corrida.",
+   "slides": [
+    {
+     "titulo": "17 elementos que viraram arma diplomática",
+     "texto": "As terras raras estão em carros elétricos, turbinas eólicas, celulares e mísseis. Quem controla esses minerais tem poder de pressão sobre o resto do mundo, e hoje esse país é a China."
+    },
+    {
+     "titulo": "O tamanho do domínio chinês",
+     "texto": "A China responde por cerca de 70% da extração, 90% do processamento e 93% da fabricação de ímãs permanentes. A União Europeia depende de Pequim para cerca de 98% dos ímãs que usa."
+    },
+    {
+     "titulo": "Como a China usa isso",
+     "texto": "Em 2010, Pequim cortou cotas e suspendeu vendas ao Japão. Em abril de 2025, impôs controles em resposta às tarifas de Trump e, em outubro, ampliou as regras a produtos feitos com material chinês."
+    },
+    {
+     "titulo": "A trégua com Washington",
+     "texto": "Após o encontro entre Trump e Xi Jinping em Busan, em 2025, as medidas mais duras foram suspensas. A trégua foi prorrogada e vence em 10 de janeiro de 2027, sem acordo definitivo sobre minerais."
+    },
+    {
+     "titulo": "O recado à Europa",
+     "texto": "Nesta quinta (15/10), o Ministério do Comércio chinês disse que seguirá aprovando licenças para a UE. Em troca, pediu que Bruxelas libere casos pendentes de empresas chinesas com itens de uso civil e militar."
+    },
+    {
+     "titulo": "Onde entra o Brasil",
+     "texto": "O país tem a segunda maior reserva do mundo, atrás da China. Os pedidos de pesquisa dispararam, com forte presença de empresas americanas e australianas, e o Congresso discute uma lei para minerais críticos."
+    },
+    {
+     "titulo": "O que vem pela frente",
+     "texto": "A Comissão Europeia deve apresentar até o fim do ano um plano para diversificar fornecedores. Em janeiro, vence a trégua EUA-China e entra em vigor o veto do Pentágono a ímãs de origem chinesa."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Global Times (Ministério do Comércio da China), Mining Technology, AP/Repórter Brasil, Euronews, GMF. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Terras raras são 17 elementos químicos usados em ímãs de carros elétricos, turbinas, eletrônicos e armamentos. A China domina quase toda a cadeia: cerca de 90% do processamento e mais de 90% da produção de ímãs. Desde 2025, Pequim usa controles de exportação como instrumento de pressão nas negociações com os EUA, e a trégua entre os dois países vence em janeiro. Nesta quinta, a China prometeu manter licenças para a Europa, mas cobrou contrapartidas, enquanto líderes europeus discutem em Bruxelas como diminuir a dependência. O Brasil, com a segunda maior reserva do planeta, atrai investidores estrangeiros e debate como regular o setor. O Brasil deve priorizar parcerias com os EUA, com a China ou com ambos nesse setor?",
+   "hashtags": [
+    "#TerrasRaras",
+    "#China",
+    "#Geopolitica",
+    "#UniaoEuropeia",
+    "#MineraisCriticos",
+    "#Tecnologia",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto de ímãs ou amostras de óxidos de terras raras (USGS ou Departamento de Energia dos EUA, domínio público; ou Wikimedia Commons com crédito). Slide 2: gráfico de barras com as fatias chinesas (extração 70%, processamento 90%, ímãs 93%). Slide 6: mapa-múndi destacando China e Brasil como maiores reservas. Slide 3: linha do tempo 2010 → abr/2025 → out/2025 → jan/2027.",
+   "fontes": [
+    {
+     "titulo": "Global Times: China ready to continue facilitating rare-earth export licenses to Europe (MOFCOM)",
+     "url": "https://www.globaltimes.cn/page/202610/1372328.shtml"
+    },
+    {
+     "titulo": "Mining Technology: Rare earth power — China and Europe",
+     "url": "https://www.mining-technology.com/features/rare-earth-power-china-europe/"
+    },
+    {
+     "titulo": "AP/Repórter Brasil: US and others turning to Brazil for rare earths",
+     "url": "https://www.abc4.com/news/business/ap-business/ap-takeaways-from-the-ap-reporter-brasil-story-on-the-us-and-others-turning-to-brazil-for-rare-earths/amp/"
+    },
+    {
+     "titulo": "Euronews: EU summit — leaders address China as trade deficit widens",
+     "url": "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices"
+    },
+    {
+     "titulo": "GMF: A Trump-Xi Summit Scorecard",
+     "url": "https://www.gmfus.org/news/trump-xi-summit-scorecard"
+    },
+    {
+     "titulo": "CNBC: China says rare earth exports to Europe will continue past U.S. trade deadline",
+     "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "titulo": "Maduro agora é acusado de tortura nos EUA: o que diz a nova denúncia",
+   "secao": "EUA",
+   "gancho": "A nova acusação, revelada em 8/10, amplia o caso contra Maduro e Cilia Flores em Nova York. A próxima audiência, em 17/11, vai discutir se um ex-chefe de Estado pode alegar imunidade.",
+   "slides": [
+    {
+     "titulo": "Maduro passa a responder por tortura",
+     "texto": "Promotores federais em Nova York acrescentaram tortura às acusações de narcotráfico contra o ex-presidente venezuelano e sua mulher, Cilia Flores."
+    },
+    {
+     "titulo": "Como chegamos aqui",
+     "texto": "Maduro e Flores foram capturados em Caracas por forças americanas em 3 de janeiro e estão presos no Brooklyn. O governo Trump chama a ação de operação policial. A defesa diz que foi um sequestro."
+    },
+    {
+     "titulo": "O que diz a nova denúncia",
+     "texto": "Apresentada em 8/10, ela acusa os dois de manter um sistema de repressão entre 1999 e 2025. Cita a tortura de nove pessoas, três delas americanas, com choques elétricos e espancamentos."
+    },
+    {
+     "titulo": "As penas possíveis",
+     "texto": "Se condenados por todas as acusações, cada um enfrenta pena mínima obrigatória de 50 anos de prisão. Eles se declararam inocentes no caso original e ainda não responderam formalmente às novas acusações."
+    },
+    {
+     "titulo": "O que diz a defesa",
+     "texto": "O advogado de Maduro, Barry Pollack, diz que ele nega tudo e quer ir a julgamento. A defesa pede imunidade de chefe de Estado. A promotoria responde que os EUA nunca reconheceram Maduro como presidente."
+    },
+    {
+     "titulo": "Cilia Flores segue presa",
+     "texto": "O juiz Alvin Hellerstein negou o pedido de prisão domiciliar por motivos de saúde. Disse que as provas parecem fortes, mas admitiu rever a decisão se o quadro dela piorar."
+    },
+    {
+     "titulo": "Os próximos passos",
+     "texto": "A audiência sobre imunidade está marcada para 17/11, e o julgamento, para 1º de junho de 2027. Na Venezuela, a presidente interina Delcy Rodríguez ampliou a cooperação com os EUA e não pediu a libertação dos dois."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "AP, Reuters (via ThePrint), MercoPress. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Nicolás Maduro e Cilia Flores, presos em Nova York desde janeiro, passaram a responder também por tortura. A nova denúncia, apresentada em 8 de outubro, acusa o casal de comandar um sistema de repressão na Venezuela entre 1999 e 2025 e cita nove vítimas, três delas americanas. As penas mínimas chegam a 50 anos. A defesa nega as acusações e pede imunidade de chefe de Estado; a promotoria argumenta que os EUA nunca reconheceram Maduro como presidente. O tema será discutido em audiência em 17 de novembro, e o julgamento está marcado para junho de 2027. O caso também testa os limites da ação dos EUA contra líderes estrangeiros. Um tribunal nacional deve julgar crimes cometidos por um chefe de Estado estrangeiro em seu próprio país?",
+   "hashtags": [
+    "#Maduro",
+    "#Venezuela",
+    "#EstadosUnidos",
+    "#AmericaLatina",
+    "#DireitoInternacional",
+    "#PoliticaInternacional",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto de agência da fachada do tribunal federal de Manhattan (Southern District of New York) ou foto oficial de Maduro de arquivo (Wikimedia Commons, com crédito). Slide 7: linha do tempo 3/1 captura → 8/10 nova denúncia → 17/11 audiência → 1/6/2027 julgamento. Mapa simples ligando Caracas a Nova York. Evitar imagens de vítimas.",
+   "fontes": [
+    {
+     "titulo": "AP (via KTTC): New US indictment charges former Venezuelan President Nicolás Maduro with torture",
+     "url": "https://www.kttc.com/2026/10/08/new-us-indictment-charges-former-venezuelan-president-nicols-maduro-with-torture/"
+    },
+    {
+     "titulo": "Reuters (via ThePrint): Venezuela's Maduro charged in US with ordering torture of opponents, Americans",
+     "url": "https://theprint.in/world/venezuelas-maduro-charged-in-us-with-ordering-torture-of-opponents-americans/3066143/"
+    },
+    {
+     "titulo": "MercoPress: US charges Maduro and Cilia Flores with torture and repression in Venezuela",
+     "url": "https://en.mercopress.com/2026/10/09/us-charges-maduro-and-cilia-flores-with-torture-and-repression-in-venezuela"
+    }
+   ]
+  }
+ ]
+}
