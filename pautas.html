@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Pautas Atlas Diário</title>
+<meta name="description" content="Cinco pautas por semana para os carrosséis do Atlas Diário.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Young+Serif&display=swap">
+<link rel="stylesheet" href="estilo.css">
+<script src="comum.js"></script>
+<style>
+.pauta{background:var(--paper);border:1.5px solid var(--line);border-left:6px solid var(--sc,var(--line));border-radius:16px;padding:20px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.pauta.feita{opacity:.6}
+.pauta-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+.pauta h3{font-size:1.25rem}
+.num{font-family:var(--display);font-size:1.6rem;color:var(--sc,var(--muted));line-height:1}
+.gancho{color:var(--muted)}
+.carousel{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 12px;margin:0 -2px}
+.slide{flex:none;width:min(240px,70vw);aspect-ratio:4/5;max-width:100%;scroll-snap-align:start;border-radius:12px;background:var(--bg);border:1.5px solid var(--line);border-top:8px solid var(--sc,var(--line));padding:14px;display:flex;flex-direction:column;gap:8px;position:relative;overflow:hidden}
+.slide .n{font-size:.7rem;font-weight:700;color:var(--muted);letter-spacing:.05em}
+.slide strong{font-size:.95rem;line-height:1.3}
+.slide p{font-size:.8rem;line-height:1.5;overflow:auto}
+.slide .wm{position:absolute;right:10px;bottom:8px;font-family:var(--display);font-size:.7rem;color:var(--muted);opacity:.8}
+.slide.capa{background:var(--sc,var(--ink));border-color:var(--sc,var(--ink))}
+.slide.capa strong{font-family:var(--display);font-weight:400;font-size:1.25rem;color:var(--paper)}
+.slide.capa p,.slide.capa .n,.slide.capa .wm{color:var(--paper)}
+.box{background:var(--bg);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.box p{font-size:.92rem;white-space:pre-line}
+.copy-row{display:flex;gap:8px;flex-wrap:wrap}
+.done{display:inline-flex;align-items:center;gap:8px;font-size:.85rem;font-weight:700;color:var(--muted);cursor:pointer}
+.done input{width:20px;height:20px;accent-color:var(--sc,var(--accent))}
+.intro{display:flex;flex-direction:column;gap:8px}
+.intro h2{font-family:var(--display);font-weight:400;font-size:clamp(1.4rem,4.5vw,1.8rem)}
+</style>
+</head>
+<body>
+<div id="progress" aria-hidden="true"></div>
+<div class="wrap">
+  <header class="mast">
+    <div class="mast-top">
+      <div>
+        <h1>Pautas Atlas</h1>
+        <div class="dateline" id="dateline">Carrosséis da semana para o @atlas.diarionews</div>
+      </div>
+      <nav class="nav" aria-label="Páginas">
+        <a href="./">Jornal</a>
+        <a href="pautas.html" aria-current="page">Pautas Atlas</a>
+      </nav>
+    </div>
+    <div class="tools" role="group" aria-label="Ajustes de leitura">
+      <div class="grp">
+        <span class="lbl">CORES</span>
+        <button class="tbtn" data-set-tema="auto" aria-pressed="true">Auto</button>
+        <button class="tbtn" data-set-tema="light">Claro</button>
+        <button class="tbtn" data-set-tema="sepia">Sépia</button>
+        <button class="tbtn" data-set-tema="dark">Escuro</button>
+      </div>
+      <div class="grp">
+        <span class="lbl">LETRA</span>
+        <button class="tbtn" data-set-size="s" aria-label="Letra pequena">A</button>
+        <button class="tbtn" data-set-size="m" aria-pressed="true" aria-label="Letra média" style="font-size:.9rem">A</button>
+        <button class="tbtn" data-set-size="l" aria-label="Letra grande" style="font-size:1rem">A</button>
+        <button class="tbtn" data-set-size="xl" aria-label="Letra muito grande" style="font-size:1.1rem">A</button>
+      </div>
+      <div class="grp">
+        <label class="lbl" for="sem">SEMANA</label>
+        <select class="tbtn" id="sem" disabled><option>carregando…</option></select>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="wrap" style="gap:24px">
+    <div class="empty">
+      <h2 style="font-size:1.3rem">As pautas da semana estão a caminho</h2>
+      <p>Toda segunda de manhã chegam 5 pautas prontas para carrossel: gancho, texto de cada slide, legenda, ideia de visual e fontes.</p>
+    </div>
+  </main>
+</div>
+<button class="top" id="toTop" hidden aria-label="Voltar ao topo">↑</button>
+
+<script>
+const {$,esc,secKey,srcLinks}=J;
+const LS='atlas-pautas-feitas';
+let feitas={};try{feitas=JSON.parse(localStorage.getItem(LS))||{}}catch(e){}
+let semanas=[], atual=null, dados={};
+
+function fmtSemana(s){try{const d=new Date(s+'T12:00:00');const f=new Date(d);f.setDate(d.getDate()+6);
+  const o={day:'numeric',month:'short'};return d.toLocaleDateString('pt-BR',o)+' a '+f.toLocaleDateString('pt-BR',o)}catch(e){return s}}
+
+function render(){
+  const sel=$('#sem');
+  if(semanas.length){sel.disabled=false;sel.innerHTML=semanas.map(s=>`<option value="${esc(s)}" ${s===atual?'selected':''}>${esc(fmtSemana(s))}</option>`).join('')}
+  const d=dados[atual];if(!d)return;
+  const tops=d.topicos||[];
+  const nFeitas=tops.filter(t=>feitas[atual+'__'+t.id]).length;
+  let h=`<div class="intro fade"><span class="label">Semana de ${esc(fmtSemana(atual))}</span><h2>${tops.length} pautas para carrossel</h2>
+    <p class="hint">${nFeitas} de ${tops.length} postadas. Deslize os slides para o lado. Revise e reescreva com a sua voz antes de postar, e não esqueça a marca d'água do Atlas Diário.</p></div>`;
+  h+=tops.map((t,i)=>{
+    const k=secKey(t.secao);const done=!!feitas[atual+'__'+t.id];const sl=t.slides||[];
+    return `<article class="pauta fade ${done?'feita':''}" data-sec="${k}" data-id="${esc(t.id)}">
+      <div class="pauta-head"><div style="display:flex;gap:14px;align-items:flex-start;min-width:0"><span class="num">${i+1}</span>
+        <div style="min-width:0;display:flex;flex-direction:column;gap:4px"><span class="tag">${esc(t.secao)}</span><h3>${esc(t.titulo)}</h3></div></div>
+        <label class="done"><input type="checkbox" data-done="${esc(t.id)}" ${done?'checked':''}> Postado</label></div>
+      ${t.gancho?`<p class="gancho"><strong>Por que agora:</strong> ${esc(t.gancho)}</p>`:''}
+      <div class="carousel" aria-label="Slides do carrossel">${sl.map((s,j)=>`<div class="slide ${j===0?'capa':''}"><span class="n">SLIDE ${j+1}/${sl.length}</span><strong>${esc(s.titulo)}</strong>${s.texto?`<p>${esc(s.texto)}</p>`:''}<span class="wm">Atlas Diário</span></div>`).join('')}</div>
+      <div class="copy-row"><button class="btn" data-copy="slides" data-id="${esc(t.id)}">Copiar textos dos slides</button><button class="btn" data-copy="legenda" data-id="${esc(t.id)}">Copiar legenda</button></div>
+      ${t.legenda?`<div class="box"><span class="label">Legenda sugerida</span><p>${esc(t.legenda)}${(t.hashtags||[]).length?'\n\n'+esc(t.hashtags.join(' ')):''}</p></div>`:''}
+      ${t.visual?`<div class="box"><span class="label">Ideia de visual</span><p>${esc(t.visual)}</p></div>`:''}
+      <div class="srcs">${srcLinks(t.fontes)}</div>
+    </article>`}).join('');
+  $('#main').innerHTML=h;
+}
+function textoSlides(t){return (t.slides||[]).map((s,j)=>`Slide ${j+1}: ${s.titulo}${s.texto?'\n'+s.texto:''}`).join('\n\n')}
+function textoLegenda(t){return (t.legenda||'')+((t.hashtags||[]).length?'\n\n'+t.hashtags.join(' '):'')}
+document.addEventListener('click',async ev=>{
+  const b=ev.target.closest('[data-copy]');if(!b)return;
+  const t=(dados[atual].topicos||[]).find(x=>x.id===b.dataset.id);if(!t)return;
+  const txt=b.dataset.copy==='slides'?textoSlides(t):textoLegenda(t);
+  const old=b.textContent;
+  try{await navigator.clipboard.writeText(txt);b.textContent='Copiado'}catch(e){b.textContent='Não deu para copiar; selecione o texto'}
+  setTimeout(()=>b.textContent=old,1800);
+});
+document.addEventListener('change',ev=>{
+  const c=ev.target.closest('[data-done]');if(c){const k=atual+'__'+c.dataset.done;if(c.checked)feitas[k]=true;else delete feitas[k];
+    try{localStorage.setItem(LS,JSON.stringify(feitas))}catch(e){}render();return}
+  if(ev.target.id==='sem'){atual=ev.target.value;carregar(atual)}
+});
+async function carregar(s){
+  if(!dados[s]){try{const r=await fetch('pautas/'+s+'.json',{cache:'no-cache'});dados[s]=await r.json()}catch(e){console.warn(e)}}
+  render();
+}
+(async()=>{
+  try{const r=await fetch('pautas/index.json',{cache:'no-cache'});const idx=await r.json();
+    semanas=(idx.semanas||[]).map(s=>s.semana).sort().reverse();
+    if(semanas[0]){atual=semanas[0];await carregar(atual)}
+  }catch(e){}
+})();
+</script>
+</body>
+</html>
