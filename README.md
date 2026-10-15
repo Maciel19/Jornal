@@ -6,4 +6,4 @@ Edição diária de notícias: destaques a fundo, notas rápidas e histórias ac
 - `edicoes/AAAA-MM-DD.json`: uma edição por dia
 - `edicoes/index.json`: lista das edições
 
-Site: https://maciel19.github.io/jornal/
+Site: https://maciel19.github.io/Jornal/
