@@ -76,13 +76,17 @@
     {
      "titulo": "Metrópoles: Datafolha divulga nova pesquisa de 2º turno hoje (15/10)",
      "url": "https://www.metropoles.com/brasil/lula-x-flavio-datafolha-divulga-nova-pesquisa-de-2o-turno-hoje-15-10"
+    },
+    {
+     "titulo": "Metrópoles: Agendas de Flávio e Lula nesta quinta (15/10)",
+     "url": "https://www.metropoles.com/brasil/eleicoes-2026-confira-as-agendas-de-flavio-e-lula-nesta-quinta-15-10"
     }
    ],
    "historia": "pec-fim-escala-6x1",
    "id": "d2",
    "lados": "O governo e as centrais sindicais celebram a mudança, e o presidente da Câmara, Hugo Motta, falou em 'esforço histórico'. Flávio Bolsonaro votou a favor, e o único voto contrário foi de Hamilton Mourão (Republicanos-RS). Mesmo assim, líderes do PL chamaram a votação de 'demagogia eleitoral' e disseram que vão tentar mudar o texto ou propor pagamento por hora se Flávio vencer. A CNI já tinha chamado a proposta de 'inoportuna e eleitoreira', citando produtividade baixa e custos para a indústria. Nenhuma das reportagens consultadas traz estimativa oficial de impacto econômico.",
    "oque": "O Senado aprovou ontem (14/10), em dois turnos no mesmo dia, a PEC que acaba com a escala 6x1, por 75 votos a 1. O texto já tinha passado pela Câmara em maio e agora só falta ser promulgado pelo Congresso, sem sanção presidencial. A jornada máxima cai para 42 horas 60 dias após a promulgação e para 40 horas um ano depois, sem corte de salário, com dois dias de descanso por semana, de preferência um no domingo.",
-   "proximo": "A data da promulgação ainda não foi marcada, e Lula deve comparecer à cerimônia. O Datafolha do segundo turno sai hoje, a partir das 18h; na rodada anterior, Flávio tinha 52% dos votos válidos e Lula, 48%. O debate da Band é em 18/10, o da Globo em 23/10, e a votação em 25/10.",
+   "proximo": "A data da promulgação ainda não foi marcada, e Lula deve comparecer à cerimônia. O Datafolha do segundo turno sai hoje, a partir das 18h de Brasília (17h em Nova York); na rodada anterior, Flávio tinha 52% dos votos válidos e Lula, 48%. Às 21h15 de Brasília, Lula é entrevistado no Jornal Nacional. O debate da Band é em 18/10, o da Globo em 23/10, e a votação em 25/10.",
    "secao": "Brasil",
    "temas": [
     "Brasil",
@@ -133,7 +137,7 @@
  ],
  "geradoEm": "2026-10-15T14:07:44Z",
  "manchete": "China garante terras raras à Europa enquanto a cúpula da UE discute como se defender de Pequim; no Brasil, Senado aprova o fim da escala 6x1",
- "nota": "Versão revisada às 10h (Nova York) com o que mudou desde as 9h26: a cúpula da UE em Bruxelas (destaques 1 e 3), o naufrágio perto de Hormuz (nota 1) e a queda das ações de chips (nova nota). O Datafolha do segundo turno ainda não saiu (previsão: 17h em Nova York), então os números da eleição continuam os da rodada de 8/10. Seguimos priorizando geopolítica, tecnologia, Brasil e ONU, conforme suas avaliações. Algumas matérias (Reuters, Bloomberg, AP) foram confirmadas por meio de outros veículos.",
+ "nota": "Versão revisada às 10h (Nova York) com o que mudou desde as 9h26: a cúpula da UE em Bruxelas (destaques 1 e 3), o naufrágio perto de Hormuz (nota 1) e a queda das ações de chips (nova nota). Segue a nota sobre inflação e Previdência. O Datafolha do segundo turno ainda não saiu (previsão: 17h em Nova York), então os números da eleição continuam os da rodada de 8/10. Seguimos priorizando geopolítica, tecnologia, Brasil e ONU, conforme suas avaliações. Algumas matérias (Reuters, Bloomberg, AP) foram confirmadas por meio de outros veículos.",
  "notas": [
   {
    "fontes": [
@@ -347,6 +351,32 @@
    ],
    "texto": "Um tribunal federal de apelações (9º Circuito) decidiu que a lei estadual viola a Cláusula de Supremacia, que dá prioridade à lei federal sobre a estadual. A decisão limita a capacidade dos estados de regular como agentes federais de imigração atuam. Separadamente, o GAO recomendou uso uniforme de câmeras corporais, e o ICE rejeitou a recomendação citando privacidade.",
    "titulo": "Tribunal derruba lei da Califórnia que obrigava agentes do ICE a se identificar"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "401k Specialist: Rising inflation pushes official 2027 Social Security COLA to 3.6%",
+     "url": "https://401kspecialistmag.com/rising-inflation-pushes-official-2027-social-security-cola-to-3-6/"
+    },
+    {
+     "titulo": "CNBC: Social Security announces 3.6% COLA for 2027",
+     "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html"
+    },
+    {
+     "titulo": "NPR: Morning news brief, 15/10/2026",
+     "url": "https://www.wlrn.org/npr-breaking-news/2026-10-15/morning-news-brief"
+    }
+   ],
+   "historia": "inflacao-eua-2026",
+   "id": "n9",
+   "secao": "EUA",
+   "temas": [
+    "Política dos EUA",
+    "Economia",
+    "Energia"
+   ],
+   "texto": "O índice de preços usado pela Previdência (CPI-W) subiu 3,9% em 12 meses até setembro, puxado pelos combustíveis desde a guerra com o Irã. Com isso, os benefícios sobem 3,6% em janeiro, contra 2,8% neste ano, cerca de US$ 75 a mais por mês. Trump diz que a economia vai bem, mas o custo de vida pesa nas eleições de 3/11.",
+   "titulo": "Inflação puxada pela energia eleva reajuste da Previdência americana para 3,6%"
   }
  ],
  "valeSaber": {
