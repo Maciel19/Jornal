@@ -1,0 +1,317 @@
+{
+ "abertura": "Três calendários eleitorais se cruzam nas próximas três semanas: Brasil vota em 25/10, Israel em 27/10 e os EUA em 3/11. Essa coincidência ajuda a explicar as decisões de hoje sobre Irã, Rússia e o preço do petróleo.",
+ "atualizacoes": [],
+ "data": "2026-10-15",
+ "destaques": [
+  {
+   "contexto": "Os combates de grande escala estão pausados, mas não há acordo de paz. O bloqueio naval dos EUA zerou as exportações de petróleo iranianas. Em resposta, Teerã passou a atacar navios de apoio que contornam Hormuz pela costa de Omã, e o Brent passou de US$ 100. Israel teme que o Irã esteja reconstruindo parte do programa nuclear numa instalação conhecida como 'Pickaxe Mountain'. Mediadores do Catar aguardam a resposta iraniana a uma contraproposta americana, e um funcionário dos EUA descreveu as negociações como 'paradas, mas não mortas'.",
+   "fontes": [
+    {
+     "titulo": "Axios: Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
+     "url": "https://axios.com/2026/10/13/netanyahu-trump-iran-war-elections"
+    },
+    {
+     "titulo": "Times of Israel: Netanyahu reportedly pressed Trump to renew Iran fighting before elections",
+     "url": "https://www.timesofisrael.com/netanyahu-reportedly-pressed-trump-to-renew-iran-fighting-before-israeli-and-us-elections/"
+    },
+    {
+     "titulo": "Reuters: Iran shifting tactics, stepping up attacks on shipping before US vote",
+     "url": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/"
+    },
+    {
+     "titulo": "The Week: Iran's new strategy targeting oil shuttles",
+     "url": "https://www.theweek.in/news/middle-east/2026/10/13/irans-new-strategy-targeting-oil-shuttles-to-control-the-strait-of-hormuz.amp.html"
+    }
+   ],
+   "historia": "guerra-ira-eua-israel",
+   "id": "d1",
+   "lados": "Pela Axios, o secretário de Defesa Pete Hegseth e o Comando Central defendem retomar os ataques, enquanto a maioria dos assessores de Trump prefere manter sanções e pressão econômica. Dois altos funcionários iranianos disseram à Reuters que a nova tática contra a navegação busca manter o petróleo caro e influenciar a eleição americana. O relato de que Trump teria sugerido atacar antes das eleições vem de uma fonte israelense e não foi confirmado.",
+   "oque": "Segundo a Axios, Netanyahu e Trump discutiram nas últimas duas semanas uma possível operação conjunta contra alvos militares e nucleares do Irã. Trump disse que tomará uma decisão 'muito em breve'. A Casa Branca nega que a retomada da guerra tenha sido discutida e afirma que não haverá ataque antes das eleições de meio de mandato.",
+   "proximo": "Fique de olho na resposta do Irã à proposta mediada pelo Catar, no preço do Brent e nas declarações de Trump antes de 27/10 (eleição em Israel) e 3/11 (midterms). O chefe militar israelense, Eyal Zamir, teria alertado que uma nova rodada de combates poderia levar ao adiamento da eleição israelense.",
+   "secao": "Mundo",
+   "temas": [
+    "Geopolítica",
+    "Oriente Médio",
+    "Irã",
+    "Política dos EUA"
+   ],
+   "titulo": "Irã: Washington pesa retomar ataques às vésperas das eleições"
+  },
+  {
+   "contexto": "O diesel nos EUA está em média US$ 6,27 por galão, mais de 70% acima de um ano atrás, segundo a AAA, por causa da guerra com o Irã e da crise em Hormuz. Trump apresentou o acordo como forma de aliviar preços e anunciou no domingo uma 'trégua energética' entre Rússia e Ucrânia, que Kiev diz ter conhecido pelas redes sociais. É uma tensão clássica entre o custo interno (inflação de energia antes das eleições) e o objetivo externo (pressionar Moscou). Os críticos dizem que o volume liberado é pequeno demais para baixar preços, mas suficiente para financiar a guerra russa.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Bipartisan senators urge Trump to rescind Russian diesel deal",
+     "url": "https://www.cbsnews.com/news/senators-trump-russia-diesel-deal-ukraine/"
+    },
+    {
+     "titulo": "NPR (via KPBS): Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+     "url": "https://www.kpbs.org/news/international/2026/10/13/the-trump-administration-warns-ukraine-it-could-cut-off-intel-zelenskyy-tells-npr"
+    },
+    {
+     "titulo": "Reuters: Meloni says US-Russia diesel deal is 'very risky choice'",
+     "url": "https://www.reuters.com/business/us-russia-deal-diesel-is-very-risky-choice-italy-pm-meloni-says-2026-10-14/"
+    },
+    {
+     "titulo": "Democracy Now: Headlines, 14/10/2026",
+     "url": "https://www.democracynow.org/2026/10/14/headlines"
+    }
+   ],
+   "historia": "guerra-russia-ucrania",
+   "id": "d2",
+   "lados": "O governo Trump diz que o objetivo é ampliar a oferta de combustível e que segue compartilhando inteligência com Kiev enquanto busca o fim da guerra. Zelensky disse à NPR que Washington ameaçou cortar a inteligência se a Ucrânia não parar de atacar refinarias russas. A Casa Branca não confirmou nem negou. Na Europa, a primeira-ministra italiana Giorgia Meloni chamou o acordo de 'escolha muito arriscada'.",
+   "oque": "Doze senadores, seis republicanos e seis democratas, pediram que Trump desfaça o acordo pelo qual o Tesouro suspendeu temporariamente sanções para liberar diesel russo ao mercado global. Eles chamaram a medida de 'traição' à Ucrânia. Na mesma noite, ataques russos deixaram cerca de 600 mil ucranianos sem energia e mataram ao menos três pessoas em Kiev.",
+   "proximo": "Os senadores pedem que Trump use os poderes da lei de sanções contra a Rússia, assinada no mês passado. Vale observar se o Congresso tenta reverter o waiver, se Kiev reduz os ataques a refinarias e as restrições da SpaceX ao Starlink militar ucraniano, relatadas por Kiev nesta semana.",
+   "secao": "Mundo",
+   "temas": [
+    "Geopolítica",
+    "Rússia-Ucrânia",
+    "Sanções",
+    "Política dos EUA"
+   ],
+   "titulo": "Acordo do diesel russo divide Washington e expõe atrito com Kiev"
+  },
+  {
+   "contexto": "No primeiro turno (04/10), Flávio teve 47,03% dos votos válidos e Lula, 45,16%. Um presidente candidato à reeleição terminou o primeiro turno atrás do adversário. A abstenção foi de 21,08%, a maior desde 1998. Os outros candidatos somaram cerca de 7,8% (Augusto Cury, Renan Santos e Ronaldo Caiado à frente), e é esse eleitorado que está em disputa agora. Na estimulada da Quaest, brancos e nulos somam 9%.",
+   "fontes": [
+    {
+     "titulo": "O Povo: Datafolha e Quaest divulgam novas pesquisas sobre 2º turno",
+     "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/14/datafolha-e-quaest-divulgam-novas-pesquisas-sobre-2-turno-entre-lula-e-flavio.html"
+    },
+    {
+     "titulo": "Portal de Prefeitura: resultado do 1º turno com 100% das seções totalizadas",
+     "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/eleicoes-2026-com-100-das-secoes-totalizadas-flavio-tem-4703-e/633498/"
+    },
+    {
+     "titulo": "Bahia Notícias: Band terá debate entre Lula e Flávio em 18 de outubro",
+     "url": "https://www.bahianoticias.com.br/noticia/322123-tv-band-tera-debate-entre-lula-e-flavio-no-dia-18-de-outubro-para-o-segundo-turno"
+    },
+    {
+     "titulo": "Times Brasil: Globo marca entrevistas com Lula e Flávio e debate para 23/10",
+     "url": "https://timesbrasil.com.br/eleicoes-2026/globo-marca-entrevistas-com-lula-e-flavio-e-debate-para-23-10/"
+    }
+   ],
+   "historia": "eleicao-brasil-2026",
+   "id": "d3",
+   "lados": "A campanha de Lula aposta na força no Nordeste e na rejeição ao bolsonarismo. A de Flávio tenta consolidar o voto de centro-direita que foi para Caiado, Zema e Cury. As pesquisas dos dois institutos convergem para uma disputa apertada, com leve vantagem numérica de Flávio dentro da margem de erro.",
+   "oque": "A primeira pesquisa Quaest do segundo turno, divulgada ontem (14/10), mostra Flávio Bolsonaro (PL) com 51% dos votos válidos e Lula (PT) com 49%. A margem de erro é de 2 pontos, então há empate técnico. O Datafolha, com entrevistas de 13 a 15/10, deve ser divulgado hoje. Na rodada anterior (08/10), o instituto deu 52% a 48% para Flávio.",
+   "proximo": "Debate na Band em 18/10. Globo faz entrevistas individuais e um debate final em 23/10. Votação em 25/10. Mais rodadas da Quaest e do Datafolha devem sair até lá.",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil",
+    "Eleição 2026"
+   ],
+   "titulo": "Segundo turno: Flávio e Lula em empate técnico a dez dias da votação"
+  }
+ ],
+ "geradoEm": "2026-10-15T12:44:22Z",
+ "manchete": "Trump diz que decidirá 'muito em breve' sobre o Irã, enquanto Netanyahu pressiona por novos ataques antes das eleições em Israel e nos EUA",
+ "nota": "Primeira edição: ainda não havia histórias seguidas, avaliações nem pedido, então a seleção seguiu os temas do radar. Algumas matérias da Reuters, AP e BBC estavam bloqueadas para leitura direta e foram confirmadas por reproduções em NPR, Inquirer e outros veículos.",
+ "notas": [
+  {
+   "fontes": [
+    {
+     "titulo": "AP (via Philadelphia Inquirer): Trump administration cuts refugees' deadline to contest status termination",
+     "url": "https://www.inquirer.com/news/nation-world/trump-homeland-security-cut-deadline-refugees-challenge-status-revocation-10-days-20261013.html"
+    },
+    {
+     "titulo": "Federal Register: documento 2026-20956",
+     "url": "https://public-inspection.federalregister.gov/2026-20956.pdf"
+    }
+   ],
+   "historia": "revisao-refugiados-era-biden",
+   "id": "n1",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Refugiados"
+   ],
+   "texto": "Uma regra do DHS em vigor desde ontem (14/10) reduz de 30 para 10 dias o prazo para contestar a revogação do status de refugiado. A medida atinge a revisão de refugiados admitidos no governo Biden, com ao menos 185 mil pedidos de green card já sob análise. Grupos como Global Refuge e HIAS dizem que o prazo é curto demais para conseguir advogado e documentos. O governo diz que quer 'mitigar riscos'.",
+   "titulo": "Refugiados terão só 10 dias para contestar perda de status"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "NY1: Mamdani stands by NYPD commissioner amid calls for removal after ICE shooting",
+     "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/14/mamdani-stands-by-nypd-commissioner-amid-calls-for-removal-after-ice-shooting"
+    },
+    {
+     "titulo": "Washington Post: Mamdani orders review of police use of force",
+     "url": "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/"
+    }
+   ],
+   "historia": "tiro-ice-marble-hill",
+   "id": "n2",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Imigração",
+    "ICE"
+   ],
+   "texto": "O prefeito Zohran Mamdani disse que não pretende demitir a comissária de polícia Jessica Tisch, apesar da pressão da DSA e de vereadores após agentes do ICE balearem Oscar Belgal em Marble Hill, Manhattan, na semana passada. O NYPD não participou do disparo. A prefeitura vai revisar as 24 horas em torno do caso, incluindo a resposta policial aos protestos. Segundo seus advogados, Belgal está em solitária com a bala ainda no pescoço.",
+   "titulo": "Mamdani mantém Tisch no NYPD após tiro de agente do ICE"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "AP: First third-country deportation flight lands in Jamaica",
+     "url": "https://apnews.com/article/jamaica-third-country-deportations-us-trump-1c806592eee07260281c4fe907200126"
+    },
+    {
+     "titulo": "Just Security: Early Edition, 14/10/2026",
+     "url": "https://www.justsecurity.org/160738/early-edition-october-14-2026/"
+    }
+   ],
+   "historia": "deportacoes-terceiros-paises",
+   "id": "n3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Deportações",
+    "Caribe"
+   ],
+   "texto": "Pelo novo acordo de trânsito com os EUA, o primeiro voo com deportados que não são jamaicanos pousou em Kingston. As pessoas foram levadas a um local não divulgado, e a imprensa não teve acesso. A Jamaica entra na lista de países que aceitam receber deportados de outras nacionalidades, prática contestada na Justiça americana.",
+   "titulo": "Primeiro voo de deportação para um terceiro país chega à Jamaica"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "Democracy Now (citando Reuters): Headlines, 14/10/2026",
+     "url": "https://www.democracynow.org/2026/10/14/headlines"
+    }
+   ],
+   "historia": "midterms-2026-eua",
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política dos EUA",
+    "Eleições",
+    "Direito eleitoral"
+   ],
+   "texto": "Segundo carta obtida pela Reuters, o Departamento de Justiça mandou a Califórnia segurar o envio de cédulas a eleitores de uma lista, e não contar votos já devolvidos por eles, até a cidadania ser confirmada. A alternativa seria uma ação judicial. O estado ainda não respondeu publicamente, e não há confirmação independente de quantos eleitores estão na lista.",
+   "titulo": "DOJ dá 48 horas à Califórnia para revisar lista de supostos eleitores não cidadãos"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "Wall Street Journal: Kimberly Guilfoyle call to resign",
+     "url": "https://www.wsj.com/politics/policy/kimberly-guilfoyle-call-to-resign-103cc668?st=docivW"
+    },
+    {
+     "titulo": "Democracy Now: Headlines, 14/10/2026",
+     "url": "https://www.democracynow.org/2026/10/14/headlines"
+    }
+   ],
+   "historia": "guilfoyle-embaixada-grecia",
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política dos EUA",
+    "Diplomacia"
+   ],
+   "texto": "A renúncia veio dias depois de o Wall Street Journal relatar que ela pediu a um doador republicano que pagasse uma fatura de US$ 100 mil em troca de acesso ao governo. O jornal também relatou que ela teria ameaçado o ministro de Energia grego. As acusações são reportagens do WSJ, e Guilfoyle não foi formalmente acusada.",
+   "titulo": "Kimberly Guilfoyle deixa a embaixada na Grécia a pedido da Casa Branca"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "NYT: Aramco building set on fire in strike",
+     "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html"
+    },
+    {
+     "titulo": "Reuters: Houthis vow more attacks on Saudi airports, oil facilities",
+     "url": "https://www.reuters.com/business/energy/yemens-houthis-vow-more-attacks-saudi-airports-oil-facilities-after-aramco-hq-2026-10-14/"
+    }
+   ],
+   "historia": "arabia-saudita-houthis",
+   "id": "n6",
+   "secao": "Mundo",
+   "temas": [
+    "Oriente Médio",
+    "Arábia Saudita",
+    "Iêmen"
+   ],
+   "texto": "Depois de ataques sauditas a instalações de petróleo perto de Sanaa, os houthis atingiram um prédio da Aramco em Dhahran e prometeram mais ataques a aeroportos e refinarias. Riad passou a fazer em formato híbrido sua principal conferência de investimentos. Na avaliação de Israel, a ameaça houthi cresceu, e a OMS relata que os casos suspeitos de cólera no Iêmen triplicaram.",
+   "titulo": "Guerra Arábia Saudita x houthis chega à sede da Aramco"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "NPR (via KUNC): Pope Leo has lung cancer, the Vatican announces after surgery",
+     "url": "https://www.kunc.org/npr-news/2026-10-13/pope-leo-has-lung-cancer-the-vatican-announces-after-surgery"
+    }
+   ],
+   "historia": "saude-papa-leao",
+   "id": "n7",
+   "secao": "Mundo",
+   "temas": [
+    "Vaticano",
+    "Religião e política"
+   ],
+   "texto": "O papa, de 71 anos, teve o lobo inferior do pulmão direito removido e passou uma noite no hospital. O Vaticano não detalhou estágio nem tratamento futuro. A saúde do primeiro papa americano passa a pesar na agenda diplomática da Santa Sé.",
+   "titulo": "Vaticano anuncia que Papa Leão XIV tem câncer de pulmão"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "AP: Congo Ebola death toll",
+     "url": "https://apnews.com/article/congo-ebola-death-toll-latest-23d7b1bfdae22c7a17cac49cc7b5826e"
+    },
+    {
+     "titulo": "AP: UN Human Rights Council election lacked competition",
+     "url": "https://apnews.com/article/un-human-rights-council-election-competition-africa-13417984d3d89ca045f1a1b6f864bc6e"
+    }
+   ],
+   "historia": "ebola-rdc-2026",
+   "id": "n8",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Saúde global",
+    "África"
+   ],
+   "texto": "São mais de 9 mil casos confirmados e mais de 4.300 mortes em sete províncias. Não há vacina nem tratamento aprovado para a cepa em circulação. Na ONU, ONGs criticaram a eleição sem disputa de 15 membros do Conselho de Direitos Humanos, que permitiu a entrada de países com histórico questionável.",
+   "titulo": "Ebola na RD Congo passa de 9 mil casos, o maior surto da história do país"
+  },
+  {
+   "fontes": [
+    {
+     "titulo": "Reuters: Anthropic seeks rehearing in case over Pentagon's security-risk branding",
+     "url": "https://www.reuters.com/legal/government/anthropic-seeks-rehearing-case-over-pentagons-security-risk-branding-2026-10-14/"
+    },
+    {
+     "titulo": "The Next Web: US appeals court upholds Pentagon's supply chain risk label on Anthropic",
+     "url": "https://thenextweb.com/news/anthropic-pentagon-supply-chain-risk-appeals-court-ruling"
+    },
+    {
+     "titulo": "Reuters: IMF says AI investment propping up global growth",
+     "url": "https://www.reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13/"
+    }
+   ],
+   "historia": "ia-economia-defesa",
+   "id": "n9",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Defesa",
+    "Economia"
+   ],
+   "texto": "A Anthropic, empresa que desenvolve o Claude (o sistema que escreve este jornal), pediu nova análise do caso em que a Corte de Apelações de D.C. manteve, por 2 a 1 em setembro, o rótulo de 'risco à cadeia de suprimentos' dado pelo Pentágono depois que a empresa recusou liberar o uso militar em armas autônomas letais e vigilância doméstica. Já o FMI, no Panorama Econômico Mundial, disse que o investimento em IA sustenta o crescimento global, mas alertou para valuations altos e riscos financeiros.",
+   "titulo": "IA entre o Pentágono e o FMI"
+  }
+ ],
+ "valeSaber": {
+  "fontes": [
+   {
+    "titulo": "Axios: Strike Iran before elections or wait",
+    "url": "https://axios.com/2026/10/13/netanyahu-trump-iran-war-elections"
+   },
+   {
+    "titulo": "Wikipedia: 2026 United States elections",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
+   }
+  ],
+  "texto": "Brasil (25/10), Israel (27/10) e EUA (3/11) votam em sequência. O cientista político Robert Putnam (1988) descreveu a política externa como um 'jogo de dois níveis': líderes negociam ao mesmo tempo com governos estrangeiros e com o próprio eleitorado, e uma concessão aceitável lá fora pode ser inviável em casa. O caso de hoje ilustra isso. O diesel russo e a decisão sobre o Irã são pesados tanto pelo efeito no conflito quanto pelo preço do combustível antes das urnas, e Teerã, segundo a Reuters, tenta explorar justamente esse segundo nível.",
+  "titulo": "Três eleições em dez dias e a teoria dos 'jogos de dois níveis'"
+ }
+}

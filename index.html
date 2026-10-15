@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Edição diária de notícias com destaques a fundo, notas rápidas e histórias acompanhadas.">
+<title>Jornal do Caique</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: coluna de leitura à esquerda (edição do dia), painel "Seu radar" à direita; em telefone, o radar desce para o fim. Paleta de atlas: papel frio, tinta azul-marinho, acento verde-oceano, ocre de mapa para destaques. */
+:root{
+  --bg:#eef1f0; --paper:#f8faf9; --ink:#14222e; --muted:#5a6a72; --line:#cdd6d6;
+  --accent:#0f6b6b; --accent-soft:#d6ebe8; --ochre:#a8701c; --ochre-soft:#f3e6cf;
+  --up:#1f7a4a; --down:#a33b3b;
+  --display:"Young Serif",Georgia,serif;
+  --body:"Literata",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e171d; --paper:#14212a; --ink:#e3ebee; --muted:#93a4ac; --line:#2a3a44;
+  --accent:#5cc2b8; --accent-soft:#163a3a; --ochre:#e0a952; --ochre-soft:#3a2e1a;
+  --up:#6fcf97; --down:#ef8a8a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e171d; --paper:#14212a; --ink:#e3ebee; --muted:#93a4ac; --line:#2a3a44;
+  --accent:#5cc2b8; --accent-soft:#163a3a; --ochre:#e0a952; --ochre-soft:#3a2e1a;
+  --up:#6fcf97; --down:#ef8a8a; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 48px}
+.wrap{max-width:1120px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:40px;align-items:start}
+@media (max-width:880px){.wrap{grid-template-columns:minmax(0,1fr)}}
+h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
+.label{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+a{color:var(--accent)}
+button,input,select,textarea{font:inherit;color:inherit}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* masthead */
+.mast{grid-column:1/-1;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:end;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:12px}
+.mast h1{font-size:clamp(28px,5vw,40px);line-height:1.1}
+.mast .coords{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.edsel{display:flex;gap:8px;align-items:center}
+.edsel select{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:6px 8px;font-family:var(--mono);font-size:13px}
+
+main{display:flex;flex-direction:column;gap:36px;min-width:0}
+.lead{display:flex;flex-direction:column;gap:10px;max-width:66ch}
+.lead h2{font-size:clamp(24px,3.6vw,32px);line-height:1.2}
+.lead p{margin:0;color:var(--muted);font-size:17px}
+
+section{display:flex;flex-direction:column;gap:16px}
+.sechead{display:flex;align-items:baseline;gap:12px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.sechead h3{font-size:20px}
+
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:4px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.tag.ochre{background:var(--ochre-soft);color:var(--ochre)}
+
+.story{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:20px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.story h4{font-family:var(--display);font-weight:400;font-size:22px;line-height:1.25;margin:0;text-wrap:balance}
+.story .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.block{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;max-width:72ch}
+.block p{margin:0}
+@media (max-width:560px){.block{grid-template-columns:minmax(0,1fr);gap:2px}}
+.srcs{font-size:14px;display:flex;flex-wrap:wrap;gap:4px 14px}
+
+.notes{display:flex;flex-direction:column}
+.note{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;padding:14px 0;border-bottom:1px solid var(--line)}
+.note:last-child{border-bottom:0}
+.note .t{font-weight:600}
+.note p{margin:2px 0 0;max-width:68ch}
+.note .src{font-size:13px}
+@media (max-width:560px){.note{grid-template-columns:minmax(0,1fr)}}
+
+.actions{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.btn{background:transparent;border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-family:var(--mono);font-size:12px;cursor:pointer;display:inline-flex;align-items:center;gap:5px;color:var(--muted)}
+.btn:hover{border-color:var(--ink);color:var(--ink)}
+.btn.on.up{background:var(--up);border-color:var(--up);color:var(--paper)}
+.btn.on.down{background:var(--down);border-color:var(--down);color:var(--paper)}
+.btn.on.follow{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+.btn svg{width:13px;height:13px}
+
+.update{border-left:3px solid var(--ochre);padding:4px 0 4px 14px;display:flex;flex-direction:column;gap:4px;max-width:70ch}
+.update p{margin:0}
+
+.vale{background:var(--ochre-soft);border-radius:10px;padding:18px 20px;max-width:72ch}
+.vale p{margin:6px 0 0}
+
+/* radar */
+aside{position:sticky;top:calc(16px + env(safe-area-inset-top,0px));display:flex;flex-direction:column;gap:24px;min-width:0}
+@media (max-width:880px){aside{position:static}}
+.panel{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.panel h3{font-size:18px}
+.panel .hint{font-size:13px;color:var(--muted);margin:0;line-height:1.45}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:4px;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:3px 4px 3px 10px;font-size:13px}
+.chip button{border:0;background:transparent;cursor:pointer;color:inherit;padding:0 6px;font-size:14px;line-height:1}
+.row{display:flex;gap:6px}
+.row input{flex:1;min-width:0;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px 8px;font-size:14px}
+.small{background:var(--ink);color:var(--paper);border:0;border-radius:6px;padding:6px 12px;font-size:13px;cursor:pointer;font-family:var(--mono)}
+textarea{width:100%;box-sizing:border-box;min-height:84px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px;font-size:14px;resize:vertical}
+.follow-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.follow-list li{display:flex;justify-content:space-between;gap:8px;font-size:14px;line-height:1.35}
+.follow-list button{border:0;background:transparent;color:var(--muted);cursor:pointer;font-family:var(--mono);font-size:12px;white-space:nowrap}
+.stat{font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.status{font-family:var(--mono);font-size:12px;color:var(--muted);min-height:1em}
+
+.empty{background:var(--paper);border:1px dashed var(--line);border-radius:10px;padding:28px;max-width:62ch}
+.empty p{margin:8px 0 0;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.story,.note{transition:background .2s}}
+</style>
+
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <div class="label">Edição particular · Nova York</div>
+      <h1>Jornal do Caique</h1>
+      <div class="coords" id="dateline">40.71° N, 74.00° W</div>
+    </div>
+    <div class="edsel">
+      <label class="label" for="ed">Edição</label>
+      <select id="ed" disabled><option>carregando…</option></select>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="empty" id="empty">
+      <h2 style="font-size:24px">A primeira edição está a caminho</h2>
+      <p>Toda manhã, às 6:52, o jornal do dia aparece aqui: dois ou três destaques com contexto, notas rápidas e atualizações das histórias que você acompanha. Enquanto isso, ajuste o seu radar ao lado.</p>
+    </div>
+  </main>
+
+  <aside>
+    <div class="panel">
+      <div><div class="label">Seu radar</div><h3>Temas prioritários</h3></div>
+      <p class="hint">O jornal dá mais espaço para estes temas. Tire ou adicione quando quiser.</p>
+      <div class="chips" id="temas"></div>
+      <form class="row" id="temaForm"><input id="temaInput" placeholder="Novo tema, ex.: China e Taiwan" aria-label="Novo tema"><button class="small" type="submit">Adicionar</button></form>
+    </div>
+    <div class="panel">
+      <h3>Histórias que você acompanha</h3>
+      <p class="hint">Marque "Acompanhar" numa notícia. Quando houver novidade, ela volta no topo da edição.</p>
+      <ul class="follow-list" id="seguindo"><li><span class="hint">Nenhuma ainda.</span></li></ul>
+    </div>
+    <div class="panel">
+      <h3>Pedido para amanhã</h3>
+      <p class="hint">Escreva o que quer ver ou entender melhor. Fica salvo neste navegador. Em breve a edição seguinte vai ler isto.</p>
+      <textarea id="pedido" placeholder="Ex.: explica melhor a disputa no Senado sobre o orçamento"></textarea>
+      <div class="row" style="justify-content:space-between;align-items:center"><span class="status" id="pedStatus"></span><button class="small" id="pedSave" type="button">Salvar pedido</button></div>
+    </div>
+    <div class="panel">
+      <h3>Suas avaliações</h3>
+      <div class="stat" id="stats">Nenhuma avaliação ainda.</div>
+    </div>
+  </aside>
+</div>
+
+
+<script>
+const ICON={up:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5"/></svg>',
+down:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M8 3v10M3.5 8.5 8 13l4.5-4.5"/></svg>',
+pin:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="8" cy="6.5" r="3.2"/><path d="M8 9.7V15"/></svg>'};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const slug=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)||'item';
+const fmtDate=d=>{try{return new Date(d+'T12:00:00').toLocaleDateString('pt-BR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})}catch{return d}};
+
+
+// Estado local: edições vêm dos arquivos JSON do site; avaliações, histórias acompanhadas e radar ficam salvos neste navegador por enquanto.
+const LS='jornal-caique-v1';
+function load(){try{return JSON.parse(localStorage.getItem(LS))||{}}catch(e){return {}}}
+function persist(){try{localStorage.setItem(LS,JSON.stringify({votes,following,radar}))}catch(e){}}
+let editions=[], current=null;
+let {votes={},following={},radar={temas:['Política internacional e geopolítica','Política e história dos EUA','Imigração (ICE, vistos)','Brasil e eleição','Tecnologia e IA'],pedido:''}}=load();
+function voteBtns(ed,item){
+  const v=votes[ed+'__'+item.id]?.voto||0;
+  const key=item.historia||slug(item.titulo);
+  const f=following[key]&&following[key].ativo!==false;
+  return `<div class="actions" data-ed="${esc(ed)}" data-id="${esc(item.id)}">
+    <button class="btn up ${v===1?'on':''}" data-act="up" aria-pressed="${v===1}">${ICON.up}Mais disso</button>
+    <button class="btn down ${v===-1?'on':''}" data-act="down" aria-pressed="${v===-1}">${ICON.down}Menos disso</button>
+    <button class="btn follow ${f?'on':''}" data-act="follow" aria-pressed="${f}">${ICON.pin}${f?'Acompanhando':'Acompanhar'}</button>
+  </div>`;
+}
+function srcLinks(fs){return (fs||[]).map(f=>`<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.titulo||f.veiculo||'fonte')}</a>`).join('')}
+
+function render(){
+  const main=$('#main');
+  const ed=editions.find(e=>e.id===current)||editions[0];
+  const sel=$('#ed');
+  if(editions.length){
+    sel.disabled=false;
+    sel.innerHTML=editions.map(e=>`<option value="${esc(e.id)}" ${ed&&e.id===ed.id?'selected':''}>${esc(e.id)}</option>`).join('');
+  }
+  if(!ed||!ed.data){return}
+  const d=ed.data;
+  $('#dateline').textContent=fmtDate(d.data||ed.id);
+  let h=`<div class="lead"><div class="label">Manchete do dia</div><h2>${esc(d.manchete)}</h2>${d.abertura?`<p>${esc(d.abertura)}</p>`:''}</div>`;
+  const ups=d.atualizacoes||[];
+  if(ups.length){
+    h+=`<section><div class="sechead"><h3>Histórias que você acompanha</h3><span class="tag ochre">${ups.length} novidade${ups.length>1?'s':''}</span></div>`+
+    ups.map(u=>`<div class="update"><div class="label">${esc(u.historiaTitulo||u.historia||'')}</div><strong>${esc(u.titulo)}</strong><p>${esc(u.texto)}</p>${u.fontes?`<div class="srcs">${srcLinks(u.fontes)}</div>`:''}</div>`).join('')+`</section>`;
+  }
+  const dest=d.destaques||[];
+  if(dest.length){
+    h+=`<section><div class="sechead"><h3>Destaques</h3><span class="label">a fundo</span></div>`+
+    dest.map(s=>`<article class="story"><div class="meta"><span class="tag">${esc(s.secao)}</span>${(s.temas||[]).map(t=>`<span class="label">${esc(t)}</span>`).join('')}</div>
+      <h4>${esc(s.titulo)}</h4>
+      <div class="block"><span class="label">O que houve</span><p>${esc(s.oque)}</p></div>
+      ${s.contexto?`<div class="block"><span class="label">Contexto</span><p>${esc(s.contexto)}</p></div>`:''}
+      ${s.lados?`<div class="block"><span class="label">Os lados</span><p>${esc(s.lados)}</p></div>`:''}
+      ${s.proximo?`<div class="block"><span class="label">O que vem</span><p>${esc(s.proximo)}</p></div>`:''}
+      <div class="srcs">${srcLinks(s.fontes)}</div>${voteBtns(ed.id,s)}</article>`).join('')+`</section>`;
+  }
+  const notas=d.notas||[];
+  if(notas.length){
+    const groups={};notas.forEach(n=>{(groups[n.secao]=groups[n.secao]||[]).push(n)});
+    h+=`<section><div class="sechead"><h3>Notas rápidas</h3></div>`+Object.entries(groups).map(([sec,ns])=>
+      `<div><div class="label" style="margin-top:6px">${esc(sec)}</div><div class="notes">`+ns.map(n=>
+      `<div class="note"><div><div class="t">${esc(n.titulo)}</div><p>${esc(n.texto)}</p>${n.fontes?`<div class="srcs src">${srcLinks(n.fontes)}</div>`:''}</div>${voteBtns(ed.id,n)}</div>`).join('')+`</div></div>`).join('')+`</section>`;
+  }
+  if(d.valeSaber){h+=`<div class="vale"><div class="label">Vale saber</div><strong>${esc(d.valeSaber.titulo)}</strong><p>${esc(d.valeSaber.texto)}</p>${d.valeSaber.fontes?`<div class="srcs">${srcLinks(d.valeSaber.fontes)}</div>`:''}</div>`}
+  if(d.nota){h+=`<p class="hint" style="color:var(--muted);font-size:14px">${esc(d.nota)}</p>`}
+  main.innerHTML=h;
+}
+
+function renderRadar(){
+  const t=$('#temas');
+  t.innerHTML=(radar.temas||[]).map((x,i)=>`<span class="chip">${esc(x)}<button data-i="${i}" aria-label="Remover ${esc(x)}">×</button></span>`).join('')||'<span class="hint">Nenhum tema.</span>';
+  const pd=$('#pedido'); if(document.activeElement!==pd) pd.value=radar.pedido||'';
+  const list=Object.entries(following).filter(([k,v])=>v.ativo!==false);
+  $('#seguindo').innerHTML=list.length?list.map(([k,v])=>`<li><span>${esc(v.titulo)}<br><span class="label">desde ${esc(v.desde||'')}</span></span><button data-k="${esc(k)}">Parar</button></li>`).join(''):'<li><span class="hint">Nenhuma ainda.</span></li>';
+  const vs=Object.values(votes);
+  if(vs.length){
+    const by={};vs.forEach(v=>{const s=v.secao||'Outros';by[s]=by[s]||{u:0,d:0};v.voto>0?by[s].u++:by[s].d++});
+    $('#stats').innerHTML=Object.entries(by).map(([s,c])=>`${esc(s)}: ↑${c.u} ↓${c.d}`).join('<br>');
+  } else $('#stats').textContent='Nenhuma avaliação ainda.';
+}
+
+function findItem(ed,id){const e=editions.find(x=>x.id===ed);if(!e)return null;const d=e.data;return [...(d.destaques||[]),...(d.notas||[])].find(i=>i.id===id)}
+
+
+document.addEventListener('click',ev=>{
+  const b=ev.target.closest('button');if(!b)return;
+  if(b.dataset.act){
+    const box=b.closest('.actions');const ed=box.dataset.ed,id=box.dataset.id;const item=findItem(ed,id);if(!item)return;
+    if(b.dataset.act==='follow'){
+      const key=item.historia||slug(item.titulo);
+      if(following[key]) delete following[key];
+      else following[key]={titulo:item.titulo,resumo:item.oque||item.texto||'',secao:item.secao||'',desde:ed,ativo:true};
+    }else{
+      const val=b.dataset.act==='up'?1:-1;const k=ed+'__'+id;
+      if(votes[k]?.voto===val) delete votes[k];
+      else votes[k]={edicao:ed,item:id,titulo:item.titulo,secao:item.secao||'',temas:item.temas||[],voto:val,em:new Date().toISOString()};
+    }
+    persist();render();renderRadar();return;
+  }
+  if(b.dataset.i!==undefined){radar.temas.splice(+b.dataset.i,1);persist();renderRadar()}
+  if(b.dataset.k){delete following[b.dataset.k];persist();render();renderRadar()}
+});
+$('#temaForm').addEventListener('submit',e=>{e.preventDefault();const v=$('#temaInput').value.trim();if(!v)return;$('#temaInput').value='';radar.temas=[...(radar.temas||[]),v];persist();renderRadar()});
+$('#pedSave').addEventListener('click',()=>{radar.pedido=$('#pedido').value.trim();persist();$('#pedStatus').textContent='Pedido salvo';setTimeout(()=>$('#pedStatus').textContent='',2500)});
+$('#ed').addEventListener('change',async e=>{current=e.target.value;await loadEdition(current);window.scrollTo({top:0})});
+
+async function loadEdition(id){
+  if(editions.find(x=>x.id===id&&x.data))return render();
+  try{const r=await fetch('edicoes/'+id+'.json',{cache:'no-cache'});const d=await r.json();const e=editions.find(x=>x.id===id);if(e)e.data=d;}catch(err){console.warn(err)}
+  render();
+}
+(async()=>{
+  renderRadar();
+  try{
+    const r=await fetch('edicoes/index.json',{cache:'no-cache'});const idx=await r.json();
+    editions=(idx.edicoes||[]).sort((a,b)=>b.data.localeCompare(a.data)).map(e=>({id:e.data,manchete:e.manchete,data:null}));
+    if(editions[0]){current=editions[0].id;await loadEdition(current)}
+  }catch(err){$('#empty').querySelector('p').textContent='Não foi possível carregar as edições agora. Tente recarregar a página.'}
+})();
+</script>
+</body>
+</html>
