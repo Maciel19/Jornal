@@ -1,5 +1,5 @@
 {
- "abertura": "Tecnologia virou instrumento de poder: terras raras, chips e satélites aparecem hoje como alavancas na disputa EUA-China e na guerra da Ucrânia. No Brasil, a maior mudança na jornada de trabalho desde 1988 passa no Senado a dez dias do segundo turno.",
+ "abertura": "Tecnologia virou instrumento de poder: terras raras, chips e satélites aparecem como alavancas na disputa EUA-China e na guerra da Ucrânia, e os líderes europeus discutem hoje em Bruxelas como reagir. No Brasil, a maior mudança na jornada de trabalho desde 1988 passa no Senado a dez dias do segundo turno.",
  "atualizacoes": [],
  "data": "2026-10-15",
  "destaques": [
@@ -29,13 +29,21 @@
     {
      "titulo": "Tech Times: China's October industrial doctrine formalizes rare earth leverage",
      "url": "https://www.techtimes.com/articles/328903/20261013/chinas-october-industrial-doctrine-formalizes-rare-earth-leverage-eu-secured-managed-access.htm"
+    },
+    {
+     "titulo": "Euronews (ao vivo): EU summit — leaders address China as trade deficit widens",
+     "url": "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices"
+    },
+    {
+     "titulo": "US News/Reuters: EU leaders to tackle China exports, energy prices, budget at summit",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-15/eu-leaders-to-tackle-china-exports-energy-prices-budget-at-summit"
     }
    ],
    "historia": "eua-china-tecnologia-minerais",
    "id": "d1",
    "lados": "Pequim apresenta as licenças como cooperação regulada e cobra reciprocidade. O comissário europeu Maroš Šefčovič chamou o acordo de 9/10 de 'primeiro passo crucial', mas os controles chineses continuam em vigor. O CEO da Nvidia, Jensen Huang, diz que as restrições americanas entregam o mercado chinês à Huawei. Já os defensores dos controles em Washington argumentam que eles atrasam o acesso chinês à IA de ponta. Os números da IDC são estimativas de embarques, não de receita.",
    "oque": "O Ministério do Comércio da China disse hoje (15/10) que seguirá aprovando licenças de exportação de terras raras para a União Europeia, independentemente do prazo da trégua comercial com os EUA, que vai até 10/01/2027. Em troca, pediu que Bruxelas destrave licenças pendentes de empresas chinesas para itens de uso duplo. Na mesma semana, dados da IDC mostraram que a fatia da Nvidia no mercado chinês de chips de IA caiu para 34% no primeiro semestre, com a Huawei já em 28%.",
-   "proximo": "Os líderes da UE avaliam as negociações com a China na cúpula de Bruxelas, hoje e amanhã. A trégua EUA-China vence em 10/01/2027, mesmo mês em que entra em vigor a proibição do Pentágono a ímãs de origem chinesa. Uma nova rodada UE-China está prevista para março de 2027.",
+   "proximo": "A cúpula da UE em Bruxelas começou hoje. No almoço, os líderes discutiram uma estratégia contra importações chinesas baratas: o déficit comercial do bloco com a China é de cerca de € 360 bilhões. Segundo um alto funcionário, a Comissão apresentará até o fim do ano um 'instrumento de diversificação' e um mecanismo de solidariedade. O presidente do Conselho, António Costa, pediu um diálogo 'orientado a resultados' com Pequim. A trégua EUA-China vence em 10/01/2027, mesmo mês em que entra em vigor a proibição do Pentágono a ímãs de origem chinesa. Uma nova rodada UE-China está prevista para março de 2027.",
    "secao": "Mundo",
    "temas": [
     "Geopolítica",
@@ -102,13 +110,17 @@
     {
      "titulo": "Just Security: Early Edition, 15/10/2026",
      "url": "https://www.justsecurity.org/160924/early-edition-october-15-2026/"
+    },
+    {
+     "titulo": "Euronews (ao vivo): EU summit, 15/10/2026",
+     "url": "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices"
     }
    ],
    "historia": "starlink-starshield-ucrania",
    "id": "d3",
    "lados": "Musk transfere a responsabilidade para o governo. Trump negou na terça-feira ter ameaçado cortar a inteligência, mas um alto funcionário em Kiev confirmou a ameaça. Democratas no Congresso condenaram o governo pelas interrupções relatadas. A Casa Branca não explicou publicamente se houve ordem para limitar o Starshield, e a autoria da limitação continua não confirmada.",
    "oque": "Elon Musk disse que eventuais limitações no Starshield, a versão militar do Starlink usada pelas forças ucranianas, são responsabilidade do governo americano, porque o sistema 'é de propriedade e controlado' por ele. Autoridades ucranianas dizem que a velocidade de terminais usados em ataques e em drones interceptadores foi reduzida. O ex-ministro da Defesa ucraniano Mykhailo Fedorov disse que a SpaceX trabalha para restaurá-la.",
-   "proximo": "Zelensky participa da cúpula da UE em Bruxelas (15 e 16/10), onde a primeira-ministra italiana Giorgia Meloni deve criticar o acordo EUA-Rússia sobre o diesel. Fique de olho em se a velocidade do Starshield é normalizada, se Kiev mantém os ataques a refinarias e se o Congresso pressiona o Pentágono por explicações.",
+   "proximo": "Zelensky participa da cúpula da UE amanhã (16/10), quando a Ucrânia deve dominar a pauta. Hoje, o grupo liberal Renew Europe pediu que a UE encontre uma alternativa ao Starlink para as forças ucranianas, e o chanceler francês Jean-Noël Barrot disse que os europeus já fornecem cerca de dois terços da inteligência usada por Kiev. Fique de olho em se a velocidade do Starshield é normalizada, se Kiev mantém os ataques a refinarias e se o Congresso pressiona o Pentágono por explicações.",
    "secao": "Tecnologia",
    "temas": [
     "Tecnologia e IA",
@@ -119,9 +131,9 @@
    "titulo": "Satélites como alavanca: Musk diz que Washington controla o Starshield usado pela Ucrânia"
   }
  ],
- "geradoEm": "2026-10-15T13:26:08Z",
- "manchete": "China garante terras raras à Europa e expõe a disputa tecnológica com os EUA; no Brasil, Senado aprova o fim da escala 6x1",
- "nota": "Edição revista hoje a partir do seu pedido e das avaliações: mais geopolítica e tecnologia, política brasileira e ONU, e menos notas de imigração, NY e bastidores, que você marcou como 'menos disso'. Itens da versão anterior não foram repetidos. O Datafolha sai depois do fechamento desta edição, e algumas matérias (Reuters, NYT, Politico, BBC) foram confirmadas por meio de outros veículos ou resumos.",
+ "geradoEm": "2026-10-15T14:07:44Z",
+ "manchete": "China garante terras raras à Europa enquanto a cúpula da UE discute como se defender de Pequim; no Brasil, Senado aprova o fim da escala 6x1",
+ "nota": "Versão revisada às 10h (Nova York) com o que mudou desde as 9h26: a cúpula da UE em Bruxelas (destaques 1 e 3), o naufrágio perto de Hormuz (nota 1) e a queda das ações de chips (nova nota). O Datafolha do segundo turno ainda não saiu (previsão: 17h em Nova York), então os números da eleição continuam os da rodada de 8/10. Seguimos priorizando geopolítica, tecnologia, Brasil e ONU, conforme suas avaliações. Algumas matérias (Reuters, Bloomberg, AP) foram confirmadas por meio de outros veículos.",
  "notas": [
   {
    "fontes": [
@@ -136,6 +148,10 @@
     {
      "titulo": "Just Security: Early Edition, 15/10/2026",
      "url": "https://www.justsecurity.org/160924/early-edition-october-15-2026/"
+    },
+    {
+     "titulo": "Gulf News: US-Iran war — your Oct. 15 briefing",
+     "url": "https://gulfnews.com/uae/us-iran-war-ships-sunk-flights-cancelled-trade-rerouted-your-oct-15-briefing-1.500711229"
     }
    ],
    "historia": "guerra-ira-eua-israel",
@@ -146,7 +162,7 @@
     "Oriente Médio",
     "Irã"
    ],
-   "texto": "Segundo a Reuters, Netanyahu disse que não pretende um ataque preventivo ao Irã antes da votação de 27/10, mas advertiu Teerã e seus aliados. Ao mesmo tempo, a CNN relata que o Pentágono tem planos que incluem a bomba GBU-43 contra instalações de energia e nucleares, caso Trump mande retomar os combates. Perto de Hormuz, dois navios atingidos por projéteis afundaram.",
+   "texto": "Segundo a Reuters, Netanyahu disse que não pretende um ataque preventivo ao Irã antes da votação de 27/10, mas advertiu Teerã e seus aliados. A CNN relata que o Pentágono tem planos que incluem a bomba GBU-43, caso Trump mande retomar os combates. Perto de Hormuz, o porta-contêineres GFS Pride, de Singapura, afundou (os 21 tripulantes foram resgatados): a Guarda Revolucionária fala em mina, e Singapura, em projétil. Um militar americano disse à Reuters, sem confirmação independente, que o Irã passou a usar observadores desarmados para escolher alvos.",
    "titulo": "Netanyahu diz que não busca atacar o Irã antes da eleição israelense"
   },
   {
@@ -237,6 +253,32 @@
    ],
    "texto": "West Virginia, Iowa, Kansas, Nebraska, Arkansas, Arizona, Idaho e Montana acusam a empresa de enganar usuários sobre a segurança do ChatGPT, especialmente para menores. Sem lei federal de IA, os estados viraram o principal front regulatório, o que o governo Trump tenta limitar. A OpenAI ainda não comentou as ações.",
    "titulo": "Oito estados americanos processam a OpenAI por segurança do ChatGPT"
+  },
+  {
+   "id": "n10",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Economia",
+    "Mercados"
+   ],
+   "historia": "bolha-ia-juros",
+   "titulo": "Inflação e juros altos derrubam ações de chips e acendem alerta sobre a dívida da IA",
+   "texto": "O índice de semicondutores da Filadélfia caía 3,3% no início do pregão de hoje, depois de um dia em que a CoreWeave perdeu 15,5% e o Kospi sul-coreano, 7,6%. Com os preços ao produtor subindo no ritmo mais rápido em mais de quatro anos e o juro de 10 anos perto de 5%, investidores temem que o crédito caro encareça a construção de data centers financiada com dívida. O CEO da CoreWeave chamou a reação de 'irracional'; analistas lembram que o retorno desses investimentos ainda tem prazo incerto.",
+   "fontes": [
+    {
+     "titulo": "Bloomberg (via Swissinfo): Stock losses deepen on chip rout, Treasuries rally",
+     "url": "https://swissinfo.ch/eng/stock-losses-deepen-on-chip-rout,-treasuries-rally:-markets-wrap/92218059"
+    },
+    {
+     "titulo": "AP (via CP24): Inflation anxiety drags on AI stocks for a second day",
+     "url": "https://www.cp24.com/news/money/2026/10/15/inflation-anxiety-drags-on-ai-stocks-for-a-second-day-as-markets-point-to-a-mixed-open/"
+    },
+    {
+     "titulo": "The Neuron: Everything that happened in AI today, 15/10/2026",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-15-2026/"
+    }
+   ]
   },
   {
    "fontes": [
