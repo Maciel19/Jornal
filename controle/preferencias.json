@@ -10,7 +10,14 @@
  "pedidoEm": "",
  "pedidoPautas": "",
  "pedidoPautasEm": "",
- "seguindo": {},
+ "seguindo": {
+  "ebola-rdc-2026": {
+   "titulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "resumo": "Mohamed Janabi foi a Beni, no Kivu do Norte, onde a transmissão segue alta: são 9.144 casos confirmados e 4.410 mortes até 12/10, com letalidade de 48%. A cepa Bundibugyo não tem tratamento aprovado, e as duas vacinas em teste ainda podem levar meses.",
+   "secao": "ONU",
+   "desde": "2026-10-17"
+  }
+ },
  "votos": {
   "2026-10-15__n1": {
    "edicao": "2026-10-15",
@@ -102,5 +109,5 @@
  },
  "pautasPostadas": {},
  "_leia": "Preferências do Caique, salvas pelo site. As tarefas do Jornal e das Pautas leem este arquivo. Não edite à mão sem necessidade.",
- "atualizadoEm": "2026-10-17T14:54:10.300Z"
+ "atualizadoEm": "2026-10-17T14:54:12.845Z"
 }
