@@ -105,9 +105,32 @@
     "Federalismo"
    ],
    "voto": 1
+  },
+  "2026-10-17__n2": {
+   "edicao": "2026-10-17",
+   "item": "n2",
+   "titulo": "Netanyahu veta Ben Gvir na Defesa e na Polícia a dez dias da eleição",
+   "secao": "Mundo",
+   "temas": [
+    "Israel",
+    "Eleições"
+   ],
+   "voto": -1
+  },
+  "2026-10-17__n1": {
+   "edicao": "2026-10-17",
+   "item": "n1",
+   "titulo": "Bens comerciais param de entrar em Gaza",
+   "secao": "Mundo",
+   "temas": [
+    "Oriente Médio",
+    "Gaza",
+    "Crise humanitária"
+   ],
+   "voto": -1
   }
  },
  "pautasPostadas": {},
  "_leia": "Preferências do Caique, salvas pelo site. As tarefas do Jornal e das Pautas leem este arquivo. Não edite à mão sem necessidade.",
- "atualizadoEm": "2026-10-17T14:54:12.845Z"
+ "atualizadoEm": "2026-10-17T14:54:17.397Z"
 }
