@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Young+Serif&display=swap">
 <link rel="stylesheet" href="estilo.css">
 <script src="comum.js"></script>
+<script src="controle.js"></script>
 </head>
 <body>
 <div id="progress" aria-hidden="true"></div>
@@ -56,8 +57,9 @@
     </div>
   </main>
 
-  <details class="radar" id="radar">
+  <details class="radar" id="radar" open>
     <summary>Seu radar: temas, histórias acompanhadas e pedidos</summary>
+    <div class="sync-box" id="sync"></div>
     <div class="radar-body">
       <div>
         <h4>Temas prioritários</h4>
@@ -74,12 +76,11 @@
         <h4>Pedido para amanhã</h4>
         <p class="hint">O que você quer ver ou entender melhor.</p>
         <textarea id="pedido" placeholder="Ex.: explica melhor a disputa no Senado sobre o orçamento"></textarea>
-        <div class="row" style="justify-content:space-between;align-items:center;margin-top:6px"><span class="hint" id="pedStatus"></span><button class="small" id="pedSave" type="button">Salvar pedido</button></div>
+        <div class="row" style="justify-content:space-between;align-items:center;margin-top:6px"><span class="pedido-status" id="pedStatus"></span><button class="small" id="pedSave" type="button">Salvar pedido</button></div>
       </div>
       <div>
         <h4>Suas avaliações</h4>
         <div class="hint" id="stats">Nenhuma avaliação ainda.</div>
-        <p class="hint" style="margin-top:10px">Por enquanto, estas escolhas ficam salvas só neste navegador.</p>
       </div>
     </div>
   </details>
@@ -92,10 +93,13 @@ const ICON={up:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strok
 down:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M8 3v10M3.5 8.5 8 13l4.5-4.5"/></svg>',
 pin:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="8" cy="6.5" r="3.2"/><path d="M8 9.7V15"/></svg>'};
 const SEC_NAMES={brasil:'Brasil',eua:'EUA',mundo:'Mundo',onu:'ONU',tecnologia:'Tecnologia',imigracao:'Imigração','ny-nj':'NY/NJ',outros:'Outros'};
-const LS='jornal-caique-v1';
-function load(){try{return JSON.parse(localStorage.getItem(LS))||{}}catch(e){return {}}}
-function persist(){try{localStorage.setItem(LS,JSON.stringify({votes,following,radar}))}catch(e){}}
-let {votes={},following={},radar={temas:['Política internacional e geopolítica','Política e história dos EUA','Imigração (ICE, vistos)','Brasil e eleição','Tecnologia e IA'],pedido:''}}=load();
+// Preferências vêm de controle/preferencias.json (via controle.js) e são salvas no GitHub quando a chave está conectada.
+let votes={}, following={}, radar={temas:[],pedido:'',pedidoEm:''};
+function sincronizar(p){votes=p.votos||{};following=p.seguindo||{};radar={temas:p.temas||[],pedido:p.pedido||'',pedidoEm:p.pedidoEm||''}}
+function persist(){Prefs.mudar(p=>{
+  // guarda no máximo as 300 avaliações mais recentes
+  const ks=Object.keys(votes);if(ks.length>300)ks.sort().slice(0,ks.length-300).forEach(k=>delete votes[k]);
+  p.votos=votes;p.seguindo=following;p.temas=radar.temas;p.pedido=radar.pedido;p.pedidoEm=radar.pedidoEm})}
 let editions=[], current=null, filtro='todas', abas={};
 
 function voteBtns(ed,item){
@@ -158,6 +162,10 @@ function render(){
 function renderRadar(){
   $('#temas').innerHTML=(radar.temas||[]).map((x,i)=>`<span class="chip">${esc(x)}<button data-i="${i}" aria-label="Remover ${esc(x)}">×</button></span>`).join('')||'<span class="hint">Nenhum tema.</span>';
   const pd=$('#pedido');if(document.activeElement!==pd)pd.value=radar.pedido||'';
+  const st=$('#pedStatus');
+  if(!radar.pedido){st.textContent='';st.className='pedido-status'}
+  else{const ult=editions[0]&&editions[0].data;const at=ult&&ult.pedidoAtendidoEm&&radar.pedidoEm&&ult.pedidoAtendidoEm>=radar.pedidoEm;
+    st.textContent=at?'Atendido na edição de '+ult.data.split('-').reverse().join('/'):'Na fila para a próxima edição';st.className='pedido-status '+(at?'ok':'esperando')}
   const list=Object.entries(following);
   $('#seguindo').innerHTML=list.length?list.map(([k,v])=>`<li><span>${esc(v.titulo)}</span><button data-k="${esc(k)}">Parar</button></li>`).join(''):'<li class="hint">Nenhuma ainda.</li>';
   const vs=Object.values(votes);
@@ -176,9 +184,9 @@ document.addEventListener('click',ev=>{
   if(b.dataset.act){
     const box=b.closest('.actions');const ed=box.dataset.ed,id=box.dataset.id;const item=findItem(ed,id);if(!item)return;
     if(b.dataset.act==='follow'){const key=item.historia||slug(item.titulo);
-      if(following[key])delete following[key];else following[key]={titulo:item.titulo,secao:item.secao||'',desde:ed}}
+      if(following[key])delete following[key];else following[key]={titulo:item.titulo,resumo:item.oque||item.texto||'',secao:item.secao||'',desde:ed}}
     else{const val=b.dataset.act==='up'?1:-1;const k=ed+'__'+id;
-      if(votes[k]?.voto===val)delete votes[k];else votes[k]={edicao:ed,item:id,titulo:item.titulo,secao:item.secao||'',voto:val}}
+      if(votes[k]?.voto===val)delete votes[k];else votes[k]={edicao:ed,item:id,titulo:item.titulo,secao:item.secao||'',temas:item.temas||[],voto:val}}
     persist();
     const html=voteBtns(ed,item);box.outerHTML=html;renderRadar();return;
   }
@@ -186,7 +194,7 @@ document.addEventListener('click',ev=>{
   if(b.dataset.k){delete following[b.dataset.k];persist();render();renderRadar()}
 });
 $('#temaForm').addEventListener('submit',e=>{e.preventDefault();const v=$('#temaInput').value.trim();if(!v)return;$('#temaInput').value='';radar.temas=[...(radar.temas||[]),v];persist();renderRadar()});
-$('#pedSave').addEventListener('click',()=>{radar.pedido=$('#pedido').value.trim();persist();$('#pedStatus').textContent='Pedido salvo';setTimeout(()=>$('#pedStatus').textContent='',2500)});
+$('#pedSave').addEventListener('click',()=>{radar.pedido=$('#pedido').value.trim();radar.pedidoEm=radar.pedido?new Date().toISOString():'';persist();renderRadar()});
 $('#ed').addEventListener('change',async e=>{current=e.target.value;filtro='todas';await loadEdition(current);window.scrollTo({top:0})});
 
 async function loadEdition(id){
@@ -194,12 +202,14 @@ async function loadEdition(id){
   if(e&&!e.data){try{const r=await fetch('edicoes/'+id+'.json',{cache:'no-cache'});e.data=await r.json()}catch(err){console.warn(err)}}
   render();
 }
+Prefs.painel($('#sync'));
+Prefs.ouvir(p=>{sincronizar(p);renderRadar();if(editions.length)render()});
 (async()=>{
   renderRadar();
   try{
     const r=await fetch('edicoes/index.json',{cache:'no-cache'});const idx=await r.json();
     editions=(idx.edicoes||[]).sort((a,b)=>b.data.localeCompare(a.data)).map(e=>({id:e.data,data:null}));
-    if(editions[0]){current=editions[0].id;await loadEdition(current)}
+    if(editions[0]){current=editions[0].id;await loadEdition(current);renderRadar()}
   }catch(err){$('#empty p').textContent='Não foi possível carregar as edições agora. Tente recarregar a página.'}
 })();
 </script>

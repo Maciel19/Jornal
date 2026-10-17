@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Young+Serif&display=swap">
 <link rel="stylesheet" href="estilo.css">
 <script src="comum.js"></script>
+<script src="controle.js"></script>
 <style>
 .pauta{background:var(--paper);border:1.5px solid var(--line);border-left:6px solid var(--sc,var(--line));border-radius:16px;padding:20px;display:flex;flex-direction:column;gap:14px;min-width:0}
 .pauta.feita{opacity:.6}
@@ -71,6 +72,14 @@
     </div>
   </header>
 
+  <section class="lead" aria-labelledby="pedPautasT" style="gap:10px">
+    <h2 id="pedPautasT" style="font-family:var(--body);font-weight:700;font-size:1.05rem">Pedido para as próximas pautas</h2>
+    <p class="hint">Um tema que você quer ver nos carrosséis da próxima segunda. Ex.: "explica a guerra no Sudão", "algo sobre a eleição na Argentina".</p>
+    <textarea id="pedPautas" placeholder="Escreva o tema ou a ideia"></textarea>
+    <div class="row" style="justify-content:space-between;align-items:center"><span class="pedido-status" id="pedPautasSt"></span><button class="small" id="pedPautasSave" type="button">Salvar pedido</button></div>
+    <div class="sync-box" id="sync"></div>
+  </section>
+
   <main id="main" class="wrap" style="gap:24px">
     <div class="empty">
       <h2 style="font-size:1.3rem">As pautas da semana estão a caminho</h2>
@@ -82,9 +91,18 @@
 
 <script>
 const {$,esc,secKey,srcLinks}=J;
-const LS='atlas-pautas-feitas';
-let feitas={};try{feitas=JSON.parse(localStorage.getItem(LS))||{}}catch(e){}
 let semanas=[], atual=null, dados={};
+let feitas={}, pedido={texto:'',em:''};
+Prefs.painel($('#sync'));
+Prefs.ouvir(p=>{feitas=p.pautasPostadas||{};pedido={texto:p.pedidoPautas||'',em:p.pedidoPautasEm||''};pintarPedido();if(atual)render()});
+function pintarPedido(){
+  const ta=$('#pedPautas');if(document.activeElement!==ta)ta.value=pedido.texto;
+  const st=$('#pedPautasSt');if(!pedido.texto){st.textContent='';st.className='pedido-status';return}
+  const ult=semanas[0]&&dados[semanas[0]];const at=ult&&ult.pedidoPautasAtendidoEm&&pedido.em&&ult.pedidoPautasAtendidoEm>=pedido.em;
+  st.textContent=at?'Atendido nas pautas da semana de '+fmtSemana(semanas[0]):'Na fila para a próxima segunda';st.className='pedido-status '+(at?'ok':'esperando');
+}
+$('#pedPautasSave').addEventListener('click',()=>{const t=$('#pedPautas').value.trim();
+  Prefs.mudar(p=>{p.pedidoPautas=t;p.pedidoPautasEm=t?new Date().toISOString():''});});
 
 function fmtSemana(s){try{const d=new Date(s+'T12:00:00');const f=new Date(d);f.setDate(d.getDate()+6);
   const o={day:'numeric',month:'short'};return d.toLocaleDateString('pt-BR',o)+' a '+f.toLocaleDateString('pt-BR',o)}catch(e){return s}}
@@ -124,7 +142,7 @@ document.addEventListener('click',async ev=>{
 });
 document.addEventListener('change',ev=>{
   const c=ev.target.closest('[data-done]');if(c){const k=atual+'__'+c.dataset.done;if(c.checked)feitas[k]=true;else delete feitas[k];
-    try{localStorage.setItem(LS,JSON.stringify(feitas))}catch(e){}render();return}
+    Prefs.mudar(p=>{p.pautasPostadas=feitas});render();return}
   if(ev.target.id==='sem'){atual=ev.target.value;carregar(atual)}
 });
 async function carregar(s){
@@ -134,7 +152,7 @@ async function carregar(s){
 (async()=>{
   try{const r=await fetch('pautas/index.json',{cache:'no-cache'});const idx=await r.json();
     semanas=(idx.semanas||[]).map(s=>s.semana).sort().reverse();
-    if(semanas[0]){atual=semanas[0];await carregar(atual)}
+    if(semanas[0]){atual=semanas[0];await carregar(atual);pintarPedido()}
   }catch(e){}
 })();
 </script>

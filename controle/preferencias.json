@@ -1,0 +1,82 @@
+{
+ "_leia": "Preferências do Caique, salvas pelo site. As tarefas do Jornal e das Pautas leem este arquivo. Não edite à mão sem necessidade.",
+ "temas": [
+  "Política internacional e geopolítica",
+  "Política e história dos EUA",
+  "Imigração (ICE, vistos)",
+  "Brasil e eleição",
+  "Tecnologia e IA"
+ ],
+ "pedido": "",
+ "pedidoEm": "",
+ "pedidoPautas": "",
+ "pedidoPautasEm": "",
+ "seguindo": {},
+ "votos": {
+  "2026-10-15__n1": {
+   "edicao": "2026-10-15",
+   "item": "n1",
+   "secao": "Imigração",
+   "titulo": "Refugiados terão só 10 dias para contestar perda de status",
+   "voto": -1
+  },
+  "2026-10-15__n2": {
+   "edicao": "2026-10-15",
+   "item": "n2",
+   "secao": "NY/NJ",
+   "titulo": "Mamdani mantém Tisch no NYPD após tiro de agente do ICE",
+   "voto": -1
+  },
+  "2026-10-15__n3": {
+   "edicao": "2026-10-15",
+   "item": "n3",
+   "secao": "Imigração",
+   "titulo": "Primeiro voo de deportação para um terceiro país chega à Jamaica",
+   "voto": -1
+  },
+  "2026-10-15__n4": {
+   "edicao": "2026-10-15",
+   "item": "n4",
+   "secao": "EUA",
+   "titulo": "DOJ dá 48 horas à Califórnia para revisar lista de supostos eleitores não cidadãos",
+   "voto": -1
+  },
+  "2026-10-15__n5": {
+   "edicao": "2026-10-15",
+   "item": "n5",
+   "secao": "EUA",
+   "titulo": "Kimberly Guilfoyle deixa a embaixada na Grécia a pedido da Casa Branca",
+   "voto": -1
+  },
+  "2026-10-15__n6": {
+   "edicao": "2026-10-15",
+   "item": "n6",
+   "secao": "Mundo",
+   "titulo": "Guerra Arábia Saudita x houthis chega à sede da Aramco",
+   "voto": -1
+  },
+  "2026-10-15__n7": {
+   "edicao": "2026-10-15",
+   "item": "n7",
+   "secao": "Mundo",
+   "titulo": "Vaticano anuncia que Papa Leão XIV tem câncer de pulmão",
+   "voto": -1
+  },
+  "2026-10-15__n8": {
+   "edicao": "2026-10-15",
+   "item": "n8",
+   "secao": "ONU",
+   "titulo": "Ebola na RD Congo passa de 9 mil casos, o maior surto da história do país",
+   "voto": 1
+  },
+  "2026-10-15__n9": {
+   "edicao": "2026-10-15",
+   "item": "n9",
+   "secao": "Tecnologia",
+   "titulo": "IA entre o Pentágono e o FMI",
+   "voto": 1
+  }
+ },
+ "pautasPostadas": {},
+ "atualizadoEm": "2026-10-17T14:40:00Z"
+}

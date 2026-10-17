@@ -150,3 +150,19 @@ textarea{width:100%;min-height:84px;background:var(--bg);border:1.5px solid var(
 }
 .fchip[aria-pressed="true"] .hint{color:inherit;opacity:.75}
 .wrap>.wrap{width:100%;min-width:0} .carousel{min-width:0;max-width:100%}
+
+/* status de sincronização com o GitHub */
+.sync-box{display:flex;flex-direction:column;gap:8px}
+.sync{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.85rem;color:var(--muted)}
+.sync-txt{flex:1;min-width:12em}
+.sync-dot{width:10px;height:10px;border-radius:50%;background:var(--muted);flex:none}
+[data-estado="pronto"] .sync-dot,[data-estado="salvo"] .sync-dot{background:var(--up)}
+[data-estado="pendente"] .sync-dot,[data-estado="salvando"] .sync-dot{background:var(--c-nynj)}
+[data-estado="chave-invalida"] .sync-dot,[data-estado="erro"] .sync-dot{background:var(--down)}
+.sync-form{display:flex;flex-direction:column;gap:8px}
+.pedido-status{font-size:.8rem;font-weight:700}
+.pedido-status.ok{color:var(--up)} .pedido-status.esperando{color:var(--c-nynj)}
+/* visitantes leem; só o dono (com a chave conectada) avalia, acompanha e faz pedidos */
+:root:not(.dono) .actions,:root:not(.dono) #temaForm,:root:not(.dono) .chip button,:root:not(.dono) .follow-list button,
+:root:not(.dono) #pedSave,:root:not(.dono) #pedPautasSave,:root:not(.dono) .done{display:none}
+:root:not(.dono) #pedido,:root:not(.dono) #pedPautas{pointer-events:none;opacity:.7}
