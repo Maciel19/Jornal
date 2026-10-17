@@ -1,5 +1,4 @@
 {
- "_leia": "Preferências do Caique, salvas pelo site. As tarefas do Jornal e das Pautas leem este arquivo. Não edite à mão sem necessidade.",
  "temas": [
   "Política internacional e geopolítica",
   "Política e história dos EUA",
@@ -75,8 +74,21 @@
    "secao": "Tecnologia",
    "titulo": "IA entre o Pentágono e o FMI",
    "voto": 1
+  },
+  "2026-10-17__n5": {
+   "edicao": "2026-10-17",
+   "item": "n5",
+   "titulo": "Fim da prorrogação automática de permissões de trabalho vira regra definitiva",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Trabalho",
+    "Vistos"
+   ],
+   "voto": 1
   }
  },
  "pautasPostadas": {},
- "atualizadoEm": "2026-10-17T14:40:00Z"
+ "_leia": "Preferências do Caique, salvas pelo site. As tarefas do Jornal e das Pautas leem este arquivo. Não edite à mão sem necessidade.",
+ "atualizadoEm": "2026-10-17T14:54:05.894Z"
 }
