@@ -1,0 +1,286 @@
+{
+ "data": "2026-10-20",
+ "manchete": "Anthropic promete reescrever trecho de seu projeto de lei para IA perigosa depois de críticas de especialistas em segurança; no Brasil, começa a semana decisiva antes do 2º turno de domingo",
+ "abertura": "O rascunho de lei federal da Anthropic para modelos de IA de alto risco virou o centro de um debate sobre quem deve mandar na regulação: Washington ou os estados. No Brasil, faltam cinco dias para o 2º turno, com Flávio Bolsonaro numericamente à frente na maioria das pesquisas e três levantamentos e um debate pela frente.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Ebola chega à oitava província do Congo, na fronteira com a República Centro-Africana",
+   "texto": "As autoridades confirmaram dois casos, um deles fatal, em Nord-Ubangi, no norte do país; segundo a AP, o surto já soma ao menos 9.400 casos e mais de 4.500 mortes desde maio, com Ituri concentrando quase três quartos dos casos. O diretor da OMS para a África, Mohamed Janabi, resumiu: há focos em queda, mas o vírus se espalha geograficamente. O Kivu do Norte proibiu por uma semana a entrada de pessoas vindas de Ituri, a partir de segunda (19); Uganda se declarou livre da doença, e o Quênia registrou o sétimo caso.",
+   "fontes": [
+    {
+     "titulo": "AP (via Denver Gazette): Congo's fast-moving Ebola outbreak spreads to eighth province",
+     "url": "https://www.denvergazette.com/2026/10/19/congos-fast-moving-ebola-outbreak-spreads-to-eighth-province/"
+    },
+    {
+     "titulo": "NPR: The Ebola crisis is far outpacing the response, Congo's IRC director says",
+     "url": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "EUA",
+    "Federalismo"
+   ],
+   "historia": "regulacao-ia-eua",
+   "titulo": "O projeto de lei da Anthropic para 'IA perigosa', ponto a ponto, e por que a empresa já promete mudá-lo",
+   "oque": "O rascunho de 37 páginas que a Anthropic levou a gabinetes do Congresso, revelado pelo Politico, não proíbe modelos de IA: cria regras para os maiores desenvolvedores e um caminho estreito para suspender um modelo. Os principais pontos: (1) vale para 'modelos de fronteira', treinados com mais de 10^25 operações, e para empresas com mais de US$ 500 milhões de receita com IA ou US$ 1 bilhão em gastos de desenvolvimento; (2) obriga planos de segurança, relatórios de transparência, relatórios de risco a cada 180 dias e aviso de incidentes graves em até 15 dias (24 horas se houver perigo iminente); (3) exige avaliadores independentes, registrados no Departamento de Comércio, que podem ser pagos pelas empresas que avaliam; (4) só permite agir contra ameaças iminentes de armas biológicas, ciberataques ou perda de controle do modelo, com mais de US$ 1 bilhão em danos ou mais de 50 mortos ou feridos graves; (5) nesse caso, o Comércio precisa pedir a um juiz federal em Washington a suspensão, por 45 dias renováveis, ou por até 7 dias em emergência; (6) protege denunciantes e (7) impede os estados de criar suas próprias regras sobre avaliação, transparência e incidentes. Ontem, o chefe de relações federais da empresa, Anthony Cimino, disse que o texto não é final e que a parte que bloqueia leis estaduais será reescrita.",
+   "contexto": "A Anthropic foi fundada em 2021 por ex-pesquisadores da OpenAI, entre eles os irmãos Dario e Daniela Amodei, com a promessa de priorizar a segurança; é uma 'public benefit corporation', empresa com fins lucrativos obrigada por estatuto a buscar também um benefício público, e faz os modelos Claude. Em 2026 ela entrou em choque com o governo Trump: recusou o uso de sua IA para armas autônomas letais e vigilância em massa de americanos, foi classificada pelo Pentágono como 'risco à cadeia de suprimentos' e trava uma batalha judicial (perdeu na Corte de Apelações de Washington em setembro e pediu nova análise). Entre 12 de junho e 1º de julho, o Comércio também suspendeu o acesso a dois de seus modelos, o Fable 5 e o Mythos 5, por controles de exportação, segundo a imprensa especializada. Por isso, críticos leem a exigência de ordem judicial como uma forma de limitar o poder do Executivo sobre a própria empresa. O texto disputa espaço com o FRONTIER Act, projeto bipartidário dos deputados Jay Obernolte (republicano) e Lori Trahan (democrata) apresentado em julho, e com conversas no Senado entre John Thune, Amy Klobuchar e Ted Cruz.",
+   "lados": "A Anthropic diz que o texto traduz seu 'Advanced AI Framework' e que é 'o mais forte que está na mesa'; Cimino defende que o governo tenha de provar o risco a um juiz, mas sem uma barreira tão alta que o poder nunca seja usado. Especialistas em segurança de IA reagiram mal: Nathan Calvin, da Encode, diz que o texto 'não chega nem perto' do necessário e aponta que o juiz deve pesar o dano de bloquear o modelo, mas não o de deixá-lo no ar; Charlie Bullock, do LawAI, alerta que avaliadores pagos pelas empresas vão competir por preço; o analista Zvi Mowshowitz vê mais preocupação da empresa com o governo do que com o risco. Do outro lado do espectro, a senadora Maria Cantwell quer revisão federal mais forte, e Bernie Sanders e Greg Casar defendem pausar a IA avançada e proibir a superinteligência. As cifras de pena e o nome da lei ainda estão em branco no rascunho, e nenhum parlamentar apresentou o texto formalmente.",
+   "proximo": "Observe a nova versão sobre os estados: Cimino disse que eles manterão algum papel na definição de padrões para avaliadores e no poder de desligar modelos, e que virão propostas sobre 'escolha de avaliador conveniente'. A Califórnia tem prazo em 16 de novembro, pela ordem executiva de Newsom sobre IA de fronteira, e a Anthropic prepara um IPO para meados de novembro, o que aumenta o escrutínio sobre suas posições.",
+   "fontes": [
+    {
+     "titulo": "Interesting Engineering: Anthropic's confidential bill limits federal power to halt models",
+     "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill"
+    },
+    {
+     "titulo": "PPC Land: Draft bill tied to Anthropic would let courts halt AI models for 45 days",
+     "url": "https://ppc.land/draft-bill-tied-to-anthropic-would-let-courts-halt-ai-models-for-45-days/"
+    },
+    {
+     "titulo": "Transformer: Anthropic's weak AI bill undermines its 'safety first' approach",
+     "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
+    },
+    {
+     "titulo": "ABC News: Federal appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+     "url": "https://abcnews.com/Business/anthropic-appeals-court-declines-block-pentagon-blacklisting/story?id=136755690"
+    },
+    {
+     "titulo": "Gabinete do dep. Obernolte: Obernolte, Trahan introduce bipartisan FRONTIER Act",
+     "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Pesquisas",
+    "Debates"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Cinco dias para o 2º turno: Flávio lidera na maioria das pesquisas, mas quase sempre dentro da margem de erro",
+   "oque": "Num levantamento do Poder360 com 13 pesquisas publicadas até sábado, Flávio Bolsonaro (PL) aparece numericamente à frente em 11, Lula (PT) em uma (Vox Brasil) e há empate em uma (PoderData), quase sempre dentro da margem de erro. A AtlasIntel/Bloomberg divulgada na segunda mostrou a diferença caindo de 5,4 para 2,2 pontos (49,8% a 47,6%), e a aprovação do governo subindo para 46,2%. A semana ainda tem Real Time Big Data (terça), Quaest (quarta), Datafolha (quinta) e o último debate, na TV Globo, na sexta (23).",
+   "contexto": "A disputa parte de um país dividido quase ao meio e de uma eleição decidida por pequenas margens, como em 2022, quando Lula venceu Jair Bolsonaro por menos de 2 pontos. As agendas mostram a estratégia: Lula faz um giro pelo Nordeste nesta terça (São Luís, Juazeiro e Petrolina), região onde é mais forte e onde precisa de alto comparecimento; Flávio passou por Marabá e Manaus e vai a Fortaleza na quarta, tentando reduzir a vantagem petista no Norte e Nordeste. Ambos fecham a campanha no Sudeste, maior colégio eleitoral, com atos no Rio, em São Paulo e em Belo Horizonte no sábado.",
+   "lados": "A campanha de Lula aposta na melhora da avaliação do governo e diz se preparar para o 'nível de baixaria' de Flávio no debate, segundo Edinho Silva, presidente do PT. A campanha de Flávio explora a desaprovação do governo, ainda majoritária (52,3% na AtlasIntel), e a liderança nas pesquisas. Os institutos lembram que as metodologias e amostras diferem e que os números não são projeções.",
+   "proximo": "Pesquisas na terça, quarta e quinta; debate da Globo na sexta (23) à noite; votação no domingo (25). Lula vota em São Bernardo do Campo (SP) e Flávio no Rio. O que observar: se a tendência de estreitamento da AtlasIntel aparece também na Quaest e no Datafolha, e a abstenção, decisiva em empate técnico.",
+   "fontes": [
+    {
+     "titulo": "Poder360: Saiba como estão Lula e Flávio nas pesquisas a 7 dias do 2º turno",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-7-dias-do-2o-turno/"
+    },
+    {
+     "titulo": "Brasil de Fato: Lula reduz diferença e marca 47,6% contra 49,8% de Flávio, aponta Atlas/Bloomberg",
+     "url": "https://www.brasildefato.com.br/2026/10/19/lula-reduz-diferenca-e-marca-476-no-segundo-turno-contra-498-de-flavio-bolsonaro-aponta-pesquisa-atlasbloomberg/"
+    },
+    {
+     "titulo": "CNN Brasil: Flávio e Lula fazem último giro de campanha e travam disputa de atos de rua",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-fazem-ultimo-giro-de-campanha-e-travam-disputa-de-atos-de-rua/"
+    },
+    {
+     "titulo": "Band: Quando saem as próximas pesquisas após debate entre Lula e Flávio?",
+     "url": "https://www.band.com.br/politica/eleicoes/quando-saem-as-proximas-pesquisas-apos-debate-entre-lula-e-flavio"
+    },
+    {
+     "titulo": "O Tempo: Lula vai se preparar para enfrentar 'nível de baixaria' de Flávio em debate, diz Edinho Silva",
+     "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/19/lula-vai-se-preparar-para-enfrentar-nivel-de-baixaria-de-flavio-em-debate-diz-edinho-silva"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Vistos",
+    "Política pública"
+   ],
+   "historia": "imigracao-legal-queda",
+   "titulo": "Imigração legal aos EUA cai pela metade, a maior queda desde a Grande Depressão fora a pandemia",
+   "oque": "Dados do Departamento de Estado analisados pelo New York Times mostram que os EUA emitiram cerca de 26 mil vistos de imigrante em fevereiro de 2026, metade da média mensal de 52 mil antes da volta de Trump. Vistos de estudante e de trabalho caíram 30% em um ano, e os de turismo e negócios, cerca de 25%. Segundo o Cato Institute, os vistos para países de maioria muçulmana despencaram 96%, de 21.096 em dezembro de 2024 para 808 em fevereiro.",
+   "contexto": "A queda vem de uma soma de medidas adotadas entre o fim de 2025 e o início de 2026: a ampliação do 'travel ban' em janeiro, que barrou cidadãos de 39 países, uma pausa na emissão de vistos para outros 52 e a suspensão da loteria de vistos de diversidade. Juntas, elas tornaram a imigração de 91 países quase impossível e reduziram a de outros 61; África (-89%) e Oriente Médio foram os mais atingidos, enquanto México (+17%) e Canadá (+142%) subiram. Até agora, o debate público focava em deportações; os números mostram que a política também mudou o perfil de quem entra legalmente, um tema com efeitos em mercado de trabalho, universidades e relações com países de origem.",
+   "lados": "O governo diz que as medidas melhoram a triagem de riscos de segurança e evitam o uso futuro de benefícios públicos; a conta de resposta rápida da Casa Branca celebrou o gráfico do Times. David Bier, do Cato, um instituto libertário, diz que é o maior corte desde as negativas de visto do governo Hoover, nos anos 1930. Em agosto, dois tribunais federais mandaram o governo voltar a emitir vistos, mas a maioria dos afetados continua esperando.",
+   "proximo": "Os dados vão só até fevereiro; observe as próximas divulgações do Departamento de Estado e o andamento dos recursos do governo contra as decisões de agosto. A Suprema Corte tem seis casos de imigração na pauta deste ano judicial.",
+   "fontes": [
+    {
+     "titulo": "Business Today: From 52,000 to 26,000 a month: US legal immigration falls by half under Trump",
+     "url": "https://www.businesstoday.in/nri/visa/story/from-52000-to-26000-a-month-us-legal-immigration-falls-by-half-under-trump-as-visa-curbs-hit-more-than-150-countries-562600-2026-10-20"
+    },
+    {
+     "titulo": "NewsNation: Trump White House account cheers report showing legal immigration visas cut in half",
+     "url": "https://www.americanewsnation.com/2026/10/19/trump-white-house-account-cheers-report-showing-legal-immigration-visas-cut-in-half/"
+    },
+    {
+     "titulo": "Davis Vanguard: Immigration restrictions cut legal entries nearly three times more than illegal crossings, Cato finds",
+     "url": "https://davisvanguard.org/2026/10/trump-administrations-immigration/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "TPS",
+    "Ucrânia",
+    "Sudão"
+   ],
+   "historia": "tps-eua",
+   "titulo": "Ucranianos e sudaneses mantêm proteção contra deportação, mas sem prazo definido",
+   "texto": "No dia em que o TPS expiraria, o DHS disse que cerca de 101 mil ucranianos e 1.800 sudaneses 'mantêm a proteção' até um anúncio 'no momento apropriado', sem data e sem esclarecer as autorizações de trabalho. Pela lei, a falta de decisão 60 dias antes do fim gera prorrogação automática de seis meses; o governo já encerrou o TPS de mais de 1 milhão de pessoas de 13 países.",
+   "fontes": [
+    {
+     "titulo": "PBS/AP: Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
+     "url": "https://www.pbs.org/newshour/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100000-ukrainians-and-sudanese"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercado"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Anthropic reserva 5% das ações para um fundo de interesse público às vésperas do IPO",
+   "texto": "Sujeito à aprovação dos acionistas, o fundo poderá doar a ONGs ou pagar diretamente a grupos afetados, com foco nos trabalhadores deslocados pela IA, e fica proibido de financiar lobby ou campanhas; a empresa diz que, somando doações prometidas pelos fundadores e funcionários, cerca de 20% de suas ações irão para fins públicos. O IPO deve sair em meados de novembro, com meta de até US$ 100 bilhões e avaliação perto de US$ 2 trilhões; o controlador da cidade de Nova York, Mark Levine, pediu que a oferta seja adiada até a empresa esclarecer questões de segurança e governança.",
+   "fontes": [
+    {
+     "titulo": "Fox News: Anthropic pledges 5% of shares to fund addressing AI impact on workers",
+     "url": "https://foxnews.com/live-news/ai-news-anthropic-workers-safety-10-19"
+    },
+    {
+     "titulo": "IFR: Anthropic pushes ahead with mid-November IPO",
+     "url": "https://www.ifre.com/equities/2499407/anthropic-pushes-ahead-with-mid-november-ipo"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Cibersegurança"
+   ],
+   "historia": "ia-ciberataques",
+   "titulo": "Um único hacker usou agentes de IA para invadir mais de 100 empresas gastando cerca de US$ 5 mil",
+   "texto": "Segundo a Reuters, um hacker de língua chinesa deixou agentes autônomos atacarem mais de 1.200 sites de comércio eletrônico desde 25 de setembro, com ferramentas como DeepSeek e Claude Code, segundo a estimativa de um pesquisador; Deere, SharkNinja e Cummins estão entre os alvos. É o tipo de caso que alimenta o debate sobre a categoria 'ciberataques' nas leis de IA.",
+   "fontes": [
+    {
+     "titulo": "Reuters (via Yahoo): How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+     "url": "https://www.yahoo.com/news/us/articles/exclusive-one-hacker-used-ai-100625247.html"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Sanções"
+   ],
+   "historia": "ia-china-eua",
+   "titulo": "Washington sanciona empresas chinesas por roubo de segredos de IA do Google e manda tirar DeepSeek do governo",
+   "texto": "O Departamento de Estado sancionou cinco entidades chinesas, entre elas a Shanghai Zhisuan, fundada por um ex-engenheiro do Google, e o DHS deve publicar nesta terça uma ordem para agências civis federais removerem produtos da DeepSeek, citando segurança e privacidade. No mesmo dia, Trump disse que os EUA estão 'substancialmente à frente' da China em IA.",
+   "fontes": [
+    {
+     "titulo": "Fox News: AI news live page, Oct. 19",
+     "url": "https://foxnews.com/live-news/ai-news-anthropic-workers-safety-10-19"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Oriente Médio",
+    "Diplomacia"
+   ],
+   "historia": "ira-ormuz-navios",
+   "titulo": "Chefe do Exército do Paquistão vai a Teerã enquanto o Catar anuncia pacto regional de defesa",
+   "texto": "O general Asim Munir, mediador entre EUA e Irã, visita Teerã nesta terça; o Catar diz que anunciará 'nos próximos dias' uma parceria regional de defesa, sem citar os países. Em Ormuz, o Comando Central dos EUA diz que 97% dos navios passam sem ataques, mas a Organização Marítima Internacional conta 24 navios atacados em duas semanas e cerca de 6 mil marinheiros presos na região.",
+   "fontes": [
+    {
+     "titulo": "Fox News: Iran issues warning to US as Qatar prepares to announce regional defense agreement",
+     "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-pentagon-october-19"
+    },
+    {
+     "titulo": "US News/Reuters: Pakistan army chief Asim Munir to visit Tehran on Tuesday",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-19/pakistan-army-chief-asim-munir-to-visit-tehran-on-tuesday"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "EUA"
+   ],
+   "historia": "ucrania-diesel-trump-ue",
+   "titulo": "Trump diz que a Rússia 'tem se comportado bem' na Ucrânia, horas após ataque que matou seis",
+   "texto": "Questionado sobre a cúpula com Putin e Xi proposta por Moscou, Trump disse que o foco seria desarmamento nuclear, não a Ucrânia, e voltou a sugerir que Kiev troque seu negociador. Kiev afirma que uma cúpula EUA-Rússia-China sem a Ucrânia só encorajaria Putin a continuar a guerra.",
+   "fontes": [
+    {
+     "titulo": "Kyiv Independent: What Russia's doing to Ukraine is 'fine,' Trump says",
+     "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Gaza",
+    "Crise humanitária"
+   ],
+   "historia": "gaza-bens-comerciais",
+   "titulo": "PMA corta ajuda alimentar a 500 mil pessoas em Gaza por falta de dinheiro",
+   "texto": "O Programa Mundial de Alimentos da ONU reduzirá o apoio mensal por falta de financiamento, no mesmo dia em que Israel voltou a permitir a entrada de bens comerciais, suspensa por uma semana, depois que o Hamas aparentemente desistiu de cobrar 10 mil shekels por caminhão.",
+   "fontes": [
+    {
+     "titulo": "Reuters: World Food Programme cuts aid to 500,000 Palestinians in Gaza citing funding shortages",
+     "url": "https://www.reuters.com/world/middle-east/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-shortages-2026-10-19/"
+    },
+    {
+     "titulo": "Reuters: Israel to resume commercial shipments to Gaza after Hamas fee dispute",
+     "url": "https://www.reuters.com/world/middle-east/israel-resume-commercial-shipments-gaza-after-hamas-fee-dispute-2026-10-19/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Preempção: por que a briga sobre a lei de IA é, no fundo, sobre federalismo",
+  "texto": "Pela Cláusula de Supremacia da Constituição dos EUA (artigo VI), uma lei federal válida prevalece sobre leis estaduais em conflito, e o Congresso pode ir além e declarar que só Washington regula um tema: é a 'preempção'. Na falta de lei federal para IA, os estados avançaram: a Califórnia aprovou a SB 53, sobre transparência de modelos de fronteira, e Nova York, o RAISE Act. As empresas preferem uma regra nacional única para não seguir 50 padrões diferentes (num exemplo citado em audiência na Câmara Municipal de Nova York, o prazo para relatar incidentes seria de 24 horas na cidade e 72 no estado). Já os críticos dizem que, se os estados forem barrados e o Congresso não atualizar a lei, ninguém poderá endurecer as regras quando a tecnologia mudar. Por isso a Anthropic prometeu reescrever primeiro justamente esse trecho do seu rascunho.",
+  "fontes": [
+   {
+    "titulo": "PPC Land: Draft bill tied to Anthropic would let courts halt AI models for 45 days",
+    "url": "https://ppc.land/draft-bill-tied-to-anthropic-would-let-courts-halt-ai-models-for-45-days/"
+   },
+   {
+    "titulo": "Transformer: Anthropic's weak AI bill undermines its 'safety first' approach",
+    "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
+   }
+  ]
+ },
+ "nota": "Atendi seu pedido: o destaque de tecnologia explica a Anthropic e destrincha o projeto ponto a ponto, e o Vale Saber trata da disputa entre Washington e os estados; somei uma nota sobre o fundo e o IPO da empresa. Seguindo seus votos, mantive Brasil, ebola e política de imigração em destaque e deixei Ucrânia e Oriente Médio em notas curtas. NY/NJ ficou sem item próprio por falta de fato novo relevante; a menção ao controlador de NY está na nota sobre o IPO. Alguns detalhes sobre o rascunho vêm de relatos de terceiros sobre o texto do Politico.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-20T11:10:22+00:00"
+}
