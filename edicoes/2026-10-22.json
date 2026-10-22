@@ -1,0 +1,275 @@
+{
+ "data": "2026-10-22",
+ "manchete": "A três dias do 2º turno, Lula e Flávio transformam a quebra de sigilos em condição para o debate da Globo, e a Quaest mostra 45% a 44%; na ONU, os Emirados lançam Lana Nusseibeh e embaralham a sucessão de Guterres",
+ "abertura": "O Brasil entra na reta final com um empate técnico, um prazo no TSE às 11h de hoje e o último debate marcado para sexta. Fora dele, a disputa pela chefia da ONU ganha uma oitava peça, o ebola já tem cúpula africana marcada e a Anthropic responde às críticas ao seu projeto de lei de IA.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "África CDC convoca cúpula de emergência para 28/10; Congo passa de 9.500 casos",
+   "texto": "Depois do primeiro caso na Nigéria, o África CDC chamou os ministros da Saúde do continente para uma reunião extraordinária virtual em 28 de outubro; o Quênia chegou ao 9º caso, todos ligados a um homem que veio do Congo. Até 18/10, a RD Congo somava 9.552 casos confirmados, com letalidade de 48% e rastreamento de contatos em 77%, uma melhora. As fontes divergem no total de mortes (4.550 segundo a ABC; 'mais de 4.200' segundo a ONU) e no país europeu com caso (França ou Holanda); Uganda nega que o caso nigeriano tenha saído de lá.",
+   "fontes": [
+    {
+     "titulo": "UN News: WHO supports Nigeria after first Ebola case confirmed",
+     "url": "https://news.un.org/en/story/2026/10/1168637"
+    },
+    {
+     "titulo": "ABC News/AP: Africa CDC calls an Ebola crisis summit as Nigeria records its first case",
+     "url": "https://abcnews.com/International/wireStory/africa-cdc-calls-ebola-crisis-summit-nigeria-records-137440881"
+    },
+    {
+     "titulo": "ABC News: Nigeria confirms 1st Ebola case as Kenya reports 9th infection",
+     "url": "https://abcnews.com/Health/nigeria-confirms-1st-ebola-case-kenya-reports-9th/story?id=137443202"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Pesquisas",
+    "Debates"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Lula e Flávio fecham acordo de abrir sigilos no TSE, com prazo hoje; Quaest mostra 45% a 44%",
+   "oque": "Flávio pediu ao TSE, na quarta (21), a quebra dos próprios sigilos bancário, fiscal e telefônico dos últimos 20 anos, mas exigiu em troca a abertura de contas dos filhos de Lula, do Instituto Lula, da empresa L.I.L.S. e de gastos da Presidência. A campanha de Lula disse aceitar tudo e protocola a resposta hoje, às 11h de Brasília. Na Quaest feita de 17 a 20/10, Flávio tem 45% e Lula 44%, empate técnico na margem de 2 pontos.",
+   "contexto": "A briga nasceu no debate da Band (18/10), quando Lula citou um pedido de R$ 134 milhões para um filme sobre Jair Bolsonaro, atribuído a Flávio em conversas com Daniel Vorcaro, do Banco Master. Lula então condicionou a ida ao debate da Globo à quebra dos sigilos do adversário. A Globo diz que as duas campanhas já assinaram as regras do debate de sexta (23/10, às 21h20), o último antes da votação. Na Quaest anterior (14/10), Flávio tinha 46% e Lula 44%: a distância caiu, mas segue dentro da margem.",
+   "lados": "A campanha de Lula diz que se trata de transparência e de investigar supostas irregularidades; Flávio afirma 'não ter absolutamente nada a esconder' e acusa o governo de esconder gastos. As acusações de cada lado contra o outro não foram comprovadas na Justiça.",
+   "proximo": "Hoje, 11h: resposta de Lula no TSE, sob relatoria de André Mendonça. Sexta (23): debate da Globo. Domingo (25): 2º turno. Observe se a quebra de sigilos sai antes da eleição, o que é improvável na prática, e se o tema domina o debate.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Quaest: Flávio Bolsonaro tem 45% e Lula, 44%, no 2º turno",
+     "url": "https://www.metropoles.com/brasil/quaest-flavio-bolsonaro-tem-45-e-lula-44-no-2o-turno"
+    },
+    {
+     "titulo": "Terra: Flávio Bolsonaro coloca condições para abrir sigilos e Lula aceita",
+     "url": "https://www.terra.com.br/noticias/brasil/flavio-bolsonaro-coloca-condicoes-para-abrir-sigilos-e-lula-aceita,cb651cc8d23d7d75e6d9b52f7e86364a02ybuq9j.html"
+    },
+    {
+     "titulo": "Poder360: Lula condiciona debate na Globo à abertura de sigilo de Flávio",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-condiciona-debate-na-globo-a-abertura-de-sigilo-de-flavio/"
+    },
+    {
+     "titulo": "Exame: Debate da Globo entre Lula e Flávio Bolsonaro; veja data, horário e regras",
+     "url": "https://exame.com/brasil/debate-da-globo-entre-lula-e-flavio-bolsonaro-veja-data-horario-regras-e-como-assistir/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "ONU",
+    "Secretário-geral"
+   ],
+   "historia": "onu-secretario-geral-2026",
+   "titulo": "Emirados lançam Lana Nusseibeh à chefia da ONU, e a próxima votação no Conselho de Segurança é adiada",
+   "oque": "Os Emirados Árabes Unidos indicaram, na quarta (21), Lana Nusseibeh, ministra de Estado e embaixadora do país na ONU de 2013 a 2024, para suceder António Guterres. Por causa da nova candidatura, a sétima votação informal do Conselho de Segurança, prevista para 23/10, foi adiada, possivelmente para a semana que vem.",
+   "contexto": "Na sexta votação (16/10), a primeira com cédulas coloridas que revelam os votos dos cinco membros permanentes, ninguém escapou do veto: Grynspan (Costa Rica), Rodrigues-Birkett (Guiana) e Grossi (Argentina) receberam votos 'desencorajadores' de ao menos um permanente. Pela rotação regional informal, esperava-se alguém da América Latina e do Caribe; uma candidata árabe quebra essa expectativa. Os Emirados têm boa relação com os cinco permanentes, mas carregam acusações de painéis da ONU de armar as Forças de Apoio Rápido no Sudão, o que o país nega. A contagem de candidatos diverge: PassBlue fala em sete; Al-Monitor, em oito.",
+   "lados": "Defensores destacam a experiência dela no Conselho (2022-2023) e o trabalho por ajuda a Gaza; críticos, como o pesquisador Nathaniel Raymond, de Yale, veem conflito de interesses por causa do Sudão. Segundo o Politico, o governo Trump não gosta de nenhum nome da lista atual.",
+   "proximo": "Nova votação informal deve ocorrer na semana que vem. O mandato de Guterres termina em 31/12; o Conselho precisa de 9 votos e nenhum veto para recomendar um nome à Assembleia Geral. Ela seria a primeira mulher no cargo.",
+   "fontes": [
+    {
+     "titulo": "PassBlue: UAE Candidate Is Likely to Be Asked About Her Nation's Controversies Abroad",
+     "url": "https://passblue.com/2026/10/21/uae-candidate-is-likely-to-be-asked-about-the-nations-controversies-abroad/"
+    },
+    {
+     "titulo": "Al-Monitor: UAE nominates Lana Nusseibeh for UN secretary-general: What to know",
+     "url": "https://www.al-monitor.com/originals/2026/10/uae-nominates-lana-nusseibeh-un-secretary-general-what-know"
+    },
+    {
+     "titulo": "Security Council Report: Sixth Security Council Straw Poll on UN Secretary-General Candidates",
+     "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/sixth-security-council-straw-poll-on-un-secretary-general-candidates.php"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "EUA"
+   ],
+   "historia": "regulacao-ia-eua",
+   "titulo": "Amodei responde às críticas ao projeto de lei da Anthropic e promete, até 15 de janeiro, propostas para regular o ritmo da IA",
+   "oque": "O CEO da Anthropic, Dario Amodei, publicou no X um texto de quase 2.000 palavras defendendo o histórico de segurança da empresa e admitindo erros na forma como apresentou seu rascunho de lei federal de IA. A empresa se comprometeu a propor, até 15/1/2027, opções para regular o ritmo da pesquisa em IA, ou explicar por que não o fará. No mesmo dia, nomeou o físico Christopher Stubbs, ex-reitor de Ciências de Harvard, para o fundo que pode indicar a maioria do seu conselho.",
+   "contexto": "O rascunho permitiria que o Departamento de Comércio pedisse à Justiça a suspensão de um modelo com risco iminente de mais de 50 mortes ou US$ 1 bilhão em danos, vindo de armas biológicas, perda de controle ou ciberataques. Nathan Calvin, da ONG Encode, disse que a empresa recua em segurança ao assinar mais de US$ 500 bilhões em contratos de computação e ao mudar sua política interna, que em fevereiro deixou de prever uma pausa obrigatória. Amodei listou nove decisões que diz terem custado caro, como restringir o acesso ao modelo Mythos, reservar 5% das ações a um fundo de interesse público e ser a primeira grande empresa a limitar vendas a companhias controladas pela China.",
+   "lados": "Críticos (Encode, LawAI e o senador estadual Scott Wiener) dizem que o texto é fraco: avaliadores se autocertificam e só uma agência pode pedir suspensão. A Anthropic admite que a parte sobre preempção das leis estaduais foi 'imprecisa' e promete reescrevê-la. Na eleição, um PAC pró-IA ligado a Greg Brockman, da OpenAI, defende a preempção; a Anthropic deu US$ 40 milhões a um grupo contrário. Pesquisa NYT/Siena mostra eleitores confiando mais nos democratas (48%) que nos republicanos (37%) no tema.",
+   "proximo": "Nova versão do trecho de preempção, sem data; eleições de meio de mandato em 3/11; prazo de 15/1 para a proposta sobre ritmo da pesquisa; IPO da Anthropic esperado depois das eleições.",
+   "fontes": [
+    {
+     "titulo": "Fox News: Trump issues AI, data center position; Anthropic CEO defends safety record",
+     "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21"
+    },
+    {
+     "titulo": "Anthropic: Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+     "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+    },
+    {
+     "titulo": "Cryptopolitan: Anthropic's Amodei answers critic's nine charges",
+     "url": "https://www.cryptopolitan.com/anthropic-amodei-answers-critics-safety/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Ormuz",
+    "Energia"
+   ],
+   "historia": "ira-ormuz-navios",
+   "titulo": "Guarda Revolucionária ameaça bases dos EUA se as escoltas em Ormuz continuarem; petróleo vai a US$ 112",
+   "texto": "O Irã diz ter atingido quatro navios no Golfo durante a noite, e outros três teriam batido em minas; o Brent subiu cerca de 3%, ao maior nível desde maio. Trump nega haver negociação e diz que o conflito acaba 'em breve', enquanto os EUA mantêm o bloqueio aos portos iranianos.",
+   "fontes": [
+    {
+     "titulo": "Malay Mail/AFP: Iran warns it will hit US bases if Hormuz ship escorts continue",
+     "url": "https://www.malaymail.com/news/malaysia/2026/10/22/iran-warns-it-will-hit-us-bases-if-hormuz-ship-escorts-continue/240199"
+    },
+    {
+     "titulo": "The New Arab: Trump denies negotiations with Iran",
+     "url": "https://newarab.com/news/trump-denies-negotiations-iran-says-conflict-end-soon"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Detenção",
+    "Tribunais"
+   ],
+   "historia": "detencao-ice-tribunais",
+   "titulo": "Tribunal de apelação limita a prisão repetida de imigrantes com ordem de deportação",
+   "texto": "Por 2 a 1, o 10º Circuito rejeitou a tese do governo de que o prazo de seis meses fixado pela Suprema Corte em Zadvydas recomeça a cada nova prisão; o caso é de um iraniano que cumpriu as regras da liberdade supervisionada por 20 anos e foi detido de novo pelo ICE em 2025. A decisão vale nos estados do circuito (como Colorado e Kansas).",
+   "fontes": [
+    {
+     "titulo": "Epoch Times: ICE Detainee With Removal Orders Unlawfully Redetained, Appeals Court Rules",
+     "url": "https://www.theepochtimes.com/us/ice-detainee-with-removal-orders-unlawfully-redetained-appeals-court-rules-6107207"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Mercado"
+   ],
+   "historia": "openai-google-cloud",
+   "titulo": "OpenAI passa a vender seus modelos mais avançados na nuvem do Google",
+   "texto": "O GPT-6 Astra e versões menores entrarão no Model Garden do Google Cloud em algumas semanas, e clientes poderão usar contratos de nuvem já existentes para pagar. É mais um sinal de que a OpenAI deixou de depender de um único parceiro de infraestrutura e de que o Google aposta em vender modelos de rivais.",
+   "fontes": [
+    {
+     "titulo": "SiliconANGLE: OpenAI to make its most advanced AI models available in Google Cloud",
+     "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/"
+    },
+    {
+     "titulo": "OpenAI: OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Energia",
+    "IA"
+   ],
+   "historia": "data-centers-energia",
+   "titulo": "Trump quer que data centers gerem a própria energia e paguem 'dividendo' a moradores",
+   "texto": "Em post na Truth Social, Trump disse que grandes data centers devem produzir sua eletricidade, repassar o excedente à rede e fazer acordos com as comunidades para vencer a resistência local. No mesmo dia, a Câmara de Memphis rejeitou uma moratória de 18 meses a novos data centers.",
+   "fontes": [
+    {
+     "titulo": "Fox News: Trump issues AI, data center position",
+     "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Israel",
+    "Eleições"
+   ],
+   "historia": "lander-cisjordania",
+   "titulo": "Brad Lander, candidato democrata pelo distrito 10 de NY, é detido por Israel na Cisjordânia",
+   "texto": "O ex-controlador de Nova York foi detido e liberado rapidamente com mais de 70 voluntários que ajudavam palestinos na colheita de azeitonas perto de Nahalin. A chancelaria israelense falou em 'provocação' em área militar restrita; relatos dizem que mapas militares não mostram essa exigência.",
+   "fontes": [
+    {
+     "titulo": "Times of Israel: Live blog, 22 de outubro de 2026",
+     "url": "https://www.timesofisrael.com/liveblog-october-22-2026/"
+    },
+    {
+     "titulo": "Democracy Now!: Headlines for October 21, 2026",
+     "url": "https://www.democracynow.org/2026/10/21/headlines"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Justiça internacional",
+    "União Europeia"
+   ],
+   "historia": "tpi-sancoes-eua",
+   "titulo": "Parlamento Europeu dá o Prêmio Sakharov ao Tribunal Penal Internacional, alvo de sanções dos EUA",
+   "texto": "O prêmio de direitos humanos vai para um tribunal que Washington sanciona por investigar aliados, um recado europeu num ponto de atrito transatlântico. O TPI concorria, entre outros, com o presidente de El Salvador, Nayib Bukele.",
+   "fontes": [
+    {
+     "titulo": "The New Arab: live coverage, 22 de outubro",
+     "url": "https://newarab.com/news/trump-denies-negotiations-iran-says-conflict-end-soon"
+    },
+    {
+     "titulo": "Brussels Signal: Bukele and the ICC compete for the Sakharov Prize",
+     "url": "https://brusselssignal.eu/2026/10/bukele-and-the-icc-compete-for-the-european-parliaments-sakharov-prize/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Diplomacia"
+   ],
+   "historia": "e3-r4-istambul",
+   "titulo": "Europa e potências regionais se reúnem em Istambul na sexta",
+   "texto": "Os chanceleres de Reino Unido, França e Alemanha (E3) encontram os de Turquia, Arábia Saudita, Paquistão e Egito para tratar de Gaza, Iêmen, Ormuz e Ucrânia. O formato mostra potências médias tentando abrir canais próprios enquanto as negociações lideradas pelos EUA estão travadas.",
+   "fontes": [
+    {
+     "titulo": "The New Arab: live coverage, 22 de outubro",
+     "url": "https://newarab.com/news/trump-denies-negotiations-iran-says-conflict-end-soon"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Votos totais x votos válidos: por que o 45% a 44% vira 50,6% a 49,4%",
+  "texto": "As pesquisas divulgam primeiro os votos totais, que incluem brancos, nulos e indecisos. Mas o TSE só conta os votos válidos, e no 2º turno vence quem tiver mais da metade deles. Tirando os 9% de brancos/nulos e os 2% de indecisos da Quaest, Flávio ficaria com cerca de 50,6% e Lula com 49,4%, um cálculo nosso que não muda o empate técnico: a margem de erro também se aplica aos válidos. Por isso, num cenário tão apertado, a abstenção e quem decide na última hora pesam tanto quanto os números da pesquisa.",
+  "fontes": [
+   {
+    "titulo": "Metrópoles: Quaest: Flávio Bolsonaro tem 45% e Lula, 44%, no 2º turno",
+    "url": "https://www.metropoles.com/brasil/quaest-flavio-bolsonaro-tem-45-e-lula-44-no-2o-turno"
+   }
+  ]
+ },
+ "nota": "Seguindo seus votos, dei destaque a Brasil, ONU e IA (incluindo a Anthropic) e trouxe uma nota sobre política de imigração na Justiça; Oriente Médio aparece só em notas curtas. Não repeti os protestos na França e na Itália, já cobertos, nem a investigação sobre Ilhan Omar, sem fato novo confirmado. Seu pedido sobre a Anthropic já foi atendido em 20/10; hoje acompanhei a resposta da empresa às críticas.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-22T11:00:02+00:00"
+}
