@@ -1,0 +1,300 @@
+{
+ "data": "2026-10-23",
+ "manchete": "No dia do último debate, Lula e Flávio chegam empatados no Datafolha e o TSE devolve aos candidatos a decisão de abrir os próprios sigilos; falhas no PHP achadas com IA tiram sites de governos do ar",
+ "abertura": "O Brasil tem hoje à noite, na Globo, o último confronto antes do 2º turno de domingo, com as pesquisas dentro da margem de erro. Fora dele, a IA mostra os dois lados da cibersegurança, os EUA se aproximam de 1 milhão de deportações e o Golfo vive o pior dia de ataques a navios desde fevereiro, segundo o Irã.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Origem do caso na Nigéria vira disputa entre Suíça e Uganda; OMS fala em cenário 'mais complexo'",
+   "texto": "A paciente em Abuja é a esposa, nascida em Uganda, de um diplomata suíço; a chancelaria suíça diz que ela provavelmente se infectou numa viagem a Uganda, mas o governo ugandense nega ter casos e a OMS diz não ter confirmação de que ela esteve no Congo. O África CDC investiga se ela cruzou com o primeiro paciente do Quênia, já que ambos embarcaram em Entebe no mesmo dia; Mohamed Janabi, da OMS, disse que a África enfrenta agora um quadro 'mais complexo'. Os totais seguem divergentes entre fontes: de 4.381 a mais de 4.600 mortes, com cerca de 9.500 a 10.000 casos.",
+   "fontes": [
+    {
+     "titulo": "Cyprus Mail/Reuters: Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says",
+     "url": "https://cyprus-mail.com/2026/10/22/ebola-patient-in-nigeria-believed-to-have-contracted-disease-in-uganda-switzerland-says"
+    },
+    {
+     "titulo": "Africanews: WHO: Africa facing 'complex' Ebola outbreak after Nigeria reports first case",
+     "url": "https://www.africanews.com/2026/10/23/who-africa-facing-complex-ebola-outbreak-after-nigeria-reports-first-case/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Pesquisas",
+    "Debates"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Datafolha mostra 47% a 46% no dia do último debate, e Mendonça diz que abrir sigilo não depende do TSE",
+   "oque": "O Datafolha divulgado na quinta (22), feito de 20 a 22/10, dá Flávio Bolsonaro (PL) com 47% e Lula (PT) com 46%; nos votos válidos, a vantagem é de cerca de 1 ponto, com a margem de erro de 2. No TSE, o ministro André Mendonça decidiu que os candidatos não precisam de ordem judicial para abrir os próprios sigilos e podem divulgar seus dados 'como e quando' quiserem. A campanha de Lula recorreu, pedindo que o tribunal execute o acordo como terceiro imparcial.",
+   "contexto": "A disputa sobre sigilos nasceu no debate da Band (18/10) e virou condição de Lula para ir à Globo; Flávio respondeu com 19 exigências, incluindo dados de filhos de Lula, do Instituto Lula e de gastos da Presidência, e Lula disse aceitar tudo. Com a decisão de Mendonça, o acordo deixa de ser uma investigação conduzida pela Justiça e vira um gesto voluntário de cada lado. Mesmo formalizado, bancos, Receita e operadoras têm prazos próprios, e uma análise completa antes de domingo é improvável. As pesquisas variam conforme o instituto: a Real Time Big Data (19 a 22/10) dá 52% a 48% para Flávio nos válidos; a Vox Brasil, 50,6% a 49,4% para Lula. Todas estão dentro ou perto da margem de erro.",
+   "lados": "A campanha de Lula diz que só uma requisição judicial garante que os dados venham 'na sua inteireza', sem suspeita de manipulação, e anexou procurações de familiares e auxiliares. Flávio diz não ter nada a esconder e acusa o governo de ocultar gastos. As acusações de cada lado contra o outro não foram comprovadas na Justiça.",
+   "proximo": "Hoje, 21h20 (20h20 em Nova York): debate na Globo, mediado por César Tralli, em três blocos (regiões, temas sorteados e tema livre); as duas campanhas assinaram as regras. Observe se os sigilos dominam o debate e se o TSE responde ao recurso de Lula. Sábado (24): últimas pesquisas. Domingo (25): 2º turno.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Datafolha: Flávio Bolsonaro tem 47% e Lula marca 46% no 2º turno",
+     "url": "https://www.metropoles.com/brasil/datafolha-flavio-bolsonaro-lula-22-10"
+    },
+    {
+     "titulo": "CNN Brasil: Datafolha: Flávio e Lula empatam em 50% de votos válidos no 2º turno",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-flavio-e-lula-empatam-em-50-de-votos-validos-no-2o-turno/"
+    },
+    {
+     "titulo": "Jovem Pan: Mendonça autoriza quebra de sigilos de Flávio e Lula",
+     "url": "https://jovempan.com.br/politica/mendonca-autoriza-quebra-de-sigilo-de-flavio-e-lula/"
+    },
+    {
+     "titulo": "O Tempo: Lula recorre a Mendonça e pede revisão de decisão sobre sigilos",
+     "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/22/lula-pressiona-recorre-a-mendonca-e-pede-revisao-de-decisao-sobre-sigilos-com-flavio-bolsonaro"
+    },
+    {
+     "titulo": "CartaCapital: Lula e Flávio Bolsonaro formalizam abertura de sigilos no TSE",
+     "url": "https://www.cartacapital.com.br/politica/lula-e-flavio-bolsonaro-formalizam-abertura-de-sigilos-no-tse-a-tres-dias-do-segundo-turno/"
+    },
+    {
+     "titulo": "Times Brasil: Pesquisa Real Time: Flávio tem 52% e Lula, 48% dos votos válidos",
+     "url": "https://timesbrasil.com.br/eleicoes-2026/decisao-2026-pesquisa-real-time-mostra-flavio-bolsonaro-com-52-e-lula-com-48-dos-votos-validos/"
+    },
+    {
+     "titulo": "Gazeta do Povo: Como será o debate da TV Globo entre Lula e Flávio",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/como-sera-debate-tv-globo-entre-lula-e-flavio-segundo-turno/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Cibersegurança",
+    "Geopolítica digital"
+   ],
+   "historia": "php-falhas-ia",
+   "titulo": "Falhas críticas no PHP, achadas com ajuda de IA, levam governos a tirar sites do ar",
+   "oque": "O PHP, linguagem por trás de WordPress, Drupal e Magento, lançou na quarta (21) correções urgentes para duas falhas (CVE-2026-109618 e CVE-2026-109619, nota 9,2 de 10) que permitem rodar código em servidores sem senha. Agências de cibersegurança dos EUA (CISA), Reino Unido, UE, Canadá, Austrália e Japão pediram atualização imediata; FBI e NSA recomendaram desligar o que não puder ser corrigido. Sites de governo na Holanda, Finlândia, Dinamarca e França saíram do ar, além de páginas da BBC e da Wikipédia.",
+   "contexto": "As falhas estavam escondidas no código havia mais de uma década e foram encontradas com ferramentas de IA. A Wiz, empresa do Google, diz ter usado o Gemini e o GPT-5.6 Sol, da OpenAI; a OpenAI fala numa 'janela do defensor', o intervalo entre a descoberta com IA e a divulgação pública, usado para preparar correções. O episódio mostra o dilema que tem dominado o debate sobre regulação: a mesma IA que acha falhas pode ajudar a explorá-las, e especialistas alertam que, publicada a correção, ela pode ser revertida rapidamente para criar ataques. A Palo Alto Networks contou mais de 22,6 milhões de instalações potencialmente vulneráveis, o que não equivale a sites invadidos.",
+   "lados": "Fontes divergem em detalhes: a fatia de sites que usam PHP aparece como cerca de 70% ou 75% (W3Techs), e o crédito da descoberta varia entre a Wiz e pesquisadores ligados à OpenAI. A Cloudflare relatou tentativas de ataque, mas não há invasão confirmada até agora; visitar um site afetado não parece infectar o aparelho do usuário.",
+   "proximo": "Observe se surgem invasões confirmadas nos próximos dias, quando a engenharia reversa da correção costuma gerar ataques em massa, e quantos sites antigos, sem versão suportada, ficam expostos. O caso deve alimentar o debate no Congresso sobre IA e ciberataques, um dos três riscos previstos no rascunho de lei da Anthropic.",
+   "fontes": [
+    {
+     "titulo": "WJLA/Sinclair: Critical PHP flaws put millions of websites at risk as governments pull sites offline",
+     "url": "https://wjla.com/news/nation-world/critical-php-flaws-put-millions-of-websites-at-risk-as-governments-pull-sites-offline"
+    },
+    {
+     "titulo": "ARY News: Government websites go dark after AI-discovered flaw sparks security scramble",
+     "url": "https://arynews.tv/cyber-agency-warns-websites-may-go-dark"
+    },
+    {
+     "titulo": "The Neuron: Everything that happened in AI today, Oct. 22",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-22-2026/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Deportações",
+    "Dados"
+   ],
+   "historia": "deportacoes-trump-numeros",
+   "titulo": "EUA chegam perto de 1 milhão de deportações em 18 meses, mas só 20% dos deportados tinham condenação criminal",
+   "oque": "Um estudo do Migration Policy Institute (MPI), feito por Marc Rosenblum, ex-chefe de estatística do DHS, estima cerca de 980 mil deportações entre janeiro de 2025 e julho de 2026. Cerca de 300 mil pessoas foram presas no interior do país, e 680 mil, na fronteira. Só 20% tinham condenação criminal, e mesmo entre elas predominavam infrações de imigração e de trânsito.",
+   "contexto": "O número fica bem acima dos governos Biden e do primeiro Trump, mas abaixo dos anos 2000, quando as remoções chegaram a cerca de 1,9 milhão no ano fiscal de 2000 (a maioria devoluções rápidas na fronteira). O estudo também estima entre 310 mil e 1,5 milhão de saídas 'por conta própria', uma faixa larga porque depende de dados como o censo mexicano. A questão importa para a disputa política: o governo promete focar nos 'piores dos piores', enquanto o DHS afirma que estar no país sem status já basta para a deportação.",
+   "lados": "O DHS diz que houve mais de 2,2 milhões de 'autodeportações' em 2026, com base em pesquisas que mostram queda da população imigrante; críticos, incluindo o autor do estudo, dizem que esse número é improvável, porque imigrantes podem estar evitando responder a pesquisas, e não saindo do país. Tom Homan, o 'czar da fronteira', diz que 'a deportação em massa está acontecendo' e promete mais em 2027.",
+   "proximo": "Observe os dados oficiais do ano fiscal de 2026 (encerrado em 30/9), que Homan diz trazer o mês recorde de deportações do ICE, e o peso do tema nas eleições de 3 de novembro, inclusive em distritos hispânicos.",
+   "fontes": [
+    {
+     "titulo": "Stateline: Analysis: Trump deportations near 1M, but few are criminals",
+     "url": "https://stateline.org/2026/10/22/analysis-trump-deportations-near-1m-but-few-are-criminals/"
+    },
+    {
+     "titulo": "Migration Policy Institute: U.S. Deportations and 'Self-Deportations' in the First 18 Months of the Second Trump Term",
+     "url": "https://www.migrationpolicy.org/publication/us-deportations-second-trump"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Ormuz"
+   ],
+   "historia": "ira-ormuz-navios",
+   "titulo": "Irã diz ter atingido sete navios em Ormuz; EUA negam, e NYT revela planos de novos ataques após as eleições",
+   "texto": "A Guarda Revolucionária afirma ter atingido quatro petroleiros e que outros três bateram em minas, o pior dia desde o início da guerra, em 28 de fevereiro; Trump chamou as alegações de falsas, e o Comando Central diz que 95% dos navios passam. Segundo o New York Times, EUA e Israel prepararam uma operação 'curta e intensa' contra alvos de energia, nucleares e de mísseis para depois de 3 de novembro, embora Trump ainda possa não autorizá-la. Nenhum dos lados teve as alegações confirmadas de forma independente.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+     "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+    },
+    {
+     "titulo": "Times of Israel: US and Israel said to draft plans for resumed strikes on Iran after midterm elections",
+     "url": "https://www.timesofisrael.com/liveblog_entry/us-and-israel-said-to-draft-plans-for-resumed-strikes-on-iran-after-midterm-elections/"
+    },
+    {
+     "titulo": "The National: Will the Iran war resume before the US and Israeli elections?",
+     "url": "https://www.thenationalnews.com/news/us/2026/10/22/will-the-iran-war-resume-before-the-us-and-israeli-elections/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Europa",
+    "Oriente Médio"
+   ],
+   "historia": "e3-r4-istambul",
+   "titulo": "Europa e o novo 'R4' do Oriente Médio se reúnem pela primeira vez em Istambul",
+   "texto": "Reino Unido, França e Alemanha (o E3, criado para o dossiê nuclear iraniano) encontram hoje Turquia, Arábia Saudita, Paquistão e Egito, o 'R4' formado neste ano em torno do pacto de defesa de Meca. Na pauta: Ormuz, onde o tráfego segue bem abaixo do pré-guerra, os ataques houthis à Arábia Saudita, os palestinos e a segurança no Mar Negro; o encontro sinaliza potências médias tentando assumir parte da segurança regional.",
+   "fontes": [
+    {
+     "titulo": "Kuwait Times/AFP: European, Mideast ministers meet in Istanbul on Hormuz, regional crises",
+     "url": "https://kuwaittimes.com/article/52189/world/european-mideast-ministers-meet-in-istanbul-on-hormuz-regional-crises/"
+    },
+    {
+     "titulo": "Iran International: Istanbul meeting: A new division of labor in the Iran war?",
+     "url": "https://www.iranintl.com/en/202610232329"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "ucrania-diesel-trump-ue",
+   "titulo": "Putin aceita retomar negociações a três com EUA e Ucrânia no início de novembro",
+   "texto": "Após receber Steve Witkoff em São Petersburgo na quarta (21), o Kremlin disse estar pronto, em princípio, para conversas trilaterais, mas que o avanço depende de Kiev tomar 'decisões necessárias' e que as propostas americanas trouxeram 'pouco de útil'. Zelensky disse que qualquer acordo precisa passar pelo Parlamento ucraniano; horas depois, ataques russos atingiram 12 regiões.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Russia says Ukraine must make 'necessary decisions' to end war as Witkoff meets Putin",
+     "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
+    },
+    {
+     "titulo": "CNN: Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
+     "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições de meio de mandato"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "A 11 dias das eleições de meio de mandato, democratas lideram a média nacional por quase 9 pontos",
+   "texto": "Na média do Silver Bulletin, democratas têm 49,7% e republicanos 41,1% na intenção de voto genérica para a Câmara, e a aprovação de Trump está em 38%. No Senado, onde os republicanos têm 53 a 47, democratas aparecem à frente em disputas como Ohio, Texas, Carolina do Norte e Maine, quase sempre por margens estreitas; pesquisas a esta distância ainda podem errar.",
+   "fontes": [
+    {
+     "titulo": "Forbes: Hottest 2026 midterm races",
+     "url": "https://www.forbes.com/sites/saradorn/2026/10/21/hottest-2026-midterm-races-democrats-lead-in-texas-ohio-michigan-iowa/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Justiça",
+    "Separação de Poderes"
+   ],
+   "historia": "detencao-ice-tribunais",
+   "titulo": "Departamento de Justiça tenta afastar juízes de Minnesota de casos de imigração por entrevista ao NYT",
+   "texto": "O DOJ pediu que os juízes federais Patrick Schiltz e John Tunheim deixem dois casos, um de cassação de cidadania e outro de suposto voto de estrangeiro, por terem criticado ao New York Times a operação do ICE em Minneapolis; Schiltz disse que o ICE violou centenas de ordens judiciais. Os próprios juízes decidem sobre o pedido, e um professor de direito avalia que o objetivo é mandar um recado a outros magistrados.",
+   "fontes": [
+    {
+     "titulo": "MPR News: Feds seek to boot Minnesota judges from immigration cases after public comments",
+     "url": "https://www.mprnews.org/story/2026/10/21/minnesota-judges-could-be-removed-from-immigration-cases-after-public-comments"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Privacidade",
+    "Big Tech"
+   ],
+   "historia": "meta-novo-mexico",
+   "titulo": "Meta é condenada a pagar US$ 25 bilhões ao Novo México no caso Cambridge Analytica",
+   "texto": "Um juiz estadual fixou a maior multa da história da empresa depois que um júri considerou a Meta responsável por mais de 43 milhões de violações à lei de defesa do consumidor, por enganar usuários sobre o uso de seus dados. O estado pedia até US$ 40 bilhões; a Meta, que defendia no máximo US$ 3,4 bilhões, vai recorrer e diz que a decisão torna 'quase impossível' operar no estado.",
+   "fontes": [
+    {
+     "titulo": "AP via ClickOnDetroit: Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.clickondetroit.com/news/politics/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-after-cambridge-analytica-trial/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "IA militar"
+   ],
+   "historia": "ia-militar-onu",
+   "titulo": "Engenheira do Google DeepMind se demite em protesto contra contratos militares com EUA e Israel",
+   "texto": "Sofia Liguori, de Londres, deixou a empresa citando o contrato secreto de IA com o Pentágono, anunciado em abril, e o Projeto Nimbus, com Israel; é a segunda saída do tipo em outubro. O Google diz que revisa contratos públicos segundo suas regras de uso e princípios de IA e que proíbe retaliação.",
+   "fontes": [
+    {
+     "titulo": "The Intercept: Google DeepMind engineer resigns over military AI",
+     "url": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Clima"
+   ],
+   "historia": "clima-emissions-gap",
+   "titulo": "ONU diz que ultrapassar 1,5°C já é inevitável e calcula o que seria preciso para voltar",
+   "texto": "O relatório anual do Pnuma projeta 2,8°C de aquecimento com as políticas atuais e 2,6°C se as metas nacionais forem cumpridas; para voltar a 1,5°C até 2100, as emissões teriam de cair 45% até 2035 em relação a 2025. A saída dos EUA do Acordo de Paris piorou as projeções; Guterres resumiu: 'ultrapassar não é se render'.",
+   "fontes": [
+    {
+     "titulo": "Climate Home News: UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+     "url": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Como Israel vota na terça (27): uma lista nacional e a conta dos 61",
+  "texto": "Israel elege as 120 cadeiras do Knesset num único distrito nacional, por listas partidárias e representação proporcional; só entram partidos com ao menos 3,25% dos votos. Ninguém nunca teve maioria sozinho, então o vencedor real é quem reúne 61 deputados numa coalizão, e partidos pequenos perto da barreira podem decidir o resultado. A última pesquisa do Times of Israel mostra os blocos de Netanyahu e da oposição liderada por Gadi Eisenkot empatados em 51 cadeiras, com partidos árabes (14) fora das coalizões anunciadas, o que sugere negociações longas ou até nova eleição. O resultado pesa sobre a guerra com o Irã, já que o próximo governo dividirá com Washington as decisões sobre novos ataques.",
+  "fontes": [
+   {
+    "titulo": "Times of Israel: Final ToI election poll shows blocs in dead heat",
+    "url": "https://www.timesofisrael.com/liveblog_entry/final-toi-election-poll-shows-blocs-in-dead-heat-neither-has-majority-if-campaign-promises-kept/"
+   },
+   {
+    "titulo": "Xinhua: 5 things to know about Israel's upcoming parliamentary election",
+    "url": "https://english.news.cn/20261023/406f646466ac43a1b5fafbf27e6db79a/c.html"
+   }
+  ]
+ },
+ "nota": "Seguindo suas avaliações, priorizei Brasil, IA, imigração com dados e ebola, e mantive Oriente Médio em notas curtas. A ONU não teve novidade na sucessão de Guterres desde ontem.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-23T11:05:51+00:00"
+}
