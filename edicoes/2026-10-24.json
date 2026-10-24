@@ -1,0 +1,267 @@
+{
+ "data": "2026-10-24",
+ "manchete": "Na véspera do 2º turno, Lula e Flávio saem do último debate sem nocaute e com os sigilos entregues ao TSE; diplomatas discutem reconhecer rápido o vencedor, e um tribunal dos EUA nega fiança a imigrantes detidos",
+ "abertura": "O Brasil vota amanhã numa disputa que todas as pesquisas tratam como empate, e as últimas rodadas da Quaest e do Datafolha saem hoje. Fora daqui, o dia junta um revés judicial para imigrantes detidos nos EUA, uma nova barreira de Washington a investimentos em IA na China e um ataque a uma igreja na Jordânia.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Começa no Congo o primeiro grande teste de vacinas contra a cepa Bundibugyo",
+   "texto": "O estudo TUMAINI, de fase 2/3, recrutou os primeiros voluntários em Bunia, na província de Ituri, na sexta (23). Segundo a OMS, até 20/10 o Congo somava 9.704 casos confirmados e 4.687 mortes (letalidade de 48%), com 976 casos novos em 12 dias e só 80% dos contatos acompanhados, abaixo da meta de 95%. No Quênia são 9 casos e 1 morte, todos ligados a um caso importado e sem transmissão fora desse grupo.",
+   "fontes": [
+    {
+     "titulo": "OMS: Ebola disease caused by Bundibugyo virus, DRC, Kenya and Nigeria (23/10)",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Debates",
+    "Pesquisas"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Último debate termina sem virada clara, e Lula e Flávio entregam os sigilos ao TSE na reta final",
+   "oque": "No debate da Globo, na sexta (23), Lula defendeu o salário mínimo acima da inflação e o combate à fome, e Flávio Bolsonaro atacou a alta dos alimentos e a reforma tributária. Flávio pediu desculpas depois de chamar Lula de \"nove dedos\", e no bloco final os dois trocaram acusações sobre o caso Banco Master. No mesmo dia, Flávio entregou ao TSE a autorização para abrir seus dados bancários e telefônicos; a campanha de Lula já tinha entregado documentos na quinta (22).",
+   "contexto": "Flávio saiu na frente no 1º turno, em 4/10, mas a vantagem encolheu: no Datafolha de quinta, cada um tinha 50% dos votos válidos. A troca de sigilos virou condição para o debate depois que o ministro André Mendonça, do TSE, decidiu que os próprios candidatos podem liberar seus dados sem aval da Justiça Eleitoral. A checagem da Agência Lupa achou erros dos dois lados: classificou como falsa a frase de Lula de que a economia não cresce mais de 3% desde 2010 e como insustentável a acusação de Flávio de que Lula recebeu R$ 30 milhões de Daniel Vorcaro para um filme.",
+   "lados": "A campanha de Lula diz que entregou tudo e acusa Flávio de esconder movimentações; a de Flávio diz que os documentos de Lula estão incompletos, chamou Deltan Dallagnol para analisá-los e cobra também os gastos do cartão corporativo da Presidência. Não há, até agora, análise independente dos dados entregues.",
+   "proximo": "Hoje saem as últimas pesquisas Quaest e Datafolha; a propaganda no rádio e na TV já acabou, mas comícios seguem liberados. Domingo (25), a votação vai das 8h às 17h de Brasília, e o TSE costuma divulgar o resultado em poucas horas. O que observar: a abstenção e se o perdedor reconhece a derrota.",
+   "fontes": [
+    {
+     "titulo": "ThePrint/Reuters: Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+     "url": "https://theprint.in/world/bolsonaro-and-lula-clash-on-living-costs-corruption-in-final-brazil-election-debate/3080279/"
+    },
+    {
+     "titulo": "Agência Lupa: Checagem do último debate entre Lula e Flávio Bolsonaro",
+     "url": "https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/"
+    },
+    {
+     "titulo": "Gazeta do Povo: Flávio abre sigilos ao TSE e cobra Lula a revelar gastos do cartão corporativo",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-abre-sigilos-tse-cobra-lula-gastos-cartao-corporativo/"
+    },
+    {
+     "titulo": "Estado de Minas: Datafolha divulga última pesquisa antes das eleições",
+     "url": "https://www.em.com.br/politica/2026/10/7526838-datafolha-divulga-ultima-pesquisa-antes-das-eleicoes.html"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Justiça",
+    "Detenção"
+   ],
+   "historia": "detencao-ice-tribunais",
+   "titulo": "Tribunal de apelação decide que imigrantes que entraram sem autorização não têm direito a pedir fiança",
+   "oque": "O 5º Circuito, em Nova Orleans, decidiu por 10 a 7 na sexta (23) que quem entrou nos EUA sem inspeção pode ficar preso pelo ICE durante todo o processo de deportação, sem audiência de fiança. A regra vale mesmo para quem vive no país há anos e não tem antecedentes. O caso envolvia três homens presos pela polícia do Texas que moravam nos EUA havia pelo menos 14 anos e têm filhos americanos.",
+   "contexto": "Desde julho de 2025, o governo trata todo preso pelo ICE como sujeito a detenção obrigatória; antes, quem já vivia no país podia pedir para responder em liberdade. Mais de 400 juízes federais, nomeados por presidentes dos dois partidos, rejeitaram essa leitura em mais de 5 mil casos, segundo o Politico, e os tribunais de apelação estão divididos. A decisão vale para Texas, Louisiana e Mississippi, mas pesa mais porque o governo transfere muitos detidos de outros estados para prisões no Texas.",
+   "lados": "O juiz Cory Wilson, autor do voto vencedor, escreveu que quem não foi admitido legalmente tem só os direitos que o Congresso definiu. O juiz Leslie Southwick, na divergência, disse que a decisão ergue um \"muro impenetrável\" entre a Constituição e residentes de longa data. Um advogado do DHS chamou o resultado de \"grande vitória\"; a defesa diz que o devido processo ficou \"oco\".",
+   "proximo": "A Suprema Corte já aceitou, neste mês, julgar outro caso sobre a mesma política, o que deve dar a palavra final para o país todo. A defesa ainda não decidiu se recorre. Vale observar como os juízes de primeira instância dos três estados vão tratar os pedidos de habeas corpus.",
+   "fontes": [
+    {
+     "titulo": "Texas Tribune: Immigrants in ICE custody don't have right to bond, court rules",
+     "url": "https://texastribune.org/2026/10/23/immigration-bond-detention-texas-court-ice-ruling-5th-circuit"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Geopolítica",
+    "Sanções"
+   ],
+   "historia": "eua-china-investimentos-ia",
+   "titulo": "EUA propõem barrar investimentos americanos em IA, biotecnologia e mísseis hipersônicos na China e na Rússia",
+   "oque": "O Departamento do Tesouro propôs uma regra que amplia as restrições a investimentos de americanos em setores de ponta de \"países de preocupação\": China, Rússia, Coreia do Norte, Irã e Cuba. Entram na lista IA (o texto fala em \"superinteligência\"), supercomputação, biotecnologia e sistemas hipersônicos, para aplicações acima de US$ 50 mil. Compras comuns de ações ficam de fora.",
+   "contexto": "O controle de investimentos para fora do país começou em 2023, por ordem executiva de Biden, focado em chips, computação quântica e IA na China. Em dezembro de 2025, o Congresso transformou o programa em lei e o ampliou. É a lógica do \"jardim pequeno, cerca alta\": em vez de cortar todo o comércio, Washington tenta impedir que capital e conhecimento americanos ajudem rivais em tecnologias com uso militar. Há uma ironia de timing: a Rússia entra na lista dias depois de Trump aliviar sanções ao diesel russo.",
+   "lados": "O governo diz que a medida protege a segurança nacional. A chancelaria chinesa disse que esticar demais o conceito de segurança nacional não serve a ninguém e prometeu \"medidas necessárias\". A trégua comercial entre os dois países foi prorrogada até janeiro.",
+   "proximo": "A regra ainda é proposta: o Tesouro vai receber comentários do público antes da versão final, sem prazo divulgado. Vale observar se a China responde com restrições próprias e se a medida entra na cúpula regional prevista na China em novembro.",
+   "fontes": [
+    {
+     "titulo": "PBS/AP: Treasury proposes rule to curb high-tech investments in China and other adversaries",
+     "url": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries"
+    },
+    {
+     "titulo": "Fortune: Treasury proposes rule to crack down on AI, biotech investments in China, Russia",
+     "url": "https://fortune.com/2026/10/23/treasury-china-russia-ai-biotech-investment-rule/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Diplomacia"
+   ],
+   "historia": "eleicao-brasil-reconhecimento",
+   "titulo": "Embaixadores em Brasília discutem reconhecer rápido o vencedor de domingo",
+   "texto": "Quatro embaixadores disseram à Reuters que querem se antecipar a quem tente declarar um vencedor antes do TSE; dois citaram o risco de Trump ou Milei contestarem uma vitória apertada de Lula. Não há plano formal; em 2022, EUA, UE e vizinhos reconheceram Lula em poucas horas.",
+   "fontes": [
+    {
+     "titulo": "Yahoo/Reuters: Foreign diplomats in Brazil discuss quick recognition of runoff winner",
+     "url": "https://www.yahoo.com/news/politics/articles/foreign-diplomats-brazil-discuss-quick-100424225.html"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Cidadania",
+    "Dados"
+   ],
+   "historia": "naturalizacao-queda",
+   "titulo": "Aprovações de cidadania americana despencam antes das eleições",
+   "texto": "O Washington Post calcula queda de 72% nas naturalizações; nos dados do USCIS para abril a junho, foram 57.697 aprovações, contra 241.326 um ano antes, e a fila subiu para 742 mil pedidos. O DHS diz que acabou com a \"aprovação automática\" da era Biden; críticos veem estratégia para frear novos eleitores.",
+   "fontes": [
+    {
+     "titulo": "Washington Post: 72 percent drop in approving new citizens leaves would-be voters in limbo",
+     "url": "https://www.washingtonpost.com/immigration/2026/10/23/with-citizenship-approvals-slowing-would-be-voters-are-left-limbo/"
+    },
+    {
+     "titulo": "Newsweek: Green card holders' citizenship approvals collapse before midterms",
+     "url": "https://www.newsweek.com/green-card-holders-citizenship-approvals-collapse-before-midterms-12607799"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Segurança de IA"
+   ],
+   "historia": "ftc-ia-investigacao",
+   "titulo": "Avaliadores externos acharam falhas no sistema que vigia os agentes de IA da OpenAI",
+   "texto": "METR e Redwood Research, com acesso interno à empresa de julho a agosto, acharam uma brecha que deixaria agentes esconderem centenas de ações do monitoramento e outra que daria ao Codex as permissões totais do usuário. A OpenAI diz ter corrigido tudo, mas os avaliadores não verificaram as correções e o relatório de 61 páginas só saiu em resumo, com trechos censurados pela empresa.",
+   "fontes": [
+    {
+     "titulo": "Yahoo/Reuters: External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+     "url": "https://tech.yahoo.com/ai/chatgpt/articles/ai-safety-group-metr-finds-160243600.html"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Tecnologia e IA",
+    "Educação"
+   ],
+   "historia": "nyc-ia-escolas",
+   "titulo": "Lista obtida pela Chalkbeat mostra os 38 programas com IA vetados nas escolas de Nova York",
+   "texto": "A lista inclui o tutor de leitura Amira, usado em mais de 200 escolas, ferramentas de tradução e o próprio chatbot da Secretaria de Educação feito com a Microsoft; o Gemini, do Google, também foi desligado para alunos. Algumas empresas dizem que nem usam IA generativa voltada ao aluno, e a secretaria promete revisar caso a caso.",
+   "fontes": [
+    {
+     "titulo": "Chalkbeat: NYC barred 38 AI tools in schools. Some companies say their products shouldn't be on the list",
+     "url": "https://www.chalkbeat.org/newyork/2026/10/23/nyc-schools-ai-ban-list-38-education-technology-products/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "NY/NJ",
+   "temas": [
+    "Rússia",
+    "Energia",
+    "Sanções",
+    "Nova York"
+   ],
+   "historia": "ucrania-diesel-trump-ue",
+   "titulo": "Primeiro navio com diesel russo do acordo Trump-Putin ruma para Nova York",
+   "texto": "O petroleiro Agioi Fanendes saiu de Primorsk com cerca de 40 mil toneladas de diesel e deve chegar em 7/11, quatro dias depois das midterms. Seria a primeira carga de diesel russo rastreada para os EUA desde 2023; Ucrânia e parte dos republicanos criticam o alívio de sanções.",
+   "fontes": [
+    {
+     "titulo": "Euronews: First Russian diesel shipment is heading to US under Trump-Putin deal",
+     "url": "https://www.euronews.com/2026/10/23/first-russian-diesel-shipment-is-heading-to-us-under-trump-putin-deal"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições",
+    "Suprema Corte"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Suprema Corte deixa New Hampshire barrar carteiras de estudante como documento para votar",
+   "texto": "Em decisão de emergência, a Corte suspendeu a ordem de um juiz que permitia considerar essas carteiras nas eleições de 3/11; a juíza Ketanji Brown Jackson discordou. O estado invocou o princípio de não mudar regras eleitorais perto da votação; grupos de eleitores dizem que a lei afeta sobretudo jovens.",
+   "fontes": [
+    {
+     "titulo": "Just Security: Early Edition, October 23, 2026",
+     "url": "https://www.justsecurity.org/161891/early-edition-october-23-2026/"
+    },
+    {
+     "titulo": "Valley News: NH student ID voting case at the Supreme Court",
+     "url": "https://vnews.com/2026/10/21/nh-student-id-voting-supreme-court/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Israel",
+    "Eleições"
+   ],
+   "historia": "israel-eleicao-2026",
+   "titulo": "Últimas pesquisas em Israel põem Eisenkot à frente, mas nenhum bloco chega a 61 cadeiras",
+   "texto": "Nas pesquisas finais dos canais 12, 13 e da Kan, o Yashar, de Gadi Eisenkot, tem 22 ou 23 cadeiras, contra 19 a 21 do Likud; o bloco de Netanyahu fica em 50 e a oposição entre 52 e 56. Os partidos árabes, com 14 a 16, podem decidir a conta; a eleição é na terça (27).",
+   "fontes": [
+    {
+     "titulo": "Times of Israel: Final polls before election show both blocs short of majority",
+     "url": "https://www.timesofisrael.com/liveblog_entry/final-polls-before-election-show-both-blocs-short-of-majority-small-parties-out-of-knesset/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Terrorismo",
+    "Oriente Médio"
+   ],
+   "historia": "jordania-ataque-igreja",
+   "titulo": "Ataque a uma igreja ortodoxa durante um funeral mata 7 na Jordânia",
+   "texto": "Atiradores abriram fogo contra o cortejo numa igreja grega ortodoxa em Karak, no sul do país, e feriram 34 pessoas; o governo atribui o ataque a extremistas e faz uma caçada aos suspeitos. Nenhum grupo havia assumido a autoria até a noite de sexta, e o rei Abdullah II prometeu a \"mais dura retaliação\".",
+   "fontes": [
+    {
+     "titulo": "CBS News: At least 7 killed in attack on Jordan church during funeral",
+     "url": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Quanto acerta a pesquisa de véspera?",
+  "texto": "A pesquisa de sábado é a mais próxima do voto, mas não é uma previsão exata. Em 2018, o Datafolha da véspera deu 55% a 45% para Bolsonaro, e o resultado foi 55,1% a 44,9%. Em 2022, deu 52% a 48% para Lula, e ele venceu por 50,9% a 49,1%: a vantagem real foi menos da metade da medida. Com margem de 2 pontos para cada candidato, uma disputa em 50% a 50% está dentro do erro, e quem se decide no último dia ou deixa de votar pode virar o jogo.",
+  "fontes": [
+   {
+    "titulo": "Estado de Minas: Datafolha divulga última pesquisa antes das eleições",
+    "url": "https://www.em.com.br/politica/2026/10/7526838-datafolha-divulga-ultima-pesquisa-antes-das-eleicoes.html"
+   }
+  ]
+ },
+ "nota": "Seguindo seus votos, dei peso a Brasil, IA e políticas de imigração com dados, e deixei Oriente Médio só em notas curtas. Não repeti os ataques em Ormuz, já cobertos ontem, e a ONU não teve novidade na sucessão de Guterres. Seu pedido sobre a Anthropic já foi atendido em 20/10; não houve texto novo do projeto desde então. As pesquisas finais de hoje saem depois do fechamento desta edição.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-24T10:59:19.926807+00:00"
+}
