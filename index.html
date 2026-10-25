@@ -168,11 +168,24 @@ function storyPanel(s){
   const map={oque:s.oque,contexto:s.contexto,lados:s.lados,proximo:s.proximo};
   return esc(map[t]||s.oque);
 }
+// Foto livre (Wikimedia Commons, Agência Brasil, governos) com crédito; sem foto, capa ilustrada do tema.
+const ICONE=Object.fromEntries(TEMAS.map(t=>[t.k,t.i]));
+function capaIlustrada(k){return `<div class="capa-ilus" data-sec="${k}" aria-hidden="true"><span>${SVG(ICONE[k]||ICONE.mundo)}</span></div>`}
+function capaHTML(s,k){
+  const im=s.imagem;
+  if(!im||!/^https:\/\//.test(im.url||''))return capaIlustrada(k);
+  const cred=[im.credito,im.licenca].filter(Boolean).map(esc).join(' · ');
+  return `<figure class="capa-foto" data-sec="${k}">
+    <img src="${esc(im.url)}" alt="${esc(im.alt||im.legenda||'')}" loading="lazy" decoding="async" onerror="this.closest('figure').outerHTML=capaIlustrada('${k}')">
+    <figcaption>${im.legenda?esc(im.legenda)+(im.arquivo?' <em>(imagem de arquivo)</em>':'')+'<br>':''}${im.pagina?`<a href="${esc(im.pagina)}" target="_blank" rel="noopener">${cred||'Crédito'}</a>`:cred}</figcaption>
+  </figure>`;
+}
 function storyHTML(ed,s){
   const k=secKey(s.secao);
   const tabs=[['oque','O que houve'],['contexto','Contexto'],['lados','Os lados'],['proximo','O que vem']].filter(([key])=>s[key]);
   const t=abas[s.id]||'oque';
   return `<article class="story fade" data-sec="${k}" data-id="${esc(s.id)}">
+    ${capaHTML(s,k)}
     <span class="tag">${esc(s.secao)}</span>
     <h4>${esc(s.titulo)}</h4>
     <div class="tabs" role="tablist">${tabs.map(([key,lab])=>`<button class="tab" role="tab" data-tab="${key}" aria-selected="${key===t}">${lab}</button>`).join('')}</div>

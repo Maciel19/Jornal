@@ -242,3 +242,21 @@ textarea{width:100%;min-height:84px;background:var(--bg);border:1.5px solid var(
 .dono .rodape button{display:none}
 
 .saudacao{font-family:var(--display);font-size:1.3rem;color:var(--accent);margin-bottom:-12px}
+
+/* capas dos destaques: foto livre com crédito ou ilustração do tema */
+.story{overflow:hidden}
+.capa-foto,.capa-ilus{margin:-20px -20px 4px;position:relative}
+.capa-foto img{display:block;width:100%;max-width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--soft)}
+.capa-foto figcaption{font-size:.72rem;line-height:1.4;color:var(--muted);padding:6px 20px 0}
+.capa-foto figcaption a{color:var(--muted)}
+.capa-ilus{aspect-ratio:16/6;max-width:none;display:grid;place-items:center;overflow:hidden;
+  background:
+    radial-gradient(circle at 18% 30%,color-mix(in srgb,var(--sc) 35%,transparent) 0 22%,transparent 23%),
+    radial-gradient(circle at 85% 80%,color-mix(in srgb,var(--sc) 25%,transparent) 0 30%,transparent 31%),
+    repeating-linear-gradient(135deg,color-mix(in srgb,var(--sc) 10%,var(--paper)) 0 14px,color-mix(in srgb,var(--sc) 16%,var(--paper)) 14px 28px)}
+.capa-ilus span{width:72px;height:72px;border-radius:22px;background:var(--sc);color:var(--paper);display:grid;place-items:center;box-shadow:0 8px 20px color-mix(in srgb,var(--sc) 40%,transparent)}
+.capa-ilus svg{width:38px;height:38px}
+@media (prefers-reduced-motion:no-preference){
+  .capa-foto img{transition:transform .6s ease} .story:hover .capa-foto img{transform:scale(1.03)}
+  .capa-ilus span{animation:flutua 4s ease-in-out infinite} @keyframes flutua{50%{transform:translateY(-5px)}}
+}
