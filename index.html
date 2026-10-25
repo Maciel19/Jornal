@@ -137,8 +137,8 @@ const TEMAS=[
 ];
 const KTEMAS='jornal-meus-temas', KNOME='jornal-nome';
 // Link personalizado: ?para=Nome guarda o nome da pessoa neste navegador
-let nome='';try{nome=localStorage.getItem(KNOME)||''}catch(e){}
-(()=>{const q=new URLSearchParams(location.search).get('para');if(!q)return;
+let nome='', veioDoLink=false;try{nome=localStorage.getItem(KNOME)||''}catch(e){}
+(()=>{const q=new URLSearchParams(location.search).get('para');if(!q)return;veioDoLink=true;
   const n=q.replace(/[^\p{L}\s'-]/gu,'').trim().slice(0,30);if(!n)return;
   nome=n.charAt(0).toUpperCase()+n.slice(1);try{localStorage.setItem(KNOME,nome)}catch(e){}
   history.replaceState(null,'',location.pathname)})();
@@ -169,6 +169,8 @@ function storyPanel(s){
   return esc(map[t]||s.oque);
 }
 // Foto livre (Wikimedia Commons, Agência Brasil, governos) com crédito; sem foto, capa ilustrada do tema.
+// Desligado por enquanto: troque para true para voltar a mostrar as capas.
+const MOSTRAR_CAPAS=false;
 const ICONE=Object.fromEntries(TEMAS.map(t=>[t.k,t.i]));
 function capaIlustrada(k){return `<div class="capa-ilus" data-sec="${k}" aria-hidden="true"><span>${SVG(ICONE[k]||ICONE.mundo)}</span></div>`}
 function capaHTML(s,k){
@@ -185,7 +187,7 @@ function storyHTML(ed,s){
   const tabs=[['oque','O que houve'],['contexto','Contexto'],['lados','Os lados'],['proximo','O que vem']].filter(([key])=>s[key]);
   const t=abas[s.id]||'oque';
   return `<article class="story fade" data-sec="${k}" data-id="${esc(s.id)}">
-    ${capaHTML(s,k)}
+    ${MOSTRAR_CAPAS?capaHTML(s,k):''}
     <span class="tag">${esc(s.secao)}</span>
     <h4>${esc(s.titulo)}</h4>
     <div class="tabs" role="tablist">${tabs.map(([key,lab])=>`<button class="tab" role="tab" data-tab="${key}" aria-selected="${key===t}">${lab}</button>`).join('')}</div>
@@ -321,7 +323,8 @@ Prefs.painel($('#sync'));
 $('#souEditor').addEventListener('click',()=>{document.documentElement.classList.add('editor-aberto');const r=$('#radar');r.open=true;r.scrollIntoView({behavior:'smooth'})});
 Prefs.ouvir(p=>{sincronizar(p);renderRadar();if(editions.length)render()});
 let prontas;
-if(!meus.length||new URLSearchParams(location.search).has('inicio'))abrirInicio();
+// O link com ?para=Nome sempre abre a tela de escolher os temas
+if(veioDoLink||!meus.length||new URLSearchParams(location.search).has('inicio'))abrirInicio();
 prontas=(async()=>{
   renderRadar();
   try{
