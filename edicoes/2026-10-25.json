@@ -14,11 +14,19 @@
    ],
    "historia": "eleicao-brasil-2026-segundo-turno",
    "titulo": "Brasil vota hoje no segundo turno com Flávio e Lula empatados tecnicamente nas últimas pesquisas",
-   "oque": "As urnas abrem às 8h e fecham às 17h de Brasília (7h às 16h em Nova York). O Datafolha de sábado (24), com 4.050 entrevistas, deu Flávio Bolsonaro (PL) com 51% dos votos válidos e Lula (PT) com 49%; a Quaest, divulgada logo depois, chegou ao mesmo placar. Nos votos totais do Datafolha, são 48% a 47%, e 95% dos eleitores dizem já estar decididos.",
+   "oque": "As urnas abrem às 8h e fecham às 17h de Brasília (7h às 16h em Nova York). O Datafolha de sábado (24), com 4.050 entrevistas, deu Flávio Bolsonaro (PL) com 51% dos votos válidos e Lula (PT) com 49%; a Quaest, divulgada logo depois, chegou ao mesmo placar. Nos votos totais do Datafolha, são 48% a 47%, e 95% dos eleitores dizem já estar decididos. Pela manhã, os dois votaram: Lula em São Bernardo do Campo (SP), dizendo que 'nunca viu' um segundo turno como este, e Flávio no Rio, por volta das 8h20, pedindo que ninguém deixe de votar. Os primeiros boletins de urna do exterior, de países da Ásia e da Oceania, mostram Flávio à frente no Japão e Lula na Nova Zelândia e na Austrália, mas são uma fração mínima do eleitorado e não indicam tendência.",
    "contexto": "Flávio venceu o 1º turno, em 4/10, com 47,03% dos válidos contra 45,16% de Lula, contrariando as pesquisas, que davam Lula à frente. O mapa é o da polarização de 2022: no Datafolha, Flávio tem 65% no Sul e 55% no Sudeste, e Lula, 67% no Nordeste e 60% entre os mais pobres. Para as relações internacionais, a Reuters resume o que está em jogo: uma vitória de Flávio aproximaria o Brasil dos EUA e da onda conservadora na região; um quarto mandato de Lula manteria o atrito com Washington sobre tarifas e o caso de Jair Bolsonaro, condenado em 2025 por tramar um golpe e que o filho promete libertar.",
    "lados": "A campanha de Flávio aposta no custo de vida, no endividamento das famílias e na segurança pública. A de Lula defende a queda da desigualdade e do desemprego e acusa Trump de tentar influenciar a eleição com tarifas, o que Washington nega. Os sinais divergem na reta final: o Datafolha mostrou Flávio passando de 50% a 50% para 51% a 49%, enquanto a Reuters descreve Lula encurtando a distância nas últimas semanas.",
    "proximo": "O TSE começa a divulgar a apuração às 17h de Brasília e costuma ter o resultado em poucas horas. O que observar: a abstenção (no 1º turno, os votos válidos foram 119,3 milhões), a diferença final em relação às pesquisas e se o derrotado reconhece o resultado. Embaixadas em Brasília já discutiam reconhecer o vencedor rapidamente.",
    "fontes": [
+    {
+     "titulo": "Estado de Minas: Lula e Flávio Bolsonaro votam no segundo turno das eleições 2026",
+     "url": "https://www.em.com.br/politica/2026/10/7527357-lula-e-flavio-bolsonaro-votam-no-segundo-turno-das-eleicoes-2026.html"
+    },
+    {
+     "titulo": "Times Brasil: primeiros boletins de urna do exterior",
+     "url": "https://timesbrasil.com.br/eleicoes-2026/exterior-votos-lula-flavio-bolsonaro-nova-zelandia-boletins-urna/"
+    },
     {
      "titulo": "Tribuna de Jundiaí: Datafolha mostra Flávio com 51% e Lula com 49% dos válidos na véspera",
      "url": "https://tribunadejundiai.com.br/politica/eleicoes-2026/pesquisa-datafolha-presidente-flavio-bolsonaro-lula-24-outubro-2026/"
@@ -477,5 +485,5 @@
  },
  "nota": "Edição ampliada para cobrir todas as seções do site. Seguindo seus votos, dei peso a Brasil, imigração com dados e IA (incluindo a lei de Nova Jersey sobre responsabilidade de agentes de IA, ligada ao seu pedido sobre regulação), e deixei Irã e Ucrânia em notas curtas. O ebola não teve novidade confirmada desde a atualização de ontem. Fotos de livre uso só foram confirmadas para o destaque do Brasil; os outros usam a capa ilustrada.",
  "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
- "geradoEm": "2026-10-25T15:43:13+00:00"
+ "geradoEm": "2026-10-25T15:44:01+00:00"
 }
