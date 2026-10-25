@@ -1,7 +1,7 @@
 {
  "data": "2026-10-25",
  "manchete": "O Brasil escolhe hoje entre Lula e Flávio com as últimas pesquisas em 51% a 49%, dentro da margem de erro; na França, 410 mil voltam às ruas, e nos EUA a ofensiva contra o voto de não cidadãos chega a quem pede cidadania",
- "abertura": "É dia de segundo turno no Brasil, numa disputa que Datafolha e Quaest tratam como empate técnico, e os brasileiros de Nova York também votam. Fora dele, a França vive o segundo fim de semana seguido de protestos em massa, e nos EUA a nove dias das eleições de meio de mandato a Justiça freia operações do governo contra supostos eleitores não cidadãos.",
+ "abertura": "É dia de segundo turno no Brasil, numa disputa que Datafolha e Quaest tratam como empate técnico, e os brasileiros de Nova York também votam. Fora dele, a França vive o segundo fim de semana seguido de protestos em massa, o Fed se prepara para decidir os juros na quarta e, nos EUA, a nove dias das midterms, a Justiça freia operações do governo contra supostos eleitores não cidadãos.",
  "atualizacoes": [],
  "destaques": [
   {
@@ -35,7 +35,16 @@
      "titulo": "TSE: Flávio Bolsonaro e Lula vão disputar o 2º turno",
      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica"
     }
-   ]
+   ],
+   "imagem": {
+    "url": "https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/pzzb8926.jpg",
+    "pagina": "https://agenciabrasil.ebc.com.br/es/foto/2026-10/segundo-turno-das-eleicoes-2026-1792936676-6",
+    "legenda": "Eleitores chegam para votar no segundo turno em um colégio de Águas Claras, no Distrito Federal, na manhã deste domingo (25).",
+    "alt": "Eleitores chegando a uma escola usada como seção eleitoral em Águas Claras, Distrito Federal",
+    "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil",
+    "licenca": "CC BY 3.0 BR",
+    "arquivo": false
+   }
   },
   {
    "id": "d2",
@@ -142,46 +151,6 @@
   },
   {
    "id": "n3",
-   "secao": "EUA",
-   "temas": [
-    "Comércio",
-    "Canadá",
-    "Midterms"
-   ],
-   "historia": "tarifas-canada-eua",
-   "titulo": "Trump tira a tarifa de 50% de produtos canadenses que pesam no Maine, e põe outros na lista",
-   "texto": "Saíram caixas de papelão, sacos plásticos, máquinas de embalagem, equipamentos de refrigeração e algas, pedidos pela senadora republicana Susan Collins, que disputa a reeleição no Maine; entraram xampu, piso vinílico, carpetes, caixões e aparelhos de ar-condicionado. Democratas chamam a medida de eleitoreira; a guerra comercial com o Canadá começou no fim de agosto, após o fracasso das negociações.",
-   "fontes": [
-    {
-     "titulo": "CBS News: Trump lifts 50% tariffs on some Canadian goods in boon to Maine Sen. Susan Collins",
-     "url": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/"
-    },
-    {
-     "titulo": "BNN Bloomberg: Trump to remove 50% tariffs on some Canadian goods",
-     "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/23/trump-to-remove-50-tariffs-on-some-canadian-goods-heres-what-we-know/"
-    }
-   ]
-  },
-  {
-   "id": "n4",
-   "secao": "NY/NJ",
-   "temas": [
-    "Nova York",
-    "Midterms",
-    "Eleições"
-   ],
-   "historia": "midterms-2026",
-   "titulo": "Votação antecipada em Nova York vai até 1º de novembro",
-   "texto": "O voto antecipado para a eleição de 3 de novembro começou no sábado (24), que também foi o último dia para se registrar. Cédulas pelo correio precisam ter carimbo postal até 3/11 e chegar até 10/11; a procuradoria do estado mantém um disque-denúncia eleitoral (1-866-390-2992).",
-   "fontes": [
-    {
-     "titulo": "NY Attorney General: 2026 election key dates and resources",
-     "url": "https://ag.ny.gov/index%2Ephp/election-key-dates"
-    }
-   ]
-  },
-  {
-   "id": "n5",
    "secao": "Brasil",
    "temas": [
     "Brasil e eleição",
@@ -203,7 +172,85 @@
    ]
   },
   {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Comércio",
+    "Canadá",
+    "Midterms"
+   ],
+   "historia": "tarifas-canada-eua",
+   "titulo": "Trump tira a tarifa de 50% de produtos canadenses que pesam no Maine, e põe outros na lista",
+   "texto": "Saíram caixas de papelão, sacos plásticos, máquinas de embalagem, equipamentos de refrigeração e algas, pedidos pela senadora republicana Susan Collins, que disputa a reeleição no Maine; entraram xampu, piso vinílico, carpetes, caixões e aparelhos de ar-condicionado. Democratas chamam a medida de eleitoreira; a guerra comercial com o Canadá começou no fim de agosto, após o fracasso das negociações.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Trump lifts 50% tariffs on some Canadian goods in boon to Maine Sen. Susan Collins",
+     "url": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/"
+    },
+    {
+     "titulo": "BNN Bloomberg: Trump to remove 50% tariffs on some Canadian goods",
+     "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/23/trump-to-remove-50-tariffs-on-some-canadian-goods-heres-what-we-know/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Midterms",
+    "Eleições"
+   ],
+   "historia": "ice-locais-de-votacao",
+   "titulo": "A nove dias das midterms, cresce a pressão para manter o ICE longe dos locais de votação",
+   "texto": "Uma lei federal de 1865 proíbe agentes federais armados em seções eleitorais, salvo para manter a ordem; o secretário de Segurança Interna, Markwayne Mullin, disse em setembro que o ICE não patrulhará as urnas, mas pode ir se houver ameaça ou mandado a cumprir. Human Rights Watch e Anistia Internacional pediram uma proibição formal, depois que agentes foram vistos perto de seções nas primárias no Texas e na Califórnia.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Will ICE agents play a role in the 2026 US midterm elections?",
+     "url": "https://aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections"
+    }
+   ]
+  },
+  {
    "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "Juros",
+    "Inflação",
+    "EUA",
+    "Fed"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "Fed se reúne na terça e na quarta, com mercado esperando pausa e viés de alta",
+   "texto": "Os juros estão entre 3,75% e 4% ao ano, e o mercado via cerca de 80% de chance de manutenção na reunião de 27 e 28 de outubro, a primeira grande decisão desde que a inflação de setembro veio acima do esperado. Analistas como os da PIMCO esperam um tom duro de Kevin Warsh, presidente do Fed desde junho, e uma possível alta de 0,25 ponto em dezembro.",
+   "fontes": [
+    {
+     "titulo": "PIMCO (via Advisor Perspectives): October Fed Meeting Preview: A Pause Is Still a Recalibration",
+     "url": "https://www.advisorperspectives.com/commentaries/2026/10/23/pause-still-recalibration?topic=retirement-income"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Câmbio",
+    "Inflação",
+    "Brasil e eleição"
+   ],
+   "historia": "mercado-brasil-eleicao",
+   "titulo": "Dólar fecha abaixo de R$ 5 e prévia da inflação desacelera no último pregão antes do 2º turno",
+   "texto": "Na sexta (23), o IPCA-15 de outubro subiu 0,32%, contra 0,70% em setembro, mas em 12 meses (4,62%) segue acima do teto da meta, de 4,5%. O dólar caiu 1,58% na semana e fechou abaixo de R$ 5, e o Ibovespa terminou em 205.083 pontos; a reação ao resultado das urnas é o que o mercado observa na segunda.",
+   "fontes": [
+    {
+     "titulo": "Mix Vale: Dólar cai abaixo de R$ 5 com desaceleração do IPCA-15 e Ibovespa sobe antes do 2º turno",
+     "url": "https://www.mixvale.com.br/2026/10/24/dolar-comercial-cai-abaixo-de-r-5-com-desaceleracao-do-ipca-15-e-ibovespa-sobe-antes-do-segundo-turno/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
    "secao": "Tecnologia",
    "temas": [
     "Tecnologia e IA",
@@ -224,7 +271,7 @@
    ]
   },
   {
-   "id": "n7",
+   "id": "n9",
    "secao": "Tecnologia",
    "temas": [
     "Tecnologia e IA",
@@ -233,11 +280,183 @@
    ],
    "historia": "ia-biosseguranca-reino-unido",
    "titulo": "Reino Unido planeja um laboratório nacional de biossegurança em IA, com OpenAI, Anthropic e Google DeepMind",
-   "texto": "O projeto, noticiado pela BBC, reúne as três maiores empresas de IA em torno de um dos riscos que mais preocupam reguladores: o uso de modelos para facilitar ameaças biológicas. Detalhes de orçamento e prazos ainda não foram confirmados por fontes primárias.",
+   "texto": "O governo britânico prometeu cerca de 100 milhões em verba pública para o laboratório (os relatos divergem entre libras e euros), e OpenAI e Anthropic vão contribuir com créditos de uso de seus modelos; a Google DeepMind e a Basecamp Research também participam. A meta é usar IA para detectar e monitorar ameaças biológicas, um dos riscos que mais preocupam reguladores.",
    "fontes": [
     {
      "titulo": "BBC: UK plans national AI Biosecurity Lab",
      "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo"
+    },
+    {
+     "titulo": "Business Standard: UK vows funding for biosecurity lab with OpenAI, Anthropic and Google",
+     "url": "https://www.business-standard.com/amp/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Midterms",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Votação antecipada em Nova York vai até 1º de novembro",
+   "texto": "O voto antecipado para a eleição de 3 de novembro começou no sábado (24), que também foi o último dia para se registrar. Cédulas pelo correio precisam ter carimbo postal até 3/11 e chegar até 10/11; a procuradoria do estado mantém um disque-denúncia eleitoral (1-866-390-2992).",
+   "fontes": [
+    {
+     "titulo": "NY Attorney General: 2026 election key dates and resources",
+     "url": "https://ag.ny.gov/index%2Ephp/election-key-dates"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Tecnologia e IA",
+    "Regulação"
+   ],
+   "historia": "nj-lei-responsabilidade-ia",
+   "titulo": "Nova Jersey discute lei que responsabiliza empresas por crimes cometidos por agentes de IA",
+   "texto": "O projeto do deputado estadual Andrew Macurdy (democrata) prevê responsabilidade objetiva de donos e desenvolvedores quando um produto de IA fizer algo que seria crime se feito por uma pessoa, com multas de até US$ 5 milhões por violação. A comissão de tecnologia da Assembleia fez audiência nesta semana, sem votação; a associação empresarial do estado diz que o texto pode sufocar empresas menores. É a versão estadual do debate que a Anthropic levou ao Congresso.",
+   "fontes": [
+    {
+     "titulo": "NJ Spotlight News: Lawmakers want NJ to lead the way on holding AI firms liable for harm",
+     "url": "https://www.njspotlightnews.org/2026/10/lawmakers-want-nj-to-lead-the-way-on-holding-ai-firms-liable-for-harm/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Saúde",
+    "Obamacare"
+   ],
+   "historia": "aca-premios-2027",
+   "titulo": "Planos do Obamacare em Nova Jersey vão subir quase 20% em 2027",
+   "texto": "A alta média antes de subsídios será de 19,8%, depois de 15,9% em 2026, puxada pelo fim dos subsídios ampliados da pandemia no fim de 2025 e pelo custo de remédios. A inscrição vai de 1º de novembro a 31 de janeiro.",
+   "fontes": [
+    {
+     "titulo": "NJ Spotlight News: Por segundo año consecutivo, el seguro médico de la ACA costará mucho más",
+     "url": "https://www.njspotlightnews.org/2026/10/por-segundo-ano-consecutivo-el-seguro-medico-de-la-aca-costara-mucho-mas/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "ONU",
+   "temas": [
+    "Sudão",
+    "Direitos humanos",
+    "Crise humanitária"
+   ],
+   "historia": "sudao-guerra",
+   "titulo": "ONU contabiliza 306 mortos por ataques de drones no Sudão em três semanas",
+   "texto": "Segundo o escritório de direitos humanos da ONU, Exército e Forças de Apoio Rápido (RSF) atingiram casas, mercados, hospitais e abrigos de deslocados nas três primeiras semanas de outubro; o pior caso foi um ataque duplo a um caminhão em Kordofan Ocidental, com ao menos 139 mortos. Volker Türk chamou a escalada de 'profundamente perturbadora', e o Conselho de Segurança condenou o ataque a um mercado em Abyei, que deixou mais de 80 mortos.",
+   "fontes": [
+    {
+     "titulo": "UN News: Sudan: Drone strikes killed at least 306 people in three weeks",
+     "url": "https://news.un.org/en/story/2026/10/1168661"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Secretário-geral",
+    "Golfo"
+   ],
+   "historia": "sucessao-secretario-geral-onu",
+   "titulo": "Candidata dos Emirados à chefia da ONU ganha apoio do Golfo e de Chipre",
+   "texto": "Lana Nusseibeh, lançada na quarta (21) depois de seguidas votações sem consenso no Conselho de Segurança, recebeu o apoio unânime do Conselho de Cooperação do Golfo e do governo cipriota. Na última votação indicativa, todos os sete candidatos anteriores tiveram rejeição de ao menos dois membros permanentes, que têm poder de veto.",
+   "fontes": [
+    {
+     "titulo": "Cyprus Mail: Cyprus throws weight behind UAE's Nusseibeh for UN secretary-general",
+     "url": "https://cyprus-mail.com/2026/10/23/cyprus-throws-weight-behind-uaes-nusseibeh-for-un-secretary-general"
+    },
+    {
+     "titulo": "ABC News (AP): Latest vote shows no candidate for UN chief has the required support of all five key powers",
+     "url": "https://abcnews.com/US/wireStory/latest-vote-shows-candidate-chief-required-support-key-137340089"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Sarampo",
+    "EUA"
+   ],
+   "historia": "sarampo-eua-2026",
+   "titulo": "Sarampo chega a 4.588 casos nos EUA, mais que o dobro de 2025",
+   "texto": "O CDC registrou 178 casos novos na última semana; só a Pensilvânia soma 1.338 casos em 44 condados, quase 30% do total, e cinco mortes, com uma sexta em investigação (o CDC reconhece três no país). Especialistas dizem que os EUA devem perder ainda este ano o status de país livre do sarampo, obtido em 2000.",
+   "fontes": [
+    {
+     "titulo": "CIDRAP: US measles cases hit 4,588, more than twice last year's total",
+     "url": "https://www.cidrap.umn.edu/measles/us-measles-cases-hit-4588-more-twice-last-year-s-total"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "bilheteria-eua",
+   "titulo": "'Clayface' estreia em 1º nos EUA, mas documentário sobre Elizabeth Holmes chega perto",
+   "texto": "Pelas estimativas de fim de semana, o terror da DC 'Clayface', primeiro filme da Warner sob o controle da Skydance, lidera com mais de US$ 24 milhões, e 'You Can See Everything', de Nathan Fielder e Lance Oppenheim sobre a fundadora da Theranos antes de ir para a prisão, faz perto de US$ 20 milhões ao se expandir para 2.655 salas. É um resultado raro para um documentário, distribuído pela A24; os números finais saem na segunda.",
+   "fontes": [
+    {
+     "titulo": "Deadline: Box Office: 'Clayface' No 1 With $24M+, 'You Can See Everything' At Near $20M",
+     "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/"
+    },
+    {
+     "titulo": "Forbes: 'You Can See Everything' eyes $20 million in second weekend",
+     "url": "https://forbes.com/sites/timlammers/2026/10/23/you-can-see-everything-eyes-19-million-in-second-weekend-as-film-expands-to-wide-release"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Palmeiras vence o Bragantino e assume a liderança do Brasileirão",
+   "texto": "O 2 a 0 em Barueri, com gols de Mauricio (de pênalti) e Giay, levou o Palmeiras a 69 pontos, dois à frente do Flamengo, que joga na segunda (26) contra o Atlético-MG no Maracanã e pode retomar a ponta. Pela 33ª rodada, o Palmeiras visita o Santos na quarta (28).",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Palmeiras vence o Bragantino, assume a liderança do Brasileirão e seca o Flamengo",
+     "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bragantino-32-rodada-brasileirao-24-10-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "Esportes",
+   "temas": [
+    "Beisebol",
+    "MLB",
+    "EUA"
+   ],
+   "historia": "world-series-2026",
+   "titulo": "Brewers viram contra os Rays e abrem 2 a 0 na World Series",
+   "texto": "Milwaukee perdia por 4 a 0 no primeiro inning e venceu por 5 a 4 no sábado (24), com home run de Sal Frelick e rebatida decisiva do novato Cooper Pratt. A série vai para St. Petersburg, na Flórida, com o jogo 3 na segunda (26); historicamente, quem abre 2 a 0 ganha o título em cerca de 80% das vezes.",
+   "fontes": [
+    {
+     "titulo": "MLB.com: Brewers win World Series Game 2",
+     "url": "https://www.mlb.com/news/brewers-win-world-series-game-2-2026"
     }
    ]
   }
@@ -256,7 +475,7 @@
    }
   ]
  },
- "nota": "Seguindo seus votos, dei peso a Brasil, imigração com dados e IA, e deixei Irã e Ucrânia em notas curtas. Seu pedido sobre a Anthropic já foi atendido em edições anteriores; o ebola não teve novidade confirmada desde ontem, e Tecnologia ficou mais curta por falta de notícias novas e verificáveis.",
+ "nota": "Edição ampliada para cobrir todas as seções do site. Seguindo seus votos, dei peso a Brasil, imigração com dados e IA (incluindo a lei de Nova Jersey sobre responsabilidade de agentes de IA, ligada ao seu pedido sobre regulação), e deixei Irã e Ucrânia em notas curtas. O ebola não teve novidade confirmada desde a atualização de ontem. Fotos de livre uso só foram confirmadas para o destaque do Brasil; os outros usam a capa ilustrada.",
  "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
- "geradoEm": "2026-10-25T11:26:31+00:00"
+ "geradoEm": "2026-10-25T15:43:13+00:00"
 }
