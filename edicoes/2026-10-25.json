@@ -1,0 +1,262 @@
+{
+ "data": "2026-10-25",
+ "manchete": "O Brasil escolhe hoje entre Lula e Flávio com as últimas pesquisas em 51% a 49%, dentro da margem de erro; na França, 410 mil voltam às ruas, e nos EUA a ofensiva contra o voto de não cidadãos chega a quem pede cidadania",
+ "abertura": "É dia de segundo turno no Brasil, numa disputa que Datafolha e Quaest tratam como empate técnico, e os brasileiros de Nova York também votam. Fora dele, a França vive o segundo fim de semana seguido de protestos em massa, e nos EUA a nove dias das eleições de meio de mandato a Justiça freia operações do governo contra supostos eleitores não cidadãos.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Pesquisas",
+    "Relações Brasil-EUA"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Brasil vota hoje no segundo turno com Flávio e Lula empatados tecnicamente nas últimas pesquisas",
+   "oque": "As urnas abrem às 8h e fecham às 17h de Brasília (7h às 16h em Nova York). O Datafolha de sábado (24), com 4.050 entrevistas, deu Flávio Bolsonaro (PL) com 51% dos votos válidos e Lula (PT) com 49%; a Quaest, divulgada logo depois, chegou ao mesmo placar. Nos votos totais do Datafolha, são 48% a 47%, e 95% dos eleitores dizem já estar decididos.",
+   "contexto": "Flávio venceu o 1º turno, em 4/10, com 47,03% dos válidos contra 45,16% de Lula, contrariando as pesquisas, que davam Lula à frente. O mapa é o da polarização de 2022: no Datafolha, Flávio tem 65% no Sul e 55% no Sudeste, e Lula, 67% no Nordeste e 60% entre os mais pobres. Para as relações internacionais, a Reuters resume o que está em jogo: uma vitória de Flávio aproximaria o Brasil dos EUA e da onda conservadora na região; um quarto mandato de Lula manteria o atrito com Washington sobre tarifas e o caso de Jair Bolsonaro, condenado em 2025 por tramar um golpe e que o filho promete libertar.",
+   "lados": "A campanha de Flávio aposta no custo de vida, no endividamento das famílias e na segurança pública. A de Lula defende a queda da desigualdade e do desemprego e acusa Trump de tentar influenciar a eleição com tarifas, o que Washington nega. Os sinais divergem na reta final: o Datafolha mostrou Flávio passando de 50% a 50% para 51% a 49%, enquanto a Reuters descreve Lula encurtando a distância nas últimas semanas.",
+   "proximo": "O TSE começa a divulgar a apuração às 17h de Brasília e costuma ter o resultado em poucas horas. O que observar: a abstenção (no 1º turno, os votos válidos foram 119,3 milhões), a diferença final em relação às pesquisas e se o derrotado reconhece o resultado. Embaixadas em Brasília já discutiam reconhecer o vencedor rapidamente.",
+   "fontes": [
+    {
+     "titulo": "Tribuna de Jundiaí: Datafolha mostra Flávio com 51% e Lula com 49% dos válidos na véspera",
+     "url": "https://tribunadejundiai.com.br/politica/eleicoes-2026/pesquisa-datafolha-presidente-flavio-bolsonaro-lula-24-outubro-2026/"
+    },
+    {
+     "titulo": "ND Mais: Última pesquisa Datafolha e Quaest",
+     "url": "https://ndmais.com.br/politica/ultima-pesquisa-datafolha-quaest-lula-flavio/"
+    },
+    {
+     "titulo": "Reuters (via ThePrint): Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr",
+     "url": "https://theprint.in/world/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr/3080990/"
+    },
+    {
+     "titulo": "TSE: Flávio Bolsonaro e Lula vão disputar o 2º turno",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Cidadania",
+    "Midterms",
+    "Justiça"
+   ],
+   "historia": "voto-nao-cidadaos-eua",
+   "titulo": "A ofensiva contra o voto de não cidadãos chega a quem pede cidadania, e uma juíza freia operações do DHS em nove estados",
+   "oque": "Na Califórnia, promotores federais acusaram 28 portadores de green card de votar ou se registrar ilegalmente; a maioria tinha pedido a cidadania, e 22 respondem por crimes como mentir no pedido de naturalização, punível com até 10 anos de prisão. Na quarta (21), a juíza federal Araceli Martinez-Olguin mandou o DHS suspender, em nove estados, incluindo Califórnia e Nova York, as operações de campo ligadas às eleições quando envolverem pessoas que provavelmente são cidadãs.",
+   "contexto": "Os casos da Califórnia saíram de uma auditoria de fraude em benefícios feita pelo DHS em agosto. Segundo a AP, alguns acusados dizem que nunca votaram ou que se registraram por engano, como um homem que teria se declarado cidadão ao se registrar em 2007. A ofensiva vem junto com a desaceleração da naturalização: de abril a junho de 2026, foram aprovados 58 mil pedidos, menos de um quarto do mesmo período de 2025. A juíza viu provável violação da Lei de Direitos de Voto, que proíbe intimidar quem ajuda outros a votar, e apontou alta chance de erro nas listas do DHS, montadas com dados públicos e comerciais.",
+   "lados": "O governo diz que protege o voto dos cidadãos; o DHS afirma estar focado em 'identificar, processar e remover estrangeiros que votam' e nega planos de investigar cidadãos. Críticos e o governo da Califórnia dizem que o voto de não cidadãos é raro, nunca mudou um resultado e que os números federais estão inflados. O Departamento de Justiça diz ter acusado 156 pessoas por fraude eleitoral desde o início do governo.",
+   "proximo": "A decisão vale até o fechamento das urnas em 3 de novembro, mas ficou suspensa até a tarde de sexta (23) para o governo poder recorrer; até a última apuração, não estava claro se houve recurso. Vale observar se os processos da Califórnia vão travar pedidos de cidadania e se o tema pesa nos distritos com muitos eleitores imigrantes.",
+   "fontes": [
+    {
+     "titulo": "AP (via ClickOrlando): Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown",
+     "url": "https://www.clickorlando.com/news/politics/2026/10/23/immigrants-seeking-us-citizenship-targeted-in-trump-administrations-illegal-voting-crackdown/"
+    },
+    {
+     "titulo": "CBS News: Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters",
+     "url": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Europa",
+    "França",
+    "Protestos"
+   ],
+   "historia": "protestos-franca-2026",
+   "titulo": "França tem o segundo sábado seguido de protestos em massa, e o governo põe 70 mil policiais nas ruas",
+   "oque": "Segundo o Ministério do Interior, 410 mil pessoas protestaram no sábado (24) em todo o país; os sindicatos dizem que foi o dobro. Em Paris, ao menos 110 mil marcharam contra o custo de vida e a desigualdade, e depois a polícia usou gás lacrimogêneo e jatos d'água contra cerca de 500 jovens encapuzados. Houve confrontos em Marselha, Lyon, Bordeaux, Lille, Nantes, Toulouse e outras cidades, e o governo falou em quase mil detidos.",
+   "contexto": "O movimento começou no mês passado com pequenos protestos de estudantes da periferia de Paris contra as condições das escolas e virou uma revolta contra a política econômica. No sábado anterior (17), houve saques e milhares de lojas danificadas, e os protestos chegaram à Bélgica, à Itália e à Albânia. O pano de fundo é o fim de ciclo de Emmanuel Macron, cujo mandato termina em 2027, enquanto o Reunião Nacional, de extrema direita, fazia congresso em Orléans no mesmo sábado.",
+   "lados": "O ministro do Interior, Laurent Nuñez, culpa ativistas de extrema esquerda e gangues pela violência, cita grupos de extrema direita em Nice e Montpellier e diz que os confrontos foram menores graças à preparação. Os sindicatos e a esquerda dizem que a raiz é social; Jean-Luc Mélenchon prevê protestos semanais até Macron responder ao mal-estar. Entidades empresariais pediram que o comércio ficasse fechado.",
+   "proximo": "Não há anúncio de mudança de política pelo governo. O que observar: se os protestos mantêm o ritmo semanal, se Macron faz algum gesto econômico e se o contágio para países vizinhos cresce.",
+   "fontes": [
+    {
+     "titulo": "Reuters (via The Spokesman-Review): Violence flares in Paris after largely peaceful protests across France",
+     "url": "https://www.spokesman.com/stories/2026/oct/24/violence-flares-in-paris-after-largely-peaceful-pr/"
+    },
+    {
+     "titulo": "France 24: Nearly 1,000 arrests on the sidelines of Saturday's protests, says government",
+     "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence"
+    },
+    {
+     "titulo": "Euronews: Clashes between French police and protesters after largely peaceful demonstrations",
+     "url": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "EUA",
+    "Golfo",
+    "Petróleo"
+   ],
+   "historia": "ira-ormuz-navios",
+   "titulo": "Irã diz que não aceitará navios de guerra dos EUA no Golfo, e Washington tira diplomatas da Arábia Saudita",
+   "texto": "O chefe do Estado-Maior iraniano, Ali Abdollahi, disse que navios militares americanos não serão permitidos no Golfo 'em nenhuma circunstância', depois que o diretor de Inteligência Nacional, Jay Clayton, alertou que planos iranianos contra americanos na região estão em 'estágio avançado'. O Departamento de Estado mandou sair os diplomatas não essenciais da Arábia Saudita; o embaixador Tom Barrack falou em ataque ao Irã 'neste fim de semana', mas Trump tem dito que esperaria as eleições de 3/11, e o Brent passou de US$ 117 na sexta (23).",
+   "fontes": [
+    {
+     "titulo": "CBS News: Iran warns that U.S. military not allowed in Gulf 'under any circumstance' (ao vivo)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+    },
+    {
+     "titulo": "ISW/CTP: Iran Update, October 24, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-october-24-2026-6add17463a4cf"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "Negociações de paz"
+   ],
+   "historia": "ucrania-negociacoes",
+   "titulo": "Rússia e Ucrânia fazem cessar-fogo local em Oleshky, negociado com ajuda de Melania Trump",
+   "texto": "A trégua na cidade ocupada da região de Kherson começa na terça (27), às 4h locais, para levar comida e retirar os cerca de 2 mil moradores que restam, a maioria idosos; a nova rodada de negociações a três deve ocorrer em Abu Dhabi na primeira metade de novembro. O impasse de fundo continua: Moscou exige todo o Donbas e Kiev se recusa a ceder território.",
+   "fontes": [
+    {
+     "titulo": "The Moscow Times: Russia, Ukraine agree on ceasefire in embattled Oleshky, plan new peace talks next month",
+     "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069"
+    },
+    {
+     "titulo": "AP (via MPR News): Ukraine and Russia eye new peace talks, but steep obstacles remain",
+     "url": "https://www.mprnews.org/story/2026/10/24/ukraine-and-russia-eye-new-peace-talks-but-steep-obstacles-remain"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Comércio",
+    "Canadá",
+    "Midterms"
+   ],
+   "historia": "tarifas-canada-eua",
+   "titulo": "Trump tira a tarifa de 50% de produtos canadenses que pesam no Maine, e põe outros na lista",
+   "texto": "Saíram caixas de papelão, sacos plásticos, máquinas de embalagem, equipamentos de refrigeração e algas, pedidos pela senadora republicana Susan Collins, que disputa a reeleição no Maine; entraram xampu, piso vinílico, carpetes, caixões e aparelhos de ar-condicionado. Democratas chamam a medida de eleitoreira; a guerra comercial com o Canadá começou no fim de agosto, após o fracasso das negociações.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Trump lifts 50% tariffs on some Canadian goods in boon to Maine Sen. Susan Collins",
+     "url": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/"
+    },
+    {
+     "titulo": "BNN Bloomberg: Trump to remove 50% tariffs on some Canadian goods",
+     "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/23/trump-to-remove-50-tariffs-on-some-canadian-goods-heres-what-we-know/"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Midterms",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Votação antecipada em Nova York vai até 1º de novembro",
+   "texto": "O voto antecipado para a eleição de 3 de novembro começou no sábado (24), que também foi o último dia para se registrar. Cédulas pelo correio precisam ter carimbo postal até 3/11 e chegar até 10/11; a procuradoria do estado mantém um disque-denúncia eleitoral (1-866-390-2992).",
+   "fontes": [
+    {
+     "titulo": "NY Attorney General: 2026 election key dates and resources",
+     "url": "https://ag.ny.gov/index%2Ephp/election-key-dates"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Brasileiros no exterior",
+    "Nova York"
+   ],
+   "historia": "eleicao-brasil-exterior",
+   "titulo": "Brasileiros nos EUA votam hoje, depois de uma abstenção de 72% no 1º turno",
+   "texto": "Os EUA têm 265 mil eleitores brasileiros, o maior eleitorado no exterior; no 1º turno, só 75 mil votaram, e em Nova York foram 10.134 de 38.953 aptos (abstenção de 74%). No total do exterior, Lula teve 47,6% dos válidos e Flávio, 43,5%.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: 6 em cada 10 brasileiros no exterior não votaram no 1º turno",
+     "url": "https://www.cnnbrasil.com.br/internacional/votos-exterior-primeiro-turno/"
+    },
+    {
+     "titulo": "CNN Brasil: Eleitorado no exterior cresce 358% em cinco eleições",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/eleitorado-no-exterior-cresce-358-em-cinco-eleicoes-veja-ranking/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Segurança de IA"
+   ],
+   "historia": "ia-seguranca-treino",
+   "titulo": "OpenAI passa a treinar seus modelos mais avançados sem acesso à internet ao vivo",
+   "texto": "A empresa diz ter criado um ambiente de web offline, com páginas em cache, para treinar modelos de fronteira sem que eles acessem a internet real. A preocupação de fundo é que modelos cada vez mais capazes ajam fora do previsto durante o treino, tema que já está sob investigação da FTC nos EUA.",
+   "fontes": [
+    {
+     "titulo": "OpenAI: Securing our frontier model training environment",
+     "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
+    {
+     "titulo": "Techmeme: resumo de 24/10/2026",
+     "url": "https://techmeme.com/index.html"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Biossegurança",
+    "Reino Unido"
+   ],
+   "historia": "ia-biosseguranca-reino-unido",
+   "titulo": "Reino Unido planeja um laboratório nacional de biossegurança em IA, com OpenAI, Anthropic e Google DeepMind",
+   "texto": "O projeto, noticiado pela BBC, reúne as três maiores empresas de IA em torno de um dos riscos que mais preocupam reguladores: o uso de modelos para facilitar ameaças biológicas. Detalhes de orçamento e prazos ainda não foram confirmados por fontes primárias.",
+   "fontes": [
+    {
+     "titulo": "BBC: UK plans national AI Biosecurity Lab",
+     "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Ninguém virou um 2º turno presidencial no Brasil, até hoje",
+  "texto": "Desde 1989, todos os candidatos que lideraram o 1º turno venceram o 2º: Collor (1989), Lula (2002 e 2006), Dilma (2010 e 2014), Bolsonaro (2018) e Lula (2022). Desta vez quem lidera é Flávio, com 47% a 45%, e é Lula quem tenta quebrar a escrita. As disputas mais apertadas foram 2014 (51,6% a 48,4%) e 2022 (50,9% a 49,1%), o que mostra que viradas de 2 pontos são possíveis, mas nunca aconteceram.",
+  "fontes": [
+   {
+    "titulo": "Reuters (via ThePrint): Brazil heads to polls in runoff",
+    "url": "https://theprint.in/world/brazil-heads-to-polls-in-runoff-between-leftist-lula-and-bolsonaro-jr/3080990/"
+   },
+   {
+    "titulo": "TSE: resultado do 1º turno de 2026",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica"
+   }
+  ]
+ },
+ "nota": "Seguindo seus votos, dei peso a Brasil, imigração com dados e IA, e deixei Irã e Ucrânia em notas curtas. Seu pedido sobre a Anthropic já foi atendido em edições anteriores; o ebola não teve novidade confirmada desde ontem, e Tecnologia ficou mais curta por falta de notícias novas e verificáveis.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-25T11:26:31+00:00"
+}
