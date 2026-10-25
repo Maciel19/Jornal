@@ -13,6 +13,29 @@
 <script src="controle.js"></script>
 </head>
 <body>
+<section class="inicio" id="inicio" hidden aria-labelledby="inicioT">
+  <div class="inicio-in">
+    <span class="marca entra">Jornal do Caique</span>
+    <h1 id="inicioT" class="entra" style="animation-delay:.05s"><span class="ola">Olá!</span><br>Qual será o tema das suas notícias?</h1>
+    <p class="sub entra" style="animation-delay:.1s">Escolha quantos quiser. Dá para mudar depois.</p>
+    <div class="temas-grid" id="temasGrid" role="group" aria-label="Temas"></div>
+  </div>
+</section>
+<div class="inicio-bar" id="inicioBar" hidden>
+  <div class="inicio-bar-in">
+    <button class="todos" id="todos" type="button">Escolher todos</button>
+    <span class="contagem" id="contagem" aria-live="polite">Nenhum tema escolhido</span>
+    <button class="iniciar" id="iniciar" type="button" disabled>Iniciar <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 10h12M11 5l5 5-5 5"/></svg></button>
+  </div>
+</div>
+<div class="montando" id="montando" hidden role="status">
+  <div class="montando-in">
+    <svg class="globo" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="24" cy="24" r="19"/><ellipse cx="24" cy="24" rx="8" ry="19"/><path d="M5 24h38M8 14h32M8 34h32"/></svg>
+    <div class="passo" id="passo">Montando seu jornal…</div>
+    <div class="pontos" id="pontos"></div>
+  </div>
+</div>
+<div class="toast" id="toast" hidden role="status"><span>Chegou uma edição nova</span><button type="button" id="toastBtn">Ver agora</button></div>
 <div id="progress" aria-hidden="true"></div>
 <div class="wrap">
   <header class="mast">
@@ -22,8 +45,9 @@
         <div class="dateline" id="dateline">Nova York</div>
       </div>
       <nav class="nav" aria-label="Páginas">
+        <button class="mudar-temas" id="mudarTemas" type="button">Mudar temas</button>
         <a href="./" aria-current="page">Jornal</a>
-        <a href="pautas.html">Pautas Atlas</a>
+        <a href="pautas.html" class="so-dono">Pautas Atlas</a>
       </nav>
     </div>
     <div class="tools" role="group" aria-label="Ajustes de leitura">
@@ -85,6 +109,7 @@
     </div>
   </details>
 </div>
+<footer class="rodape"><p>Resumos feitos com ajuda de IA a partir das fontes citadas. Confira sempre os links originais.</p><button type="button" id="souEditor">Área do editor</button></footer>
 <button class="top" id="toTop" hidden aria-label="Voltar ao topo">↑</button>
 
 <script>
@@ -92,7 +117,23 @@ const {$,esc,slug,secKey,fmtDate,minutos,srcLinks}=J;
 const ICON={up:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5"/></svg>',
 down:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M8 3v10M3.5 8.5 8 13l4.5-4.5"/></svg>',
 pin:'<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="8" cy="6.5" r="3.2"/><path d="M8 9.7V15"/></svg>'};
-const SEC_NAMES={brasil:'Brasil',eua:'EUA',mundo:'Mundo',onu:'ONU',tecnologia:'Tecnologia',imigracao:'Imigração','ny-nj':'NY/NJ',outros:'Outros'};
+const SEC_NAMES={brasil:'Brasil',eua:'EUA',mundo:'Mundo',onu:'ONU',tecnologia:'Tecnologia',imigracao:'Imigração','ny-nj':'NY/NJ',economia:'Economia',esportes:'Esportes',cultura:'Cultura',ciencia:'Ciência e Saúde',outros:'Outros'};
+const SVG=p=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
+const TEMAS=[
+  {k:'mundo',d:'Guerras, diplomacia e o que muda no planeta',i:'<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/>'},
+  {k:'brasil',d:'Política, eleições e o dia a dia do país',i:'<path d="M3 12 12 4l9 8-9 8z"/><circle cx="12" cy="12" r="3"/>'},
+  {k:'eua',d:'Casa Branca, Congresso e política americana',i:'<path d="M4 20h16M6 20v-8M10 20v-8M14 20v-8M18 20v-8M3 12h18M12 4 4 9h16z"/>'},
+  {k:'imigracao',d:'Vistos, green card, ICE e deportações',i:'<rect x="5" y="3" width="14" height="18" rx="2"/><circle cx="12" cy="10" r="3"/><path d="M9 16h6"/>'},
+  {k:'tecnologia',d:'IA, big techs e o futuro digital',i:'<rect x="6" y="6" width="12" height="12" rx="2"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/>'},
+  {k:'economia',d:'Dinheiro, inflação, empregos e mercado',i:'<path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/>'},
+  {k:'esportes',d:'Futebol e os grandes campeonatos',i:'<circle cx="12" cy="12" r="9"/><path d="m12 7 4 3-1.5 4.5h-5L8 10z"/>'},
+  {k:'cultura',d:'Filmes, séries, música e famosos',i:'<path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/>'},
+  {k:'ciencia',d:'Descobertas, saúde e meio ambiente',i:'<path d="M9 3h6M10 3v6L4 19a1 1 0 0 0 1 2h14a1 1 0 0 0 1-2l-6-10V3"/><path d="M7 15h10"/>'},
+  {k:'onu',d:'Nações Unidas, direitos humanos e ajuda',i:'<circle cx="12" cy="12" r="5"/><path d="M5 19c-2-2-3-4.5-3-7M19 19c2-2 3-4.5 3-7M7 21c1.5.7 3.2 1 5 1s3.5-.3 5-1"/>'},
+  {k:'ny-nj',d:'Nova York e Nova Jersey de perto',i:'<path d="M3 21h18M5 21V9h4v12M10 21V4h4v17M15 21v-8h4v8"/>'}
+];
+const KTEMAS='jornal-meus-temas';
+let meus=[];try{meus=JSON.parse(localStorage.getItem(KTEMAS))||[]}catch(e){}
 // Preferências vêm de controle/preferencias.json (via controle.js) e são salvas no GitHub quando a chave está conectada.
 let votes={}, following={}, radar={temas:[],pedido:'',pedidoEm:''};
 function sincronizar(p){votes=p.votos||{};following=p.seguindo||{};radar={temas:p.temas||[],pedido:p.pedido||'',pedidoEm:p.pedidoEm||''}}
@@ -100,7 +141,7 @@ function persist(){Prefs.mudar(p=>{
   // guarda no máximo as 300 avaliações mais recentes
   const ks=Object.keys(votes);if(ks.length>300)ks.sort().slice(0,ks.length-300).forEach(k=>delete votes[k]);
   p.votos=votes;p.seguindo=following;p.temas=radar.temas;p.pedido=radar.pedido;p.pedidoEm=radar.pedidoEm})}
-let editions=[], current=null, filtro='todas', abas={};
+let editions=[], current=null, filtro='meu', abas={};
 
 function voteBtns(ed,item){
   const v=votes[ed+'__'+item.id]?.voto||0;
@@ -139,25 +180,34 @@ function render(){
   $('#dateline').textContent=fmtDate(d.data||ed.id)+' · Nova York';
   const dest=d.destaques||[], notas=d.notas||[], ups=d.atualizacoes||[];
   const all=[...dest,...notas];
-  const secs=[...new Set(all.map(i=>secKey(i.secao)))];
+  const conta=k=>all.filter(i=>secKey(i.secao)===k).length;
+  const temMeus=meus.length>0;
+  if(!temMeus&&filtro==='meu')filtro='todas';
+  const outras=[...new Set(all.map(i=>secKey(i.secao)))].filter(k=>!meus.includes(k));
   const fb=$('#filters');
-  fb.innerHTML=[`<button class="fchip" data-f="todas" aria-pressed="${filtro==='todas'}">Tudo <span class="hint">${all.length}</span></button>`]
-    .concat(secs.map(k=>`<button class="fchip" data-sec="${k}" data-f="${k}" aria-pressed="${filtro===k}"><span class="dot"></span>${SEC_NAMES[k]} <span class="hint">${all.filter(i=>secKey(i.secao)===k).length}</span></button>`)).join('');
-  const show=i=>filtro==='todas'||secKey(i.secao)===filtro;
+  fb.innerHTML=(temMeus?[`<button class="fchip" data-f="meu" aria-pressed="${filtro==='meu'}">Meu jornal <span class="hint">${all.filter(i=>meus.includes(secKey(i.secao))).length}</span></button>`]:[])
+    .concat(meus.map(k=>`<button class="fchip" data-sec="${k}" data-f="${k}" aria-pressed="${filtro===k}"><span class="dot"></span>${SEC_NAMES[k]} <span class="hint">${conta(k)}</span></button>`))
+    .concat([`<button class="fchip" data-f="todas" aria-pressed="${filtro==='todas'}">Tudo <span class="hint">${all.length}</span></button>`])
+    .concat(outras.map(k=>`<button class="fchip" data-sec="${k}" data-f="${k}" aria-pressed="${filtro===k}"><span class="dot"></span>${SEC_NAMES[k]} <span class="hint">${conta(k)}</span></button>`)).join('');
+  const show=i=>filtro==='todas'||(filtro==='meu'?meus.includes(secKey(i.secao)):secKey(i.secao)===filtro);
+  const geral=filtro==='todas'||filtro==='meu';
   const words=[d.abertura,...dest.map(s=>[s.oque,s.contexto,s.lados,s.proximo].join(' ')),...notas.map(n=>n.texto)].join(' ');
   let h='';
-  if(filtro==='todas'){
+  if(geral){
     h+=`<div class="lead fade"><span class="label">Manchete do dia</span><h2>${esc(d.manchete)}</h2>${d.abertura?`<p>${esc(d.abertura)}</p>`:''}
       <div class="meta-row"><span>${dest.length} destaques</span><span>${notas.length} notas</span><span>cerca de ${minutos(words)} min de leitura</span></div></div>`;
-    if(ups.length){h+=`<section><div class="sechead"><h3>Histórias que você acompanha</h3></div>`+ups.map(u=>`<div class="update fade"><span class="label">${esc(u.historiaTitulo||u.historia||'')}</span><strong>${esc(u.titulo)}</strong><p>${esc(u.texto)}</p>${u.fontes?`<div class="srcs">${srcLinks(u.fontes)}</div>`:''}</div>`).join('')+`</section>`}
+    if(ups.length&&Prefs.dono()){h+=`<section><div class="sechead"><h3>Histórias que você acompanha</h3></div>`+ups.map(u=>`<div class="update fade"><span class="label">${esc(u.historiaTitulo||u.historia||'')}</span><strong>${esc(u.titulo)}</strong><p>${esc(u.texto)}</p>${u.fontes?`<div class="srcs">${srcLinks(u.fontes)}</div>`:''}</div>`).join('')+`</section>`}
   }
   const dv=dest.filter(show);
   if(dv.length)h+=`<section><div class="sechead"><h3>Destaques</h3><span class="hint">toque nas abas para ler mais</span></div>${dv.map(s=>storyHTML(ed.id,s)).join('')}</section>`;
   const nv=notas.filter(show);
   if(nv.length)h+=`<section><div class="sechead"><h3>Notas rápidas</h3></div><div class="notes">${nv.map(n=>`<div class="note fade" data-sec="${secKey(n.secao)}"><span class="tag">${esc(n.secao)}</span><div class="t">${esc(n.titulo)}</div><p>${esc(n.texto)}</p>${n.fontes?`<div class="srcs">${srcLinks(n.fontes)}</div>`:''}${voteBtns(ed.id,n)}</div>`).join('')}</div></section>`;
-  if(filtro==='todas'&&d.valeSaber)h+=`<div class="vale fade"><span class="label">Vale saber</span><strong>${esc(d.valeSaber.titulo)}</strong><p>${esc(d.valeSaber.texto)}</p>${d.valeSaber.fontes?`<div class="srcs">${srcLinks(d.valeSaber.fontes)}</div>`:''}</div>`;
-  if(filtro==='todas'&&d.nota)h+=`<p class="hint">${esc(d.nota)}</p>`;
+  const vazios=(filtro==='meu'?meus:(meus.includes(filtro)?[filtro]:[])).filter(k=>!conta(k));
+  if(vazios.length)h+=`<section>${vazios.map(k=>`<div class="sem-noticia fade" data-sec="${k}">Sem novidades de <strong>${SEC_NAMES[k]}</strong> nesta edição. Toque em <strong>Tudo</strong> para ver as outras notícias.</div>`).join('')}</section>`;
+  if(geral&&d.valeSaber)h+=`<div class="vale fade"><span class="label">Vale saber</span><strong>${esc(d.valeSaber.titulo)}</strong><p>${esc(d.valeSaber.texto)}</p>${d.valeSaber.fontes?`<div class="srcs">${srcLinks(d.valeSaber.fontes)}</div>`:''}</div>`;
+  if(geral&&d.nota&&Prefs.dono())h+=`<p class="hint">${esc(d.nota)}</p>`;
   $('#main').innerHTML=h;
+  document.querySelectorAll('#main .fade').forEach((el,i)=>el.style.animationDelay=Math.min(i,8)*60+'ms');
 }
 function renderRadar(){
   $('#temas').innerHTML=(radar.temas||[]).map((x,i)=>`<span class="chip">${esc(x)}<button data-i="${i}" aria-label="Remover ${esc(x)}">×</button></span>`).join('')||'<span class="hint">Nenhum tema.</span>';
@@ -195,16 +245,61 @@ document.addEventListener('click',ev=>{
 });
 $('#temaForm').addEventListener('submit',e=>{e.preventDefault();const v=$('#temaInput').value.trim();if(!v)return;$('#temaInput').value='';radar.temas=[...(radar.temas||[]),v];persist();renderRadar()});
 $('#pedSave').addEventListener('click',()=>{radar.pedido=$('#pedido').value.trim();radar.pedidoEm=radar.pedido?new Date().toISOString():'';persist();renderRadar()});
-$('#ed').addEventListener('change',async e=>{current=e.target.value;filtro='todas';await loadEdition(current);window.scrollTo({top:0})});
+$('#ed').addEventListener('change',async e=>{current=e.target.value;filtro=meus.length?'meu':'todas';await loadEdition(current);window.scrollTo({top:0})});
 
 async function loadEdition(id){
   const e=editions.find(x=>x.id===id);
   if(e&&!e.data){try{const r=await fetch('edicoes/'+id+'.json',{cache:'no-cache'});e.data=await r.json()}catch(err){console.warn(err)}}
   render();
 }
+// ===== Tela de início =====
+let escolha=new Set(meus);
+function pintarTemas(){
+  $('#temasGrid').innerHTML=TEMAS.map((t,i)=>`<button class="tema entra" type="button" data-sec="${t.k}" data-tema="${t.k}" aria-pressed="${escolha.has(t.k)}" style="animation-delay:${150+i*45}ms">
+    <span class="ok">${SVG('<path d="m5 12 5 5 9-10"/>')}</span><span class="ic">${SVG(t.i)}</span>
+    <span class="nm">${SEC_NAMES[t.k]}</span><span class="ds">${t.d}</span></button>`).join('');
+  contar();
+}
+function contar(){const n=escolha.size;
+  $('#contagem').textContent=n?(n===1?'1 tema escolhido':n+' temas escolhidos'):'Nenhum tema escolhido';
+  $('#iniciar').disabled=!n;$('#todos').textContent=n===TEMAS.length?'Limpar':'Escolher todos'}
+function abrirInicio(){escolha=new Set(meus);pintarTemas();$('#inicio').classList.remove('sai');$('#inicio').hidden=false;$('#inicioBar').hidden=false;document.body.style.overflow='hidden'}
+$('#temasGrid').addEventListener('click',e=>{const b=e.target.closest('[data-tema]');if(!b)return;const k=b.dataset.tema;
+  escolha.has(k)?escolha.delete(k):escolha.add(k);b.setAttribute('aria-pressed',String(escolha.has(k)));contar()});
+$('#todos').addEventListener('click',()=>{escolha=escolha.size===TEMAS.length?new Set():new Set(TEMAS.map(t=>t.k));
+  document.querySelectorAll('[data-tema]').forEach(b=>b.setAttribute('aria-pressed',String(escolha.has(b.dataset.tema))));contar()});
+$('#mudarTemas').addEventListener('click',abrirInicio);
+const espera=ms=>new Promise(r=>setTimeout(r,ms));
+const calmo=matchMedia('(prefers-reduced-motion: reduce)').matches;
+$('#iniciar').addEventListener('click',async()=>{
+  meus=TEMAS.map(t=>t.k).filter(k=>escolha.has(k));try{localStorage.setItem(KTEMAS,JSON.stringify(meus))}catch(e){}
+  filtro='meu';
+  $('#inicio').classList.add('sai');await espera(calmo?0:380);
+  $('#inicio').hidden=true;$('#inicioBar').hidden=true;document.body.style.overflow='';
+  const m=$('#montando');m.hidden=false;
+  $('#pontos').innerHTML=meus.map(k=>`<span data-sec="${k}"></span>`).join('');
+  const pts=[...document.querySelectorAll('#pontos span')];
+  for(let i=0;i<meus.length;i++){$('#passo').textContent='Separando '+SEC_NAMES[meus[i]]+'…';pts[i].classList.add('on');await espera(calmo?0:Math.max(160,900/meus.length))}
+  $('#passo').textContent='Pronto!';await prontas;await espera(calmo?0:250);
+  m.hidden=true;window.scrollTo({top:0});render();
+});
+
+// ===== Aviso de edição nova (confere a cada 5 minutos) =====
+async function conferirNova(){
+  try{const idx=await (await fetch('edicoes/index.json',{cache:'no-cache'})).json();
+    const nova=(idx.edicoes||[]).map(e=>e.data).sort().pop();
+    if(nova&&editions[0]&&nova>editions[0].id){editions.unshift({id:nova,data:null});$('#toast').hidden=false}}catch(e){}
+}
+setInterval(conferirNova,5*60*1000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)conferirNova()});
+$('#toastBtn').addEventListener('click',async()=>{$('#toast').hidden=true;current=editions[0].id;filtro=meus.length?'meu':'todas';await loadEdition(current);window.scrollTo({top:0,behavior:'smooth'})});
+
 Prefs.painel($('#sync'));
+$('#souEditor').addEventListener('click',()=>{document.documentElement.classList.add('editor-aberto');const r=$('#radar');r.open=true;r.scrollIntoView({behavior:'smooth'})});
 Prefs.ouvir(p=>{sincronizar(p);renderRadar();if(editions.length)render()});
-(async()=>{
+let prontas;
+if(!meus.length||new URLSearchParams(location.search).has('inicio'))abrirInicio();
+prontas=(async()=>{
   renderRadar();
   try{
     const r=await fetch('edicoes/index.json',{cache:'no-cache'});const idx=await r.json();

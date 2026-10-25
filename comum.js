@@ -30,8 +30,10 @@ window.J={
   $:s=>document.querySelector(s),
   esc:s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])),
   slug:s=>String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)||'item',
-  secKey:s=>{const k=String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-    return ['brasil','eua','mundo','onu','tecnologia','imigracao','ny-nj'].includes(k)?k:'outros'},
+  secKey:s=>{const k=String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+    const alias={'tecnologia-e-ia':'tecnologia','ia':'tecnologia','ciencia-e-saude':'ciencia','saude':'ciencia','esporte':'esportes','ny':'ny-nj','nova-york':'ny-nj','estados-unidos':'eua'};
+    const v=alias[k]||k;
+    return ['brasil','eua','mundo','onu','tecnologia','imigracao','ny-nj','economia','esportes','cultura','ciencia'].includes(v)?v:'outros'},
   fmtDate:d=>{try{return new Date(d+'T12:00:00').toLocaleDateString('pt-BR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})}catch(e){return d}},
   minutos:txt=>Math.max(1,Math.round(String(txt||'').split(/\s+/).length/200)),
   srcLinks:fs=>(fs||[]).map(f=>`<a href="${J.esc(f.url)}" target="_blank" rel="noopener">${J.esc(f.titulo||f.veiculo||'fonte')}</a>`).join('')
