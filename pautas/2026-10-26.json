@@ -1,0 +1,136 @@
+{
+ "semana": "2026-10-26",
+ "geradoEm": "2026-10-26T10:42:47+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "secao": "Brasil",
+   "titulo": "Lula reeleito por 51,8%: os números do 2º turno e por que Flávio quer anular a eleição",
+   "gancho": "O resultado saiu na noite de domingo (25) e é a notícia da semana no Brasil. A contestação de Flávio, a prorrogação do horário de votação e a reação do mercado vão dominar os próximos dias.",
+   "slides": [
+    {"titulo": "Lula vence o 2º turno", "texto": "Lula (PT) foi reeleito com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro (PL). Será o quarto mandato dele. Flávio diz que não reconhece o resultado e vai pedir a anulação."},
+    {"titulo": "Os números", "texto": "Lula teve 64,26 milhões de votos; Flávio, 59,83 milhões. A diferença ficou em cerca de 4,4 milhões. A abstenção caiu de 21,08% no 1º turno para cerca de 19,2%, segundo o TSE."},
+    {"titulo": "A prorrogação", "texto": "Às 17h01, o ministro Cristiano Zanin, do STF, estendeu a votação até as 19h nas seções ainda abertas. O pedido veio da coligação de Lula, que citou falta de transporte em pelo menos nove estados."},
+    {"titulo": "Por que isso pesa", "texto": "Muitas urnas já estavam fechadas e não podiam ser reabertas. O presidente do TSE, Kassio Nunes Marques, chamou a medida de inédita e sem norma prevista. A campanha de Flávio também havia pedido prorrogação em cidades do Sul e Sudeste."},
+    {"titulo": "O que diz Flávio", "texto": "Ele chamou a decisão de inaceitável, disse que eleitores foram tratados de forma desigual e que fiscais do PL saíram da sala de totalização. Aliados ouvidos pela imprensa atribuem a derrota também a erros da campanha."},
+    {"titulo": "O que diz Lula", "texto": "No discurso da vitória, Lula disse que não tem mais adversário e que vai governar para todos os brasileiros. Também defendeu regular as plataformas digitais. Governos vizinhos, como Uruguai e Paraguai, já o cumprimentaram."},
+    {"titulo": "O que vem agora", "texto": "O pedido de anulação ainda será apresentado. A posse é em 5 de janeiro de 2027. A partir de fevereiro, o PL terá a maior bancada da Câmara e do Senado, o que obriga Lula a negociar cada votação."},
+    {"titulo": "Fontes", "texto": "TSE, Bloomberg Línea, Gazeta do Povo, Metrópoles, InfoMoney. Siga @atlas.diarionews para entender o mundo."}
+   ],
+   "legenda": "Lula foi reeleito no domingo (25) com 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro, numa diferença de cerca de 4,4 milhões de votos. É o quarto mandato do petista, que toma posse em 5 de janeiro de 2027, a primeira posse na nova data definida pela Constituição.\n\nA noite teve um ponto fora da curva: uma decisão do ministro Cristiano Zanin, do STF, estendeu a votação em duas horas nas seções que ainda funcionavam. Flávio diz que isso tornou a disputa desigual e anunciou que vai pedir a anulação. O TSE afirma que a medida não tinha precedente, mas não apontou irregularidade na contagem.\n\nNo carrossel, os números, o que cada lado diz e o que acontece agora.\n\nNa sua opinião, a Justiça Eleitoral deveria ter regras mais claras para prorrogar o horário de votação?",
+   "hashtags": ["#Eleicoes2026", "#SegundoTurno", "#Lula", "#FlavioBolsonaro", "#TSE", "#PoliticaBrasileira", "#AtlasDiario"],
+   "visual": "Capa com fotos oficiais dos dois candidatos (Agência Brasil, com crédito, licença CC BY) lado a lado. Gráfico de barras simples 51,79% x 48,21% e um mapa do Brasil por estado com o vencedor (dados do TSE). Para o slide da prorrogação, uma linha do tempo com 15h30 (pedido), 17h01 (decisão) e 19h (novo encerramento). Marca d'água 'Atlas Diário' no canto inferior.",
+   "fontes": [
+    {"titulo": "TSE: Presidente do TSE anuncia reeleição de Lula e faz balanço do 2º turno das Eleições 2026", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"},
+    {"titulo": "Bloomberg Línea: Lula é reeleito para quarto mandato após vitória histórica em eleição contestada por Flávio", "url": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/"},
+    {"titulo": "Gazeta do Povo: Flávio Bolsonaro diz que vai pedir anulação da eleição", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"},
+    {"titulo": "Metrópoles: Flávio culpa prorrogação, mas aliados atribuem derrota a erros próprios", "url": "https://metropoles.com/brasil/flavio-culpa-prorrogacao-mas-aliados-atribuem-derrota-a-erros-proprios"},
+    {"titulo": "InfoMoney: Lula é eleito presidente do Brasil; veja o resultado nos estados", "url": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"}
+   ]
+  },
+  {
+   "id": "p2",
+   "secao": "Mundo",
+   "titulo": "Israel vota nesta terça (27): Netanyahu enfrenta Eisenkot na eleição mais importante em décadas",
+   "gancho": "A votação é amanhã e as pesquisas de boca de urna saem na noite de terça. É a primeira eleição desde o 7 de Outubro e a guerra em Gaza, e as pesquisas indicam que nenhum bloco chega sozinho aos 61 assentos.",
+   "slides": [
+    {"titulo": "Israel escolhe o Parlamento", "texto": "Nesta terça (27), cerca de 38 partidos disputam as 120 cadeiras do Knesset. É a primeira eleição desde o ataque do Hamas de 7 de outubro de 2023 e é vista como um referendo sobre Benjamin Netanyahu."},
+    {"titulo": "Como funciona", "texto": "O voto é em lista partidária, num único distrito nacional. Um partido precisa de 3,25% dos votos para entrar. Para governar, é preciso formar uma coalizão com pelo menos 61 deputados."},
+    {"titulo": "Quem disputa", "texto": "Netanyahu (Likud) busca seguir no cargo. O principal rival é Gadi Eisenkot, ex-chefe do Exército, à frente do novo partido Yashar, de centro-direita. Naftali Bennett e Yair Lapid concorrem juntos. Benny Gantz desistiu em 19/10."},
+    {"titulo": "O que dizem as pesquisas", "texto": "Yashar aparece com 20 a 23 cadeiras, e o Likud, com 19 a 21. O bloco de Netanyahu soma de 49 a 51; a oposição, de 52 a 55. Nenhum lado chega a 61 sem os partidos árabes."},
+    {"titulo": "Os temas", "texto": "Uma comissão independente sobre o 7 de Outubro, que a oposição promete e Netanyahu rejeita; o alistamento militar dos ultraortodoxos; a reforma do Judiciário; o julgamento de Netanyahu por corrupção, que ele nega; e o isolamento internacional do país."},
+    {"titulo": "Os dois lados", "texto": "Netanyahu, apoiado por Donald Trump, diz ser o mais preparado para enfrentar o Irã e o Hamas. Eisenkot e a oposição dizem que o premiê falhou no 7 de Outubro e dividiu o país. Em segurança, as propostas diferem pouco."},
+    {"titulo": "O que vem depois", "texto": "As pesquisas de boca de urna saem às 22h de Israel (17h em Brasília). O resultado oficial está previsto para 4 de novembro. Depois, o presidente indica quem tenta formar governo, e a negociação pode levar semanas."},
+    {"titulo": "Fontes", "texto": "ABC News (Austrália), NPR, CNN, Haaretz, Wikipedia (dados do Comitê Central Eleitoral). Siga @atlas.diarionews para entender o mundo."}
+   ],
+   "legenda": "Israel vai às urnas nesta terça-feira (27) para escolher os 120 deputados do Knesset. É a primeira eleição desde o ataque de 7 de outubro de 2023 e a guerra que veio depois, e muita gente a trata como um referendo sobre Benjamin Netanyahu, há quase duas décadas no centro da política israelense.\n\nO principal desafiante é Gadi Eisenkot, ex-chefe do Exército. As pesquisas colocam o partido dele, o Yashar, levemente à frente do Likud, mas nenhum bloco chega aos 61 assentos necessários para governar. Por isso, o resultado das urnas é só o começo: depois vem a negociação de coalizão.\n\nNo carrossel: como funciona o sistema, quem disputa, o que dizem as pesquisas e o que está em jogo.\n\nNa sua avaliação, o que deve pesar mais para o eleitor israelense: a segurança ou a resposta ao 7 de Outubro?",
+   "hashtags": ["#Israel", "#EleicoesIsrael", "#Netanyahu", "#OrienteMedio", "#Geopolitica", "#PoliticaInternacional", "#AtlasDiario"],
+   "visual": "Capa com a bandeira de Israel e o prédio do Knesset (Wikimedia Commons, com crédito). Gráfico de barras com as faixas das pesquisas (Yashar 20-23, Likud 19-21) e um semicírculo de 120 cadeiras marcando a linha dos 61. Fotos oficiais de Netanyahu e Eisenkot (GPO de Israel ou Wikimedia Commons, com crédito). Marca d'água 'Atlas Diário'.",
+   "fontes": [
+    {"titulo": "ABC News: Israelis are heading to the polls in their most seismic election in decades", "url": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156"},
+    {"titulo": "NPR: Israel holds consequential election after years of war", "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"},
+    {"titulo": "CNN: Gadi Eisenkot: What to know about the main challenger to Netanyahu", "url": "https://www.cnn.com/2026/10/24/middleeast/gadi-eisenkot-israel-election-netanyahu-intl"},
+    {"titulo": "Haaretz: Israel Election 2026 (ao vivo)", "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article-live/idf-announces-general-closure-for-west-bank-palestinians-on-election-day/000001a1-70f7-d34e-a1b9-feffa6f20002"},
+    {"titulo": "Wikipedia: 2026 Israeli legislative election", "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"}
+   ]
+  },
+  {
+   "id": "p3",
+   "secao": "Tecnologia",
+   "titulo": "Entenda o projeto de lei da Anthropic para 'IA perigosa': o que ele prevê e por que é criticado",
+   "gancho": "A proposta que a Anthropic levou ao Congresso dos EUA virou o centro do debate sobre regular IA, a uma semana das midterms e antes do IPO da empresa. É um explicador que o Caique já pediu no jornal e que rende bem em carrossel.",
+   "slides": [
+    {"titulo": "Uma empresa escreve a própria lei", "texto": "A Anthropic, dona do Claude, levou a gabinetes do Congresso dos EUA um rascunho de lei federal para os modelos de IA mais avançados. O texto, revelado pelo Politico, criaria um caminho para suspender modelos considerados perigosos."},
+    {"titulo": "A quem se aplica", "texto": "Só aos maiores: modelos treinados com mais de 10^25 operações e empresas com mais de US$ 500 milhões de receita com IA ou US$ 1 bilhão em gastos de desenvolvimento. Startups pequenas ficam de fora."},
+    {"titulo": "O que as empresas teriam de fazer", "texto": "Publicar planos de segurança e relatórios de transparência, entregar relatórios de risco a cada 180 dias e avisar incidentes graves em até 15 dias, ou 24 horas se houver perigo iminente. Denunciantes internos teriam proteção."},
+    {"titulo": "Quando um modelo pode ser parado", "texto": "Só diante de ameaça iminente de arma biológica, ciberataque ou perda de controle, com risco de mais de 50 mortos ou feridos graves ou US$ 1 bilhão em danos. O governo teria de pedir a suspensão a um juiz federal."},
+    {"titulo": "As críticas", "texto": "Grupos de segurança em IA dizem que o limite é alto demais e que as empresas pagariam os próprios avaliadores. A OpenAI alfinetou: nenhuma empresa deveria escrever as regras sozinha. Outro ponto polêmico impede estados de terem regras próprias."},
+    {"titulo": "A defesa", "texto": "A Anthropic diz que o texto não é final e que o trecho sobre leis estaduais será reescrito. O CEO, Dario Amodei, admitiu erros na apresentação e prometeu, até 15 de janeiro, opções para regular o ritmo da IA."},
+    {"titulo": "O que vem agora", "texto": "Nenhum parlamentar apresentou o texto formalmente. A regulação de IA virou tema das midterms de 3/11, com comitês pró e contra regras estaduais. O IPO da Anthropic é esperado para depois da eleição."},
+    {"titulo": "Fontes", "texto": "Politico (via Reuters/US News), Bloomberg (via Insurance Journal), Semafor, IT Forum. Siga @atlas.diarionews para entender o mundo."}
+   ],
+   "legenda": "Os EUA ainda não têm uma lei federal para os sistemas de IA mais poderosos. A Anthropic, empresa que faz o Claude, resolveu escrever uma proposta e levá-la a parlamentares. O rascunho, revelado pelo Politico, obriga as maiores empresas a publicar planos de segurança e avisar incidentes graves, e permite que a Justiça suspenda um modelo em casos extremos.\n\nA ideia dividiu o setor. Críticos dizem que os limites são altos demais e que a empresa estaria ajudando a escrever as regras do próprio negócio. A Anthropic diz que o texto é um ponto de partida e promete mudanças.\n\nNo carrossel, explicamos o que o projeto prevê, quem critica e o que pode acontecer.\n\nVocê acha que empresas de tecnologia devem participar da redação das leis que vão regular o próprio setor?",
+   "hashtags": ["#InteligenciaArtificial", "#IA", "#RegulacaoDaIA", "#Anthropic", "#Tecnologia", "#CongressoAmericano", "#AtlasDiario"],
+   "visual": "Capa com foto do Capitólio dos EUA (Wikimedia Commons ou foto oficial do Architect of the Capitol, domínio público). Para os slides de regras, ícones simples e um fluxograma: avaliação externa → risco iminente → Departamento de Comércio → juiz federal → suspensão de 45 dias. Um card com os limites (50 pessoas / US$ 1 bilhão) em destaque. Evitar logos de empresas como imagem principal. Marca d'água 'Atlas Diário'.",
+   "fontes": [
+    {"titulo": "US News (Reuters): Anthropic Quietly Pitches Its Own AI Safety Bill to Lawmakers, Politico Reports", "url": "https://www.usnews.com/news/top-news/articles/2026-10-16/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports"},
+    {"titulo": "Insurance Journal (Bloomberg): Anthropic Pitches AI Safety Bill to Lawmakers", "url": "https://www.insurancejournal.com/news/national/2026/10/19/889292.htm"},
+    {"titulo": "Semafor: Anthropic's leaked AI bill sparks backlash", "url": "https://www.semafor.com/article/10/20/2026/anthropics-leaked-ai-bill-sparks-backlash"},
+    {"titulo": "Fox News: Trump issues AI, data center position; Anthropic CEO defends safety record", "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21"},
+    {"titulo": "IT Forum: Anthropic pede ao Congresso americano que preserve leis estaduais de IA", "url": "https://itforum.com.br/noticias/anthropic-pede-ao-congresso-preserve-leis-de-ia/"}
+   ]
+  },
+  {
+   "id": "p4",
+   "secao": "EUA",
+   "titulo": "Agentes armados nas urnas? A lei de 1865 que está no centro da briga sobre o ICE nas midterms",
+   "gancho": "Faltam oito dias para as eleições de 3 de novembro e há ações na Justiça para manter agentes federais armados longe das seções eleitorais. O tema junta política e história dos EUA, os dois focos da página.",
+   "slides": [
+    {"titulo": "A oito dias da eleição", "texto": "Os EUA votam em 3 de novembro para renovar a Câmara e parte do Senado. Uma pergunta ganhou força: agentes armados do ICE, a polícia de imigração, podem aparecer nos locais de votação?"},
+    {"titulo": "Uma lei da Guerra Civil", "texto": "Uma lei federal de 1865, aprovada no fim da Guerra Civil, proíbe que agentes federais levem 'tropas ou homens armados' a locais de votação. As exceções são manter a paz nas urnas ou repelir inimigos armados dos EUA."},
+    {"titulo": "Por que ela existe", "texto": "Durante a guerra, tropas federais estiveram presentes em eleições de estados de fronteira, e havia acusações de intimidação de eleitores. O Congresso reagiu tornando crime esse tipo de presença. A regra segue no Código Penal federal."},
+    {"titulo": "O que diz o governo", "texto": "O secretário de Segurança Interna, Markwayne Mullin, afirmou que o ICE não vai patrulhar as urnas, mas pode estar presente se houver ameaça ou um mandado a cumprir. O chefe do Estado-Maior disse que não há plano de enviar militares."},
+    {"titulo": "O que dizem os críticos", "texto": "Grupos como LULAC e Common Cause, com Denver e o condado de Hennepin (Minnesota), processaram o governo em Washington. Eles citam agentes vistos perto de seções nas primárias do Texas e da Califórnia e pedem uma proibição clara."},
+    {"titulo": "Uma decisão já saiu", "texto": "Na quarta (21), uma juíza federal da Califórnia suspendeu, em nove estados, operações do DHS que iam de porta em porta checar se eleitores eram cidadãos. Ela citou o risco de intimidar cidadãos. O governo pode recorrer."},
+    {"titulo": "O que observar", "texto": "Se a Justiça decide a ação contra agentes armados antes de 3/11, se o governo recorre na Califórnia e como os estados orientam mesários. Uma pesquisa da UC San Diego indicou que 40% esperam ver o ICE perto das urnas."},
+    {"titulo": "Fontes", "texto": "CBS News, Al Jazeera, CT Mirror (AP), Common Cause. Siga @atlas.diarionews para entender o mundo."}
+   ],
+   "legenda": "Em 1865, ainda na Guerra Civil, o Congresso americano tornou crime levar tropas ou homens armados a locais de votação. Mais de 160 anos depois, essa lei voltou ao centro do debate.\n\nA oito dias das eleições de meio de mandato, organizações civis e governos locais processam o governo Trump para manter agentes armados do ICE longe das seções eleitorais. O Departamento de Segurança Interna diz que não vai patrulhar as urnas, mas não descarta presença em casos de ameaça ou mandado. Uma juíza federal já suspendeu, em nove estados, operações que checavam a cidadania de eleitores de porta em porta.\n\nNo carrossel, a história da lei, o que cada lado diz e o que observar até 3 de novembro.\n\nNa sua visão, onde fica o limite entre fiscalizar a eleição e intimidar eleitores?",
+   "hashtags": ["#EUA", "#Midterms2026", "#EleicoesEUA", "#ICE", "#HistoriaDosEUA", "#Democracia", "#AtlasDiario"],
+   "visual": "Capa com foto de uma seção eleitoral americana com placa 'Vote Here' (Wikimedia Commons ou acervo do governo, com crédito). Para o slide histórico, gravura ou foto de eleição da época da Guerra Civil da Library of Congress (domínio público). Linha do tempo 1865 → set/2026 (ação judicial) → 21/10 (decisão na Califórnia) → 3/11. Mapa com os nove estados da decisão. Marca d'água 'Atlas Diário'.",
+   "fontes": [
+    {"titulo": "CBS News: Lawsuit seeks to block deployment of ICE, federal agents to polling sites", "url": "https://www.cbsnews.com/news/lawsuit-block-ice-agents-polling-sites/"},
+    {"titulo": "Al Jazeera: Will ICE agents play a role in the 2026 US midterm elections?", "url": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections"},
+    {"titulo": "CT Mirror: Judge blocks DHS from conducting election-related sweeps in 9 states", "url": "https://ctmirror.org/2026/10/22/judge-blocks-dhs-from-conducting-election-related-sweeps-in-9-states"},
+    {"titulo": "Common Cause: Voting rights organizations and local governments expand challenge to plans for armed federal agents at polling places", "url": "https://www.commoncause.org/press/voting-rights-organizations-and-local-governments-expand-challenge-to-trump-vance-administrations-plans-for-armed-federal-agents-at-polling-places/"}
+   ]
+  },
+  {
+   "id": "p5",
+   "secao": "ONU",
+   "titulo": "Quem vai comandar a ONU? Veto, impasse e um nome surpresa na corrida para suceder Guterres",
+   "gancho": "O Conselho de Segurança faz nova votação informal na sexta (30), a primeira com a candidata dos Emirados, e o Wall Street Journal diz que os EUA sondam Viktor Orbán. Faltam pouco mais de dois meses para o fim do mandato de Guterres.",
+   "slides": [
+    {"titulo": "A cadeira de Guterres", "texto": "O mandato de António Guterres como secretário-geral da ONU termina em 31 de dezembro. Até agora, nenhum dos candidatos conseguiu o apoio necessário no Conselho de Segurança, e a escolha já é das mais demoradas em décadas."},
+    {"titulo": "Como se escolhe", "texto": "Pela Carta da ONU, o Conselho de Segurança recomenda um nome e a Assembleia Geral nomeia. No Conselho, são precisos 9 dos 15 votos e nenhum veto de EUA, China, Rússia, Reino Unido ou França."},
+    {"titulo": "A vez da América Latina?", "texto": "Por uma rotação informal entre regiões, esperava-se alguém da América Latina e do Caribe. Seis dos sete candidatos são da região, como Rebeca Grynspan (Costa Rica), Rafael Grossi (Argentina) e Carolyn Rodrigues-Birkett (Guiana)."},
+    {"titulo": "O impasse", "texto": "Na votação de 16/10, a primeira com cédulas coloridas que mostram a posição dos cinco permanentes, todos os candidatos receberam sinais negativos de pelo menos dois deles. Grynspan segue na frente, com 9 votos de incentivo."},
+    {"titulo": "Uma candidata árabe", "texto": "Em 21/10, os Emirados lançaram Lana Nusseibeh, ex-embaixadora do país na ONU. Ela tem apoio do Golfo e de Chipre. Críticos citam acusações de painéis da ONU de que os Emirados armam paramilitares no Sudão, o que o país nega."},
+    {"titulo": "E Orbán?", "texto": "Segundo o Wall Street Journal, o governo Trump incentiva o ex-premiê húngaro Viktor Orbán a entrar na disputa, com possível apoio de Rússia e China. Ele não comentou. Reino Unido e França ainda poderiam vetá-lo."},
+    {"titulo": "O que vem agora", "texto": "Nova votação informal está prevista para sexta (30). Se o impasse continuar, cresce a pressão por novos nomes. Seria a escolha mais tardia desde 1996, quando Kofi Annan foi indicado em dezembro."},
+    {"titulo": "Fontes", "texto": "Security Council Report, PassBlue, AP (via ABC News), Cyprus Mail, Israel Hayom (citando o WSJ), Al-Monitor. Siga @atlas.diarionews para entender o mundo."}
+   ],
+   "legenda": "Daqui a pouco mais de dois meses, a ONU precisa ter um novo secretário-geral. Até agora, ninguém conseguiu reunir o que o cargo exige: 9 votos no Conselho de Segurança e nenhum veto de EUA, China, Rússia, Reino Unido ou França.\n\nA expectativa era de que a vez fosse da América Latina, e seis dos sete candidatos são da região. Mas as votações informais mostram todos com rejeição de ao menos dois membros permanentes. No meio do impasse, os Emirados lançaram uma candidata e, segundo o Wall Street Journal, os EUA sondam Viktor Orbán.\n\nNa sexta (30), o Conselho vota de novo. No carrossel, como funciona a escolha, quem disputa e por que está travada.\n\nPara você, a rotação entre regiões deveria pesar na escolha do secretário-geral?",
+   "hashtags": ["#ONU", "#NacoesUnidas", "#SecretarioGeral", "#Geopolitica", "#ConselhoDeSeguranca", "#AmericaLatina", "#AtlasDiario"],
+   "visual": "Capa com foto da sede da ONU em Nova York ou da sala do Conselho de Segurança (UN Photo, com crédito, ou Wikimedia Commons). Gráfico de barras com os votos de incentivo e desestímulo de 16/10 (Grynspan 9/5, Grossi 8/6, Rodrigues-Birkett 8/6). Mapa-múndi destacando os países dos candidatos e os cinco membros permanentes. Fotos oficiais dos candidatos (UN Photo, com crédito). Marca d'água 'Atlas Diário'.",
+   "fontes": [
+    {"titulo": "Security Council Report: Sixth Security Council Straw Poll on UN Secretary-General Candidates", "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/sixth-security-council-straw-poll-on-un-secretary-general-candidates.php"},
+    {"titulo": "PassBlue: UAE Candidate Is Likely to Be Asked About Her Nation's Controversies Abroad", "url": "https://passblue.com/2026/10/21/uae-candidate-is-likely-to-be-asked-about-the-nations-controversies-abroad/"},
+    {"titulo": "ABC News (AP): Latest vote shows no candidate for UN chief has the required support of all five key powers", "url": "https://abcnews.com/US/wireStory/latest-vote-shows-candidate-chief-required-support-key-137340089"},
+    {"titulo": "Cyprus Mail: UAE's Nusseibeh thanks Cyprus for support in UN secretary-general race", "url": "https://cyprus-mail.com/2026/10/26/uaes-nusseibeh-thanks-cyprus-for-support-in-un-secretary-general-race"},
+    {"titulo": "Israel Hayom: Trump's UN gambit: Could Viktor Orban become secretary-general?", "url": "https://israelhayom.com/2026/10/26/trumps-un-gambit-could-viktor-orban-become-secretary-general"},
+    {"titulo": "Al-Monitor: UAE nominates Lana Nusseibeh for UN secretary-general: What to know", "url": "https://www.al-monitor.com/originals/2026/10/uae-nominates-lana-nusseibeh-un-secretary-general-what-know"}
+   ]
+  }
+ ]
+}
