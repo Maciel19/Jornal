@@ -1,0 +1,424 @@
+{
+ "data": "2026-10-27",
+ "manchete": "Mercado brasileiro tem o pior dia desde 2020 após a reeleição de Lula, enquanto o PL reconhece o resultado e Flávio prepara ação no TSE; a Anthropic pede para abrir capital e Israel vota hoje",
+ "abertura": "O dia seguinte à eleição foi de choque nos mercados: a Bolsa caiu quase 14%, o dólar subiu 8% e o Tesouro cancelou leilões. Fora do Brasil, a Sérvia digere a derrota de Vučić, Israel vai às urnas e a Anthropic revela suas contas no pedido de IPO.",
+ "atualizacoes": [
+  {
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "historiaTitulo": "Eleição presidencial no Brasil",
+   "titulo": "PL reconhece a vitória de Lula, mas Flávio diz que pedirá a cassação da chapa",
+   "texto": "Na noite de segunda (26), o PL disse em nota que reconhece o resultado proclamado pelo TSE, mas cobrou esclarecimentos sobre a votação e sobre a ampliação de benefícios sociais antes do pleito. Mais cedo, Flávio anunciou que pedirá a cassação da chapa de Lula por abuso de poder político e econômico, e disse ter sido intimado pela Polícia Federal a entregar os passaportes por ordem de Alexandre de Moraes, o que STF e PF não confirmaram publicamente até o fechamento. Donald Trump disse que a eleição 'pareceu fraudada', sem apresentar provas, e acrescentou que gosta de Lula.",
+   "fontes": [
+    {
+     "titulo": "Investing.com/Reuters: PL reconhece resultado da eleição que deu vitória a Lula",
+     "url": "https://br.investing.com/news/economy-news/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao-que-deu-vitoria-a-lula-2103358"
+    },
+    {
+     "titulo": "Metrópoles: Flávio diz que foi intimado pela PF a entregar passaporte",
+     "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-diz-que-foi-intimado-pela-pf-a-entregar-passaporte"
+    },
+    {
+     "titulo": "Gazeta do Povo: Flávio Bolsonaro diz que vai pedir anulação da eleição",
+     "url": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/"
+    },
+    {
+     "titulo": "CiberCuba: Trump questiona eleição no Brasil",
+     "url": "https://en.cibercuba.com/noticias/2026-10-26-u1-e135253-s27061-nid343897-trump-cuestiona-elecciones-brasil-dice-parecian"
+    }
+   ]
+  },
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Surto de ebola no Congo passa de 10 mil casos confirmados",
+   "texto": "Dados do governo divulgados nesta terça (27) somam 10.060 casos confirmados, com quase metade dos doentes mortos; é o surto de ebola que mais cresce na história, segundo a AP. Cerca de 80% dos casos novos não vêm de contatos conhecidos (a meta da Africa CDC é 95%), sinal de cadeias de transmissão sem rastreio. Em Ituri, agentes da resposta entraram em greve por bônus atrasados desde o fim de agosto.",
+   "fontes": [
+    {
+     "titulo": "AP via News4Jax: Congo's Ebola outbreak tops 10,000 cases",
+     "url": "https://www.news4jax.com/news/world/2026/10/27/congos-fast-moving-ebola-outbreak-tops-10000-confirmed-cases-as-authorities-race-to-slow-the-spread-across-africa/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Economia",
+   "temas": [
+    "Brasil e eleição",
+    "Mercados",
+    "Política fiscal"
+   ],
+   "historia": "mercado-pos-eleicao-brasil",
+   "titulo": "Bolsa cai quase 14% e dólar sobe 8% no primeiro pregão após a reeleição de Lula",
+   "oque": "Na segunda (26), o Ibovespa caiu 13,88%, para 176.608 pontos, com circuit breaker logo na abertura, o primeiro desde março de 2020. O dólar subiu cerca de 8,2% e fechou perto de R$ 5,40, depois de bater R$ 5,60 durante o dia, a maior alta diária em 23 anos. Os juros futuros longos subiram mais de 2,5 pontos percentuais, e o Tesouro cancelou os leilões de títulos prefixados e atrelados à inflação desta semana.",
+   "contexto": "Depois que Flávio terminou o 1º turno na frente, investidores apostaram num governo de direita com ajuste fiscal mais duro: até sexta, a Bolsa estava quase 7% acima do nível pré-1º turno e o real, quase 5% mais forte, segundo a Reuters. A vitória de Lula desmontou essa aposta de uma vez. A dívida pública passa de 82% do PIB, e o mercado quer saber como o governo vai estabilizá-la sem cortar programas sociais.",
+   "lados": "Analistas ouvidos pela Reuters e pelo Money Times atribuem a queda ao 'descompasso de expectativas' e ao risco fiscal de um 4º mandato. O governo diz que vai buscar equilíbrio com crescimento, e aliados lembram que parte do movimento é o desmonte de apostas feitas no 1º turno. Os números variaram entre veículos durante o dia (alguns chegaram a citar queda de 17% no intradiário); aqui estão os de fechamento.",
+   "proximo": "Nesta terça, o Banco Central faz leilão de rolagem de até US$ 4 bilhões em swaps cambiais, e Gabriel Galípolo dá entrevista às 11h de Brasília; os ADRs brasileiros subiam no pré-mercado. O principal sinal esperado é o nome do ministro da Fazenda e a proposta de regra fiscal para 2027.",
+   "fontes": [
+    {
+     "titulo": "InfoMoney: Ibovespa desaba 13% após eleição, em dia de circuit breaker",
+     "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    },
+    {
+     "titulo": "Money Times: Ibovespa despenca 13% e fecha no menor nível em dois meses",
+     "url": "https://www.moneytimes.com.br/ibovespa-26-10-26-lils/"
+    },
+    {
+     "titulo": "Reuters via Yahoo Finance: Brazil stocks, real tumble as Lula win shifts investor focus",
+     "url": "https://finance.yahoo.com/news/investors-expect-markets-unwind-brazils-040903760.html"
+    },
+    {
+     "titulo": "InfoMoney: Possível correção, Galípolo e leilões do BC nesta terça",
+     "url": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "Mercados"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Anthropic pede para abrir capital na Nasdaq e revela receita de US$ 16,3 bi e atrito com o governo Trump",
+   "oque": "A Anthropic, dona do Claude, entregou na segunda (26) à SEC o pedido de IPO (formulário S-1) para listar ações na Nasdaq com o código ANT, ainda sem preço nem quantidade definidos. A empresa teve receita de US$ 16,3 bilhões no 1º semestre de 2026, contra US$ 4,6 bilhões em todo 2025, e prejuízo líquido de US$ 80,7 bilhões. Segundo a Techzine, US$ 72,4 bilhões desse prejuízo são contábeis, ligados à valorização de empréstimos conversíveis e warrants de Amazon e Google, e no 2º trimestre houve lucro operacional de cerca de US$ 1 bilhão.",
+   "contexto": "Pode ser o maior IPO da história: a avaliação discutida vai de US$ 1,5 trilhão a US$ 2 trilhões, segundo relatos citados pelo Yahoo Finance. A empresa é uma corporação de benefício público, e um fundo independente (o Long-Term Benefit Trust) nomeia a maioria do conselho, que pode intervir se considerar um modelo inseguro. Os compromissos de compra de capacidade de computação somam centenas de bilhões de dólares com Google, Amazon, Microsoft e outros.",
+   "lados": "O prospecto lista riscos raros num IPO: diz que modelos de IA podem representar 'risco catastrófico ou existencial', que seguradoras podem não cobrir um incidente grave e que a empresa pode sofrer 'retaliação política' por suas posições sobre segurança de IA, citando a disputa judicial com o Pentágono, que a classificou como risco à cadeia de suprimentos, e uma investigação da FTC. A empresa diz que pretende manter sua atuação em políticas públicas. Críticos apontam o tamanho das perdas e dos compromissos de gasto; defensores destacam o ritmo de crescimento da receita.",
+   "proximo": "A listagem está prevista para 'o fim deste outono' (relatos falam em novembro), com Goldman Sachs e Morgan Stanley à frente. Observe a faixa de preço, a reação do governo Trump e como o prospecto trata a regulação federal de IA. Transparência: este jornal é produzido com o Claude, da Anthropic.",
+   "fontes": [
+    {
+     "titulo": "Anthropic: S-1 filed with the SEC",
+     "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+     "titulo": "SEC: Anthropic PBC Form S-1",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+    },
+    {
+     "titulo": "Yahoo Finance: Anthropic IPO live updates",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+    },
+    {
+     "titulo": "Techzine: Anthropic close to going public",
+     "url": "https://www.techzine.eu/blogs/analytics/145299/anthropic-close-to-going-public-heres-what-you-need-to-know/"
+    },
+    {
+     "titulo": "Axios: Anthropic warns of Trump administration backlash in IPO filing",
+     "url": "https://www.axios.com/2026/10/26/anthropic-trump-ai-safety-ipo-risks"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Europa",
+    "Eleições",
+    "Rússia"
+   ],
+   "historia": "eleicao-servia-2026",
+   "titulo": "Lista dos estudantes derrota Vučić na Sérvia e abre dúvida sobre a relação do país com a Rússia e a UE",
+   "oque": "Na eleição parlamentar antecipada de domingo (25), a Lista dos Estudantes teve 52,5% dos votos, contra 39,3% da lista de Aleksandar Vučić, segundo dados preliminares da comissão eleitoral citados pelo Meduza. Vučić reconheceu a derrota e projetou de 135 a 140 das 250 cadeiras para os estudantes (a maioria exige 126). O comparecimento ficou perto de 69%, o maior em décadas.",
+   "contexto": "O movimento nasceu dos protestos após o desabamento da marquise da estação de trem de Novi Sad, que matou 16 pessoas em novembro de 2024, e virou uma frente contra a corrupção. Vučić, no poder desde 2012 e apoiado por Vladimir Putin, renunciou à Presidência em setembro para disputar o cargo de premiê. A Sérvia é candidata à UE, mas nunca aderiu às sanções europeias contra Moscou, e o caso lembra a queda de Orbán na Hungria.",
+   "lados": "Vučić culpou a mídia independente, 'países europeus' e o 'deep state americano', e previu que o novo governo imporá sanções à Rússia. Os estudantes dizem o contrário: seu programa mantém a oposição a sanções, mas fala em alinhar a política externa à UE. Von der Leyen e António Costa celebraram o resultado. Observadores relataram pressão sobre eleitores em cerca de um terço das seções monitoradas.",
+   "proximo": "Falta o resultado oficial e não há nome para premiê: a lista não tem líder formal. Vale observar quem forma o governo, a postura sobre sanções e Kosovo, e se Bruxelas acelera as negociações de adesão.",
+   "fontes": [
+    {
+     "titulo": "Meduza: Serbia's student-backed opposition has defeated Vučić",
+     "url": "https://meduza.io/amp/en/feature/2026/10/26/serbia-s-student-backed-opposition-has-defeated-vucic-at-the-ballot-box-he-says-the-winners-will-impose-sanctions-on-russia-but-they-say-otherwise"
+    },
+    {
+     "titulo": "AP via CBS News: Vučić concedes election defeat",
+     "url": "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/"
+    },
+    {
+     "titulo": "Al Jazeera: Serbia's Vucic concedes election defeat to student-led movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+    },
+    {
+     "titulo": "RFE/RL: Vucic concedes electoral defeat",
+     "url": "https://www.rferl.org/a/vucic-concession-serbia-parliament-elections-students/33884044.html"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Israel",
+    "Eleições"
+   ],
+   "historia": "eleicao-israel-2026",
+   "titulo": "Israel vota hoje, com Netanyahu e Eisenkot disputando um Knesset sem maioria clara",
+   "texto": "As urnas ficam abertas das 7h às 22h locais (1h às 16h em NY), com pesquisas de boca de urna logo depois. Levantamentos recentes mostram o partido Yashar, de Gadi Eisenkot, ligeiramente à frente do Likud, sem que nenhum bloco chegue a 61 cadeiras.",
+   "fontes": [
+    {
+     "titulo": "TIME: Israel Heads to the Polls",
+     "url": "https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Mísseis russos atingem ponte e metrô de Kiev, um dia após trégua local em Oleshky",
+   "texto": "Duas ondas de mísseis balísticos na noite de segunda (26) mataram uma pessoa e feriram ao menos dez, a maioria estudantes, e danificaram a Ponte Sul e linhas do metrô. Moscou disse ter mirado fábricas de drones.",
+   "fontes": [
+    {
+     "titulo": "Meduza: Russian strikes hit Kyiv bridge and subway infrastructure",
+     "url": "https://meduza.io/en/news/2026/10/27/russian-strikes-hit-kyiv-bridge-and-subway-infrastructure-killing-one-person-and-injuring-at-least-10"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "EUA",
+    "Oriente Médio"
+   ],
+   "historia": "eua-ira-2026",
+   "titulo": "Arábia Saudita, Paquistão e Turquia vão a Teerã enquanto os EUA preparam ataques para depois das midterms",
+   "texto": "Signatários do Pacto de Meca discutiram com o Irã, na segunda (26), um novo cessar-fogo com os EUA; mediadores do Catar tentam uma troca de concessões em cinco dias, como reabrir Ormuz em troca do fim do bloqueio naval. Relatos indicam que EUA e Israel têm uma nova rodada de ataques pronta para depois de 3 de novembro.",
+   "fontes": [
+    {
+     "titulo": "Critical Threats: Iran Update, October 26, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Congresso"
+   ],
+   "historia": "lula-quarto-mandato",
+   "titulo": "Lula promete apoio do PT à reeleição de Motta e Alcolumbre e pede pressa na PEC da Segurança",
+   "texto": "No Alvorada, na segunda (26), Lula disse que 'foi o povo que escolheu' o Congresso, onde o PL terá a maior bancada, e passou a defender reduzir a maioridade penal para 16 anos em crimes hediondos. A eleição das Mesas será em 1º de fevereiro.",
+   "fontes": [
+    {
+     "titulo": "Terra/Estadão: Lula diz a Motta e Alcolumbre que PT vai apoiar recondução",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-a-motta-e-alcolumbre-que-pt-vai-apoiar-reconducao-dos-dois-e-acerta-pauta-no-congresso,4c585f6830b8aabb0ce9155221e78ec84w9qrxtc.html"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "A uma semana das midterms, democratas lideram o voto genérico por 9 pontos",
+   "texto": "A média do Silver Bulletin dá aos democratas vantagem maior que a de 2018, e as pesquisas os colocam à frente em disputas ao Senado em estados republicanos como Ohio, Texas e Alasca. A aprovação de Trump está em 37%, a segunda pior antes de uma eleição de meio de mandato desde 1946, segundo o NYT.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News: What the latest polls say, 8 days before the midterms",
+     "url": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Nova York"
+   ],
+   "historia": "mamdani-ice",
+   "titulo": "Vídeo de Mamdani sobre direitos diante do ICE vira alvo de republicanos",
+   "texto": "Em vídeo em espanhol, o prefeito explicou que agentes federais não podem entrar em casas sem ordem assinada por um juiz e que a polícia de NY não atua em fiscalização migratória. Senadores como Mike Lee e Rick Scott o acusaram de ajudar imigrantes a escapar; defensores de linha dura citam um memorando do ICE que permitiria entrar com mandado administrativo quando há ordem final de deportação.",
+   "fontes": [
+    {
+     "titulo": "Sinclair/NBC15: Mamdani tells New Yorkers their rights when encountering ICE",
+     "url": "https://mynbc15.com/news/nation-world/mamdani-tells-new-yorkers-their-rights-when-encountering-ice-sparking-right-wing-backlash-spanish-constitution-mike-lee-tom-fitton-rick-scott-nick-lalota-bernie-moreno-mike-davis-illegal-immigrants-rrt"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Eleições"
+   ],
+   "historia": "midterms-nj",
+   "titulo": "Dinheiro de grupos 'independentes' chega às disputas mais apertadas pela Câmara em Nova Jersey",
+   "texto": "Gastos externos, incluindo os do sindicato de professores NJEA, estão entrando na reta final das corridas mais disputadas do estado. Em NJ, o prazo para pedir os programas de alívio do imposto predial (ANCHOR, Senior Freeze) termina nos próximos dias.",
+   "fontes": [
+    {
+     "titulo": "NJ Spotlight News: 'Independent' money flowing into NJ's congressional races",
+     "url": "https://www.njspotlightnews.org/2026/10/independent-money-flowing-into-new-jerseys-congressional-races/"
+    },
+    {
+     "titulo": "NJ Spotlight News: Application deadline for NJ property tax relief is days away",
+     "url": "https://www.njspotlightnews.org/2026/10/application-deadline-for-nj-property-tax-relief-is-days-away-dont-miss-out/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Ciência"
+   ],
+   "historia": "ia-matematica",
+   "titulo": "OpenAI diz que sua IA refutou uma hipótese central da computação; especialistas ainda verificam",
+   "texto": "A empresa publicou um preprint e uma prova formalizada em Lean que, se correta, derrubaria a Hipótese do Tempo Exponencial (ETH), com um algoritmo subexponencial para problemas como o 3-SAT. Os cientistas que lideram a checagem dizem que sua participação 'não é garantia' de que a alegação esteja certa, e o trabalho não passou por revisão por pares.",
+   "fontes": [
+    {
+     "titulo": "Xenospectrum: OpenAI claims its AI refuted the ETH; experts scrutinizing",
+     "url": "https://xenospectrum.com/en/openai-exponential-time-hypothesis-false-claim/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "EUA",
+    "Juros"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "Fed começa hoje reunião em que deve manter os juros, mas com olho numa alta em dezembro",
+   "texto": "Os juros estão entre 3,75% e 4%, e o mercado vê cerca de 80% de chance de manutenção na quarta (28), com a energia mais cara pressionando a inflação. Sob Kevin Warsh, o Fed deixou de dar sinais antecipados, e o foco é se haverá votos pela alta já agora.",
+   "fontes": [
+    {
+     "titulo": "Forbes: What to look for from the Fed's October meeting",
+     "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Flamengo vence o Atlético-MG nos acréscimos e volta à liderança",
+   "texto": "O Flamengo ganhou por 3 a 2 no Maracanã, com gol de pênalti de Carrascal no fim, e soma 70 pontos, um a mais que o Palmeiras, a seis rodadas do fim. O Palmeiras pega o Santos na quarta; o Flamengo enfrenta o Vasco na quinta.",
+   "fontes": [
+    {
+     "titulo": "Hora Brasil: Flamengo x Atlético-MG, resultado e liderança",
+     "url": "https://www.horabrasil.com.br/2026/10/27/flamengo-atletico-mg-brasileirao"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Beisebol",
+    "EUA"
+   ],
+   "historia": "world-series-2026",
+   "titulo": "Brewers fazem 8 corridas numa entrada, batem os Rays por 10 a 1 e ficam a uma vitória do título",
+   "texto": "Milwaukee teve sete rebatidas seguidas com dois eliminados, recorde de pós-temporada, e abriu 3 a 0 na World Series. O jogo 4 é hoje à noite em Tampa; seria o primeiro título da história dos Brewers.",
+   "fontes": [
+    {
+     "titulo": "ESPN: Brewers ride 8-run fifth to Game 3 rout of Rays",
+     "url": "https://www.espn.com/mlb/story/_/id/50293953/brewers-rout-rays-game-3-1-win-first-world-series-title"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Brasil"
+   ],
+   "historia": "cinema-brasileiro",
+   "titulo": "Primeiro Festival do Cinema Brasileiro terá ingressos a R$ 12 em redes de todo o país",
+   "texto": "De 29 de outubro a 4 de novembro, Cinemark, Cinépolis e UCI cobram R$ 12 por sessões de filmes nacionais, como '100 Dias' e 'Se Eu Fosse Você 3'. A iniciativa é da federação das exibidoras (FENEEC).",
+   "fontes": [
+    {
+     "titulo": "Diário do Grande ABC: Festival do Cinema Brasileiro terá ingressos a R$ 12",
+     "url": "https://www.dgabc.com.br/Noticia/4365175/festival-do-cinema-brasileiro-tera-ingressos-a-rs-12-nos-cinemas"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde",
+    "IA",
+    "Câncer"
+   ],
+   "historia": "ia-cancer-pancreas",
+   "titulo": "IA encontra sinais de câncer de pâncreas em tomografias mais de um ano antes do diagnóstico",
+   "texto": "No estudo publicado na revista Gut, o sistema REDMOD detectou alterações em média 475 dias antes do diagnóstico, com sensibilidade de 73%, contra 39% dos radiologistas. Os autores dizem que ainda faltam testes prospectivos e populações mais diversas antes do uso clínico.",
+   "fontes": [
+    {
+     "titulo": "ScienceDaily/BMJ: AI detects 'invisible' signs of pancreatic cancer",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Arqueologia"
+   ],
+   "historia": "naufragio-kekova",
+   "titulo": "Arqueólogos turcos dizem ter achado o naufrágio mais antigo do mundo, com cerca de 4.500 anos",
+   "texto": "Os restos, perto de Kekova, na costa de Antália, foram datados pela cerâmica entre 2700 e 2400 a.C., o que superaria o naufrágio grego de Dokos. A datação ainda é preliminar e o trabalho não foi revisado por pares.",
+   "fontes": [
+    {
+     "titulo": "ScienceDaily/The Conversation: Archaeologists may have found the world's oldest shipwreck",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "ONU",
+   "temas": [
+    "Ucrânia",
+    "Direitos humanos",
+    "Direito internacional"
+   ],
+   "historia": "coi-ucrania-energia",
+   "titulo": "Comissão da ONU conclui que ataques russos à rede elétrica da Ucrânia são crimes contra a humanidade",
+   "texto": "No relatório à Assembleia Geral, a comissão de inquérito do Conselho de Direitos Humanos diz que a campanha contra a energia no inverno de 2025-26 seguiu uma política de Estado para privar civis de luz, aquecimento e água. Também aponta que a Rússia recrutou homens de 29 países por engano e coação para lutar; Moscou não deu acesso aos investigadores.",
+   "fontes": [
+    {
+     "titulo": "OHCHR: Russian authorities committed crimes against humanity through attacks on Ukraine's energy infrastructure",
+     "url": "https://www.ohchr.org/en/press-releases/2026/10/russian-authorities-committed-crimes-against-humanity-through-attacks"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Como Israel sai da urna até ter um governo",
+  "texto": "Os 120 assentos do Knesset são divididos proporcionalmente entre partidos que passam de 3,25% dos votos, e governar exige 61. Depois da apuração (resultado oficial previsto para 4 de novembro), o presidente Isaac Herzog ouve os líderes e encarrega o mais viável de formar coalizão em até 42 dias. Se ninguém conseguir, o governo atual segue como interino e o país pode voltar às urnas, como aconteceu cinco vezes entre 2019 e 2022.",
+  "fontes": [
+   {
+    "titulo": "TIME: Israel Heads to the Polls",
+    "url": "https://time.com/article/2026/10/27/israel-netanyahu-eisenkot-knesset-election-explainer/"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm nota hoje. Seguindo suas avaliações, os destaques ficaram com economia do Brasil, IA (o IPO da Anthropic, ligado ao seu interesse pela empresa) e geopolítica europeia; Israel e Irã ficaram em notas curtas. Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido em 19/10. Os números de mercado são de fechamento de segunda e podem mudar ao longo de hoje. Não consegui abrir as matérias completas da CNN sobre a World Series e Israel; os dados vêm de ESPN e TIME.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-27T11:06:48+00:00"
+}
