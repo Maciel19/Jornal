@@ -1,0 +1,345 @@
+{
+ "data": "2026-10-28",
+ "manchete": "Israel sai das urnas sem maioria para Netanyahu nem para Eisenkot; no Brasil, o mercado dá uma trégua e cobra o nome do ministro da Fazenda, e a Suprema Corte dos EUA mantém juízes de imigração sem poder de pausar deportações",
+ "abertura": "O dia começa com Israel diante de semanas de negociação: as pesquisas de boca de urna mostram o Likud à frente, mas nenhum bloco perto das 61 cadeiras. Nos EUA, o Fed anuncia os juros às 14h, a seis dias das midterms, e na ONU a Assembleia Geral vota pela 34ª vez o fim do embargo a Cuba.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Começa a vacinação em teste no Congo, com o surto perto de 4.900 mortes",
+   "texto": "A MSF informou na segunda (26) que a primeira pessoa foi vacinada, em Ituri, no ensaio clínico anunciado pela OMS na sexta (23). O primeiro imunizante testado é o Ervebo, aprovado para outra espécie de ebola (Zaire), e depois entram candidatas específicas para a cepa Bundibugyo, da Moderna e de Oxford com o Serum Institute; os participantes são contatos de casos recentes, incluindo crianças e grávidas. Os dados do governo somam 10.060 casos confirmados e 4.887 mortes em 66 zonas de saúde de oito províncias; no Quênia, 20 contatos do primeiro caso saíram da quarentena e 98 seguem monitorados.",
+   "fontes": [
+    {
+     "titulo": "ABC News: 1st person inoculated in trial for Ebola vaccine",
+     "url": "https://abcnews.com/Health/1st-person-inoculated-trial-ebola-vaccine-protect-strain/story?id=137599211"
+    },
+    {
+     "titulo": "Al Jazeera: Ebola cases in DR Congo surpass 10,000",
+     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+    },
+    {
+     "titulo": "UN News: Latest news",
+     "url": "https://news.un.org/en/news"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Política fiscal"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Mercado dá uma trégua depois do tombo, e a pressão agora é pelo nome do ministro da Fazenda do quarto mandato de Lula",
+   "oque": "Na terça (27), o dólar caiu 1,07%, para R$ 5,349, depois de subir mais de 8% na segunda, e o Ibovespa recuou 0,51%, para 175.710 pontos, o menor nível desde agosto. Gabriel Galípolo, presidente do Banco Central, negou ser cotado para a Fazenda, disse que seu mandato vai até 2028 e que o BC só intervém no câmbio se houver 'disfuncionalidade' no mercado. Os nomes mais citados para comandar a economia em 2027 são o vice-presidente Geraldo Alckmin e Rafael Fonteles (PT), reeleito governador do Piauí com 70,9%.",
+   "contexto": "Investidores tinham apostado numa vitória de Flávio Bolsonaro e num ajuste fiscal mais duro; a reeleição de Lula desmontou essa aposta, e Citi e BCA Research rebaixaram ativos brasileiros. Fernando Haddad deixou a Fazenda em março para disputar o governo de São Paulo, e Dario Durigan, que o substituiu, deve continuar no governo em outro posto, segundo a imprensa. Com a dívida acima de 82% do PIB e um Congresso eleito mais à direita, o nome escolhido vai sinalizar como o governo pretende conter gastos sem cortar programas sociais. O governo ainda não tem regra fiscal definida para 2027.",
+   "lados": "Bancos e casas de análise dizem que a relação risco-retorno do Brasil piorou e cobram compromisso com a disciplina fiscal. Galípolo evitou comentar o resultado eleitoral e disse que efeitos de medidas como o fim da escala 6x1 só entram nos modelos do BC quando aparecem nos dados. O governo não anunciou prazo; relatos falavam do fim de novembro, mas a decisão pode ser antecipada para conter a especulação.",
+   "proximo": "Observe o anúncio da Fazenda, que está ligado à escolha da Casa Civil, e a tramitação do Orçamento de 2027 (PLN 24/2026) no Congresso. Antes da posse dos novos parlamentares, em fevereiro, a base quer votar a PEC da Segurança no Senado e uma nova indicação ao STF.",
+   "fontes": [
+    {
+     "titulo": "Sou Brasília/Agência Brasil: Dólar fecha a R$ 5,349 e Ibovespa cai 0,51%",
+     "url": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+    },
+    {
+     "titulo": "Forbes Brasil/Reuters: Galípolo nega convite para a Fazenda",
+     "url": "https://forbes.com.br/forbes-money/2026/10/galipolo-nega-convite-para-a-fazenda-e-reforca-mandato-no-bc-ate-2028/"
+    },
+    {
+     "titulo": "VTV News: Alckmin ou Fonteles? Lula avalia nomes para a Fazenda",
+     "url": "https://vtvnews.com.br/noticias/politica/alckmin-fonteles-cotados-ministro-da-fazenda-bb/"
+    },
+    {
+     "titulo": "CNN Brasil: Dólar e juros futuros devolvem parte dos ganhos",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Suprema Corte",
+    "Tribunais de imigração"
+   ],
+   "historia": "fechamento-administrativo-imigracao",
+   "titulo": "Suprema Corte mantém juízes de imigração sem poder de pausar deportações de quem tem pedido de residência em andamento",
+   "oque": "Na terça (27), a Suprema Corte negou, numa ordem de uma frase e sem dissidência registrada, o pedido de Baltimore, New Haven, Columbus e da ONG Centro Legal de la Raza para suspender uma decisão do Texas. Com isso, juízes de imigração seguem proibidos de usar o 'fechamento administrativo', que tira um caso de deportação da pauta enquanto a pessoa espera, por exemplo, um green card por casamento ou um visto para vítimas de crime.",
+   "contexto": "O instrumento existe desde os anos 1990 e foi restabelecido por uma regra do governo Biden em 2024. Em junho, o Texas processou o governo federal; o Departamento de Justiça de Trump concordou com o estado, e o juiz Reed O'Connor anulou a regra no mesmo dia e proibiu uma substituta parecida. Segundo dados do EOIR citados pelo site Immigration Analytics, havia 309.677 casos fechados administrativamente no 3º trimestre do ano fiscal de 2026, parados em média há cerca de 19 anos.",
+   "lados": "O procurador-geral do Texas, Ken Paxton, diz que a regra era uma 'anistia indefinida' para quem está no país ilegalmente. As cidades afirmam que vítimas de crime sem documentos podem deixar de cooperar com a polícia e que haverá perda de arrecadação; o governo responde que esse prejuízo é indireto demais para dar às cidades o direito de recorrer e que a decisão não obriga a reabrir casos já fechados.",
+   "proximo": "O recurso das cidades segue no Tribunal de Apelação do 5º Circuito, e o governo diz que não se opõe a um julgamento rápido. Casos já parados continuam fora da pauta, mas o DHS pode pedir que voltem, e alguns tribunais já começaram a reabrir processos. Pedidos novos não podem ser atendidos enquanto a decisão valer.",
+   "fontes": [
+    {
+     "titulo": "Texas Tribune: Supreme Court won't restore Biden-era deportation rule",
+     "url": "https://www.texastribune.org/2026/10/27/immigration-court-texas-ice-deportation-supreme-court-ruling/"
+    },
+    {
+     "titulo": "Immigration Analytics: Administrative Closure: Supreme Court Refuses to Revive Rule",
+     "url": "https://immigration-analytics.com/2026/10/27/administrative-closure-supreme-court-order/"
+    },
+    {
+     "titulo": "Law Commentary: Supreme Court Refuses to Restore Judges' Power to Pause Deportation Cases",
+     "url": "https://www.lawcommentary.com/articles/supreme-court-deportation-cases-immigration-judges-administrative-closure"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "EUA"
+   ],
+   "historia": "leis-estaduais-ia",
+   "titulo": "Estados americanos aprovam 115 leis de IA em 2026, enquanto o Congresso segue sem lei federal",
+   "oque": "Relatório da Transparency Coalition, divulgado na terça (27), conta 115 leis de IA aprovadas em 30 estados entre 1º de janeiro e 15 de outubro, contra 73 em todo 2025. O tema mais ativo foi a segurança de chatbots, com 14 estados legislando sobre conteúdo de automutilação, conteúdo sexual e táticas de engajamento voltadas a crianças. A Califórnia sozinha aprovou quase 30 medidas.",
+   "contexto": "A lei mais ambiciosa é a SB 315 de Illinois, sancionada em julho: é a primeira nos EUA a exigir auditorias independentes dos maiores desenvolvedores de modelos 'de fronteira' (treinados com mais de 10^26 operações) e obriga a relatar incidentes graves de segurança em até 72 horas. O Congresso discutiu mais de 150 projetos de IA nas duas últimas legislaturas, sem aprovar nenhum; foi nesse vácuo que a Anthropic levou a parlamentares, em outubro, o rascunho de lei federal que daria à Justiça o poder de suspender modelos de alto risco. A disputa é sobre quem regula: estados ou Washington.",
+   "lados": "OpenAI e Anthropic apoiaram publicamente a lei de Illinois; a associação de empresas de tecnologia CCIA pediu o veto. A força-tarefa do Departamento de Justiça criada em janeiro contesta leis estaduais na Justiça, alegando que atrapalham o comércio entre estados, e há quem diga que a colcha de retalhos prejudica a competitividade. Os defensores das leis estaduais lembram que o Senado rejeitou por 99 a 1, em 2025, uma moratória sobre regras estaduais.",
+   "proximo": "Em Illinois, as divulgações públicas começam em 1º de janeiro de 2027 e as auditorias, em 2028, mas quase não existem auditores capazes de fazer esse trabalho. Um rascunho bipartidário na Câmara que anularia leis estaduais está parado; as midterms de 3 de novembro definem quem vai negociar o tema em 2027.",
+   "fontes": [
+    {
+     "titulo": "Tech Times: Record 115 State AI Laws in 2026",
+     "url": "https://www.techtimes.com/articles/329592/20261027/record-115-state-ai-laws-2026-illinois-sets-frontier-audit-mandate-congress-still-silent.htm"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Israel",
+    "Eleições"
+   ],
+   "historia": "eleicao-israel-2026",
+   "titulo": "Boca de urna em Israel põe o Likud em 1º, mas nenhum bloco chega a 61 cadeiras",
+   "texto": "As três TVs dão ao Likud de Netanyahu de 24 a 25 cadeiras e ao Yashar!, de Gadi Eisenkot, de 21 a 23; na Kan, o bloco de Eisenkot soma 53, o de Netanyahu 50, e os partidos árabes, 17, o que os torna peça-chave. O resultado oficial sai em 4 de novembro, e o presidente Herzog tem até 11 de novembro para indicar quem tentará formar governo, que não precisa ser o líder do maior partido.",
+   "fontes": [
+    {
+     "titulo": "Israel Hayom: Israel election 2026 exit polls",
+     "url": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+    },
+    {
+     "titulo": "CNN: Israel's election outcome will take time to become clear",
+     "url": "https://www.cnn.com/2026/10/27/middleeast/israel-elections-outcome-analysis-hnk-intl"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "Negociações"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Putin diz a Finlândia e Noruega que a paz exige resolver as 'causas profundas' da guerra",
+   "texto": "Numa ligação de 90 minutos com Alexander Stubb e Jonas Gahr Støre, Putin repetiu que um acordo deve refletir 'a realidade no terreno', expressão que o ISW lê como reconhecimento dos territórios ocupados. Na madrugada anterior, a Rússia lançou mísseis e 280 drones, principalmente contra Kiev; a trégua local em Oleshky vale até 1º de novembro.",
+   "fontes": [
+    {
+     "titulo": "ISW/Critical Threats: Russian Offensive Campaign Assessment, October 27, 2026",
+     "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-27-2026-6ae13feb115c7"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Golfo",
+    "Iêmen"
+   ],
+   "historia": "ira-eua-2026",
+   "titulo": "Reunião em Teerã não avança, e a guerra entre sauditas e houthis puxa o Egito",
+   "texto": "O Irã pediu a Arábia Saudita, Paquistão e Turquia que pressionem Washington a voltar a negociar e propôs um pacto regional de não agressão, sem progresso, segundo fontes regionais. O Parlamento egípcio aprovou ajuda militar 'puramente defensiva' aos sauditas, e um dirigente houthi chamou isso de declaração de guerra; os houthis dizem ter atingido a refinaria de Ras Tanura, o que não foi confirmado.",
+   "fontes": [
+    {
+     "titulo": "ISW/Critical Threats: Iran Update, October 27, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-october-27-2026-6ae139a34d6dc"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Congresso",
+    "Segurança pública",
+    "STF"
+   ],
+   "historia": "congresso-fim-de-legislatura",
+   "titulo": "Governo e Centrão querem acelerar votações antes da posse do novo Congresso",
+   "texto": "A base de Lula quer aprovar até dezembro a PEC da Segurança (precisa de 49 votos no Senado, em dois turnos), o Orçamento de 2027 e uma nova indicação ao STF para a vaga de Barroso, depois que o Senado rejeitou Jorge Messias em abril. O Centrão, por sua vez, quer discutir redução da maioridade penal e mudanças no sistema eleitoral, ainda sem consenso.",
+   "fontes": [
+    {
+     "titulo": "Folha de Alphaville: Governo e Centrão querem acelerar votações antes de 2027",
+     "url": "https://folhadealphaville.com.br/nacional/2026/10/27/governo-e-centrao-querem-acelerar-votacoes-no-congresso-antes-de-2027.html"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Midterms",
+    "Eleições",
+    "Política dos EUA"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Quase 33 milhões já votaram nas midterms, com eleitores hispânicos acima de 2022 e 2024",
+   "texto": "Nos 27 estados com registro partidário, democratas são cerca de 45% dos votos antecipados e republicanos, 31%, segundo o Election Lab da Universidade da Flórida; a pesquisa PBS/NPR/Marist tem democratas à frente por 52% a 44% no voto para a Câmara. Especialistas alertam que republicanos votam mais no próprio dia da eleição, 3 de novembro, e que em 2024 os dados antecipados também favoreciam os democratas.",
+   "fontes": [
+    {
+     "titulo": "TIME: What Early Voting Data Is Showing About the Midterm Elections",
+     "url": "https://time.com/article/2026/10/27/midterm-elections-early-voting-data-democrats-republicans-hispanic-voters/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "Fed",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "Fed anuncia os juros hoje às 14h, com o mercado vendo cerca de 90% de chance de manutenção",
+   "texto": "A taxa está entre 3,75% e 4% desde a alta de setembro, e os contratos futuros apontam pequena chance de nova alta já hoje; a entrevista de Kevin Warsh é às 14h30 de Nova York. O petróleo Brent, perto de US$ 109, mantém a energia como principal risco para a inflação.",
+   "fontes": [
+    {
+     "titulo": "Finance Calendar: FOMC Rate Decision, 28 October 2026",
+     "url": "https://www.financecalendar.com/event/fomc-rate-decision-october-2026/"
+    },
+    {
+     "titulo": "Sou Brasília/Agência Brasil: fechamento de 27/10",
+     "url": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "ONU",
+   "temas": [
+    "Cuba",
+    "EUA",
+    "Assembleia Geral"
+   ],
+   "historia": "embargo-cuba-onu",
+   "titulo": "Assembleia Geral vota hoje pela 34ª vez o fim do embargo a Cuba, depois de bate-boca entre EUA e Havana",
+   "texto": "O debate de terça (27) chegou a ser suspenso quando o embaixador americano Mike Waltz, que nega haver 'bloqueio' e cita US$ 876 milhões em exportações dos EUA para Cuba neste ano, discutiu com o chanceler Bruno Rodríguez. Agências da ONU alertam para crise de energia na ilha, com mais de 100 mil cirurgias adiadas, enquanto o governo Trump endurece as sanções.",
+   "fontes": [
+    {
+     "titulo": "UN News: General Assembly weighs US embargo against Cuba ahead of 34th vote",
+     "url": "https://news.un.org/en/story/2026/10/1168686"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "Meio ambiente"
+   ],
+   "historia": "gases-efeito-estufa-2025",
+   "titulo": "CO2 na atmosfera bate recorde de 426,8 ppm em 2025, diz a OMM",
+   "texto": "É 153% do nível pré-industrial, com alta de 2,8 ppm em um ano, menor que o salto de 3,5 ppm do ano anterior; metano e óxido nitroso também bateram recordes. A agência espera nova alta em 2026, com o El Niño em formação, e o boletim serve de base para a COP31, em Antália (Turquia), de 9 a 20 de novembro.",
+   "fontes": [
+    {
+     "titulo": "UN News: Record carbon dioxide levels will impact us for centuries",
+     "url": "https://news.un.org/en/story/2026/10/1168677"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Cultura",
+   "temas": [
+    "Livros",
+    "Prêmios"
+   ],
+   "historia": "premio-jabuti-2026",
+   "titulo": "Ruy Castro leva o Jabuti de Livro do Ano pela segunda vez seguida, e Eliana Alves Cruz vence em romance",
+   "texto": "'Trincheira tropical: A Segunda Guerra Mundial no Rio' (Companhia das Letras) ganhou o prêmio principal e a categoria biografia e reportagem; 'Meridiana', de Eliana Alves Cruz, venceu romance literário, e Alberto Martins levou poesia com 'Boris e Marina'. Lygia Bojunga foi escolhida personalidade literária.",
+   "fontes": [
+    {
+     "titulo": "PublishNews: Prêmio Jabuti 2026: conheça os vencedores",
+     "url": "https://www.publishnews.com.br/materias/2026/10/27/premio-jabuti-2026-vencedores/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Beisebol",
+    "World Series"
+   ],
+   "historia": "world-series-2026",
+   "titulo": "Rays vencem no 12º inning e evitam a varrida dos Brewers na World Series",
+   "texto": "Tampa Bay ganhou por 4 a 3 na madrugada desta quarta, com rebatida do reserva Ben Williamson, a primeira vitória de um rebatedor substituto em entrada extra numa World Series desde 1991. Milwaukee lidera por 3 a 1, e o jogo 5 é hoje à noite em St. Petersburg.",
+   "fontes": [
+    {
+     "titulo": "ABC7: Rays stun Brewers with 2-run rally in 12th inning",
+     "url": "https://abc7news.com/post/2026-mlb-world-series-game-5-tampa-bay-rays-stun-milwaukee-brewers-2-run-rally-12th-inning-4-3-win/19988905/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Palmeiras pega o Santos hoje com a briga pelo título a um ponto e o Corinthians na zona de rebaixamento",
+   "texto": "Com seis rodadas para o fim, o Flamengo lidera com 70 pontos e o Palmeiras tem 69; o Flamengo joga o clássico com o Vasco na quinta. Na parte de baixo, o Corinthians caiu para o 18º lugar depois de dez jogos sem vencer.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: O que mudou na classificação do Brasileirão após a 32ª rodada",
+     "url": "https://www.otempo.com.br/sports/futebol-nacional/2026/10/27/o-que-mudou-na-classificacao-do-brasileirao-apos-a-32-rodada"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Eleições"
+   ],
+   "historia": "eleicao-governo-ny-2026",
+   "titulo": "Siena: Hochul amplia vantagem sobre Blakeman para 54% a 40%",
+   "texto": "Em setembro a diferença era de 9 pontos; Letitia James lidera a disputa para procuradora-geral por 54% a 39%. A aprovação de Mamdani entre eleitores do estado subiu para 47% a 43%, e Trump tem 62% de desaprovação em Nova York; a pesquisa ouviu 807 prováveis eleitores de 19 a 22/10, com margem de 4,1 pontos.",
+   "fontes": [
+    {
+     "titulo": "Siena Research Institute: Siena Poll of Likely New York State Voters",
+     "url": "https://sri.siena.edu/2026/10/28/siena-poll-of-likely-new-york-state-voters/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Por que o embargo a Cuba resiste a 33 votos contrários na ONU",
+  "texto": "As resoluções da Assembleia Geral não são obrigatórias: expressam a posição dos países, mas não obrigam os EUA a mudar nada. A primeira votação, em 1992, teve 59 votos a favor do fim do embargo; o apoio chegou a 191 em 2015-2017, na reaproximação de Obama, quando os EUA se abstiveram pela única vez, em 2016. Além disso, a Lei Helms-Burton, de 1996, transformou o embargo em lei federal, de modo que só o Congresso pode derrubá-lo por completo, e seus efeitos sobre empresas de outros países são o que a resolução critica como extraterritoriais.",
+  "fontes": [
+   {
+    "titulo": "UN News: General Assembly weighs US embargo against Cuba ahead of 34th vote",
+    "url": "https://news.un.org/en/story/2026/10/1168686"
+   }
+  ]
+ },
+ "nota": "Ficaram sem nota própria Tecnologia e Imigração, cobertas pelos destaques: não encontrei outra notícia relevante e confirmada das últimas 24 horas nessas seções (uma juíza de Boston suspendeu na terça o novo prazo de 10 dias para refugiados contestarem a perda de status, mas deixei de fora porque você avaliou mal esse tema). Seguindo suas avaliações, os destaques ficaram com Brasil, imigração com dados e regulação de IA, que também continua o seu pedido sobre a lei da Anthropic, atendido em 19/10. Israel, Irã e Ucrânia ficaram em notas curtas. A eleição no Brasil não teve novidade real desde ontem, além do mercado e da Fazenda, tratados no 1º destaque. Os números das pesquisas de boca de urna em Israel podem mudar com a apuração.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-10-28T11:30:22+00:00"
+}
