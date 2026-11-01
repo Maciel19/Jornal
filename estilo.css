@@ -349,3 +349,23 @@ textarea{width:100%;min-height:84px;background:var(--bg);border:1.5px solid var(
   .abrir-radar .pulso{animation:pulso 2.2s ease-out infinite}
   @keyframes pulso{70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
 }
+
+/* ===== Seu radar dentro do jornal (abre no lugar, sem outra tela) ===== */
+:root:not(.dono):not(.editor-aberto) #radar{display:none}
+.radar-inline{background:var(--paper);border:2px solid var(--line);border-radius:18px;overflow:hidden;scroll-margin-top:calc(12px + env(safe-area-inset-top,0px))}
+.radar-inline[open]{border-color:var(--accent)}
+.radar-inline>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:14px 16px;font-weight:700}
+.radar-inline>summary::-webkit-details-marker{display:none}
+.ri-tit{font-size:1.05rem}
+.ri-resumo{flex:1;min-width:0;color:var(--muted);font-size:.82rem;font-weight:400;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ri-seta{width:10px;height:10px;border-right:2.5px solid var(--muted);border-bottom:2.5px solid var(--muted);transform:rotate(45deg);transition:transform .2s;margin:-4px 4px 0 auto;flex:none}
+.radar-inline[open] .ri-seta{transform:rotate(-135deg);margin-top:4px}
+.radar-inline .radar-in{padding:0 12px 14px;gap:12px}
+.radar-inline .rcard{background:var(--bg);border-radius:14px;padding:14px}
+.radar-inline .rcard.conectar{background:color-mix(in srgb,var(--down) 7%,var(--bg))}
+.radar-inline .rcard.conectar.ok{background:var(--bg)}
+.radar-inline #pedido{background:var(--paper)}
+.radar-inline .rtema{background:var(--paper)}
+.radar-inline .rcard{scroll-margin-top:calc(70px + env(safe-area-inset-top,0px))}
+.saudacao .trocar-nome{font-family:var(--body);font-size:.8rem;margin-left:4px;vertical-align:middle}
+@media (prefers-reduced-motion:no-preference){.radar-inline[open] .radar-in{animation:entra .35s ease both}}
