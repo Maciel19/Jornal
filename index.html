@@ -24,6 +24,10 @@
       <button class="fechar" id="fecharInicio" type="button" hidden aria-label="Voltar ao jornal">×</button>
     </div>
     <h1 id="inicioT" class="entra" style="animation-delay:.05s"><span class="ola" id="ola">Olá!</span><br>Qual será o tema das suas notícias?</h1>
+    <div class="nome-linha entra" style="animation-delay:.08s">
+      <button class="trocar-nome" id="trocarNome" type="button" hidden></button>
+      <form class="row nome-form" id="nomeForm" hidden><label class="sr" for="nomeInput">Seu primeiro nome</label><input id="nomeInput" placeholder="Seu primeiro nome" autocomplete="given-name"><button class="small" type="submit">OK</button></form>
+    </div>
     <p class="sub entra" style="animation-delay:.1s">Toque nos temas que você curte. Ao escolher um, aparece a notícia mais recente dele.</p>
     <div class="temas-grid" id="temasGrid" role="group" aria-label="Temas"></div>
   </div>
@@ -95,57 +99,67 @@
 <footer class="rodape" id="rodape"><p>Resumos feitos com ajuda de IA a partir das fontes citadas. Confira sempre os links originais.</p><button type="button" id="souEditor">Área do editor</button></footer>
 <button class="top" id="toTop" hidden aria-label="Voltar ao topo">↑</button>
 
-<!-- ===== Seu radar: painel que sobe por cima do jornal ===== -->
-<div class="sheet-fundo" id="radarFundo" hidden></div>
-<aside class="sheet" id="radar" hidden role="dialog" aria-modal="true" aria-labelledby="radarT">
-  <div class="sheet-alca" aria-hidden="true"></div>
-  <div class="sheet-topo">
-    <div>
-      <span class="label">Só você vê isto</span>
-      <h2 id="radarT">Seu radar</h2>
+<!-- ===== Seu radar: página própria (rola normal e o teclado funciona) ===== -->
+<section class="radar-pagina" id="radar" hidden aria-labelledby="radarT">
+  <div class="radar-barra">
+    <button class="voltar" id="fecharRadar" type="button">← Jornal</button>
+    <h2 id="radarT">Seu radar</h2>
+    <span class="sync-ponto" id="syncPonto" aria-hidden="true"></span>
+  </div>
+  <div class="radar-in">
+    <div class="rcard conectar" id="conectarCard">
+      <h3 id="conectarT">Conecte sua chave neste aparelho</h3>
+      <p class="hint" id="conectarTxt">É só uma vez. Sem a chave, seus pedidos e escolhas ficam só aqui e não chegam ao jornal de amanhã.</p>
+      <div class="sync-box" id="sync"></div>
     </div>
-    <button class="fechar" id="fecharRadar" type="button" aria-label="Fechar o radar">×</button>
-  </div>
-  <div class="sync-box" id="sync"></div>
-  <div class="seg" role="tablist" aria-label="Partes do radar">
-    <button class="seg-btn" role="tab" data-painel="temas" aria-selected="true">Temas</button>
-    <button class="seg-btn" role="tab" data-painel="seguindo" aria-selected="false">Histórias <span class="seg-n" id="nSeguindo"></span></button>
-    <button class="seg-btn" role="tab" data-painel="pedido" aria-selected="false">Pedido <span class="seg-n" id="nPedido"></span></button>
-    <button class="seg-btn" role="tab" data-painel="avaliacoes" aria-selected="false">Avaliações</button>
-  </div>
-  <div class="sheet-corpo">
-    <section class="painel" data-painel="temas">
-      <p class="hint">Toque para ligar ou desligar um tema. O jornal muda na hora, e a edição de amanhã dá mais espaço para o que estiver ligado.</p>
+    <nav class="atalhos" aria-label="Ir para">
+      <button type="button" data-ir="r-pedido">Pedido <span class="seg-n" id="nPedido"></span></button>
+      <button type="button" data-ir="r-temas">Temas</button>
+      <button type="button" data-ir="r-historias">Histórias <span class="seg-n" id="nSeguindo"></span></button>
+      <button type="button" data-ir="r-aval">Avaliações</button>
+    </nav>
+
+    <section class="rcard" id="r-pedido" aria-labelledby="pedT">
+      <h3 id="pedT">Peça algo para amanhã</h3>
+      <p class="hint">Escreva o que quer ver ou entender melhor. A edição das 7h lê isto antes de ser escrita.</p>
+      <div class="ideias" id="ideias">
+        <button type="button" class="ideia" data-ideia="Quero entender melhor ">Quero entender melhor…</button>
+        <button type="button" class="ideia" data-ideia="Traz mais notícias sobre ">Mais notícias sobre…</button>
+        <button type="button" class="ideia" data-ideia="Faz um resumo da semana sobre ">Resumo da semana sobre…</button>
+      </div>
+      <label class="sr" for="pedido">Seu pedido</label>
+      <textarea id="pedido" rows="4" placeholder="Ex.: explica melhor a disputa no Senado sobre o orçamento"></textarea>
+      <div class="pedido-linha"><span class="pedido-status" id="pedStatus"></span><button class="enviar" id="pedSave" type="button">Enviar pedido</button></div>
+      <p class="aviso" id="pedAviso" hidden></p>
+    </section>
+
+    <section class="rcard" id="r-temas" aria-labelledby="temasT">
+      <h3 id="temasT">Temas do seu jornal</h3>
+      <p class="hint">Toque para ligar ou desligar. O jornal muda na hora, e a edição de amanhã dá mais espaço para o que estiver ligado.</p>
       <div class="rtemas" id="rtemas" role="group" aria-label="Temas do seu jornal"></div>
       <div class="bloco">
-        <h3>Assuntos específicos</h3>
+        <h4>Assuntos específicos</h4>
         <p class="hint">Algo mais pontual que você quer acompanhar de perto.</p>
         <div class="chips" id="temas"></div>
-        <form class="row" id="temaForm"><input id="temaInput" placeholder="Ex.: China e Taiwan" aria-label="Novo assunto"><button class="small" type="submit">Adicionar</button></form>
+        <form class="row" id="temaForm"><label class="sr" for="temaInput">Novo assunto</label><input id="temaInput" placeholder="Ex.: China e Taiwan" autocomplete="off"><button class="small" type="submit">Adicionar</button></form>
         <div class="sugestoes" id="sugestoes" aria-label="Sugestões"></div>
       </div>
     </section>
-    <section class="painel" data-painel="seguindo" hidden>
-      <p class="hint">Quando uma destas histórias tiver novidade, ela aparece no topo do jornal.</p>
+
+    <section class="rcard" id="r-historias" aria-labelledby="histT">
+      <h3 id="histT">Histórias que você acompanha</h3>
+      <p class="hint">Quando uma delas tiver novidade, ela aparece no topo do jornal.</p>
       <ul class="seguindo-lista" id="seguindo"></ul>
     </section>
-    <section class="painel" data-painel="pedido" hidden>
-      <p class="hint">Peça o que quiser ver ou entender melhor. A próxima edição lê isto antes de ser escrita.</p>
-      <div class="ideias" id="ideias">
-        <button type="button" class="ideia" data-ideia="Quero entender melhor ">Quero entender melhor…</button>
-        <button type="button" class="ideia" data-ideia="Traz mais notícias sobre ">Traz mais notícias sobre…</button>
-        <button type="button" class="ideia" data-ideia="Faz um resumo da semana sobre ">Resumo da semana sobre…</button>
-      </div>
-      <textarea id="pedido" placeholder="Ex.: explica melhor a disputa no Senado sobre o orçamento"></textarea>
-      <div class="row" style="justify-content:space-between;align-items:center;margin-top:8px"><span class="pedido-status" id="pedStatus"></span><button class="small" id="pedSave" type="button">Salvar pedido</button></div>
-    </section>
-    <section class="painel" data-painel="avaliacoes" hidden>
-      <p class="hint">O que você marcou com "Mais disso" e "Menos disso". A edição diária usa isto para escolher os destaques.</p>
+
+    <section class="rcard" id="r-aval" aria-labelledby="avalT">
+      <h3 id="avalT">Suas avaliações</h3>
+      <p class="hint">O que você marcou com "Mais disso" e "Menos disso". A edição usa isto para escolher os destaques.</p>
       <p class="resumo-gosto" id="resumoGosto"></p>
       <div class="barras" id="stats"></div>
     </section>
   </div>
-</aside>
+</section>
 
 <script>
 const {$,esc,slug,secKey,fmtDate,minutos,srcLinks}=J;
@@ -176,9 +190,10 @@ const calmo=matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 // Link personalizado: ?para=Nome guarda o nome da pessoa neste navegador
 let nome='', veioDoLink=false;try{nome=localStorage.getItem(KNOME)||''}catch(e){}
+const limparNome=v=>{const n=String(v||'').replace(/[^\p{L}\s'-]/gu,'').trim().slice(0,30);return n?n.charAt(0).toUpperCase()+n.slice(1):''};
+if(Prefs.dono())nome='Caique';
 (()=>{const q=new URLSearchParams(location.search).get('para');if(!q)return;veioDoLink=true;
-  const n=q.replace(/[^\p{L}\s'-]/gu,'').trim().slice(0,30);if(!n)return;
-  nome=n.charAt(0).toUpperCase()+n.slice(1);try{localStorage.setItem(KNOME,nome)}catch(e){}
+  const n=limparNome(q);if(n){nome=n;if(!Prefs.dono()){try{localStorage.setItem(KNOME,nome)}catch(e){}}}
   history.replaceState(null,'',location.pathname)})();
 const saudacao=()=>{const h=new Date().getHours();return (h<12?'Bom dia':h<18?'Boa tarde':'Boa noite')+(nome?', '+nome:'')};
 let meus=[];try{meus=JSON.parse(localStorage.getItem(KTEMAS))||[]}catch(e){}
@@ -284,22 +299,25 @@ function escolherFiltro(f){
 }
 
 // ===== Seu radar =====
-function abrirRadar(painel){
-  if(painel)trocarPainel(painel);
-  renderRadar();
-  $('#radarFundo').hidden=false;$('#radar').hidden=false;
-  document.documentElement.classList.add('radar-aberto');
-  requestAnimationFrame(()=>$('#radar').classList.add('aberto'));
-  $('#fecharRadar').focus({preventScroll:true});
+let yJornal=0, pedidoPendente='';
+function abrirRadar(alvo){
+  yJornal=scrollY;renderRadar();pintarConexao();
+  $('#radar').hidden=false;document.documentElement.classList.add('no-radar');
+  window.scrollTo(0,0);
+  if(alvo)requestAnimationFrame(()=>document.getElementById(alvo)?.scrollIntoView({behavior:calmo?'auto':'smooth'}));
 }
-async function fecharRadar(){
-  $('#radar').classList.remove('aberto');document.documentElement.classList.remove('radar-aberto');
-  await espera(calmo?0:260);$('#radar').hidden=true;$('#radarFundo').hidden=true;
+function fecharRadar(){
+  $('#radar').hidden=true;document.documentElement.classList.remove('no-radar');
+  render({manter:false});window.scrollTo(0,yJornal);
 }
-function trocarPainel(p){
-  document.querySelectorAll('.seg-btn').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.painel===p)));
-  document.querySelectorAll('.painel').forEach(s=>s.hidden=s.dataset.painel!==p);
-  $('.sheet-corpo').scrollTop=0;
+// Cartão da chave: aberto e explicado quando não está conectada; some quando está
+function pintarConexao(){
+  const dono=Prefs.dono(),st=Prefs.estado();
+  $('#conectarCard').classList.toggle('ok',dono&&st!=='chave-invalida');
+  $('#conectarT').textContent=dono?'Chave conectada':'Conecte sua chave neste aparelho';
+  $('#conectarTxt').hidden=dono;
+  const f=document.querySelector('#sync .sync-form');if(f&&(!dono||st==='chave-invalida'))f.hidden=false;
+  $('#syncPonto').dataset.estado=dono?st:'visitante';
 }
 function montarCardsRadar(){
   $('#rtemas').innerHTML=TEMAS.map(t=>`<button class="rtema" type="button" data-sec="${t.k}" data-rtema="${t.k}" aria-pressed="false">
@@ -351,11 +369,10 @@ $('#rtemas').addEventListener('click',e=>{
   b.classList.remove('pop');void b.offsetWidth;b.classList.add('pop');
   avisar(ligou?nomeT+' entrou no seu jornal':nomeT+' saiu do seu jornal');
 });
-document.querySelectorAll('.seg-btn').forEach(b=>b.addEventListener('click',()=>trocarPainel(b.dataset.painel)));
+document.querySelectorAll('[data-ir]').forEach(b=>b.addEventListener('click',()=>document.getElementById(b.dataset.ir).scrollIntoView({behavior:calmo?'auto':'smooth'})));
 $('#abrirRadar').addEventListener('click',()=>abrirRadar());
 $('#fecharRadar').addEventListener('click',fecharRadar);
-$('#radarFundo').addEventListener('click',fecharRadar);
-document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#radar').hidden)fecharRadar()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#radar').hidden&&!/TEXTAREA|INPUT/.test(document.activeElement.tagName))fecharRadar()});
 $('#ideias').addEventListener('click',e=>{const b=e.target.closest('[data-ideia]');if(!b)return;const ta=$('#pedido');ta.value=b.dataset.ideia;ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length)});
 $('#sugestoes').addEventListener('click',e=>{const b=e.target.closest('[data-sug]');if(!b)return;radar.temas=[...(radar.temas||[]),b.dataset.sug];persist();renderRadar();avisar(b.dataset.sug+' adicionado')});
 
@@ -378,7 +395,14 @@ document.addEventListener('click',ev=>{
   if(b.dataset.k){delete following[b.dataset.k];persist();renderRadar();render()}
 });
 $('#temaForm').addEventListener('submit',e=>{e.preventDefault();const v=$('#temaInput').value.trim();if(!v)return;$('#temaInput').value='';radar.temas=[...(radar.temas||[]),v];persist();renderRadar();avisar(v+' adicionado')});
-$('#pedSave').addEventListener('click',()=>{radar.pedido=$('#pedido').value.trim();radar.pedidoEm=radar.pedido?new Date().toISOString():'';persist();renderRadar();avisar(radar.pedido?'Pedido salvo':'Pedido apagado')});
+$('#pedSave').addEventListener('click',()=>{
+  const t=$('#pedido').value.trim(),av=$('#pedAviso');
+  if(!t){$('#pedido').focus();av.hidden=false;av.textContent='Escreva o seu pedido antes de enviar.';return}
+  radar.pedido=t;radar.pedidoEm=new Date().toISOString();persist();renderRadar();
+  if(Prefs.dono()){av.hidden=true;avisar('Pedido enviado');}
+  else{pedidoPendente=t;av.hidden=false;av.textContent='Seu pedido está guardado aqui. Conecte a chave lá em cima para ele chegar ao jornal de amanhã.';
+    pintarConexao();$('#conectarCard').scrollIntoView({behavior:calmo?'auto':'smooth',block:'start'});}
+});
 $('#ed').addEventListener('change',async e=>{current=e.target.value;filtro=meus.length?'meu':'todas';await loadEdition(current);window.scrollTo({top:0})});
 
 async function loadEdition(id){
@@ -419,8 +443,15 @@ function contar(){
   $('#dotsEscolha').innerHTML=[...escolha].map(k=>`<span data-sec="${k}"></span>`).join('');
   $('#iniciar').disabled=!n;$('#todos').textContent=n===TEMAS.length?'Limpar':'Escolher todos';
 }
+function pintarNome(){
+  $('#ola').textContent=nome?'Olá, '+nome+'!':'Olá!';
+  const t=$('#trocarNome');t.hidden=false;t.textContent=nome?`Não é ${nome}? Trocar nome`:'Quer que o jornal te chame pelo nome?';
+  $('#nomeForm').hidden=true;
+}
+$('#trocarNome').addEventListener('click',()=>{$('#trocarNome').hidden=true;$('#nomeForm').hidden=false;const i=$('#nomeInput');i.value='';i.focus()});
+$('#nomeForm').addEventListener('submit',e=>{e.preventDefault();nome=limparNome($('#nomeInput').value);try{nome?localStorage.setItem(KNOME,nome):localStorage.removeItem(KNOME)}catch(x){}pintarNome()});
 function abrirInicio(){
-  $('#ola').textContent=nome?'Olá, '+nome+'!':'Olá!';escolha=new Set(meus);totalMostrado=0;
+  pintarNome();escolha=new Set(meus);totalMostrado=0;
   $('#fecharInicio').hidden=!meus.length;
   $('#inicio').classList.remove('sai');$('#inicio').hidden=false;$('#inicioBar').hidden=false;
   document.documentElement.classList.add('escolhendo');window.scrollTo(0,0);pintarTemas();
@@ -457,9 +488,13 @@ $('#toastBtn').addEventListener('click',async()=>{$('#toast').hidden=true;curren
 
 montarCardsRadar();
 Prefs.painel($('#sync'));
-$('#souEditor').addEventListener('click',()=>{document.documentElement.classList.add('editor-aberto');abrirRadar('temas')});
+$('#souEditor').addEventListener('click',()=>{document.documentElement.classList.add('editor-aberto');abrirRadar()});
 // Só redesenha o jornal se avaliações ou histórias mudaram fora desta tela (outro aparelho); nunca a cada salvamento
-Prefs.ouvir(p=>{sincronizar(p);renderRadar();const a=assinatura();if(a!==assinaturaVista){assinaturaVista=a;if(editions.length)render()}});
+Prefs.ouvir((p,st)=>{sincronizar(p);
+  if(pedidoPendente&&Prefs.dono()&&(st==='pronto'||st==='salvo')){const t=pedidoPendente;pedidoPendente='';radar.pedido=t;radar.pedidoEm=new Date().toISOString();persist();$('#pedAviso').hidden=true;avisar('Pedido enviado')}
+  if(Prefs.dono())nome='Caique';
+  if(!$('#radar').hidden)pintarConexao();
+  renderRadar();const a=assinatura();if(a!==assinaturaVista){assinaturaVista=a;if(editions.length)render()}});
 let prontas;
 // O link com ?para=Nome sempre abre a tela de escolher os temas
 if(veioDoLink||!meus.length||new URLSearchParams(location.search).has('inicio'))abrirInicio();
