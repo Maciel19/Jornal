@@ -1,0 +1,371 @@
+{
+ "semana": "2026-11-02",
+ "geradoEm": "2026-11-02T11:43:53+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "titulo": "Midterms amanhã: o guia para acompanhar a eleição que decide o Congresso de Trump",
+   "secao": "EUA",
+   "gancho": "A votação é nesta terça (3) e o resultado vai dominar a semana. Um guia com horários de Brasília e as disputas-chave ajuda o seguidor a acompanhar a apuração em tempo real.",
+   "slides": [
+    {
+     "titulo": "Amanhã os EUA decidem quem controla o Congresso",
+     "texto": "Guia para acompanhar a apuração das midterms desta terça (3)"
+    },
+    {
+     "titulo": "O que está em jogo",
+     "texto": "As 435 cadeiras da Câmara e 35 do Senado vão a voto. O resultado define se Trump passa os dois últimos anos de mandato com o Congresso a favor ou contra."
+    },
+    {
+     "titulo": "A conta dos democratas",
+     "texto": "Na Câmara, um ganho líquido de 3 cadeiras basta para os democratas virarem maioria. No Senado, onde os republicanos têm 53 a 47, eles precisam ganhar 4."
+    },
+    {
+     "titulo": "O que dizem as pesquisas",
+     "texto": "A média do RealClearPolling dá 51,5% aos democratas e 43,1% aos republicanos no voto para a Câmara. Mais de 51 milhões de americanos já tinham votado antes de terça."
+    },
+    {
+     "titulo": "Senado: onde olhar",
+     "texto": "Texas (Talarico x Paxton), Alasca (Peltola x Sullivan), Maine (Collins x Jackson), Iowa, Kansas e Ohio. Os democratas também precisam segurar Geórgia e Michigan."
+    },
+    {
+     "titulo": "Horários de Brasília",
+     "texto": "21h: fecham Geórgia e Virgínia. 21h30: Ohio e Carolina do Norte. 22h: Pensilvânia, Michigan e quase todo o Texas. 23h: Wisconsin e Arizona. 1h de quarta: Califórnia."
+    },
+    {
+     "titulo": "Quando sai o resultado",
+     "texto": "O Senado pode ser definido na madrugada, se as disputas apertadas forem decididas cedo. Na Câmara, a contagem lenta dos votos pelo correio, sobretudo na Califórnia, pode atrasar a definição por dias."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Al Jazeera, Ballotpedia, NPR, US Polling Data. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Nesta terça (3), os americanos escolhem toda a Câmara e 35 cadeiras do Senado. É a primeira grande avaliação do segundo mandato de Trump nas urnas. Os democratas precisam de um ganho líquido de 3 cadeiras na Câmara e de 4 no Senado para assumir o controle das duas Casas. As pesquisas nacionais mostram vantagem democrata de cerca de 8 pontos, mas o Senado depende de estados como Texas, Alasca, Maine e Iowa, onde a disputa está apertada. Mais de 51 milhões de pessoas já votaram antecipadamente. Separamos os horários de fechamento das urnas no horário de Brasília e o que observar em cada momento da noite. Lembrando: o resultado da Câmara pode levar dias, por causa da contagem de votos pelo correio. Qual disputa você vai acompanhar mais de perto na terça?",
+   "hashtags": [
+    "#Midterms",
+    "#EleicoesEUA",
+    "#Congresso",
+    "#Senado",
+    "#PoliticaInternacional",
+    "#EUA",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa com foto do Capitólio (Architect of the Capitol ou Wikimedia Commons, com crédito). Slide 3: gráfico simples de barras com o placar atual (Senado 53 R x 47 D; Câmara 218 R x 214 D) e a linha da maioria (51 e 218). Slide 5: mapa dos EUA destacando os estados das disputas citadas. Slide 6: linha do tempo com os horários de Brasília. Marca d'água Atlas Diário em todos.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US midterms: 2 days to go — what polls say",
+     "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+    },
+    {
+     "titulo": "Al Jazeera: Can Democrats win the US Senate? 10 key midterm races to watch",
+     "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch"
+    },
+    {
+     "titulo": "Ballotpedia: United States House of Representatives elections, 2026",
+     "url": "https://ballotpedia.org/United_States_House_of_Representatives_elections,_2026"
+    },
+    {
+     "titulo": "NPR: Here's how to watch election night as the polls close, hour-by-hour",
+     "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+    },
+    {
+     "titulo": "US Polling Data: 2026 Election Night Guide",
+     "url": "https://uspollingdata.com/news/2026-election-night-guide/"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "titulo": "Da ponte de Foz a Miami: como Flávio Bolsonaro deixou o Brasil e se declarou presidente eleito",
+   "secao": "Brasil",
+   "gancho": "Foi a história brasileira da semana e ganhou dimensão internacional com as falas de Trump. O carrossel organiza a cronologia e separa o que é fato do que é alegação.",
+   "slides": [
+    {
+     "titulo": "Flávio Bolsonaro deixa o Brasil e se diz presidente eleito nos EUA",
+     "texto": "Como foi a saída, o que diz a investigação e como Trump reagiu"
+    },
+    {
+     "titulo": "O que aconteceu",
+     "texto": "Derrotado no 2º turno de 25/10, Flávio chegou a Miami na quarta (28). De lá, publicou uma carta em que se diz 'o verdadeiro presidente eleito' e fala em fraude, sem apresentar provas."
+    },
+    {
+     "titulo": "Os passaportes",
+     "texto": "Na noite da eleição, a PF pediu a apreensão dos passaportes dele por risco de fuga. Moraes atendeu e proibiu a saída do país. O prazo de 24 horas para a entrega venceu na terça (27)."
+    },
+    {
+     "titulo": "A rota",
+     "texto": "Na noite de terça, ele entrou na Argentina pela ponte entre Foz do Iguaçu e Puerto Iguazú, com a mulher e as filhas. Um jatinho levou a família ao Equador para abastecer e, depois, a Miami."
+    },
+    {
+     "titulo": "A investigação",
+     "texto": "A PF apura suspeitas de lavagem de dinheiro. Flávio diz ser perseguido por Moraes e afirma que perdeu 'para o sistema', não para Lula. Lula venceu com 51,8% dos votos válidos."
+    },
+    {
+     "titulo": "A reação",
+     "texto": "Lula chamou a saída de 'vergonhosa'. Trump chamou a eleição de 'vergonha', não disse se reconhece o resultado e afirmou que Flávio pode ficar nos EUA 'o tempo que quiser', mas que não pretende recebê-lo."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O mandato de senador termina em 1º de fevereiro de 2027, e com ele o foro no STF. Até lá, a situação jurídica de Flávio fora do país, sem passaporte brasileiro válido, segue em aberto."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Reuters, AFP, O Povo, Nexo Jornal, Metrópoles. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Dois dias depois de perder o segundo turno, Flávio Bolsonaro saiu do Brasil por terra pela Argentina, mesmo com ordem do STF para entregar os passaportes, e chegou a Miami na quarta (28). Já nos EUA, publicou uma carta se dizendo 'o verdadeiro presidente eleito' e alegando fraude, sem apresentar provas. Ele é investigado pela PF por suspeita de lavagem de dinheiro e diz ser alvo de perseguição. Lula, reeleito com 51,8% dos votos válidos, chamou a saída de vergonhosa. Em Washington, Trump chamou a eleição brasileira de 'vergonha', mas disse que não pretende se encontrar com Flávio. O mandato de senador acaba em fevereiro, e com ele o foro privilegiado. Como você acha que essa situação deve afetar a relação entre Brasil e EUA?",
+   "hashtags": [
+    "#FlavioBolsonaro",
+    "#Eleicoes2026",
+    "#Brasil",
+    "#Trump",
+    "#STF",
+    "#PoliticaBrasileira",
+    "#AtlasDiario"
+   ],
+   "visual": "Slide 4: mapa simples com a rota Foz do Iguaçu → Puerto Iguazú → Guayaquil → Miami, com as datas e horários. Capa: foto oficial do Senado Federal (Agência Senado, com crédito) ou bandeiras do Brasil e dos EUA. Slide 6: duas citações lado a lado (Lula e Trump) em fundo neutro. Marca d'água Atlas Diário em todos.",
+   "fontes": [
+    {
+     "titulo": "O Povo: Flávio Bolsonaro foi à Argentina, parou no Equador e segue a Miami",
+     "url": "https://www.opovo.com.br/noticias/politica/2026/10/28/flavio-bolsonaro-fugiu-do-brasil-confirma-governo-argentino.html"
+    },
+    {
+     "titulo": "Metrópoles: Em carta, Flávio se declara 'verdadeiro presidente eleito do Brasil'",
+     "url": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+    },
+    {
+     "titulo": "Nexo Jornal: A carta de Flávio como novo capítulo do golpismo no Brasil",
+     "url": "https://www.nexojornal.com.br/expresso/2026/10/28/flavio-bolsonaro-eua-porque-flavio-bolsonaro-saiu-do-pais-flavio-e-trump"
+    },
+    {
+     "titulo": "The Manila Times (AFP): Trump hardens stance on Brazil election 'disgrace'",
+     "url": "https://www.manilatimes.net/2026/10/30/world/trump-hardens-stance-on-brazil-election-disgrace/2457682"
+    },
+    {
+     "titulo": "Ynet (Reuters): Trump says Bolsonaro can stay 'as long as he wants'",
+     "url": "https://ynetnews.com/article/dp7u2b4f0"
+    },
+    {
+     "titulo": "O Antagonista: Flávio diz que perdeu para 'o sistema', não para Lula",
+     "url": "https://oantagonista.com.br/brasil/flavio-acusa-moraes-de-perseguicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "titulo": "Acordo ou novo ataque: a decisão de Trump sobre o Irã que vem depois das midterms",
+   "secao": "Mundo",
+   "gancho": "Trump disse que não ataca o Irã antes de 3/11, e Washington avisou aliados no Golfo para se prepararem. A semana que vem pode definir se a guerra volta a esquentar ou se abre uma negociação.",
+   "slides": [
+    {
+     "titulo": "Depois das midterms, Trump decide: acordo ou novo ataque ao Irã",
+     "texto": "Por que os próximos dias podem mudar a guerra no Golfo"
+    },
+    {
+     "titulo": "Onde estamos",
+     "texto": "EUA e Israel estão em guerra com o Irã desde 28 de fevereiro. O Estreito de Ormuz segue praticamente fechado. Analistas descrevem um impasse: nem guerra aberta, nem paz."
+    },
+    {
+     "titulo": "A promessa de Trump",
+     "texto": "Trump disse que não ataca antes da eleição de 3/11. Segundo o Wall Street Journal, os EUA avisaram aliados do Golfo para se prepararem para uma ofensiva curta e intensa depois disso."
+    },
+    {
+     "titulo": "A carta de Vance",
+     "texto": "O vice JD Vance mandou, via Catar, uma carta a Mohsen Rezaei, chefe do Conselho de Segurança Nacional do Irã, propondo negociação direta com o programa nuclear na mesa. Trump minimizou a iniciativa."
+    },
+    {
+     "titulo": "O que o Irã exige",
+     "texto": "Teerã diz que só negocia e reabre Ormuz se os EUA cumprirem sete condições. Segundo o Axios, entre elas estão o fim do bloqueio naval, a liberação de fundos congelados e a venda de petróleo."
+    },
+    {
+     "titulo": "A pressão de Israel",
+     "texto": "Segundo o Axios, Netanyahu quer que Trump ataque logo depois das midterms. Trump prefere dar mais tempo à negociação, e o secretário de Estado, Marco Rubio, diz que nada foi decidido."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O Irã ameaça responder sem limite geográfico, inclusive contra instalações de petróleo no Golfo. Para o International Crisis Group, o risco de novos ataques depois de terça é 'perigosamente alto'."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Al Jazeera, Iran International (com Axios e WSJ), The National, Jerusalem Post. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Trump disse que não vai atacar o Irã antes das eleições americanas desta terça (3). O que acontece depois é a grande dúvida da semana. De um lado, o vice JD Vance enviou uma carta a Teerã, por meio do Catar, propondo negociação direta. Do outro, segundo a imprensa americana, Washington avisou aliados no Golfo para se prepararem para uma ofensiva curta e intensa, e Netanyahu pressiona por um ataque imediato. O Irã diz que só senta à mesa e reabre o Estreito de Ormuz se os EUA cumprirem sete condições, como o fim do bloqueio naval. A guerra começou em 28 de fevereiro e já afeta o preço do petróleo no mundo todo, inclusive no Brasil. Na sua avaliação, a carta de Vance tem chance de abrir uma negociação real?",
+   "hashtags": [
+    "#Ira",
+    "#EUA",
+    "#Geopolitica",
+    "#OrienteMedio",
+    "#Ormuz",
+    "#PoliticaInternacional",
+    "#AtlasDiario"
+   ],
+   "visual": "Slide 2: mapa do Golfo Pérsico destacando o Estreito de Ormuz, Irã, Catar e Arábia Saudita. Slide 4: foto oficial de JD Vance (Casa Branca, domínio público). Slide 5: lista visual das exigências iranianas citadas. Bandeiras de EUA e Irã na capa. Marca d'água Atlas Diário em todos.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: What we know of Vance's letter to Rezaei, as Trump warns Gulf to 'prepare'",
+     "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
+    },
+    {
+     "titulo": "Iran International: Netanyahu pressing Trump to strike Iran immediately after midterms (Axios)",
+     "url": "https://www.iranintl.com/en/202611015366"
+    },
+    {
+     "titulo": "The National: Trump downplays Vance letter sent to Iran",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/"
+    },
+    {
+     "titulo": "Jerusalem Post: Araghchi says Vance's letter 'positive step'",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913396"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "titulo": "Entenda o IPO da Anthropic: quanto vale, quanto fatura e quem manda na dona do Claude",
+   "secao": "Tecnologia",
+   "gancho": "A oferta de ações pode começar a circular entre investidores já na semana de 9/11 e ser uma das maiores da história. É continuação natural das pautas sobre a Anthropic e regulação de IA, que tiveram bom retorno.",
+   "slides": [
+    {
+     "titulo": "Entenda o IPO da Anthropic, que pode ser um dos maiores da história",
+     "texto": "O que o prospecto revela sobre a empresa que criou o Claude"
+    },
+    {
+     "titulo": "O que é",
+     "texto": "A Anthropic entregou em 26/10 à SEC o pedido para abrir capital na Nasdaq, com o código ANT. A estreia é esperada para a segunda metade de novembro, e o preço das ações ainda não foi definido."
+    },
+    {
+     "titulo": "Quanto vale",
+     "texto": "Na última rodada privada, em maio, a empresa foi avaliada em US$ 965 bilhões. Relatos da imprensa falam em algo entre US$ 1,5 trilhão e US$ 2 trilhões na bolsa."
+    },
+    {
+     "titulo": "Receita",
+     "texto": "No primeiro semestre de 2026, a receita foi de US$ 16,3 bilhões, contra US$ 1,2 bilhão no mesmo período de 2025. Quase metade vem de vendas pelas nuvens de Amazon, Google e Microsoft."
+    },
+    {
+     "titulo": "O prejuízo",
+     "texto": "O prejuízo líquido do semestre foi de US$ 80,7 bilhões, mas mais de US$ 72 bilhões são um lançamento contábil ligado a notas conversíveis, sem saída de caixa. O prejuízo operacional ficou perto de US$ 690 milhões."
+    },
+    {
+     "titulo": "Quem manda",
+     "texto": "Os sete cofundadores, entre eles Dario e Daniela Amodei, ficam com 50,1% dos votos nas principais decisões. Um fundo independente, o Long-Term Benefit Trust, escolhe quatro dos sete conselheiros."
+    },
+    {
+     "titulo": "Os riscos",
+     "texto": "O próprio prospecto cita uso indevido da IA em ataques cibernéticos e armas biológicas, modelos que agem por conta própria, dependência de poucos grandes clientes e o custo crescente de chips e data centers."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "CNBC, Built In, Motley Fool/Yahoo Finance, Independent Florida Alligator. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A Anthropic, empresa que criou o Claude, pediu para abrir capital na Nasdaq com o código ANT. O prospecto, entregue em 26 de outubro, mostra uma receita de US$ 16,3 bilhões no primeiro semestre, mais de dez vezes a do ano anterior. O prejuízo de US$ 80,7 bilhões assusta, mas a maior parte é um efeito contábil sem saída de dinheiro. A estrutura também chama atenção: os sete cofundadores mantêm a maioria dos votos, e um fundo independente escolhe a maior parte do conselho, um desenho pensado para proteger a missão de segurança da empresa, segundo ela. Os críticos dizem que isso dá pouco poder aos novos acionistas. A avaliação pode chegar a US$ 2 trilhões. Para você, empresas de IA deveriam ter regras de governança diferentes das outras?",
+   "hashtags": [
+    "#Anthropic",
+    "#InteligenciaArtificial",
+    "#IA",
+    "#IPO",
+    "#Tecnologia",
+    "#Nasdaq",
+    "#AtlasDiario"
+   ],
+   "visual": "Slide 4: gráfico de barras simples comparando a receita do 1º semestre de 2025 (US$ 1,2 bi) e de 2026 (US$ 16,3 bi). Slide 5: barra dividida mostrando o prejuízo de US$ 80,7 bi, com a fatia de US$ 72 bi destacada como contábil. Slide 6: diagrama simples de governança (fundadores 50,1% dos votos; Trust indica 4 de 7 conselheiros). Logotipo só se houver kit de imprensa oficial; senão, tipografia. Marca d'água Atlas Diário em todos.",
+   "fontes": [
+    {
+     "titulo": "CNBC: Anthropic IPO filing gives 7 founders 50.1% voting control",
+     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html"
+    },
+    {
+     "titulo": "CNBC: The big questions remaining after Anthropic's blockbuster IPO prospectus",
+     "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html"
+    },
+    {
+     "titulo": "Built In: Anthropic IPO Filing: Valuation, Finances and Key Details",
+     "url": "https://builtin.com/articles/anthropic-ipo-filing-s1"
+    },
+    {
+     "titulo": "Yahoo Finance (Motley Fool): Anthropic Just Filed Its IPO Prospectus",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-just-filed-ipo-prospectus-143301097.html"
+    },
+    {
+     "titulo": "Independent Florida Alligator: Anthropic is heading to Wall Street",
+     "url": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "titulo": "COP31 começa na segunda (9) na Turquia: o que está em jogo e qual o papel do Brasil",
+   "secao": "ONU",
+   "gancho": "A conferência do clima abre na próxima semana e Lula vai a Antália entregar a presidência que o Brasil exerceu desde Belém. É a pauta que olha para a semana que vem, com ângulo brasileiro.",
+   "slides": [
+    {
+     "titulo": "COP31 começa na segunda (9), e o Brasil passa o bastão",
+     "texto": "O que está em jogo na conferência do clima de Antália, na Turquia"
+    },
+    {
+     "titulo": "Quando e onde",
+     "texto": "A conferência da ONU sobre o clima vai de 9 a 20 de novembro em Antália. A cúpula de líderes é nos dias 11 e 12, e 77 chefes de Estado e de governo já confirmaram presença."
+    },
+    {
+     "titulo": "Um arranjo inédito",
+     "texto": "Turquia e Austrália disputaram a sede e fizeram um acordo: a Turquia hospeda e preside a COP, com o ministro Murat Kurum, e o australiano Chris Bowen comanda as negociações formais."
+    },
+    {
+     "titulo": "O papel do Brasil",
+     "texto": "Lula, que presidiu a COP30 em Belém, chega a Antália no dia 10 para entregar a presidência à Turquia. No dia 13, segue para a cúpula da Asean, nas Filipinas."
+    },
+    {
+     "titulo": "O mapa do caminho",
+     "texto": "O tema central é um roteiro para deixar o petróleo, o gás e o carvão, defendido por Lula em Belém. Mais de 80 países apoiam a ideia; grandes produtores preferem uma transição mais lenta."
+    },
+    {
+     "titulo": "O dinheiro",
+     "texto": "Em Baku, em 2024, os países ricos prometeram US$ 300 bilhões por ano até 2035 aos países em desenvolvimento. Em Belém, o compromisso foi triplicar o dinheiro para adaptação até 2035."
+    },
+    {
+     "titulo": "Por que importa",
+     "texto": "As emissões globais bateram recorde em 2024 e voltaram a subir em 2025. Com as políticas atuais, o mundo caminha para cerca de 2,8 °C de aquecimento neste século, longe da meta de 1,5 °C."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Reuters, WRI, ONU/Wikipedia, Climate Current, Pressenza. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A COP31, conferência da ONU sobre mudança do clima, começa na segunda (9) em Antália, na Turquia, e vai até o dia 20. É a primeira COP com um arranjo dividido: a Turquia hospeda e preside, e a Austrália conduz as negociações. Lula, que comandou a COP30 em Belém, chega no dia 10 para passar a presidência adiante. O principal debate é um roteiro para reduzir o uso de petróleo, gás e carvão, ideia que o Brasil levou a Belém e que tem apoio de mais de 80 países, mas enfrenta resistência de grandes produtores. Também estão na mesa o financiamento para países em desenvolvimento e a adaptação a eventos extremos. Você acha que a COP31 consegue avançar onde Belém parou?",
+   "hashtags": [
+    "#COP31",
+    "#Clima",
+    "#MudancasClimaticas",
+    "#ONU",
+    "#Lula",
+    "#Turquia",
+    "#AtlasDiario"
+   ],
+   "visual": "Capa: foto de Antália ou do centro de convenções (Wikimedia Commons, com crédito) ou foto oficial da COP30 (Agência Brasil/COP30, com crédito). Slide 3: bandeiras da Turquia e da Austrália. Slide 7: gráfico simples comparando a meta de 1,5 °C com a trajetória de 2,8 °C. Slide 2: calendário com 9, 11-12, 13 e 20 de novembro destacados. Marca d'água Atlas Diário em todos.",
+   "fontes": [
+    {
+     "titulo": "Reuters (via Internazionale): Brazil's Lula to attend UN COP31 climate summit in Turkey",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/30/brazil-s-lula-to-attend-un-cop31-climate-summit-in-turkey"
+    },
+    {
+     "titulo": "WRI: What's at Stake at the Next UN Climate Summit (COP31)?",
+     "url": "https://www.wri.org/insights/cop31-climate-summit-what-to-expect"
+    },
+    {
+     "titulo": "Wikipedia: 2026 United Nations Climate Change Conference",
+     "url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+    },
+    {
+     "titulo": "Climate Current: Roadmap for fossil fuels phasing out to dominate COP31 negotiations",
+     "url": "https://climatecurrentorg.substack.com/p/roadmap-for-fossil-fuels-phasing"
+    },
+    {
+     "titulo": "Pressenza: COP31 Climate Conference, Antalya Nov 9-20, 2026",
+     "url": "https://www.pressenza.com/2026/11/cop31-climate-conference-antalya-nov-9-20-2026-will-countries-finally-deliver-on-past-promises/"
+    }
+   ]
+  }
+ ]
+}
