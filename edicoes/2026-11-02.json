@@ -1,0 +1,419 @@
+{
+ "data": "2026-11-02",
+ "manchete": "Na véspera das midterms, democratas lideram as pesquisas e mais de 54 milhões já votaram, mas o Senado segue em aberto; Trump segura Netanyahu e prefere negociar com o Irã, e a ONU deixa o Saara Ocidental após veto russo",
+ "abertura": "Os EUA chegam ao último dia de campanha com vantagem democrata nas pesquisas nacionais e cinco disputas ao Senado ainda empatadas. Fora dali, o fim da missão da ONU no Saara Ocidental e a votação da PEC da Segurança no Senado brasileiro, marcada para amanhã, dão o tom da semana.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Revisão de registros leva a letalidade do ebola acima de 50%, e os EUA barram quem esteve no Congo",
+   "texto": "O instituto nacional de saúde pública do Congo conta 10.414 casos confirmados e 5.372 mortes, uma letalidade de 51,6%. O salto, de 48,6% em dois dias, veio de uma revisão em Ituri que achou 314 mortes antes não contabilizadas; os casos novos subiram só 140 no período. A partir da noite de terça (3), quem esteve no Congo nos últimos 21 dias não poderá embarcar em voos comerciais para os EUA, e o Africa CDC questiona mais de US$ 700 milhões da resposta por falta de prestação de contas.",
+   "fontes": [
+    {
+     "titulo": "Bloomberg: DR Congo Ebola outbreak death toll tops 5,300",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/dr-congo-ebola-outbreak-death-toll-tops-5-300-pushing-fatality-rate-above-50"
+    },
+    {
+     "titulo": "Nairametrics: Ebola death rate exceeds 50% in DR Congo as US tightens travel restrictions",
+     "url": "https://nairametrics.com/2026/11/02/ebola-death-rate-exceeds-50-in-dr-congo-as-us-tightens-travel-restrictions/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições",
+    "Congresso"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Véspera das midterms: democratas lideram por cerca de 8 pontos, mas o Senado depende de cinco empates",
+   "oque": "A eleição de terça (3) renova as 435 cadeiras da Câmara e 35 do Senado. A média da RealClearPolling dá 51,5% aos democratas e 43,1% aos republicanos na pergunta sobre o voto para o Congresso, e mais de 54 milhões de pessoas já votaram antecipadamente, segundo o rastreador da Universidade da Flórida. A CBS classifica como empatadas as disputas ao Senado no Maine, Michigan, Ohio, Texas e Alasca.",
+   "contexto": "Os democratas precisam de um ganho líquido de 3 cadeiras na Câmara e de 4 no Senado para controlar as duas Casas. O mapa do Senado é mais difícil porque muitas vagas em jogo estão em estados onde Trump venceu; por isso o Kansas, que não elege um democrata ao Senado desde 1932, virou notícia: uma pesquisa Washington Post-Schar mostra Adam Hamilton (D) com 52% contra 43% do senador Roger Marshall (R), enquanto a Emerson dá 50% a 47%. No Michigan, a deputada democrata Haley Stevens, derrotada nas primárias, declarou apoio ao republicano Mike Rogers contra o democrata Abdul El-Sayed, e Trump elogiou o gesto como 'lealdade quase sem precedentes'.",
+   "lados": "Trump fez comícios no Iowa e no Kansas no domingo e disse que os republicanos têm 'chance de ir bem, talvez muito bem'. Estrategistas republicanos lembram que pesquisas erraram em 2024 e que institutos relatam dificuldade de alcançar eleitores republicanos, o que pode subestimar o partido. Os democratas centram a campanha no custo de vida, que ligam às tarifas e à guerra com o Irã; a estrategista democrata Celinda Lake admite que o partido também tem imagem negativa. Voto antecipado alto não indica, por si só, em quem as pessoas votaram.",
+   "proximo": "As primeiras urnas fecham na terça à noite em partes de Indiana e Kentucky, vistos como termômetros iniciais. A Pensilvânia só começa a processar votos pelo correio no dia da eleição e deve estar entre as últimas a terminar a contagem. No Alasca, um juiz rejeitou a ação do Departamento de Justiça para atrasar a certificação, e o voto ranqueado pode adiar o resultado do Senado por dias.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US midterms: 2 days to go — what polls say",
+     "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+    },
+    {
+     "titulo": "CBS News: 2026 elections live updates — midterm final push",
+     "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+    },
+    {
+     "titulo": "Washington Post: Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+     "url": "https://www.washingtonpost.com/politics/2026/11/01/democrat-haley-stevens-praises-michigan-gop-senate-candidate-mike-rogers/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Conselho de Segurança",
+    "África"
+   ],
+   "historia": "saara-ocidental-minurso",
+   "titulo": "Depois de 35 anos, a missão da ONU no Saara Ocidental acaba por um veto russo, e Guterres alerta para risco de escalada",
+   "oque": "O mandato da MINURSO expirou em 31 de outubro depois que a Rússia vetou a renovação proposta pelos EUA, apesar de 11 votos a favor e 3 abstenções no Conselho de Segurança. Uma equipe reduzida agora desmonta a missão e devolve equipamentos aos países que cederam tropas. No domingo, Guterres disse estar preocupado com o risco de escalada e pediu contenção às partes.",
+   "contexto": "A Espanha deixou o território em 1975, e Marrocos e a Frente Polisário lutaram até o cessar-fogo de 1991, quando a ONU criou a MINURSO para vigiá-lo e organizar um referendo que nunca aconteceu. Na prática, a missão virou um termômetro de um conflito congelado; o cessar-fogo já tinha sido rompido pela Polisário em 2020. Pela lente de Relações Internacionais, o caso mostra como o veto, cada vez mais usado, agora derruba até missões de manutenção da paz de baixo custo, num momento em que o Conselho já vinha encerrando missões (como as da Somália e do Mali).",
+   "lados": "Marrocos propõe ampla autonomia sob a sua soberania, posição que ganhou apoio dos EUA e de vários europeus. A Frente Polisário, apoiada pela Argélia, exige um referendo de autodeterminação. Guterres disse que a saída das tropas não enfraquece o 'direito inalienável' do povo saarauí à autodeterminação. As fontes consultadas não detalham a justificativa russa para o veto.",
+   "proximo": "As negociações políticas continuam com o enviado pessoal da ONU, Staffan de Mistura. Vale observar se haverá incidentes ao longo do muro de areia que separa as áreas controladas por Marrocos e pela Polisário, e se a Argélia endurece o tom.",
+   "fontes": [
+    {
+     "titulo": "TRT World: UN raises alarm over violence in Western Sahara after peacekeeping mandate expires",
+     "url": "https://www.trtworld.com/article/c84f77783cbd"
+    },
+    {
+     "titulo": "The New Arab: UN announces liquidation of MINURSO Western Sahara mission",
+     "url": "https://www.newarab.com/news/un-announces-liquidation-minurso-western-sahara-mission"
+    },
+    {
+     "titulo": "Anadolu Agency: Morning Briefing, Nov. 2, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Segurança pública",
+    "Congresso"
+   ],
+   "historia": "pec-seguranca-publica",
+   "titulo": "Senado vota amanhã a PEC da Segurança, e a redução da maioridade penal ameaça atrasar o projeto do governo",
+   "oque": "O presidente do Senado, Davi Alcolumbre, marcou para terça (3), às 16h, a votação da PEC 18/2025 em dois turnos no mesmo dia. São precisos 49 dos 81 votos em cada turno. A votação estava prevista para 15 de outubro, mas foi adiada por causa do impasse sobre a maioridade penal.",
+   "contexto": "A PEC põe na Constituição o Sistema Único de Segurança Pública, amplia poderes da Polícia Federal e da PRF, endurece regras contra facções e milícias (com limites à progressão de pena e perda de bens) e reserva 10% do excedente do Fundo Social do pré-sal para a segurança. A Câmara retirou a maioridade penal do texto por acordo de líderes. O projeto é a base para Lula criar um Ministério da Segurança Pública no quarto mandato.",
+   "lados": "A oposição, numa emenda de Rogério Marinho (PL-RN) assinada também por Flávio Bolsonaro, quer baixar a maioridade de 18 para 16 anos em todos os crimes e para 14 nos hediondos; o senador Efraim Filho diz que isso reflete a opinião pública (79% apoiam a redução, segundo Datafolha de junho). O governo diz que aceita discutir o tema, mas numa proposta separada, porque qualquer mudança faria a PEC voltar à Câmara. O líder do PT, Camilo Santana, propõe uma alternativa: 16 anos só para crimes hediondos. O PT está dividido.",
+   "proximo": "Se passar sem mudanças, a PEC vai à promulgação; se uma emenda for aprovada, volta à Câmara, onde também precisa de três quintos. Observe o destaque do PL pedindo votação separada da maioridade e se o governo terá os votos que diz ter para derrubá-lo.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Mercantil: Alcolumbre marca votação da PEC da Segurança para terça (3)",
+     "url": "https://gazetamercantil.com/pec-seguranca-publica-votacao-senado-maioridade-penal"
+    },
+    {
+     "titulo": "Por Brasília: Governo tenta acelerar PEC da Segurança; oposição insiste em maioridade",
+     "url": "https://porbrasilia.com.br/2026/11/01/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "EUA"
+   ],
+   "historia": "eua-ira-negociacao",
+   "titulo": "Netanyahu pede ataque ao Irã logo após as midterms, mas Trump prefere esperar a diplomacia",
+   "texto": "Segundo a Axios, em telefonema no sábado Netanyahu pressionou por novos ataques depois de terça, e Trump disse não ter 'muita pressa' porque as conversas, mediadas pelo Catar, vão bem; uma fonte israelense chamou a ligação de 'dura'. O chanceler iraniano Abbas Araghchi diz que ainda não há acordo e que Teerã espera resposta dos EUA.",
+   "fontes": [
+    {
+     "titulo": "Anews/Anadolu: Trump favors diplomacy with Iran as Netanyahu urges strikes",
+     "url": "https://www.anews.com.tr/world/2026/11/02/trump-favors-diplomacy-with-iran-as-netanyahu-urges-strikes-immediately-after-tuesdays-us-midterms-report"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Europa",
+    "Eleições"
+   ],
+   "historia": "eleicao-bulgaria-2026",
+   "titulo": "Iliana Yotova vence o segundo turno na Bulgária com folga, segundo boca de urna",
+   "texto": "A presidente interina teve entre 56,6% e 58,2%, contra 38,6% a 40,6% de Andrey Gyurov, que reconheceu a derrota. A Bulgária, membro da OTAN e da UE, vive instabilidade política crônica, e a Presidência tem peso em política externa e na formação de governos.",
+   "fontes": [
+    {
+     "titulo": "Anadolu Agency: Morning Briefing, Nov. 2, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Trégua mediada pelos EUA em Oleshky termina sem violações, enquanto a Rússia lança 193 drones",
+   "texto": "A trégua de vários dias na cidade ocupada de Oleshky, em Kherson, permitiu comboios humanitários, e o Kremlin a chamou de 'bem-sucedida'; um assessor de Putin disse que ele atenderia uma ligação de Zelensky. Na madrugada, a Ucrânia relatou 193 drones russos e ataques em Odesa e Izyum, e os aplicativos de alerta dos dois países sofreram ciberataques com avisos falsos.",
+   "fontes": [
+    {
+     "titulo": "Anadolu Agency: Morning Briefing, Nov. 2, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+    },
+    {
+     "titulo": "Ukraine Daily (Chris Sampson), 2 nov. 2026, com dados do Estado-Maior ucraniano",
+     "url": "https://thechrissampson.substack.com/p/ukraine-daily-november-2-2026-the"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso"
+   ],
+   "historia": "chris-murphy-saude",
+   "titulo": "Senador Chris Murphy, cotado para 2028, é hospitalizado após AVC",
+   "texto": "O democrata de Connecticut, de 53 anos, sentiu dormência no braço no sábado e foi levado ao hospital Johns Hopkins; seu gabinete diz que ele está 'acordado e alerta' e deve se recuperar totalmente. Murphy não está na cédula de terça, mas vinha fazendo campanha pelo país e é visto como possível candidato à Presidência em 2028.",
+   "fontes": [
+    {
+     "titulo": "PBS NewsHour: Connecticut Sen. Chris Murphy is in the hospital after having a stroke",
+     "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Suprema Corte",
+    "Detenção"
+   ],
+   "historia": "detencao-sem-fianca",
+   "titulo": "Governo leva à Suprema Corte a regra que nega fiança a imigrantes detidos",
+   "texto": "O DHS pediu aos juízes que analisem o caso de Jaciel Cirrus Rojas, mexicano preso em Wisconsin como 'colateral', que ganhou no 7º Circuito; outros cinco tribunais de apelação também rejeitaram a política, criada em julho de 2025, de detenção obrigatória sem audiência de fiança. O governo quer que o caso espere a decisão sobre um processo de Massachusetts envolvendo um brasileiro, já aceito pela Corte, que pode afetar dezenas de milhares de detidos.",
+   "fontes": [
+    {
+     "titulo": "Civic Media: Wisconsin ICE arrestee's case heads to US Supreme Court",
+     "url": "https://civicmedia.us/news/2026/11/01/wisconsin-ice-arrestees-case-heads-to-us-supreme-court"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Geopolítica da IA",
+    "Golfo"
+   ],
+   "historia": "ia-golfo",
+   "titulo": "Abu Dhabi fecha quatro acordos com a OpenAI para levar IA ao governo, à educação e à ADNOC",
+   "texto": "Os acordos, assinados na feira de energia ADIPEC, incluem o uso da plataforma Frontier pela petroleira estatal e uma implantação de cinco anos em governo, empresas e escolas via a G42; os valores não foram divulgados. É mais um passo dos Emirados para se firmar como polo de IA alinhado aos EUA.",
+   "fontes": [
+    {
+     "titulo": "AI Weekly: AI News Today, November 2 (resumo com link para The National)",
+     "url": "https://aiweekly.co/ai-news-today"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Negócios"
+   ],
+   "historia": "custo-ia",
+   "titulo": "Musk admite que o custo do Grok está 'insustentavelmente alto' em relação à receita",
+   "texto": "A declaração veio depois de assinantes relatarem ter gasto a cota de uma semana em uma noite. O caso reforça a dúvida que pesou nas bolsas na semana passada: se a receita da IA acompanha o gasto com computação.",
+   "fontes": [
+    {
+     "titulo": "Anadolu Agency: Morning Briefing, Nov. 2, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+    },
+    {
+     "titulo": "AI Weekly: AI News Today, November 2",
+     "url": "https://aiweekly.co/ai-news-today"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Desinformação"
+   ],
+   "historia": "anthropic-falso-vazamento",
+   "titulo": "Suposto vazamento de um modelo da Anthropic era ruído aleatório",
+   "texto": "Um repositório de 7,72 TB no Hugging Face dizia conter um modelo de 14 trilhões de parâmetros da empresa; pesquisadores reproduziram os arquivos bit a bit a partir de um gerador de números aleatórios. A Anthropic, que se prepara para abrir capital, não comentou nas fontes consultadas.",
+   "fontes": [
+    {
+     "titulo": "AI Weekly: AI News Today, November 2",
+     "url": "https://aiweekly.co/ai-news-today"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Juros",
+    "Brasil"
+   ],
+   "historia": "semana-bancos-centrais-nov-2026",
+   "titulo": "Com a bolsa fechada no Finados, o mercado se prepara para o Copom de quarta",
+   "texto": "A Selic está em 13,75%, e a decisão sai na quarta (4), depois de o Ibovespa fechar a semana em 167.922 pontos, quase 20% abaixo do pico de 9 de outubro, e o dólar a R$ 5,44. Apostas de mercado indicam manutenção dos juros, e a falta de um nome para a Fazenda segue como principal fonte de incerteza.",
+   "fontes": [
+    {
+     "titulo": "Rio Times: Brazil's financial morning call, Nov. 2, 2026",
+     "url": "https://riotimesonline.com/brazils-financial-morning-call-for-monday-november-2-2026"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Comércio global",
+    "Semicondutores"
+   ],
+   "historia": "exportacoes-coreia-chips",
+   "titulo": "Exportações da Coreia do Sul quase dobram em outubro, puxadas por chips de IA",
+   "texto": "As vendas externas somaram US$ 115,3 bilhões (+93,7%), com chips em US$ 56,4 bilhões, 44,7% do total. Parte do salto é efeito de base, porque outubro de 2025 teve um longo feriado, mas o dado é um termômetro da demanda global por infraestrutura de IA.",
+   "fontes": [
+    {
+     "titulo": "AI Weekly (resumo de reportagem do Korea Times), 1 nov. 2026",
+     "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+     "titulo": "Korea Times: Exports double in first 20 days of October on robust chip shipments",
+     "url": "https://www.koreatimes.co.kr/economy/20261021/exports-double-in-1st-20-days-of-october-on-robust-chip-shipments"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Copa do Brasil"
+   ],
+   "historia": "copa-do-brasil-2026",
+   "titulo": "Palmeiras e Grêmio vencem a ida das semifinais da Copa do Brasil",
+   "texto": "O Palmeiras bateu o Vasco por 1 a 0, gol de Maurício, e joga por um empate no Rio no domingo (8); o Grêmio fez 2 a 0 no Atlético-MG e decide em Belo Horizonte no sábado (7). No Brasileirão, o Flamengo lidera com 73 pontos, três à frente do Palmeiras, a cinco rodadas do fim.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Palmeiras sai na frente do Vasco na semifinal da Copa do Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
+    },
+    {
+     "titulo": "Rio Times: Palmeiras edge Vasco 1-0 in Brazil Cup semifinal",
+     "url": "https://www.riotimesonline.com/palmeiras-edge-vasco-1-0-brazil-cup-semifinal/"
+    },
+    {
+     "titulo": "Tribuna do Sertão: Copa do Brasil abre semifinais; Flamengo ampliou vantagem",
+     "url": "https://www.tribunadosertao.com.br/esportes/2026/11/01/1011194-copa-do-brasil-abre-semifinais-neste-domingo-as-16h-no-brasileirao-flamengo-ampliou-vantagem"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Fórmula 1",
+    "Futebol internacional"
+   ],
+   "historia": "f1-2026",
+   "titulo": "Antonelli, de 20 anos, vira o campeão mais jovem da F1; Arsenal vence em Anfield e lidera a Premier League",
+   "texto": "O italiano da Mercedes garantiu o título com o 3º lugar no México, a quatro provas do fim, superando o recorde de Vettel; é o primeiro campeão italiano desde Alberto Ascari, em 1953. Na Inglaterra, o Arsenal ganhou do Liverpool por 1 a 0, gol de Havertz, sua primeira vitória em Anfield pela liga em 14 anos.",
+   "fontes": [
+    {
+     "titulo": "Anadolu Agency: Morning Briefing, Nov. 2, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Ebola",
+    "Viagens"
+   ],
+   "historia": "ebola-rdc-2026",
+   "titulo": "EUA passam a exigir declaração de que o passageiro não esteve no Congo nos últimos 21 dias",
+   "texto": "A regra do CDC vale a partir da noite de terça (3) para todos os voos internacionais com destino aos EUA, inclusive de quem só fez conexão em outros países. Os 21 dias correspondem ao período máximo de incubação do ebola.",
+   "fontes": [
+    {
+     "titulo": "Nairametrics: Ebola death rate exceeds 50% in DR Congo as US tightens travel restrictions",
+     "url": "https://nairametrics.com/2026/11/02/ebola-death-rate-exceeds-50-in-dr-congo-as-us-tightens-travel-restrictions/"
+    },
+    {
+     "titulo": "Rio Times: Avianca Ebola form starts on US trips Nov 3",
+     "url": "https://www.riotimesonline.com/avianca-ebola-form-us-flights-november-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Eleições"
+   ],
+   "historia": "eleicao-ny-2026",
+   "titulo": "Voto antecipado em Nova York termina com mais de 1,7 milhão de votos",
+   "texto": "Até o oitavo dia, o estado somava 1.705.698 votos antecipados, segundo dados não oficiais do conselho eleitoral estadual. A última pesquisa Quinnipiac dava a Hochul 55% contra 41% de Bruce Blakeman; as urnas abrem amanhã das 6h às 21h.",
+   "fontes": [
+    {
+     "titulo": "CBS6 Albany: Early voting wraps Sunday as New York reports 1.7 million ballots cast",
+     "url": "https://cbs6albany.com/news/local/early-voting-wraps-sunday-as-new-york-reports-17-million-ballots-cast-statewide"
+    },
+    {
+     "titulo": "amNY: Hochul hammers Blakeman's Trump ties as NYC early voting outpaces 2022",
+     "url": "https://www.amny.com/politics/hochul-blakemans-trump-nyc-early-voting/"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Esportes"
+   ],
+   "historia": "maratona-ny-2026",
+   "titulo": "Sueco Andreas Almgren vence a Maratona de Nova York na estreia, e Sheila Chepkirui leva a feminina",
+   "texto": "Almgren fez 2h06min01 em sua primeira maratona, com os três primeiros separados por 25 segundos; Chepkirui venceu em 2h24min36, à frente da americana Jessica McClain. Foi a primeira americana no pódio feminino desde 2018.",
+   "fontes": [
+    {
+     "titulo": "Marathon Journal: 2026 New York City Marathon results",
+     "url": "https://marathonjournal.com/2026-new-york-city-marathon-results/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Como ler a noite eleitoral de terça nos EUA",
+  "texto": "Os resultados chegam em ondas porque cada estado tem suas regras. As primeiras urnas fecham em partes de Indiana e Kentucky, cujos números servem de termômetro inicial. Estados que só abrem os votos pelo correio no dia da eleição, como a Pensilvânia, costumam ter o 'efeito miragem': a contagem muda de lado à medida que os votos por correio, mais democratas, entram. No Alasca, o voto ranqueado faz com que, se ninguém passar de 50%, as preferências seguintes sejam redistribuídas, o que pode atrasar o resultado do Senado por dias. Por isso, 'quem está na frente' às 23h não é necessariamente quem vence.",
+  "fontes": [
+   {
+    "titulo": "CBS News: 2026 elections live updates",
+    "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+   },
+   {
+    "titulo": "Al Jazeera: US midterms: 2 days to go",
+    "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+   }
+  ]
+ },
+ "nota": "Cultura ficou sem nota: não encontrei notícia relevante e confirmada das últimas 24 horas (a bilheteria do Halloween já saiu ontem). Brasil e ONU não têm nota própria porque aparecem nos destaques (PEC da Segurança e Saara Ocidental). A eleição no Brasil não teve atualização: não houve fato novo desde a entrada de Flávio nos EUA. Seguindo suas avaliações, os destaques ficaram com política dos EUA, ONU/geopolítica e Brasil; Israel aparece só pela negociação EUA-Irã, e a Rússia, em nota curta. Seu pedido sobre a Anthropic já foi atendido em 19/10. Avisos: o telefonema Trump-Netanyahu vem de fontes anônimas ouvidas pela Axios (não consegui abrir a matéria original; usei o resumo da Anadolu); os acordos OpenAI-Abu Dhabi e o dado de exportações da Coreia vêm de um agregador (AI Weekly), pois não consegui abrir The National e Korea Times; os números da guerra vêm do Estado-Maior ucraniano e não são verificados de forma independente; não consegui abrir CNN, CNBC e Axios.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-02T12:07:04+00:00"
+}
