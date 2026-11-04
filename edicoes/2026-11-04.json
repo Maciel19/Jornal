@@ -1,0 +1,462 @@
+{
+ "data": "2026-11-04",
+ "manchete": "Democratas tomam a Câmara e o Senado nas midterms, na pior derrota legislativa de Trump; no Brasil, o Senado aprova por unanimidade a PEC da Segurança, e o Copom decide a Selic hoje",
+ "abertura": "Os EUA acordam com um governo dividido: os democratas viraram ao menos sete cadeiras no Senado, inclusive no Texas, e passaram da maioria na Câmara, enquanto Trump diz aceitar o resultado e promete usar o veto. No Brasil, o primeiro grande teste de Lula após a reeleição passou no Senado, e o mercado espera a decisão de juros desta noite com o dólar perto de R$ 5,40.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Ebola passa de 10 mil infecções e 5,3 mil mortes; OMS pede US$ 115 milhões",
+   "texto": "Segundo o Africa CDC, até 2/11 eram cerca de 10.444 infecções e 5.376 mortes, quase todas na RD Congo, com casos também no Quênia e em Uganda. Na ONU em Genebra, a OMS disse precisar de US$ 115 milhões para a resposta, e testes com a vacina Ervebo (eficaz contra a cepa Zaire, não aprovada para a Bundibugyo) começaram no Congo. O diretor-geral da OMS dá entrevista sobre o surto hoje.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Ebola outbreak kills more than 5,300 people in DR Congo",
+     "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
+    },
+    {
+     "titulo": "UN Geneva: Press Briefing, 3 November 2026",
+     "url": "https://www.unognewsroom.org/story/en/3314/un-geneva-press-briefing-03-november-2026"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições",
+    "Congresso"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Democratas conquistam Câmara e Senado; Trump terá um Congresso de oposição nos dois últimos anos de mandato",
+   "oque": "A CBS projetou maioria democrata no Senado pouco depois das 23h30 de terça e, de madrugada, na Câmara, com cerca de 75 disputas ainda abertas. No Senado, os democratas viraram ao menos sete cadeiras: Texas (Talarico sobre Paxton), Ohio (Sherrod Brown), Carolina do Norte (Roy Cooper), Iowa, Kansas, Carolina do Sul e Maine, onde Susan Collins perdeu. Alasca e Mississippi seguiam sem resultado, e os democratas ganharam também governos como Texas, Ohio, Geórgia e Iowa.",
+   "contexto": "O partido do presidente quase sempre perde nas midterms, mas a escala desta derrota é rara: boca de urna citada pela CBS pôs a aprovação de Trump em 38%, possivelmente recorde negativo para um presidente numa eleição legislativa. A campanha foi marcada pela alta dos combustíveis ligada à guerra com o Irã, pelo endurecimento migratório e por denúncias de corrupção. Trump fez 28 comícios, todos em estados republicanos, e candidatos que ele apoiou, como Paxton, perderam.",
+   "lados": "Trump disse ao NYT estar 'absolutamente disposto' a aceitar o resultado e que 'provavelmente' vai se entender com os democratas, mas escreveu que teria vencido 'de lavada' se estivesse na cédula, culpou a Fox News sem provas e prometeu usar o veto. Schumer falou em 'refazer o mapa do Senado por uma geração'; Jeffries disse que os americanos pedem 'mudança transformadora'. Segundo a AP, o impeachment do presidente ou de ministros 'não está descartado' entre democratas.",
+   "proximo": "O novo Congresso toma posse em 3 de janeiro de 2027; até lá, o atual Congresso republicano segue no cargo. Observe a contagem final das cadeiras na Câmara, o Alasca e o Mississippi, a disputa pela liderança republicana e se Trump vai recorrer mais a tarifas e decretos, que não dependem do Congresso. O teto da dívida deve voltar a apertar em 2027.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Live election results for 2026 midterms",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+     "titulo": "MercoPress: Trump accepts midterm defeat but says Republicans would have won 'in a landslide'",
+     "url": "https://en.mercopress.com/2026/11/04/trump-accepts-midterm-defeat-but-says-republicans-would-have-won-in-a-landslide-had-he-been-on-the-ballot"
+    },
+    {
+     "titulo": "PBS News: Democrats flip New Jersey House seat held by Republican Tom Kean",
+     "url": "https://www.pbs.org/newshour/politics/democrats-flip-new-jersey-house-seat-held-by-republican-tom-kean"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "Anthropic"
+   ],
+   "historia": "anthropic-autoaperfeicoamento",
+   "titulo": "No documento do IPO, a Anthropic diz que pode estar 'iminentemente' perto de uma IA que acelera o próprio desenvolvimento",
+   "oque": "Na versão revisada do prospecto de abertura de capital (S-1/A), entregue à SEC na segunda (2), a Anthropic afirma que estimativas internas indicam que futuros modelos 'podem iminentemente' atingir o limiar de 'progresso dramaticamente acelerado atribuível à IA' da sua Política de Escalonamento Responsável. A empresa diz que nenhum modelo atual foi classificado acima desse limiar e que segue avaliando os dados.",
+   "contexto": "O fenômeno é chamado de autoaperfeiçoamento recursivo: quando a IA faz boa parte da pesquisa que cria a próxima IA, o ritmo pode superar a capacidade de testes de segurança. A Anthropic admite que, 'no passado', só percebeu acelerações importantes depois que aconteceram, e diz não esperar deixar o Claude projetar modelos sucessivos sem supervisão humana. O aviso surge semanas depois de a empresa levar ao Congresso um rascunho de lei que daria à Justiça poder de suspender modelos de alto risco, e às vésperas de um IPO que pode começar a ser oferecido na semana de 9/11.",
+   "lados": "Para a empresa, é um alerta de risco exigido de quem vende ações e uma justificativa para regras de supervisão. Céticos lembram que um S-1 é ao mesmo tempo documento legal e peça de venda, e que falar em IA quase autônoma também valoriza a companhia; análises independentes notam que os próprios dados do documento não mostram o ciclo fechado.",
+   "proximo": "A Anthropic diz estudar mudanças na política de escalonamento para manter humanos no controle. Observe o início da oferta do IPO, a reação de reguladores como a FTC, que já intimou a empresa sobre agentes de IA, e se o novo Congresso democrata retoma a regulação federal de modelos de fronteira.",
+   "fontes": [
+    {
+     "titulo": "TechCrunch (via Yahoo Finance): Anthropic warns that it's very close to RSI capability",
+     "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-warns-very-close-rsi-221450860.html"
+    },
+    {
+     "titulo": "CNN: Anthropic was founded to answer to humanity. Soon, it will also answer to Wall Street",
+     "url": "https://cnn.com/2026/11/03/tech/anthropic-ipo-ai-safety"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Segurança pública",
+    "Congresso"
+   ],
+   "historia": "pec-seguranca-publica",
+   "titulo": "Senado aprova a PEC da Segurança por unanimidade e separa a redução da maioridade penal em outra proposta",
+   "oque": "O Senado aprovou a PEC 18/2025 na terça (3) com 73 votos no primeiro turno e 75 no segundo, sem nenhum contra. Como o texto não mudou, ele segue para promulgação sem voltar à Câmara. As emendas que reduziam a maioridade penal foram desmembradas por 38 a 36 e vão tramitar como PEC paralela.",
+   "contexto": "A PEC põe o Sistema Único de Segurança Pública (Susp) na Constituição, amplia o papel da União no setor, regula guardas e polícias municipais, endurece penas para líderes de facções e milícias (presídio de segurança máxima, menos progressão de regime, confisco de bens) e estende a PRF a ferrovias e hidrovias. Também blinda fundos do setor contra bloqueios e destina a ele 10% do superávit do Fundo Social. Foi o primeiro teste do governo no Congresso após a reeleição de Lula, e segurança foi tema central da campanha.",
+   "lados": "O relator, Rogério Carvalho (PT-SE), chamou a maioridade penal de 'jabuti' estranho ao texto. A oposição quer votá-la logo: a emenda de Rogerio Marinho (PL-RN) reduz a idade para 16 anos e, em certos crimes, para 14; a de Camilo Santana (PT-CE) limita a redução a 16 anos em crimes hediondos.",
+   "proximo": "Falta a sessão de promulgação pelo Congresso. Lula quer criar o Ministério da Segurança Pública ainda em novembro. Alcolumbre prometeu rapidez para a PEC da maioridade, que depende de um calendário especial; a Câmara já tem comissão especial sobre o tema.",
+   "fontes": [
+    {
+     "titulo": "Agência Senado: Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+    },
+    {
+     "titulo": "Metrópoles: Após eleições, foco de Lula é consolidar Ministério da Segurança este mês",
+     "url": "https://www.metropoles.com/brasil/apos-eleicoes-foco-de-lula-e-consolidar-ministerio-da-seguranca-este-mes"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "EUA"
+   ],
+   "historia": "guerra-ira-eua-2026",
+   "titulo": "Depois do ataque a Qeshm, Irã diz que 'a bola está com os EUA' e acena com reabrir Ormuz",
+   "texto": "Os EUA chamaram de 'defensivos' os ataques à ilha iraniana; Pezeshkian disse que o líder supremo deu ao governo autoridade para negociar, e o Itamaraty iraniano afirmou que o plano de Teerã, que inclui reabrir o Estreito de Ormuz, pode ser aplicado em 'dois dias'. Trump diz estar 'sem pressa' para decidir se retoma bombardeios, e uma autoridade iraniana disse que os lados seguem 'longe de um acordo'.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US hits Qeshm Island, Pezeshkian signals more diplomacy",
+     "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "EUA",
+    "Israel"
+   ],
+   "historia": "ajuda-militar-israel",
+   "titulo": "Trump diz que os EUA deixam de pagar ajuda militar a Israel no fim do ano",
+   "texto": "Na Fox, Trump disse ter combinado com Netanyahu encerrar os cerca de US$ 4 bilhões anuais 'porque eles não precisam', embora o acordo de dez anos em vigor vá até 2028. Não ficou claro que tipo de ajuda será cortado, e o Departamento de Estado não comentou; em julho, a Câmara rejeitou cortar a ajuda por 314 a 104.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Trump says US will stop giving Israel aid after year-end",
+     "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end"
+    },
+    {
+     "titulo": "CNN: Trump says US is cutting off aid to Israel at year's end",
+     "url": "https://www.cnn.com/2026/11/03/politics/trump-us-aid-israel"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Ataques cruzados a energia ameaçam subestação de usina nuclear na Ucrânia",
+   "texto": "Bombardeios russos derrubaram usinas ucranianas e ameaçaram uma subestação da central nuclear de Khmelnytskyi; drones ucranianos incendiaram uma refinaria em Yaroslavl. Segundo o UNICEF, crianças ucranianas passaram em média 34 horas sob alerta antiaéreo em horário escolar desde o início do ano letivo.",
+   "fontes": [
+    {
+     "titulo": "Foreign Exchanges: World roundup, November 3 2026",
+     "url": "https://www.foreignexchanges.news/p/world-roundup-november-3-2026"
+    },
+    {
+     "titulo": "UN Geneva: Press Briefing, 3 November 2026",
+     "url": "https://www.unognewsroom.org/story/en/3314/un-geneva-press-briefing-03-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições",
+    "Plebiscitos"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Na Califórnia, Becerra é eleito governador, e eleitores rejeitam exigência de documento para votar",
+   "texto": "O democrata Xavier Becerra venceu Steve Hilton logo após o fechamento das urnas, e a AP projeta a rejeição da Proposição 39, que exigiria identificação do eleitor. O imposto único sobre fortunas de bilionários (Prop. 40) perdia por 56% a 44% na apuração parcial.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Key takeaways from the 2026 midterm elections in California",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Justiça",
+    "Eleições"
+   ],
+   "historia": "voto-nao-cidadaos",
+   "titulo": "Juíza impede o governo de pressionar estados com listas de supostos eleitores não cidadãos",
+   "texto": "Na véspera da eleição, a juíza Tanya Chutkan proibiu temporariamente o DOJ e o DHS de enviar aos estados listas de eleitores que 'podem não ser cidadãos' e de pedir que esses votos fossem separados. Ela disse que os dados podem não ser confiáveis e ameaçam eleitores legais; um painel do 9º Circuito, em outro caso, permitiu ameaças de processo a autoridades locais.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News: Judge blocks Trump administration from pressuring states over noncitizen voting",
+     "url": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-pressuring-041340480.html"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Deportações",
+    "Justiça"
+   ],
+   "historia": "deportacao-afegaos",
+   "titulo": "Juíza em Nova York suspende deportação de afegãos via Paquistão até sábado",
+   "texto": "A juíza federal Valerie Caproni bloqueou na terça (3) a deportação de afegãos detidos para o Afeganistão ou o Paquistão; relatos falam em mais de 150 pessoas, algumas presas na Louisiana. O governo disse que não havia voos previstos até o fim da semana; a ordem vale até 7 de novembro.",
+   "fontes": [
+    {
+     "titulo": "Khaama Press: US Judge Blocks Deportation of More Than 150 Afghans",
+     "url": "https://khaama.com/us-judge-blocks-deportation-afghans-2026"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "TPS",
+    "Venezuela"
+   ],
+   "historia": "tps-venezuela",
+   "titulo": "TPS dos venezuelanos pode voltar na sexta (6), e a decisão está com a Suprema Corte",
+   "texto": "A suspensão da liminar que protege os venezuelanos expira em 6 de novembro, depois que o 9º Circuito negou, em 30/10, novo bloqueio pedido pelo governo. O status só volta a valer se a Suprema Corte não intervir de novo; até ontem não havia confirmação de novo recurso.",
+   "fontes": [
+    {
+     "titulo": "Directorio Cubano: TPS para venezolanos podría restablecerse el 6 de noviembre",
+     "url": "https://www.directoriocubano.info/?p=157758"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Direitos autorais",
+    "Imprensa"
+   ],
+   "historia": "brave-processo-jornais",
+   "titulo": "New York Times e outros jornais processam a Brave por raspar conteúdo para empresas de IA",
+   "texto": "Os editores acusam a dona do navegador Brave de copiar jornalismo, driblar paywalls e repassar o material a empresas de IA sem permissão. As acusações ainda não foram julgadas; é mais uma frente da disputa entre imprensa e IA sobre uso de conteúdo.",
+   "fontes": [
+    {
+     "titulo": "The Verge: Publishers sue Brave over AI scraping",
+     "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Juros",
+    "Brasil"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Copom anuncia hoje a Selic, com o mercado dividido entre pausa em 13,75% e corte de 0,25 ponto",
+   "texto": "Depois da eleição, boa parte do mercado passou a esperar manutenção da taxa; a XP vê pausa até o fim de 2027, enquanto ASA e Inter ainda trabalham com corte para 13,5%. O IPCA em 12 meses está em 4,58%, acima do teto da meta, e o dólar subiu de R$ 4,96 antes do segundo turno para cerca de R$ 5,40.",
+   "fontes": [
+    {
+     "titulo": "InfoMoney: Copom decide taxa de juros sob pressão inflacionária e desconfiança do mercado",
+     "url": "https://www.infomoney.com.br/economia/decisao-copom-manutencao-taxa-selic-pressao-fiscal/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Mercados",
+    "EUA"
+   ],
+   "historia": "mercados-midterms",
+   "titulo": "Dólar cai e títulos americanos sobem com a vitória democrata; ouro passa de US$ 4 mil",
+   "texto": "Na manhã desta quarta, o euro subia 0,4%, o rendimento do Tesouro de 10 anos caía para 4,94% e os futuros das bolsas americanas recuavam levemente. Analistas lembram que tarifas seguem nas mãos do presidente, via Seção 301, sem passar pelo Congresso.",
+   "fontes": [
+    {
+     "titulo": "Euronews: What Trump's defeat means for Europe and global markets",
+     "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Esportes",
+    "Champions League"
+   ],
+   "historia": "champions-2026-27",
+   "titulo": "Bayern vence o Atlético em Madri, e o PSG faz 6 a 0 no Villarreal",
+   "texto": "Mesmo sem o técnico Vincent Kompany, que passou mal no treino, o Bayern ganhou por 2 a 0; o PSG lidera a fase de liga com 12 pontos. O Manchester United virou sobre a Roma (3 a 2) com dois gols de Matheus Cunha, que depois foi expulso, e o Barcelona bateu o Aston Villa por 3 a 0.",
+   "fontes": [
+    {
+     "titulo": "TimesLIVE: Bayern show steel, PSG hit Villarreal for six",
+     "url": "https://www.timeslive.co.za/sport/soccer/2026-11-04-bayern-show-steel-to-underline-champions-league-credentials-psg-hit-villarreal-for-six/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Esportes",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Inter vence o Coritiba no último lance e sai da zona de rebaixamento",
+   "texto": "Alerrandro converteu um pênalti aos 50 minutos do segundo tempo, e o Inter chegou a 38 pontos na 34ª rodada. A vitória piora a situação do Corinthians, em 18º.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Inter bate Coritiba com gol no fim, deixa Z4 e afunda o Corinthians",
+     "url": "https://www.gazetaesportiva.com/times/internacional/inter-bate-coritiba-com-gol-no-fim-deixa-z4-e-afunda-o-corinthians/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Cultura",
+   "temas": [
+    "Cultura",
+    "Mídia pública",
+    "Europa"
+   ],
+   "historia": "midia-publica-tchequia",
+   "titulo": "TV e rádio públicas da Tchéquia fazem greve contra o fim da taxa que as financia",
+   "texto": "Funcionários da Česká televize e da Český rozhlas pararam na terça (3) contra o projeto do governo que troca a taxa de licença por verba do orçamento, cerca de 15% menor. Quase 3.200 dos 4.250 empregados assinaram apoio; o governo nega ameaçar a independência editorial.",
+   "fontes": [
+    {
+     "titulo": "Expats.cz: Czech TV and radio staff plan Nov. 3 strike",
+     "url": "https://www.expats.cz/czech-news/article/czech-tv-and-radio-staff-plan-nov-3-strike-with-visible-broadcast-changes"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Ciência",
+    "Espaço"
+   ],
+   "historia": "voyager-1",
+   "titulo": "Voyager 1 chega a um dia-luz da Terra em 18 de novembro, quase 50 anos após o lançamento",
+   "texto": "A sonda está a cerca de 25,9 bilhões de km; um sinal de rádio levará 24 horas para ir e mais 24 para voltar. A NASA ainda não explicou a perda de contato de 18 e 19 de outubro, e a energia da sonda cai cerca de 4 watts por ano.",
+   "fontes": [
+    {
+     "titulo": "ScienceDaily/NASA: Voyager 1 is about to reach a historic one-light-day milestone",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Iêmen",
+    "Direitos humanos"
+   ],
+   "historia": "iemen-funcionarios-onu",
+   "titulo": "Funcionário da ONU morre preso pelos houthis no Iêmen; 70 seguem detidos",
+   "texto": "Mohammad el Shami estava detido desde junho de 2024. A ONU diz que 70 funcionários e cinco ex-funcionários continuam presos, enquanto o deslocamento na costa oeste e em Taiz triplicou, para quase 300 mil pessoas.",
+   "fontes": [
+    {
+     "titulo": "UN Geneva: Press Briefing, 3 November 2026",
+     "url": "https://www.unognewsroom.org/story/en/3314/un-geneva-press-briefing-03-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Eleições"
+   ],
+   "historia": "eleicao-ny-2026",
+   "titulo": "Hochul é reeleita, e Adrienne Adams será a primeira vice-governadora negra de Nova York",
+   "texto": "A AP projetou a vitória de Kathy Hochul sobre Bruce Blakeman; na cidade de Nova York, ela teve 74,5% segundo resultados não oficiais. É a primeira chapa só de mulheres eleita no estado; em Staten Island, Nicole Malliotakis (R) manteve a cadeira na Câmara.",
+   "fontes": [
+    {
+     "titulo": "amNY: Hochul wins reelection, makes NY history",
+     "url": "https://www.amny.com/news/hochul-wins-reelection-makes-ny-history/"
+    },
+    {
+     "titulo": "WAMC: New York Gov. Hochul wins reelection to second term",
+     "url": "https://www.wamc.org/news/2026-11-03/election-2026-new-york-kathy-hochul-wins-reelection-governor"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Eleições"
+   ],
+   "historia": "eleicao-nj-2026",
+   "titulo": "Democratas tiram duas cadeiras dos republicanos em Nova Jersey, incluindo a de Tom Kean",
+   "texto": "Rebecca Bennett, ex-piloto de helicóptero da Marinha, derrotou Tom Kean Jr. no 7º distrito, a disputa mais acirrada do estado. Segundo o New Jersey Monitor, os democratas viraram duas cadeiras da Câmara no estado.",
+   "fontes": [
+    {
+     "titulo": "PBS News: Democrats flip New Jersey House seat held by Republican Tom Kean",
+     "url": "https://www.pbs.org/newshour/politics/democrats-flip-new-jersey-house-seat-held-by-republican-tom-kean"
+    },
+    {
+     "titulo": "New Jersey Monitor: NJ Democrats beat expectations, swipe 2 House seats from the GOP",
+     "url": "https://newjerseymonitor.com/2026/11/04/nj-democrats-house-seats-election-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Apostas",
+    "STF"
+   ],
+   "historia": "proibicao-bets",
+   "titulo": "STF ouve governo, clubes e casas de apostas sobre a MP de Lula que proibiu as bets",
+   "texto": "Na audiência convocada pelo ministro Luiz Fux, o setor pediu a suspensão da medida provisória até o Congresso ou o STF decidirem, dizendo que a proibição empurrou apostadores para sites clandestinos; clubes têm patrocínios em jogo. Lula pediu a apoiadores que acompanhassem e disse que as bets 'têm que fechar'; a MP vale até 23 de novembro e pode ser prorrogada por 120 dias.",
+   "fontes": [
+    {
+     "titulo": "Estado de Minas: Lula convoca militância nas redes para pressionar STF contra bets",
+     "url": "https://www.em.com.br/politica/2026/11/7532289-lula-convoca-militancia-nas-redes-para-pressionar-stf-contra-bets.html"
+    },
+    {
+     "titulo": "Tribuna do Sertão: STF reúne governo, clubes e entidades para discutir proibição de bets",
+     "url": "https://www.tribunadosertao.com.br/financas/2026/11/03/1012135-stf-reune-governo-clubes-e-entidades-para-discutir-proibicao-de-bets-por-lula"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Governo dividido: o que um Congresso de oposição pode, e não pode, fazer contra o presidente",
+  "texto": "Com a maioria nas duas Casas a partir de 3 de janeiro, os democratas controlam a pauta, o orçamento e as comissões, que podem convocar depoimentos e exigir documentos do Executivo; no Senado, decidem também a confirmação de ministros, embaixadores e juízes, inclusive da Suprema Corte. Mas não governam sozinhos: Trump pode vetar leis, e derrubar um veto exige dois terços nas duas Casas. Um impeachment começa por maioria simples na Câmara, mas a condenação exige dois terços do Senado. E várias armas do presidente, como tarifas pela Seção 301, ordens executivas e a condução da política externa, dependem pouco do Congresso.",
+  "fontes": [
+   {
+    "titulo": "MercoPress: Trump accepts midterm defeat but says Republicans would have won 'in a landslide'",
+    "url": "https://en.mercopress.com/2026/11/04/trump-accepts-midterm-defeat-but-says-republicans-would-have-won-in-a-landslide-had-he-been-on-the-ballot"
+   },
+   {
+    "titulo": "Euronews: What Trump's defeat means for Europe and global markets",
+    "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
+   }
+  ]
+ },
+ "nota": "Pedido mais recente (19/10, sobre Anthropic e a lei de IA) já tinha sido atendido; mesmo assim, o destaque de Tecnologia segue a Anthropic, que você avaliou bem. Pelas avaliações, evitei notas sobre a política interna de Israel e Gaza e dei peso a Imigração, Brasil e IA. A história do segundo turno no Brasil não teve novidade relevante hoje. Todas as seções tiveram ao menos uma nota.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-04T12:07:24+00:00"
+}
