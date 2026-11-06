@@ -1,0 +1,390 @@
+{
+ "data": "2026-11-06",
+ "manchete": "Paraguai vive o dia decisivo do impeachment de Santiago Peña após a quebra do banco Ueno; nos EUA, a volta do TPS dos venezuelanos fica suspensa e um avaliador independente diz que a Anthropic dobrou o ritmo de avanço da IA",
+ "abertura": "A crise política no Paraguai chega ao Senado hoje, num julgamento que pode tirar Peña do cargo e da imunidade vitalícia. Nos mercados, a venda de ações de IA se aprofundou, e o Banco da Inglaterra subiu os juros pela primeira vez em três anos.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Duas vacinas feitas para a cepa Bundibugyo entram no teste clínico no Congo",
+   "texto": "A OMS anunciou que as candidatas ChAdOx1 (Oxford e Serum Institute of India) e mRNA-1469 (Moderna) vão se juntar ao ensaio Tumaini, iniciado em 23/10 em Bunia, no Ituri. Será a primeira vez que vacinas desenhadas para a espécie Bundibugyo são testadas durante um surto dela; hoje só a Ervebo, feita para a cepa Zaire, está em teste. Até 1º/11 eram mais de 10.500 casos confirmados e 5.126 mortes.",
+   "fontes": [
+    {
+     "titulo": "UN News: Two new Ebola vaccines to join DR Congo clinical trial",
+     "url": "https://news.un.org/en/story/2026/11/1168742"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "América do Sul",
+    "Crise bancária"
+   ],
+   "historia": "paraguai-pena-impeachment",
+   "titulo": "Peña renuncia, mas o Congresso do Paraguai segue com o impeachment; o Senado vota hoje",
+   "oque": "O presidente Santiago Peña anunciou na quinta (5) que deixaria o cargo, mas o Congresso não aceitou a renúncia e a Câmara aprovou por unanimidade a abertura do julgamento político. O Senado retoma o processo nesta sexta (6), com defesa, provas, alegações finais e votação prevista para a noite; a destituição exige dois terços dos senadores.",
+   "contexto": "A crise começou na terça (3), quando o Banco Central assumiu o controle do banco digital Ueno, insolvente, deixando cerca de 3 milhões de clientes sem acesso ao dinheiro. Peña teve ações do banco por meio de uma holding até março de 2025, e o Ueno administrava cerca de US$ 862 milhões de órgãos públicos e fundos de pensão. A oposição insiste no julgamento porque, pela regra paraguaia, um ex-presidente que renuncia vira senador vitalício com imunidade, benefício que perde se for condenado. O país já destituiu Fernando Lugo em 2012 em menos de dois dias, num processo criticado por vizinhos do Mercosul.",
+   "lados": "Peña nega favorecimento e diz que vai se defender, \"ainda que já tenham antecipado sua decisão\". A oposição o acusa de conflito de interesses; o Ministério Público investiga. Parlamentares levantaram a suspeita de que ele teria pedido asilo na Argentina, o que o governo argentino negou; a Presidência diz que ele está em Assunção, sem informar onde.",
+   "proximo": "Se a renúncia for aceita ou Peña for destituído, assume o vice Pedro Alliana; a Câmara rejeitou um pedido de impeachment contra ele. Observe a votação no Senado hoje à noite, a situação dos correntistas do Ueno e os reflexos para o Brasil, sócio do Paraguai em Itaipu e no Mercosul.",
+   "fontes": [
+    {
+     "titulo": "CartaCapital: Os próximos passos na crise no Paraguai",
+     "url": "https://www.cartacapital.com.br/politica/os-proximos-passos-na-crise-no-paraguai-senado-decide-impeachment-de-santiago-pena-apos-renuncia/"
+    },
+    {
+     "titulo": "Agência Brasil: Presidente do Paraguai renuncia em meio à crise bancária",
+     "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/presidente-do-paraguai-renuncia-em-meio-crise-bancaria-vice-assume"
+    },
+    {
+     "titulo": "France 24: Paraguay's president Peña impeached moments after resigning",
+     "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal"
+    },
+    {
+     "titulo": "AP: Paraguay seizes major digital bank tied to president",
+     "url": "https://www.boston25news.com/news/business/paraguay-seizes/JY254VDNAM6BHL43UO5QDMVVD4/?outputType=amp"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "Segurança de IA"
+   ],
+   "historia": "anthropic-autoaperfeicoamento",
+   "titulo": "Avaliador independente diz que a Anthropic está melhorando seus modelos duas vezes mais rápido que há um ano",
+   "oque": "O METR, ONG de Berkeley que avalia riscos de IA, analisou cerca de 11 semanas de dados internos da Anthropic (meados de agosto a fim de outubro) e entrevistou funcionários. A conclusão: o ritmo de ganho de capacidade em tarefas bem definidas dobrou, e o relatório de risco que a própria empresa publicou em agosto subestima essa aceleração.",
+   "contexto": "O METR descartou aumento de poder computacional como causa e suspeita que o motor seja a própria IA ajudando a desenvolver IA, o chamado autoaperfeiçoamento. Em 12 de setembro, o CEO Dario Amodei pediu que o setor desacelerasse para a segurança acompanhar, e citou o METR como modelo de avaliador externo; no documento do IPO, a empresa já admitia estar perto de uma IA que acelera o próprio desenvolvimento. Como o governo Trump prefere a autorregulação, auditorias independentes como esta são hoje uma das poucas fontes externas de verificação.",
+   "lados": "O METR faz ressalvas: a estimativa pode estar alta se o ganho valer sobretudo para tarefas corrigidas automaticamente, ou se a Anthropic tiver subestimado o progresso anterior; houve divergência interna e partes dos dados foram censuradas pela empresa. Segundo o relatório, a IA ainda não contribui de forma autônoma para as partes mais importantes do treinamento, mas pesquisadores relataram \"sinais de vida\" nessa direção. A Anthropic não comentou de imediato.",
+   "proximo": "A Anthropic prepara a abertura de capital ainda este mês, e o novo Congresso de maioria democrata, que toma posse em janeiro, tem prometido mais controle sobre a IA. Observe se o relatório entra nos debates sobre a lei de IA de alto risco e se outras empresas aceitam auditorias do mesmo tipo.",
+   "fontes": [
+    {
+     "titulo": "Fast Company: Anthropic's AI development has doubled in speed, research group says",
+     "url": "https://www.fastcompany.com/91636791/anthropic-metr-ai-claude-acceleration"
+    },
+    {
+     "titulo": "AP via ABC News: Anthropic rapidly accelerating AI development amid slowdown calls",
+     "url": "https://abcnews.com/Technology/wireStory/anthropic-rapidly-accelerating-ai-development-amid-slowdown-calls-137885082"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça",
+    "Venezuela"
+   ],
+   "historia": "tps-venezuela",
+   "titulo": "TPS dos venezuelanos não volta hoje: tribunal de apelação suspende a ordem por 14 dias",
+   "oque": "A volta da proteção temporária (TPS) para venezuelanos, prevista para hoje, não vai acontecer. Na terça (3), o mesmo painel de três juízes do 9º Circuito que tinha negado o pedido do governo em 30/10 voltou atrás e concedeu uma suspensão administrativa de 14 dias da ordem do juiz Edward Chen. Isso corrige o que a edição de ontem indicava como possível.",
+   "contexto": "Em 2025, a então secretária Kristi Noem revogou a extensão do TPS aprovada no governo Biden; em setembro de 2025, Chen julgou a medida ilegal, mas a Suprema Corte bloqueou a decisão no mês seguinte. Em outubro de 2026, a Suprema Corte aplicou o precedente Mullin v. Doe e devolveu o caso ao 9º Circuito. Segundo dados do DHS de junho, o programa cobria 627.750 pessoas, que seguem sem proteção contra deportação nem autorização de trabalho.",
+   "lados": "O governo sustenta que a decisão sobre o TPS cabe ao Executivo e não deve ser revista pelos tribunais. A National TPS Alliance, autora da ação, diz que o fim do programa foi ilegal. Escritórios de imigração lembram que a suspensão não é decisão final sobre o mérito.",
+   "proximo": "A suspensão vai até por volta de 20/11. Até lá, o 9º Circuito decide se prorroga a suspensão durante o recurso; qualquer lado pode recorrer à Suprema Corte. Empregadores devem esperar orientação do USCIS antes de mudar autorizações de trabalho.",
+   "fontes": [
+    {
+     "titulo": "El Cronista: Venezuelans face another delay in TPS protections",
+     "url": "https://www.cronista.com/en/immigration/venezuelans-face-another-delay-in-tps-protections-as-appeals-court-pauses-reinstatement/"
+    },
+    {
+     "titulo": "Bloomberg Law: Ninth Circuit Pauses Order Restoring Venezuelans' TPS Relief",
+     "url": "https://news.bloomberglaw.com/daily-labor-report/ninth-circuit-pauses-order-restoring-tps-relief-for-venezuelans-34"
+    },
+    {
+     "titulo": "WR Immigration: News Digest 05/11/2026",
+     "url": "https://wolfsdorf.com/wr-immigration-news-digest-20261105/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Oriente Médio",
+    "Diplomacia"
+   ],
+   "historia": "ira-eua-negociacao",
+   "titulo": "Irã manda proposta nuclear aos EUA via Catar, mas impõe sete condições",
+   "texto": "Segundo uma alta autoridade iraniana ouvida pela Reuters, Teerã só discute a proposta se Washington aceitar sete exigências, entre elas o fim das sanções, a liberação de ativos congelados e reparações de guerra. Mohsen Rezaei disse que, sem isso, Ormuz segue fechado; os EUA estão analisando o texto e insistem que o programa nuclear entre já na primeira rodada.",
+   "fontes": [
+    {
+     "titulo": "Al-Monitor/Reuters: Iran sent nuclear proposal to the US via Qatar",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-sent-nuclear-proposal-us-qatar-senior-iranian-official-tells-reuters"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "China",
+    "Hong Kong",
+    "Direitos humanos"
+   ],
+   "historia": "joshua-wong",
+   "titulo": "Joshua Wong é condenado a mais 10 anos de prisão em Hong Kong",
+   "texto": "O ativista pró-democracia, que sairia em janeiro de 2027, foi condenado por conspirar com forças estrangeiras para impor sanções a Hong Kong e à China; com a pena nova, só deve deixar a prisão no fim de 2036. Os EUA condenaram a sentença, e Pequim pediu que estrangeiros parem de fazer \"comentários irresponsáveis\".",
+   "fontes": [
+    {
+     "titulo": "Euronews: Joshua Wong sentenced to 10 more years",
+     "url": "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion"
+    },
+    {
+     "titulo": "Al Jazeera: Joshua Wong sentenced to 10 years in jail",
+     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "Diplomacia"
+   ],
+   "historia": "ucrania-negociacao",
+   "titulo": "Zelensky prepara a rodada de Abu Dhabi com enviados de Trump; mortos em Komyshuvakha chegam a 42",
+   "texto": "Zelensky conversou 90 minutos com Steve Witkoff e Jared Kushner em Bruxelas antes das negociações trilaterais de 10 e 11/11, focadas na reconstrução. A polícia ucraniana elevou para 42 os mortos no bombardeio russo a um centro de ajuda em Komyshuvakha, com 33 pessoas ainda sob escombros.",
+   "fontes": [
+    {
+     "titulo": "Just Security: Early Edition, 5/11/2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+    },
+    {
+     "titulo": "Meduza: Trilateral talks set for November 10-11 in Abu Dhabi",
+     "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Segurança pública"
+   ],
+   "historia": "pec-seguranca-publica",
+   "titulo": "Lula promete editar hoje a MP que cria o Ministério da Segurança Pública",
+   "texto": "O anúncio veio depois da aprovação unânime da PEC da Segurança no Senado, na terça (3), que amplia o papel da União contra o crime organizado e permite guardas municipais com policiamento ostensivo. A criação da pasta foi promessa central da campanha; o nome do ministro ainda não foi divulgado.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Lula promete MP para criar Ministério da Segurança Pública nesta sexta",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/5/lula-promete-mp-para-criar-ministerio-da-seguranca-publica-nesta-sexta-feira-6-11"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Flávio Bolsonaro"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Lula diz que Flávio 'vai ter que voltar' ao Brasil para responder a processos",
+   "texto": "Em live com André Janones, Lula chamou Flávio de \"pé-frio\" por ter chegado a Miami em 28/10 pouco antes da derrota republicana e o desafiou a abrir as próprias contas. Flávio é investigado pela PF por suspeita de lavagem de dinheiro ligada ao advogado Willer Tomaz e ao filme \"Dark Horse\"; ele não respondeu às falas.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Lula sobre Flávio Bolsonaro",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/5/lula-sobre-flavio-bolsonaro-vai-ter-que-voltar-pro-brasil-pra-responder-os-processos-que-tem"
+    },
+    {
+     "titulo": "Metrópoles: Em live, Lula chama Flávio de pé-frio",
+     "url": "https://www.metropoles.com/brasil/em-live-lula-chama-flavio-de-pe-frio-chegou-nos-eua-o-trump-perdeu"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Guerra com o Irã"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Jeffries lança candidatura a presidente da Câmara, e Massie quer votar o impeachment de Hegseth",
+   "texto": "Hakeem Jeffries seria o primeiro negro a presidir a Câmara; entre os republicanos, Jim Jordan deve disputar a liderança da minoria com Steve Scalise. O republicano Thomas Massie promete forçar a votação do impeachment do secretário de Defesa pela condução da guerra com o Irã quando o Congresso voltar; fontes republicanas ouvidas pela CNN e pela Reuters acham que pode passar, o que ainda é incerto.",
+   "fontes": [
+    {
+     "titulo": "Just Security: Early Edition, 5/11/2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "EUA",
+   "temas": [
+    "Política externa dos EUA",
+    "Cuba",
+    "Sanções"
+   ],
+   "historia": "cuba-sancoes",
+   "titulo": "Governo Trump amplia sanções a Cuba para eletrônicos, indústria e tecnologia",
+   "texto": "As novas medidas atingem os setores eletrônico, industrial, naval e de tecnologia e incluem na lista negra duas pessoas e oito entidades ligadas a redes de navegação dos militares cubanos. É mais um passo da campanha de pressão sobre Havana iniciada neste ano.",
+   "fontes": [
+    {
+     "titulo": "Foreign Exchanges: World roundup, 5/11/2026",
+     "url": "https://www.foreignexchanges.news/p/world-roundup-november-5-2026"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Mercado de chips"
+   ],
+   "historia": "ia-regulacao-pos-midterms",
+   "titulo": "Microsoft recua de contrato bilionário de data center, e China freia IPOs de chips",
+   "texto": "Segundo o Financial Times, a Microsoft recusou a opção de mais que dobrar sua capacidade de IA contratada com a Nscale no Texas, negócio de dezenas de bilhões. Na China, a dona da YMTC suspendeu um IPO de cerca de US$ 4,9 bilhões em Xangai depois que o regulador pediu aos bancos para desacelerar ofertas de chips e IA, segundo a Reuters.",
+   "fontes": [
+    {
+     "titulo": "AI Weekly: AI News, 5/11/2026 (resumo de FT e Reuters)",
+     "url": "https://aiweekly.co/ai-news-today/edition/2026-11-05"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "Juros",
+    "IA"
+   ],
+   "historia": "mercados-ia-selloff",
+   "titulo": "S&P 500 tem o pior dia desde 2025 com nova queda das ações de IA",
+   "texto": "O índice caiu cerca de 3%, com recuo em todos os setores; no meio do pregão, a Nvidia perdia 7,5%, a AMD 14,6% e a Nasdaq 4,7%. Investidores temem freio nos data centers por juros altos e por possíveis pausas impostas pelo novo Congresso; os títulos de 10 anos recuaram para 4,83%, e o Brent subiu para US$ 97.",
+   "fontes": [
+    {
+     "titulo": "Spectrum News/AP: S&P 500 drops 3% in worst day since 2025 as AI chips slide",
+     "url": "https://spectrumnews1.com/ca/la/business/2026/11/05/stock-market-ai-chip-selloff"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Juros",
+    "Inflação",
+    "Reino Unido"
+   ],
+   "historia": "boe-juros",
+   "titulo": "Banco da Inglaterra sobe juros pela primeira vez desde 2023, para 4%",
+   "texto": "O comitê votou 8 a 1 pela alta de 3,75% para 4%; Catherine Mann queria 4,25%. A inflação chegou a 3,5% em setembro puxada pelos combustíveis, e Andrew Bailey disse que nova alta é provável se o conflito no Oriente Médio não for resolvido.",
+   "fontes": [
+    {
+     "titulo": "Sovereign Magazine: Bank of England rate rise November 2026",
+     "url": "https://www.sovereignmagazine.com/article/bank-of-england-rate-rise-november-2026-mortgage"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Palmeiras faz 6 a 1 no Remo, a maior goleada do Brasileirão, e pressiona o Flamengo",
+   "texto": "Pela 34ª rodada, o Palmeiras respondeu à vitória do líder Flamengo, que na quarta tinha aberto seis pontos. No Mineirão, o Cruzeiro virou sobre o Bahia por 3 a 2.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Brasileirão, melhores momentos da quinta (5/11)",
+     "url": "https://www.metropoles.com/esportes/brasileirao-confira-os-melhores-momentos-dessa-quinta-feira-5-11"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima e meio ambiente",
+    "Biodiversidade"
+   ],
+   "historia": "nature-lince-seca",
+   "titulo": "Seca e doença fazem o lince-ibérico passar a caçar aves de rapina",
+   "texto": "Estudo publicado na Nature desta semana mostra que a seca e a queda das presas levaram o lince-ibérico a atacar outros predadores de topo, com efeitos em cascata sobre a cadeia alimentar. É um exemplo de como o clima reorganiza ecossistemas de formas difíceis de prever.",
+   "fontes": [
+    {
+     "titulo": "Nature: Volume 659, edição 8139 (5/11/2026)",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8139"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Refugiados"
+   ],
+   "historia": "acnur-deslocados",
+   "titulo": "Deslocados à força passam de 117 milhões, e recursos humanitários minguam, diz o chefe do Acnur",
+   "texto": "O alto comissário para refugiados apresentou o número à Terceira Comissão da Assembleia Geral. No Conselho de Segurança, os membros aprovaram uma declaração presidencial pedindo que os Estados resolvam disputas por meios pacíficos.",
+   "fontes": [
+    {
+     "titulo": "UN Press: Meetings Coverage and Press Releases",
+     "url": "https://press.un.org/en"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Impostos",
+    "Mamdani"
+   ],
+   "historia": "nyc-pied-a-terre",
+   "titulo": "Tribunal de apelação derruba ação contra o imposto de Mamdani sobre segundas casas de luxo",
+   "texto": "A Divisão de Apelação, por 4 a 0, extinguiu o processo de sete proprietários por falta de dano concreto e reverteu a decisão de Staten Island. A cobrança sobre imóveis acima de US$ 5 milhões pode seguir, mas há outras ações em curso; o controlador estima até US$ 380 milhões por ano, e Mamdani fala em US$ 500 milhões.",
+   "fontes": [
+    {
+     "titulo": "Fortune: Appeals court tosses lawsuit over Mamdani's pied-à-terre tax rollout",
+     "url": "https://fortune.com/2026/11/04/appeals-court-tosses-lawsuit-over-mamdanis-pied-a-terre-tax-rollout-ruling-homeowners-cant-sue-over-notices/"
+    },
+    {
+     "titulo": "ABC7: NYC can move forward with pied-à-terre tax",
+     "url": "https://abc7ny.com/post/nyc-can-move-forward-pied-terre-tax-2nd-homes-appeals-court-rules/20015832/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "O 'juicio político' na América do Sul: por que impeachment é tão comum na região",
+  "texto": "Paraguai, Peru e Brasil usam o impeachment com frequência maior que outras democracias presidencialistas. No Paraguai, a Constituição de 1992 permite destituir o presidente por \"mau desempenho de funções\", um critério amplo; foi assim que Fernando Lugo caiu em 2012, num processo de cerca de 36 horas que levou o Mercosul a suspender o país. Cientistas políticos chamam esse uso de \"parlamentarização\" do presidencialismo: quando o presidente perde apoio, o Congresso o remove em vez de esperar a eleição. O caso de Peña tem um detalhe paraguaio: ex-presidentes viram senadores vitalícios, por isso a oposição prefere condenar a aceitar a renúncia.",
+  "fontes": [
+   {
+    "titulo": "Inquirer/AP: Paraguay's president ousted in impeachment trial (2012)",
+    "url": "https://newsinfo.inquirer.net/217375/paraguays-president-ousted-in-impeachment-trial"
+   },
+   {
+    "titulo": "CartaCapital: Os próximos passos na crise no Paraguai",
+    "url": "https://www.cartacapital.com.br/politica/os-proximos-passos-na-crise-no-paraguai-senado-decide-impeachment-de-santiago-pena-apos-renuncia/"
+   }
+  ]
+ },
+ "nota": "Cultura ficou sem nota: não encontrei notícia relevante e confirmada das últimas 24 horas (o Grammy Latino é na quinta, 12/11, em Las Vegas, com Anitta indicada a Álbum do Ano). Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; mesmo assim, o destaque de Tecnologia volta à Anthropic, tema que você avaliou bem. Pelas avaliações, deixei de fora a política interna de Israel e Gaza (houve novidade: o partido Judaísmo Unido da Torá retirou o apoio a Netanyahu) e dei peso a Imigração, IA e Brasil. Correção: a edição de ontem dizia que o TPS dos venezuelanos poderia voltar hoje, mas uma suspensão de 3/11 já tinha adiado a volta. Não houve novidade no Brasil além das falas de Lula sobre Flávio.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-06T12:10:29+00:00"
+}
