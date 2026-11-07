@@ -1,0 +1,392 @@
+{
+ "data": "2026-11-07",
+ "manchete": "Trump troca a chefe de gabinete e põe Stephen Miller, o arquiteto da política de imigração, no comando da Casa Branca; no Paraguai, o Senado destitui Santiago Peña, e o emprego forte nos EUA aproxima uma alta de juros",
+ "abertura": "Três dias depois de perder o Congresso, Trump reorganiza a Casa Branca em torno de seu auxiliar mais linha-dura, em vez de moderar o rumo. Na América do Sul, o Paraguai troca de presidente em meio à quebra de um banco, e o mercado americano passa a apostar que o Fed vai subir os juros em dezembro.",
+ "atualizacoes": [
+  {
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "historiaTitulo": "Eleição no Brasil: segundo turno e contestação",
+   "titulo": "Dos EUA, Flávio admite não ter provas de fraude e diz que o PL vai pedir a cassação da chapa de Lula por abuso de poder",
+   "texto": "Em entrevista à Folha, publicada na sexta (6), Flávio Bolsonaro disse: 'Não tenho provas e nem terei'. Ele afirmou que o PL vai pedir ao TSE a cassação da chapa Lula-Alckmin por abuso de poder econômico, citando o aumento do Bolsa Família e o Pé-de-Meia Universitário, e disse que só volta ao Brasil se tiver um 'processo justo'. Até agora, o TSE recebeu ações de Flávio e do Novo, mas nenhuma em nome do PL, cujo presidente, Valdemar Costa Neto, diz reconhecer o resultado.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Flávio cita fraude eleitoral, admite não ter prova e coloca nome para 2030",
+     "url": "https://www.metropoles.com/mundo/flavio-cita-fraude-eleitoral-admite-nao-ter-prova-e-coloca-nome-para-2030"
+    },
+    {
+     "titulo": "CartaCapital: 'Não tenho provas e nem terei', diz Flávio Bolsonaro",
+     "url": "https://www.cartacapital.com.br/politica/nao-tenho-provas-e-nem-terei-diz-flavio-bolsonaro-sobre-supostas-fraudes-nas-eleicoes/"
+    },
+    {
+     "titulo": "Tribuna do Sertão: Flávio afirma que PL pedirá cassação da candidatura de Lula",
+     "url": "https://www.tribunadosertao.com.br/geral/2026/11/06/1015644-flavio-bolsonaro-afirma-que-pl-pedira-cassacao-da-candidatura-de-lula"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Imigração (ICE, vistos)",
+    "Casa Branca"
+   ],
+   "historia": "casa-branca-stephen-miller",
+   "titulo": "Stephen Miller substitui Susie Wiles como chefe de gabinete de Trump, três dias depois da derrota nas midterms",
+   "oque": "Trump anunciou na sexta (6), em sua rede social, que Stephen Miller, hoje vice-chefe de gabinete, vai substituir Susie Wiles no cargo mais poderoso da equipe da Casa Branca. Wiles, de 69 anos, primeira mulher no posto, vai para a organização política de Trump. Miller disse estar 'honrado além das palavras'.",
+   "contexto": "O chefe de gabinete controla a agenda, o acesso ao presidente e a coordenação do governo. Wiles era vista como a gestora que segurava a disciplina interna; Miller é o principal formulador da política de imigração desde 2017, das restrições de entrada à atual campanha de deportações em massa. A troca vem depois de midterms em que os democratas tomaram Câmara e Senado, e em que a reação a operações do ICE pesou no voto de latinos em estados como Texas e Colorado, segundo NPR e NBC. É a primeira grande mudança de uma reforma pós-eleição que Trump diz que vai continuar.",
+   "lados": "Trump elogiou Wiles e manteve a assessora em sua estrutura política; ela chamou o período na Casa Branca de 'a honra de uma vida' e listou fronteira, cortes de impostos e economia como conquistas. Os democratas, que assumem o Congresso em janeiro, já prometem investigar o ICE e o DHS. As reportagens consultadas não trazem, até agora, reação formal de líderes republicanos à escolha de Miller.",
+   "proximo": "Observar se Trump faz mais trocas no gabinete: o secretário de Defesa, Pete Hegseth, está sob pressão, e o deputado Thomas Massie quer apresentar um pedido de impeachment contra ele já na semana que vem. O novo Congresso toma posse em 3 de janeiro de 2027. As disputas para o Senado no Mississippi e no Alaska seguem abertas.",
+   "fontes": [
+    {
+     "titulo": "NPR: Stephen Miller replaces Susie Wiles as Trump's chief of staff",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+    },
+    {
+     "titulo": "Boston Globe: Susie Wiles is being replaced by Stephen Miller as White House Chief of Staff",
+     "url": "https://www.bostonglobe.com/2026/11/06/nation/susie-wiles-replaced-stephen-miller-white-house-chief-of-staff/"
+    },
+    {
+     "titulo": "Yahoo News: Midterms 2026 results and latest updates",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "titulo": "AILA: Daily Immigration News Clips, 6/11/2026",
+     "url": "https://www.aila.org/library/daily-immigration-news-clips-november-6-2026"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "América do Sul",
+    "Impeachment"
+   ],
+   "historia": "paraguai-pena-impeachment",
+   "titulo": "Senado do Paraguai destitui Santiago Peña, que vai para prisão domiciliar; o vice Pedro Alliana assume",
+   "oque": "Na sexta (6), 44 dos 45 senadores votaram pela destituição de Peña no julgamento político ligado à quebra do banco Ueno, mesmo depois de ele ter apresentado a renúncia na véspera. O vice-presidente Pedro Alliana tomou posse logo depois. Segundo o Ministério Público, Peña está em prisão domiciliar até que um juiz decida as condições de custódia.",
+   "contexto": "O Banco Central interveio no Ueno quando a solvência do banco caiu abaixo da metade do mínimo exigido; o banco tinha cerca de 2,9 milhões de clientes, num país de 6,1 milhões de habitantes, e recebia dinheiro de órgãos públicos, como o Instituto de Previdência Social. Peña tinha vínculos de negócios com o banco. As acusações incluem conflito de interesses, manipulação da regulação e mau uso de fundos de pensão. Ao ser destituído, e não renunciar, Peña perde a vaga vitalícia no Senado e a imunidade parlamentar dada a ex-presidentes. Na lente de Relações Internacionais, o Paraguai é sócio do Mercosul, um dos poucos países que reconhecem Taiwan e um aliado próximo de Washington; o Departamento de Estado disse que a relação bilateral 'segue intacta'.",
+   "lados": "Peña disse que renunciou pela 'estabilidade do país' e para tranquilizar quem tem economias no sistema financeiro. Os 35 parlamentares da oposição e dissidentes do governo que apresentaram as acusações falam em 'grave e sistemático mau desempenho das funções'. A senadora Yolanda Paredes pediu prisão preventiva. Há uma divergência nas fontes: algumas falam em unanimidade dos 44 presentes, outras em 44 votos de 45.",
+   "proximo": "Um juiz decide a custódia de Peña, e a Procuradoria tem três investigações abertas sobre a supervisão do banco, o depósito de dinheiro público e a conduta de funcionários. O Banco Central vai pagar a garantia de depósitos em etapas. Pela Constituição (art. 234), como a vaga ocorre nos dois últimos anos do mandato, Alliana deve governar até agosto de 2028.",
+   "fontes": [
+    {
+     "titulo": "ANI: Paraguay President Peña impeached, placed under house arrest",
+     "url": "https://www.aninews.in/news/world/others/paraguay-president-pe241a-impeached-placed-under-house-arrest-in-bank-collapse-scandal20261107162416"
+    },
+    {
+     "titulo": "The Tribune: Paraguay Senate votes to impeach Peña; VP sworn in",
+     "url": "https://www.tribuneindia.com/news/world/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"
+    },
+    {
+     "titulo": "China Daily: Paraguayan president removed from office after Senate impeachment vote",
+     "url": "https://www.chinadaily.com.cn/a/202611/07/WS6aee60c7e4b03ebf8519af31.html"
+    },
+    {
+     "titulo": "Yahoo News: Paraguay Senate votes to impeach President Peña",
+     "url": "https://www.yahoo.com/news/politics/articles/paraguay-senate-votes-impeach-president-220546687.html"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Economia",
+   "temas": [
+    "Economia dos EUA",
+    "Juros",
+    "Emprego"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "EUA criam 165 mil vagas em outubro, quase o triplo do esperado, e o mercado passa a ver alta de juros do Fed em dezembro",
+   "oque": "O relatório de emprego divulgado na sexta (6) mostrou 165 mil vagas criadas em outubro, contra uma previsão de cerca de 60 mil, e desemprego caindo de 4,2% para 4,1%. Agosto e setembro foram revisados para cima em 84 mil vagas. Depois do dado, as apostas numa alta de 0,25 ponto em dezembro subiram para perto de 77%, segundo o CME FedWatch e mercados de previsão.",
+   "contexto": "O Fed manteve os juros entre 3,75% e 4% em 27-28 de outubro, mas dois membros já votaram por alta. A inflação, de 3,7% em setembro segundo o Indeed, segue acima da meta, pressionada também pelo petróleo, que subiu com a guerra entre EUA e Irã; o Brent fechou a semana a US$ 98, depois de cair 13% com a expectativa de negociação. Um mercado de trabalho forte reduz o espaço para o Fed tolerar essa inflação.",
+   "lados": "Para a Principal Asset Management, o dado é uma 'forte refutação' do medo de desaceleração. O Indeed aponta fraquezas por baixo do número: o crescimento se concentra em saúde, o salário sobe 3,1% ao ano, abaixo da inflação, o desemprego de longa duração é o maior desde 2021 e a subutilização (U-6) subiu de 7,6% para 7,9%.",
+   "proximo": "Inflação ao consumidor sai na terça (10), a ata do Fed em 18/11, o próximo relatório de emprego em 4/12 e a reunião do Fed em 8-9 de dezembro. No Brasil, a aposta em juros mais altos nos EUA ajudou a levar o dólar a R$ 5,51.",
+   "fontes": [
+    {
+     "titulo": "BLS: The Employment Situation — October 2026",
+     "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+    },
+    {
+     "titulo": "Indeed Hiring Lab: October 2026 Jobs Report",
+     "url": "https://hiringlab.indeed.com/2026/11/06/october-2026-jobs-report/"
+    },
+    {
+     "titulo": "MPA: October jobs shock seals case for December Fed rate hike",
+     "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/october-jobs-shock-seals-case-for-december-fed-rate-hike/596487"
+    },
+    {
+     "titulo": "Rio Times: Fed hike odds rise after jobs report",
+     "url": "https://www.riotimesonline.com/fed-december-hike-odds-rise-after-jobs-report-2026"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Oriente Médio",
+    "Irã",
+    "EUA"
+   ],
+   "historia": "guerra-eua-ira",
+   "titulo": "Catar propõe 'acordo-ponte' de dois dias entre EUA e Irã; Washington oferece US$ 20 milhões por informações nucleares",
+   "texto": "Pela proposta, os EUA suspenderiam o bloqueio e liberariam parte dos fundos congelados, e o Irã aceitaria inspetores da AIEA e reabriria Ormuz; Teerã diz que só negocia se os EUA atenderem antes às suas condições. Trump conversou com o emir do Catar e disse que 'estamos falando com o Irã', enquanto a Guarda Revolucionária alega ter derrubado um drone americano, sem confirmação independente. Rubio vai à reunião de chanceleres do G7 em Paris na segunda e na terça.",
+   "fontes": [
+    {
+     "titulo": "AP via WSLS: Iran is reviewing proposals focusing on Tehran's nuclear program",
+     "url": "https://www.wsls.com/news/politics/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/"
+    },
+    {
+     "titulo": "CBS News: Live updates on the Iran war",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "Negociações"
+   ],
+   "historia": "ucrania-negociacao",
+   "titulo": "Ucrânia, Rússia e EUA voltam a se reunir em Abu Dhabi nos dias 10 e 11, após nove meses sem negociação a três",
+   "texto": "Segundo o enviado Steve Witkoff, a pauta inclui garantias de segurança no pós-guerra, desescalada e questões humanitárias; Kiev pede garantias 'blindadas'. A Ucrânia chega com falta de interceptadores Patriot, e a venda de 500 mísseis aprovada pelos EUA em 30/10 pode levar anos para ser entregue.",
+   "fontes": [
+    {
+     "titulo": "Kyiv Post: Zelensky holds 90-minute talk with Witkoff, Kushner ahead of Abu Dhabi talks",
+     "url": "https://www.kyivpost.com/post/89174"
+    },
+    {
+     "titulo": "Axios: U.S., Russia and Ukraine to resume peace talks in Abu Dhabi",
+     "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Big techs",
+    "TSE"
+   ],
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "titulo": "Meta diz ao TSE que não favoreceu Flávio e tenta barrar perícia em seus algoritmos",
+   "texto": "Em petição sigilosa de sexta (6), a empresa afirma que as contas de Lula no Instagram alcançaram 1,5 vez mais pessoas que as de Flávio entre agosto e o segundo turno. A coligação de Lula, autora da ação, quer perícia nos sistemas de recomendação; a Meta diz que isso exporia segredo industrial, e a decisão cabe ao corregedor, ministro Villas Bôas Cueva.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Meta usa dados sigilosos para negar ao TSE favorecimento a Flávio",
+     "url": "https://www.otempo.com.br/politica/judiciario/2026/11/6/meta-usa-dados-sigilosos-para-negar-ao-tse-favorecimento-a-flavio-e-tenta-barrar-pericia"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Economia",
+    "Fiscal",
+    "Governo Lula"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Lula fala amanhã em rede nacional para acalmar o mercado e prometer responsabilidade fiscal",
+   "texto": "O pronunciamento de domingo (8) deve reafirmar as metas fiscais sem abandonar promessas de campanha. As medidas de corte de gastos e aumento de arrecadação, discutidas com Dario Durigan (Fazenda) e Bruno Moretti (Planejamento), só devem ser anunciadas nas próximas semanas, depois da viagem de Lula à COP31.",
+   "fontes": [
+    {
+     "titulo": "Jovem Pan: O que se sabe sobre o pronunciamento de Lula no domingo",
+     "url": "https://jovempan.com.br/politica/o-que-se-sabe-sobre-o-pronunciamento-de-lula-no-domingo/"
+    },
+    {
+     "titulo": "O Tempo: Lula fará pronunciamento no domingo (8/11)",
+     "url": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-fara-pronunciamento-no-domingo-8-11-para-tentar-acalmar-mercado-e-defender-ajuste-fiscal"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Democrata amplia vantagem no Mississippi, e Senado pode chegar a 56 a 44",
+   "texto": "Na sexta, Scott Colom tinha 2.493 votos a mais que a senadora Cindy Hyde-Smith, com até 20 mil votos provisórios por contar e advogados preparando ações; no Alaska, Mary Peltola liderava por 637 votos. Os democratas já têm 54 cadeiras no Senado e passaram de 250 na Câmara.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News: Midterms 2026 results and latest updates",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "titulo": "CBS News: Mississippi Senate race still a toss-up",
+     "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Estudantes internacionais",
+    "OPT"
+   ],
+   "historia": "opt-taxas-estudantes",
+   "titulo": "Prazo para comentar a proposta de taxa de US$ 70 mil para o OPT termina segunda (9)",
+   "texto": "A proposta cobraria US$ 70 mil pelo OPT inicial, a permissão de trabalho de estudantes estrangeiros após a formatura, e US$ 30 mil por extensões. Nada muda por enquanto, e outra proposta, que trocaria o 'duration of status' por prazos fixos de estadia, segue bloqueada na Justiça.",
+   "fontes": [
+    {
+     "titulo": "Boundless: This Week in Immigration, 6/11/2026",
+     "url": "https://www.boundless.com/blog/boundless-weekly-immigration-news"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Espaço",
+    "Indústria"
+   ],
+   "historia": "blue-origin-new-glenn",
+   "titulo": "Blue Origin adia a volta do foguete New Glenn para janeiro de 2027 e apresenta motor novo",
+   "texto": "O foguete explodiu num teste em solo em maio, destruindo a plataforma; o CEO Dave Limp diz que o problema foi corrigido. O atraso reduz a margem para a missão Artemis III da NASA, prevista para o ano que vem, que usa tecnologia da Blue Origin e da SpaceX.",
+   "fontes": [
+    {
+     "titulo": "The Register: Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
+     "url": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Câmbio",
+    "Mercados",
+    "Brasil"
+   ],
+   "historia": "mercados-brasil",
+   "titulo": "Dólar fecha a semana a R$ 5,51, e Ibovespa sobe 1,39% na sexta",
+   "texto": "O dólar subiu 0,36% no dia e 1,18% na semana, puxado pela aposta em juros mais altos nos EUA. A bolsa fechou em 168.498 pontos, com bancos e Vale em alta, enquanto a Petrobras caiu com o petróleo, que recuou cerca de 13% na semana.",
+   "fontes": [
+    {
+     "titulo": "Campo Grande News: Dólar fecha em alta a R$ 5,5082; Ibovespa sobe 1,39%",
+     "url": "https://www.campograndenews.com.br/economia/dolar-encerra-semana-a-r-5-50-com-mercado-atento-a-economia-dos-eua"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Copa do Brasil",
+    "Brasileirão"
+   ],
+   "historia": "copa-do-brasil-2026",
+   "titulo": "Copa do Brasil define os finalistas neste fim de semana; Fluminense vence o Vitória",
+   "texto": "Hoje, às 18h (de Brasília), o Atlético-MG recebe o Grêmio precisando reverter um 2 a 0; amanhã, o Vasco recebe o Palmeiras, que venceu a ida por 1 a 0. No Brasileirão, o Fluminense fez 3 a 0 no Vitória na sexta e chegou a 57 pontos; o Flamengo lidera com 76, três à frente do Palmeiras.",
+   "fontes": [
+    {
+     "titulo": "Digoreste Notícias: Semifinais da Copa do Brasil marcam fim de semana no futebol",
+     "url": "https://www.digorestenoticias.com.br/semifinais-da-copa-do-brasil-marcam-fim-de-semana-no-futebol/07/11/2026/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "Refugiados"
+   ],
+   "historia": "clima-refugiados-acnur",
+   "titulo": "Três em cada quatro refugiados vivem em países muito expostos a seca, enchentes e calor extremo, diz o Acnur",
+   "texto": "São cerca de 90 milhões de pessoas, mas os países em conflito que abrigam muitos refugiados recebem só 10% do financiamento climático global. Até 2050, um em cada três assentamentos na África Subsaariana pode ter ao menos 100 dias de calor perigoso por ano; o relatório sai antes da COP31, que começa segunda (9).",
+   "fontes": [
+    {
+     "titulo": "UN News: UN News Today, 6/11/2026",
+     "url": "https://news.un.org/en/audio/2026/11/1168754"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "ONU",
+   "temas": [
+    "Sudão",
+    "Crise humanitária"
+   ],
+   "historia": "sudao-guerra",
+   "titulo": "Estoques de ajuda acabam no Sudão, e 15 milhões precisam de abrigo, alerta a OIM",
+   "texto": "Os 16 caminhões que acabaram de chegar a Darfur eram o último estoque da agência, disse Mohamed Refaat, de Cartum. Mais de 5,2 milhões de pessoas voltaram para casa, mas muitas não conseguem ficar por falta de moradia, água e luz.",
+   "fontes": [
+    {
+     "titulo": "UN News: UN News Today, 6/11/2026",
+     "url": "https://news.un.org/en/audio/2026/11/1168754"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "ONU",
+   "temas": [
+    "RD Congo",
+    "Conflitos"
+   ],
+   "historia": "rdc-kivu-norte",
+   "titulo": "Pelo menos 30 civis são mortos numa noite no Kivu do Norte, no Congo",
+   "texto": "O dado é do escritório humanitário da ONU (OCHA). A região é também o epicentro do surto de ebola, o que dificulta a resposta sanitária.",
+   "fontes": [
+    {
+     "titulo": "UN News: Latest News",
+     "url": "https://news.un.org/en/news"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "NY/NJ",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Nova York",
+    "Federalismo"
+   ],
+   "historia": "ny-287g-xerifes",
+   "titulo": "Juiz mantém a lei de Nova York que proíbe acordos de polícias locais com o ICE",
+   "texto": "A juíza federal Mae D'Agostino negou o pedido de 15 xerifes do estado para suspender a lei 'Local Cops, Local Crimes', que veta os acordos 287(g); ela não julgou se a lei é constitucional, e o caso continua. Em 2025, 14 municípios, quase todos no norte do estado, tinham esses acordos; a cidade de Nova York não tem.",
+   "fontes": [
+    {
+     "titulo": "The Chief: Sheriffs lose fight to keep ICE partnerships",
+     "url": "https://thechiefleader.com/stories/sheriffs-lose-fight-to-keep-ice-partnerships,57996"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Chefe de gabinete da Casa Branca: o cargo que muda depois das derrotas",
+  "texto": "O chefe de gabinete não precisa de aprovação do Senado, mas decide quem fala com o presidente, o que chega à mesa dele e como o governo coordena suas prioridades. Por isso a troca costuma sinalizar um novo rumo. Depois da derrota nas midterms de 1986 e do escândalo Irã-Contras, Reagan trocou Donald Regan pelo ex-senador Howard Baker, um nome de diálogo com o Congresso. No primeiro mandato, Trump substituiu John Kelly por Mick Mulvaney em dezembro de 2018, logo após perder a Câmara. A escolha de Miller vai na direção oposta à de Reagan: em vez de um negociador, um formulador da agenda mais dura.",
+  "fontes": [
+   {
+    "titulo": "Wikipedia: White House Office",
+    "url": "https://en.wikipedia.org/wiki/White_House_Office"
+   },
+   {
+    "titulo": "NPR: Stephen Miller replaces Susie Wiles as Trump's chief of staff",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+   }
+  ]
+ },
+ "nota": "Cultura ficou sem nota: não encontrei notícia relevante e confirmada das últimas 24 horas (o Grammy Latino é na quinta, 12/11). Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido. Pelas avaliações, dei peso a EUA, Imigração e Brasil, e deixei de fora a política interna de Israel e Gaza. O ebola não teve novidade real desde ontem (as vacinas novas entraram na edição de 6/11). Avisos: a contagem do Senado paraguaio diverge entre fontes (44 de 45 ou unanimidade dos 44 presentes); a previsão para o emprego nos EUA variava entre 59 mil e 65 mil vagas; a entrevista de Flávio à Folha foi lida via Metrópoles e CartaCapital; o drone que o Irã diz ter derrubado não tem confirmação independente. Não consegui abrir CNN, NPR, CNBC e Gothamist.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-07T12:01:30.778462+00:00"
+}
