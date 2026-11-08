@@ -1,0 +1,402 @@
+{
+ "data": "2026-11-08",
+ "manchete": "EUA estendem o bloqueio ao Irã para as rotas terrestres e voltam a atacar a ilha de Qeshm; no Brasil, Lula vai à TV prometer responsabilidade fiscal, e o IPO da Anthropic entra numa semana decisiva sob a pressão da venda de ações de IA",
+ "abertura": "O domingo junta três frentes com prazo curto: a guerra com o Irã muda de escala sem que Washington a chame de guerra, Lula tenta acalmar o mercado antes de viajar à COP31, e a maior oferta de ações da história da tecnologia enfrenta investidores desconfiados. Em Israel, Gadi Eisenkot recebe hoje o mandato para tentar formar governo, e em Nova York um juiz manda a prefeitura entregar ao ICE nomes de moradores de um abrigo.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "EUA",
+    "Oriente Médio"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "EUA criam força-tarefa para fechar as rotas terrestres do Irã, atacam a ilha de Qeshm e Teerã derruba o próprio limite de alcance de mísseis",
+   "oque": "O Comando Central dos EUA anunciou no sábado (7) a Força-Tarefa Iron Gate, que estende o bloqueio naval ao Irã para as fronteiras terrestres e o mar Cáspio, com foco em tecnologia militar e receitas ilegais. Trump confirmou 'ataques menores' a um sistema antiaéreo, e a mídia iraniana relatou explosões na ilha de Qeshm. No mesmo dia, a Guarda Revolucionária anunciou que deixa de respeitar o limite autoimposto de 2.000 km para mísseis balísticos e que passou a produzir mísseis e drones no subsolo.",
+   "contexto": "O bloqueio aos portos iranianos começou em abril e foi reimposto em julho, depois que a disputa pelo estreito de Ormuz escalou para ataques mútuos. A nova força-tarefa mira o que o bloqueio marítimo não alcança: segundo relatos, Washington pediu ao Iraque que feche todas as passagens de fronteira com o Irã menos duas, sob ameaça de sanções. Na lente de RI, é uma escalada de 'guerra econômica' que pressiona terceiros países (Iraque, vizinhos do Cáspio) a escolher lado. Na sexta, forças americanas imobilizaram o cargueiro M/V Huda no golfo de Omã, e o Irã disse que um petroleiro bateu em minas a leste de Ormuz.",
+   "lados": "Trump diz que o confronto 'não é uma guerra' e chamou os ataques de 'menores'. A Guarda Revolucionária classificou a força-tarefa de 'jogo de palavras' sem efeito econômico e diz que suas forças estão mais fortes do que no início do conflito. O Catar afirma que as conversas seguem ativas e discutiu desescalada com a Arábia Saudita. O fim do limite de alcance é uma declaração política: não se sabe se o Irã tem mísseis capazes de ir além de 2.000 km.",
+   "proximo": "Observar se o Iraque aceita fechar a fronteira, como responde o Irã aos ataques em Qeshm e se avança a proposta de 'acordo-ponte' do Catar. Em paralelo, a guerra entre sauditas e houthis no Iêmen segue ativa. O novo Congresso, de maioria democrata a partir de janeiro, pode tentar limitar a ação militar sem autorização.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Live updates — guerra com o Irã",
+     "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
+    },
+    {
+     "titulo": "Gulf News: ataque em Qeshm eleva tensão enquanto conversas continuam",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-update-qeshm-island-strike-raises-tensions-talks-continue-1.500739148"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Política fiscal"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Lula vai à TV hoje prometer ajuste fiscal; governo estuda rever benefícios tributários, mas poupa programas sociais e salário mínimo",
+   "oque": "Lula faz neste domingo (8) seu primeiro pronunciamento em rede nacional depois da reeleição, para defender a 'sustentabilidade' das contas públicas e a união nacional. Segundo relatos da imprensa, ele não vai detalhar medidas. O governo estuda rever benefícios tributários e criar novas travas para o gasto, com o objetivo de cumprir a meta de superávit de R$ 73,2 bilhões em 2027, sem cortar programas sociais nem mexer no aumento real do salário mínimo.",
+   "contexto": "Depois da eleição, o real se desvalorizou, os juros futuros subiram e o Copom interrompeu os cortes, mantendo a Selic em 13,75% na quarta (4). O dólar fechou a semana a R$ 5,51. As promessas de campanha, como ampliar o Pé-de-Meia e criar um benefício parecido para universitários, podem exigir pelo menos R$ 39,8 bilhões a mais no Orçamento de 2027, segundo o Estadão. A reunião de Lula com ministros e economistas na quinta (5) não produziu propostas concretas, segundo a Folha.",
+   "lados": "O governo diz que vai cumprir as metas fiscais e governar para todos. O mercado cobra medidas detalhadas, e não só sinalização. Na oposição, o Novo teve admitida no TSE uma ação que pede a cassação da chapa Lula-Alckmin por abuso de poder político, citando 35 medidas provisórias e decretos de benefícios editados no ano eleitoral; a admissão não é julgamento, e o Planalto minimiza o caso.",
+   "proximo": "As medidas devem ser apresentadas na segunda quinzena de novembro. Antes, Lula viaja: COP31, na Turquia (11 e 12/11), e cúpula da Asean, nas Filipinas (14 e 15/11). No TSE, Lula e Alckmin terão cinco dias, após a notificação, para se defender.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Lula grava pronunciamento defendendo sustentabilidade das contas",
+     "url": "https://metropoles.com/colunas/igor-gadelha/lula-grava-pronunciamento-defendendo-sustentabilidade-das-contas-publicas"
+    },
+    {
+     "titulo": "Guaíba Online: Lula deve fazer pronunciamento neste domingo (8)",
+     "url": "https://www.guaiba.online/noticia/lula-deve-fazer-pronunciamento-em-rede-nacional-neste-domingo-8-para-abordar-economia-e-responsabilidade-fiscal"
+    },
+    {
+     "titulo": "Piranot: governo estuda rever benefícios tributários no ajuste fiscal",
+     "url": "https://www.piranot.com.br/2026/11/08/noticias/economia/governo-lula-estuda-ajuste-fiscal/"
+    },
+    {
+     "titulo": "TSE: corregedor-geral admite ação do Novo contra Lula e Alckmin",
+     "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+    },
+    {
+     "titulo": "O Tempo: Lula se prepara para COP31 e viagem à Ásia",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/7/lula-tenta-curar-rouquidao-antes-da-cop31-e-diz-que-fara-live-com-janones-durante-viagem-a-turquia"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercado"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "IPO da Anthropic chega à semana do roadshow com investidores pedindo desconto e avaliação abaixo de US$ 1,5 trilhão",
+   "oque": "A Anthropic planejava começar nesta semana a apresentar suas ações a investidores (o 'roadshow'), com estreia na Nasdaq, sob o código ANT, ainda em novembro. Segundo a Reuters, quatro pessoas a par das conversas dizem que investidores duvidam desse calendário e querem um preço mais baixo: US$ 1,5 trilhão seria o teto aceitável, contra até US$ 2 trilhões discutidos em outubro, e há quem fale em US$ 1,1 trilhão a 1,3 trilhão (Bloomberg). A empresa não comentou.",
+   "contexto": "O prospecto atualizado (2/11) mostra receita de US$ 16,96 bilhões no terceiro trimestre, alta de 47% sobre o segundo, mas bem abaixo do salto de 144% do trimestre anterior; prejuízo operacional de US$ 567 milhões; e US$ 895,4 bilhões em compromissos de computação e infraestrutura até 2045. A receita de outubro ficou em branco, e é o número que os investidores mais querem ver. O pano de fundo piorou depois das midterms: o Nasdaq 100 caiu 6,4% em 5/11, e votações estaduais contra data centers alimentaram a oposição política à IA. Ao mesmo tempo, o comitê de ação política ligado à Anthropic, o Public First Action, gastou cerca de US$ 20 milhões na eleição geral e viu vários apoiados vencerem.",
+   "lados": "Para Keith Lerner, da Truist, há 'uma espécie de greve de compradores' em tecnologia. Rick Meckler, da Cherry Lane, diz que a abertura de capital vai acontecer, mas com avaliação menor que a do mercado privado (US$ 965 bilhões na rodada de maio). Os números de avaliação são relatos de imprensa: não aparecem no prospecto.",
+   "proximo": "O sinal decisivo é uma nova versão do prospecto com a faixa de preço e o número de ações. A The Information diz que a meta continua sendo listar na semana de 16/11, antes do Dia de Ação de Graças (26/11); outros relatos falam em adiamento se as ações de IA continuarem caindo.",
+   "fontes": [
+    {
+     "titulo": "Reuters via BNN Bloomberg: reação contra a IA pode ameaçar o calendário do IPO da Anthropic",
+     "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive/"
+    },
+    {
+     "titulo": "FinanceFeeds: roadshow se aproxima sem faixa de preço",
+     "url": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/"
+    },
+    {
+     "titulo": "Yahoo News: onde o dinheiro da IA funcionou nas midterms",
+     "url": "https://www.yahoo.com/news/politics/articles/where-ai-money-worked-midterms-212048860.html"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Israel",
+    "Eleições"
+   ],
+   "historia": "israel-formacao-governo-2026",
+   "titulo": "Herzog entrega a Eisenkot, e não a Netanyahu, a tarefa de formar o governo de Israel",
+   "texto": "O ex-chefe do Exército Gadi Eisenkot recebeu 67 das 120 indicações, incluindo de partidos árabes, contra 46 de Netanyahu, e recebe o mandato hoje, com 28 dias (prorrogáveis por 14) para reunir 61 cadeiras. O caminho é estreito: ele descarta governar com os partidos árabes e depende dos ultraortodoxos; o Shas chamou de 'fake news' os relatos de que o apoiaria.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: presidente de Israel escolhe Eisenkot",
+     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+    },
+    {
+     "titulo": "Times of Israel: Herzog escolhe Eisenkot, mas o caminho é difícil",
+     "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Iêmen",
+    "Arábia Saudita"
+   ],
+   "historia": "arabia-saudita-houthis",
+   "titulo": "Ataques da coalizão saudita matam ao menos 33 numa vila do Iêmen, segundo os houthis",
+   "texto": "Autoridades houthis dizem que bombardeios em Al-Shariya, na província de Sanaa, mataram 33 pessoas e feriram 39, a maioria mulheres e crianças; Riad não comentou. Os houthis dizem ter atacado instalações da Aramco e o aeroporto de Riad, e a ONU conta mais de 1.600 mortos desde a retomada dos combates.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Live updates",
+     "url": "https://cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf"
+    },
+    {
+     "titulo": "Gulf News: atualização da guerra no Oriente Médio",
+     "url": "https://gulfnews.com/world/mena/middle-east-war-update-qeshm-island-strike-raises-tensions-talks-continue-1.500739148"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Casa Branca"
+   ],
+   "historia": "casa-branca-stephen-miller",
+   "titulo": "Trump oferece o cargo de porta-voz da Casa Branca ao chefe do UFC, Dana White",
+   "texto": "O cargo está vago desde 16/10, quando Katie Zacharia saiu depois de cinco dias, e a oferta vem um dia após Stephen Miller ser nomeado chefe de gabinete. As informações divergem: a CNN relatou que White recusou, mas a NPR diz que ele vai se reunir com Trump na segunda (9).",
+   "fontes": [
+    {
+     "titulo": "PBS NewsHour: Trump diz ter convidado Dana White para porta-voz",
+     "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary"
+    },
+    {
+     "titulo": "CBS News: Trump oferece cargo a Dana White",
+     "url": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/"
+    },
+    {
+     "titulo": "NPR: Dana White diz que vai se reunir com Trump na segunda",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Senado",
+    "Republicanos"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Aliado de Trump tenta adiar a eleição da liderança republicana no Senado após a derrota",
+   "texto": "O senador Ron Johnson reuniu as cinco assinaturas necessárias para pedir uma reunião sobre adiar a votação, marcada para terça (10), às 9h, em que John Thune busca seguir como líder do partido. Nenhum senador se apresentou publicamente para desafiá-lo.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News: Johnson tenta adiar a eleição da liderança do Senado",
+     "url": "https://www.yahoo.com/news/politics/articles/johnson-staunch-trump-ally-seeks-195351984.html"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Congresso"
+   ],
+   "historia": "ice-fiscalizacao-congresso",
+   "titulo": "Democratas preparam investigações sobre mortes causadas por agentes de imigração",
+   "texto": "Os futuros presidentes das comissões de Justiça, Supervisão e Segurança Interna da Câmara (Raskin, Garcia e Thompson) querem convocar sob juramento Tom Homan, Kristi Noem, Gregory Bovino e Stephen Miller e exigir relatórios de uso da força. Segundo a NPR, ao menos nove pessoas foram mortas por agentes federais de imigração desde 2025; a Casa Branca diz que os democratas não controlam o poder federal.",
+   "fontes": [
+    {
+     "titulo": "NPR via KPBS: democratas vão ampliar as investigações de mortes pelo ICE",
+     "url": "https://www.kpbs.org/news/national/2026/11/07/democrats-plan-to-widen-their-probes-of-fatal-ice-shootings"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Saúde"
+   ],
+   "historia": "ice-hospitais-la",
+   "titulo": "Agentes do ICE bloqueiam entrada de ambulâncias de hospital em Los Angeles e detêm dois manifestantes",
+   "texto": "Segundo o hospital Adventist White Memorial, em Boyle Heights, agentes formaram uma linha na entrada de ambulâncias sem autorização, o que obrigou a desviar ambulâncias por cerca de duas horas, na noite de sexta (6). Grupos locais dizem que os dois detidos são cidadãos americanos; o DHS não comentou.",
+   "fontes": [
+    {
+     "titulo": "LAist: ICE detém dois cidadãos que protestavam diante do hospital",
+     "url": "https://laist.com/news/politics/ice-detains-two-u-s-citizens-protesting-outside-white-memorial-hospital-rapid-response-groups-say"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "NY/NJ",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Nova York",
+    "Federalismo"
+   ],
+   "historia": "nyc-santuario-ice",
+   "titulo": "Juiz manda a prefeitura de Nova York entregar ao ICE nomes de moradores de um abrigo no Bronx",
+   "texto": "O juiz federal Lewis Kaplan validou uma intimação do ICE, já limitada a moradores com certos antecedentes criminais graves, e deu à cidade duas semanas para apresentar um plano de entrega, com um mediador especial filtrando os nomes. A prefeitura de Mamdani avalia recorrer, e a procuradora-geral Letitia James estuda a mesma coisa; a cidade diz que o pedido tenta contornar as leis de santuário.",
+   "fontes": [
+    {
+     "titulo": "NY Daily News via Hanford Sentinel: juiz manda NYC entregar ao ICE nomes do abrigo",
+     "url": "https://hanfordsentinel.com/news/national/federal-judge-rules-nyc-must-give-ice-names-of-bronx-shelter-residents/article_ed05e983-bc7d-5f29-a6b7-2365294594a8.html"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Chips",
+    "Espionagem"
+   ],
+   "historia": "nvidia-china-espionagem",
+   "titulo": "Inteligência chinesa teria recrutado executiva para espionar o CEO da Nvidia, diz o NYT",
+   "texto": "Segundo o New York Times, o Ministério da Segurança do Estado da China recrutou Alice Huang, executiva da Megaspeed, empresa de Singapura que comprou bilhões em chips da Nvidia, para obter informações de Jensen Huang e influenciá-lo a favor de mais vendas à China; o Financial Times diz que autoridades americanas acreditam que os dois tiveram um relacionamento. Congressistas pediram a Huang que dê explicações; a Nvidia diz que sua investigação interna não achou irregularidades no caso Megaspeed.",
+   "fontes": [
+    {
+     "titulo": "Engadget: principal agência de inteligência chinesa teria recrutado a espiã",
+     "url": "https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo/"
+    },
+    {
+     "titulo": "CNBC: Huang é chamado a dar explicações ao Congresso",
+     "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Inflação",
+    "EUA"
+   ],
+   "historia": "inflacao-eua-2026",
+   "titulo": "Empresas dos EUA nunca falaram tanto de inflação desde o início de 2024",
+   "texto": "As menções a 'inflação' nas teleconferências de resultados do S&P 500 chegaram a 820 em outubro, o maior número mensal desde fevereiro de 2024, puxadas por energia, frete e matérias-primas; a GM prevê US$ 2 bilhões a mais em custos. Analistas da Bloomberg Economics dizem que a inflação já corre acima da renda, o que reforça a aposta numa alta de juros do Fed em dezembro.",
+   "fontes": [
+    {
+     "titulo": "Bloomberg via Yahoo Finance: o medo da inflação volta às empresas americanas",
+     "url": "https://ca.finance.yahoo.com/news/inflation-fears-return-corporate-america-140000593.html"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Copa do Brasil"
+   ],
+   "historia": "copa-do-brasil-2026",
+   "titulo": "Grêmio é o primeiro finalista da Copa do Brasil; Palmeiras e Vasco decidem a outra vaga hoje",
+   "texto": "O Grêmio empatou por 1 a 1 com o Atlético-MG na Arena MRV, depois de vencer a ida por 2 a 0. Hoje, às 17h de Brasília, o Vasco recebe o Palmeiras em São Januário precisando reverter a derrota por 1 a 0; a final é em jogo único, em 6/12, no Mané Garrincha.",
+   "fontes": [
+    {
+     "titulo": "CBF: Grêmio é o primeiro finalista da Copa do Brasil 2026",
+     "url": "https://cbf.com.br/futebol-brasileiro/noticias/copa-brasil-masculino/a/gremio-e-o-primeiro-finalista-da-copa-do-brasil-2026"
+    },
+    {
+     "titulo": "Doentes por Futebol: semifinais de volta, horários e final",
+     "url": "https://doentesporfutebol.com.br/copa-do-brasil-2026-semifinais-volta-horarios-escalacoes/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Fórmula 1",
+    "Interlagos"
+   ],
+   "historia": "f1-gp-sao-paulo-2026",
+   "titulo": "Norris faz a pole na chuva em Interlagos; Bortoleto larga em 19º",
+   "texto": "Lando Norris (McLaren) fez a terceira pole seguida no GP de São Paulo, à frente de Kimi Antonelli (Mercedes) e Liam Lawson (Racing Bulls), numa classificação interrompida pela chuva. Gabriel Bortoleto (Audi) teve a asa traseira quebrada e larga em 19º; a corrida é hoje, às 14h de Brasília.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: sob chuva, Norris conquista a pole; veja o grid",
+     "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/sob-chuva-norris-conquista-pole-no-gp-de-sao-paulo-veja-o-grid/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Livros",
+    "Prêmios"
+   ],
+   "historia": "booker-2026",
+   "titulo": "Booker Prize anuncia o vencedor na segunda; Marlon James e Douglas Stuart podem ganhar pela segunda vez",
+   "texto": "O prêmio literário mais importante da língua inglesa será anunciado na segunda (9), em Londres, entre seis finalistas, como Elizabeth Strout, Marlon James e Douglas Stuart; se um dos dois últimos vencer, será o quinto autor a ganhar o Booker duas vezes. Na quinta (12), o Grammy Latino, em Las Vegas, tem Anitta indicada a Álbum do Ano.",
+   "fontes": [
+    {
+     "titulo": "Booker Prizes: lista final do Booker 2026",
+     "url": "https://thebookerprizes.com/media-centre/press-releases/shocking-understated-discomfiting-hilarious-shortlist-for-booker-prize"
+    },
+    {
+     "titulo": "Local10/AP: Marlon James e Douglas Stuart podem virar bicampeões",
+     "url": "https://www.local10.com/entertainment/2026/09/22/marlon-james-and-douglas-stuart-have-chance-to-become-5th-multiple-winner-of-booker-prize-book-award/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde",
+    "Medicina",
+    "Coração"
+   ],
+   "historia": "pelacarsen-lpa",
+   "titulo": "Remédio que cortava 78% da lipoproteína(a) não evita infartos, e a Novartis o abandona",
+   "texto": "Num estudo com 8.350 pacientes cardíacos por cinco anos, o pelacarsen derrubou os níveis de Lp(a), partícula ligada a infartos e AVCs que cerca de 1 bilhão de pessoas têm em excesso, mas não reduziu as complicações cardiovasculares. Os resultados, apresentados no congresso da American Heart Association e publicados no NEJM, levantam a dúvida de que a Lp(a) seja só um marcador de risco, e não a causa; Amgen e Eli Lilly testam remédios parecidos.",
+   "fontes": [
+    {
+     "titulo": "NPR via WAMC: remédio promissor contra doença cardíaca falha",
+     "url": "https://www.wamc.org/2026-11-07/a-promising-new-medicine-against-heart-disease-fails-unexpectedly"
+    },
+    {
+     "titulo": "CNN: pelacarsen fracassa e surpreende médicos",
+     "url": "https://www.cnn.com/2026/11/07/health/novartis-pelacarsen-heart-drug-trial"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "COP31",
+    "Política internacional e geopolítica"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 começa amanhã na Turquia com metas modestas, poucos líderes e os EUA fora do Acordo de Paris",
+   "texto": "A conferência vai de 9 a 20/11 em Antália: a Turquia é a anfitriã e cuida da agenda de ações, enquanto a Austrália conduz as negociações formais. Lula, Pedro Sánchez e Andy Burnham estão entre os poucos líderes de peso confirmados para 11 e 12/11; a disputa central é se a decisão final vai citar o roteiro voluntário de saída dos combustíveis fósseis, publicado em 3/11.",
+   "fontes": [
+    {
+     "titulo": "Climate Home News: o que esperar da cúpula de Antália",
+     "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
+    },
+    {
+     "titulo": "CSMonitor: cúpula do clima abre na Turquia com metas modestas",
+     "url": "https://www.csmonitor.com/Environment/2026/1108/climate-change-cop31-turkey"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Bloqueio naval: por que é um ato de guerra, mesmo quando o governo diz que 'não é uma guerra'",
+  "texto": "No direito internacional, o bloqueio naval é um instrumento típico de conflito armado, não de tempos de paz. O Manual de San Remo (1994), referência sobre a guerra no mar, exige que o bloqueio seja declarado e notificado, efetivo e aplicado de forma imparcial a navios de todas as bandeiras; ele é proibido se o único objetivo for fazer a população passar fome ou se o dano a civis for desproporcional à vantagem militar. É por isso que a palavra pesa: quando Trump diz que o confronto com o Irã 'não é uma guerra', isso também tem efeito interno, porque a Resolução dos Poderes de Guerra de 1973 obriga o presidente a consultar o Congresso e limita a 60 dias as hostilidades sem autorização. A nova força-tarefa terrestre leva a pressão a um terreno menos regulado: o de sanções a terceiros países, como o Iraque.",
+  "fontes": [
+   {
+    "titulo": "CICV: Manual de San Remo sobre o direito aplicável aos conflitos armados no mar",
+    "url": "https://www.icrc.org/eng/resources/documents/article/other/57jmsu.htm"
+   },
+   {
+    "titulo": "Wikipedia: San Remo Manual",
+    "url": "https://www.Wikipedia.org/wiki/San_Remo_Manual"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; hoje a Anthropic volta no destaque de Tecnologia, sobre o IPO, tema que você avaliou bem. Pelas avaliações, dei peso a EUA, Imigração, IA e Brasil; a mudança de governo em Israel entrou só como nota curta, por ser troca de poder, e não briga interna de coalizão. Sem atualizações hoje: o ebola não teve boletim novo desde a edição de 6/11, e a disputa pós-eleitoral no Brasil não teve fato novo além do que está no destaque. Avisos: as avaliações do IPO são relatos de imprensa e não aparecem no prospecto; os mortos no Iêmen são números houthis, sem confirmação saudita; os relatos sobre Dana White divergem (recusa, segundo a CNN; reunião na segunda, segundo a NPR); o caso de espionagem na Nvidia se baseia em fontes de inteligência ouvidas pelo NYT e pelo FT; os planos do pronunciamento de Lula vêm de fontes do governo, e o texto final só será conhecido na transmissão. Não consegui abrir NPR, NBC, CNBC, Gothamist e Axios diretamente (a nota sobre o pedido do Congresso a Jensen Huang se apoia no título da CNBC); usei reproduções em emissoras afiliadas e outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-08T12:08:49+00:00"
+}
