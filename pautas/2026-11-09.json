@@ -1,0 +1,363 @@
+{
+ "semana": "2026-11-09",
+ "geradoEm": "2026-11-09T11:43:20+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "titulo": "Stephen Miller assume a Casa Branca: quem é o novo chefe de gabinete de Trump",
+   "secao": "EUA",
+   "gancho": "Miller começa no cargo nesta segunda (9), seis dias depois da derrota republicana nas midterms. A troca mostra que Trump vai dobrar a aposta, não recuar, e afeta direto a política de imigração.",
+   "slides": [
+    {
+     "titulo": "Stephen Miller passa a comandar a Casa Branca",
+     "texto": "O arquiteto da política de deportações de Trump substitui Susie Wiles como chefe de gabinete a partir desta segunda (9)"
+    },
+    {
+     "titulo": "O que aconteceu",
+     "texto": "Wiles entregou a demissão na noite de quinta (5). Na sexta (6), Trump anunciou Miller no Truth Social e disse que queria \"fazer uma mudança\"."
+    },
+    {
+     "titulo": "Por que agora",
+     "texto": "Segundo fontes ouvidas pela CBS, a saída está ligada à derrota nas midterms de 3/11, quando os democratas tomaram a Câmara e o Senado. Wiles pretendia ficar até janeiro, mas Trump antecipou a troca."
+    },
+    {
+     "titulo": "Quem é Susie Wiles",
+     "texto": "Coordenou a campanha vitoriosa de 2024 e era chefe de gabinete desde o primeiro dia do segundo mandato. Agora vai para a operação política de Trump."
+    },
+    {
+     "titulo": "Quem é Stephen Miller",
+     "texto": "Assessor de Trump desde a campanha de 2016, foi o principal formulador das operações do ICE e do programa de deportações. Trump o chama de \"um dos meus assessores de maior confiança\"."
+    },
+    {
+     "titulo": "O que diz cada lado",
+     "texto": "Trump diz que Miller é \"muito bom politicamente\". Schumer afirmou que o presidente \"não aprendeu nada\" com a derrota. Jeffries chamou Miller de \"xenófobo perigoso\"."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "A partir de janeiro, o Congresso será democrata. A oposição promete investigar Miller, o ICE e o DHS. A tendência é que a linha dura na imigração continue."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "CBS News, NPR, The Washington Post, The Hill. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Três dias depois da pior derrota legislativa de seu governo, Donald Trump trocou o comando da Casa Branca. Susie Wiles, que coordenou a campanha de 2024 e era chefe de gabinete desde o início do mandato, saiu. Em seu lugar entra Stephen Miller, o principal nome por trás da política de deportações e das operações do ICE. O chefe de gabinete controla a agenda do presidente, a equipe e a relação com o Congresso. Para a Casa Branca, Miller é um operador político experiente. Para os democratas, que assumem a Câmara e o Senado em janeiro, a escolha mostra que Trump não pretende moderar. Na sua opinião, a troca deve mudar a relação da Casa Branca com o novo Congresso?",
+   "hashtags": [
+    "#EUA",
+    "#Trump",
+    "#StephenMiller",
+    "#CasaBranca",
+    "#Imigração",
+    "#Midterms",
+    "#PolíticaInternacional"
+   ],
+   "visual": "Capa com foto oficial de Stephen Miller (Casa Branca, domínio público, com crédito). Slide de comparação lado a lado Wiles x Miller com fotos oficiais do governo dos EUA. Linha do tempo simples: 3/11 midterms, 5/11 demissão, 6/11 anúncio, 9/11 posse. Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Trump installs Stephen Miller as White House chief of staff, replacing Susie Wiles",
+     "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+    },
+    {
+     "titulo": "NPR: Stephen Miller replaces Susie Wiles as White House chief of staff",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff"
+    },
+    {
+     "titulo": "The Washington Post: Stephen Miller is named new White House chief of staff as Susie Wiles departs",
+     "url": "https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/"
+    },
+    {
+     "titulo": "The Hill: Susie Wiles out, Stephen Miller in, as Trump's chief of staff",
+     "url": "https://thehill.com/homenews/administration/6204745-susie-wiles-out-stephen-miller-in-as-trumps-chief-of-staff/"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "titulo": "Entenda a queda de Santiago Peña: como um banco digital derrubou o presidente do Paraguai",
+   "secao": "Mundo",
+   "gancho": "Em quatro dias, o vizinho do Brasil viu um banco quebrar, o presidente cair e ir para prisão domiciliar. É uma história clara de causa e efeito, que muita gente ainda não entendeu.",
+   "slides": [
+    {
+     "titulo": "Um banco quebrou. O presidente caiu.",
+     "texto": "Entenda como o colapso do Ueno Bank tirou Santiago Peña da Presidência do Paraguai em quatro dias"
+    },
+    {
+     "titulo": "O banco",
+     "texto": "O Ueno é um banco digital do Grupo Vázquez. Mais de 1 milhão de paraguaios abriram ali a primeira conta bancária. Ele patrocinava até a seleção de futebol."
+    },
+    {
+     "titulo": "A quebra",
+     "texto": "Na terça (3), os reguladores intervieram no Ueno. Clientes perderam acesso a dinheiro, poupança e cartões. Um app de transporte que dependia do banco parou, deixando 3 mil motoristas sem trabalho."
+    },
+    {
+     "titulo": "A ligação com Peña",
+     "texto": "Peña teve ações da controladora do Ueno e as vendeu no ano passado. Indicou um ex-executivo do banco para o Banco Central. Um fundo de pensão estatal depositou US$ 355 milhões lá, acima do limite legal."
+    },
+    {
+     "titulo": "O impeachment",
+     "texto": "Na quinta (5), Peña ofereceu renúncia depois que o Partido Colorado retirou o apoio. O Senado ignorou e, na sexta (6), votou a destituição por 44 votos. Ele nega irregularidades."
+    },
+    {
+     "titulo": "E agora",
+     "texto": "Peña está em prisão domiciliar, acusado de tráfico de influência e abuso do cargo. O vice, Pedro Alliana, assumiu até 2028 e prometeu devolver as economias dos correntistas."
+    },
+    {
+     "titulo": "Os números",
+     "texto": "Depósitos são garantidos até cerca de US$ 35 mil, o que cobre 97% dos clientes, diz o Banco Central. Peña é o segundo presidente destituído por impeachment desde o fim da ditadura, em 1989."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "AP/CBS News, NPR, Infobae, U.S. News. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Na terça (3), o Banco Central do Paraguai interveio no Ueno Bank, um banco digital popular entre quem nunca tinha tido conta. Na sexta (6), o Senado destituiu o presidente Santiago Peña. No meio do caminho, apareceram as ligações entre os dois: Peña foi acionista da controladora do banco, indicou um ex-executivo do Ueno para o Banco Central e é acusado de facilitar depósitos de dinheiro público acima do limite legal. Ele nega. Agora está em prisão domiciliar, e o vice Pedro Alliana governa até 2028. Para o Brasil, é a maior crise política no vizinho em mais de uma década. Você acha que o impeachment foi a resposta adequada ou o processo foi rápido demais?",
+   "hashtags": [
+    "#Paraguai",
+    "#SantiagoPeña",
+    "#Impeachment",
+    "#UenoBank",
+    "#AméricaLatina",
+    "#Mercosul",
+    "#Geopolítica"
+   ],
+   "visual": "Mapa do Paraguai destacando Assunção e a fronteira com o Brasil. Linha do tempo de 3/11 a 6/11. Card com os números (1 milhão de clientes, US$ 355 milhões, 44 votos, 97% cobertos). Foto oficial de Peña e de Alliana da Presidência do Paraguai ou Wikimedia Commons com crédito.",
+   "fontes": [
+    {
+     "titulo": "CBS News/AP: Paraguay's ousted president under house arrest after bank collapse",
+     "url": "https://www.cbsnews.com/news/paraguay-president-arrest-bank-ueno-collapse/"
+    },
+    {
+     "titulo": "NPR: Paraguay's President Santiago Peña placed under house arrest",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+    },
+    {
+     "titulo": "Infobae: El Congreso de Paraguay destituyó a Santiago Peña por su vínculo con el colapso de Ueno Bank",
+     "url": "https://www.infobae.com/america/america-latina/2026/11/06/el-congreso-de-paraguay-destituyo-a-santiago-pena-por-su-vinculo-con-el-colapso-de-ueno-bank/"
+    },
+    {
+     "titulo": "Infobae: Pedro Alliana asumió como presidente de Paraguay",
+     "url": "https://www.infobae.com/america/america-latina/2026/11/07/pedro-alliana-asumio-como-presidente-de-paraguay-tras-la-destitucion-de-santiago-pena-por-el-escandalo-del-ueno-bank/"
+    },
+    {
+     "titulo": "U.S. News/AP: Ousted Paraguayan President Placed Under House Arrest After Bank Collapse",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-06/paraguay-senate-removes-president-santiago-pena-from-office-following-ueno-bank-collapse"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "titulo": "Ucrânia, Rússia e EUA voltam à mesa em Abu Dhabi: o que esperar da negociação desta semana",
+   "secao": "Mundo",
+   "gancho": "A rodada acontece nesta terça (10) e quarta (11), a primeira a três desde fevereiro. Vale postar antes, para o seguidor chegar entendendo quem está na mesa e onde está o impasse.",
+   "slides": [
+    {
+     "titulo": "Guerra na Ucrânia: negociação volta nesta terça",
+     "texto": "Ucrânia, Rússia e EUA se reúnem em Abu Dhabi nos dias 10 e 11, a primeira rodada a três desde fevereiro"
+    },
+    {
+     "titulo": "O que já aconteceu",
+     "texto": "Em janeiro e fevereiro, duas rodadas em Abu Dhabi terminaram sem acordo. O resultado concreto foi a troca de 314 prisioneiros de guerra, 157 de cada lado."
+    },
+    {
+     "titulo": "Quem está na mesa",
+     "texto": "Pelos EUA, os enviados de Trump. Pela Ucrânia, Rustem Umerov, Kyrylo Budanov e David Arakhamia. A Rússia manda Vladimir Medinsky, dois vice-chanceleres e o chefe da inteligência militar."
+    },
+    {
+     "titulo": "O que muda desta vez",
+     "texto": "A delegação russa ficou maior e inclui diplomatas de alto escalão. Segundo a Bloomberg, isso pode indicar disposição para discutir temas políticos, e não só militares."
+    },
+    {
+     "titulo": "O impasse",
+     "texto": "A Rússia exige que a Ucrânia saia da parte do Donbas que ainda controla. Kiev recusa ceder território e quer garantias de segurança contra um novo ataque."
+    },
+    {
+     "titulo": "A pressão antes da reunião",
+     "texto": "Em 7/11, a Rússia lançou 172 drones e 36 mísseis balísticos. Zelensky diz que Moscou ataca a rede de energia para pressionar e pede mais interceptadores Patriot."
+    },
+    {
+     "titulo": "O que acompanhar",
+     "texto": "Se sai algum cessar-fogo parcial, nova troca de prisioneiros ou avanço sobre território. Em paralelo, EUA e europeus discutem em Bruxelas reconstrução e garantias de segurança."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Kyiv Independent, Al Jazeera, Meduza, Gulf News. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Nesta terça (10) e quarta (11), representantes da Ucrânia, da Rússia e dos EUA voltam a se reunir em Abu Dhabi. É a primeira negociação a três desde fevereiro, quando duas rodadas terminaram sem acordo, apenas com uma troca de 314 prisioneiros. Desta vez, Moscou ampliou sua delegação e incluiu diplomatas de alto escalão, o que analistas leem como possível disposição para discutir política, e não só questões militares. O nó continua o mesmo: a Rússia quer o Donbas inteiro, e Kiev se recusa a ceder território sem garantias de segurança. Na véspera, ataques russos atingiram a rede de energia ucraniana. O que você acha que pode sair dessa rodada?",
+   "hashtags": [
+    "#Ucrânia",
+    "#Rússia",
+    "#AbuDhabi",
+    "#Geopolítica",
+    "#PolíticaInternacional",
+    "#Zelensky",
+    "#Putin"
+   ],
+   "visual": "Mapa da Ucrânia com as áreas ocupadas pela Rússia destacadas (Donbas, Zaporíjia, Kherson), com base em mapas de domínio público ou do ISW com crédito. Bandeiras de Ucrânia, Rússia e EUA na capa. Linha do tempo: jan/2026, fev/2026, 10-11/nov.",
+   "fontes": [
+    {
+     "titulo": "Kyiv Independent: Russia to send senior diplomats, military officials to upcoming peace talks in Abu Dhabi",
+     "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
+    },
+    {
+     "titulo": "Al Jazeera: Zelenskyy accuses Russia of escalating strikes ahead of peace talks",
+     "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+    },
+    {
+     "titulo": "Meduza: Trilateral talks between Russia, Ukraine and US set for November 10–11 in Abu Dhabi",
+     "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi"
+    },
+    {
+     "titulo": "Gulf News: Russia demands Ukraine's Donbas region ahead of Abu Dhabi talks",
+     "url": "https://gulfnews.com/world/europe/russia-demands-ukraines-donbas-region-ahead-of-abu-dhabi-talks-1.500418524"
+    },
+    {
+     "titulo": "Wikipedia: 2026 United States–Ukraine–Russia meetings in Abu Dhabi",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "titulo": "Por que as ações de IA despencaram depois das midterms",
+   "secao": "Tecnologia",
+   "gancho": "Na quinta (5), Wall Street teve o pior dia desde abril de 2025, puxado por Nvidia e empresas de data centers. A queda liga eleição, conta de luz e a corrida da IA, e o assunto deve seguir com o IPO da Anthropic nesta semana.",
+   "slides": [
+    {
+     "titulo": "A eleição nos EUA derrubou as ações de IA",
+     "texto": "Por que a vitória democrata nas midterms fez Wall Street ter o pior dia desde abril de 2025"
+    },
+    {
+     "titulo": "O tombo",
+     "texto": "Na quinta (5), o S&P 500 caiu 4,4%, a Nasdaq 5,5% e o Dow 3,4%. A Nvidia perdeu 9,3% e foi a ação que mais pesou no índice."
+    },
+    {
+     "titulo": "Quem mais caiu",
+     "texto": "Empresas ligadas a chips e data centers: Micron, CoreWeave, Dell e Nebius chegaram a cair entre 12% e 17% durante o pregão, segundo a Al Jazeera."
+    },
+    {
+     "titulo": "O que a eleição tem a ver",
+     "texto": "Data centers consomem muita energia e estão ligados à alta da conta de luz. Eleitores aprovaram restrições em 39 de 45 consultas locais sobre data centers."
+    },
+    {
+     "titulo": "O medo do mercado",
+     "texto": "Com democratas no Congresso e em governos locais, investidores temem pausas na construção. O UBS estima que até 30% da capacidade planejada para 2028 pode ficar em risco."
+    },
+    {
+     "titulo": "O outro lado",
+     "texto": "Parte dos analistas fala em bolha e vê a eleição como gatilho, não como causa. Juros altos já encareciam a construção de data centers havia meses."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O IPO da Anthropic entra na fase de apresentação a investidores, que pedem desconto. O novo Congresso assume em janeiro com promessas de olhar o custo da IA para o consumidor."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "AP, Al Jazeera, CNBC, NBC News. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A vitória democrata nas midterms teve um efeito inesperado: derrubou as ações de inteligência artificial. Na quinta (5), o S&P 500 caiu 4,4%, o pior dia desde abril de 2025, e a Nvidia perdeu 9,3%. A explicação passa pela conta de luz. Data centers de IA consomem muita energia, e eleitores aprovaram restrições em 39 de 45 consultas locais sobre o tema. Com democratas no comando do Congresso e de governos locais, investidores temem atrasos na construção desses centros. Há também quem diga que as ações já estavam caras demais e que a eleição só serviu de gatilho. Para você, o mercado está reagindo à política ou a uma bolha que já existia?",
+   "hashtags": [
+    "#InteligênciaArtificial",
+    "#IA",
+    "#WallStreet",
+    "#Nvidia",
+    "#DataCenters",
+    "#Midterms",
+    "#Tecnologia"
+   ],
+   "visual": "Gráfico de barras simples com a queda do dia 5/11: S&P 500 -4,4%, Nasdaq -5,5%, Dow -3,4%, Nvidia -9,3%. Card com o dado 39 de 45 consultas. Foto de data center de agência com licença ou Wikimedia Commons, com crédito.",
+   "fontes": [
+    {
+     "titulo": "AP/Boston.com: A brutal sell-off for AI stocks sends Wall Street reeling and the S&P 500 tumbles 4.4%",
+     "url": "https://www.boston.com/news/national-news/2026/11/05/a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-sp-500-tumbles-4-4/"
+    },
+    {
+     "titulo": "Al Jazeera: AI stocks plunge after US election, driving down markets",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets"
+    },
+    {
+     "titulo": "CNBC: AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+     "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html"
+    },
+    {
+     "titulo": "NBC News: Stocks plunge as election outcome and AI worries crush tech shares",
+     "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "titulo": "Por que Lula foi à TV falar de dívida: juros, dólar e o começo do quarto mandato",
+   "secao": "Brasil",
+   "gancho": "No domingo (8), Lula fez o primeiro pronunciamento depois da reeleição para acalmar o mercado. Os números da dívida e dos juros explicam o porquê, e o tema segue na semana.",
+   "slides": [
+    {
+     "titulo": "Lula foi à TV prometer responsabilidade fiscal",
+     "texto": "Por que o primeiro pronunciamento depois da reeleição falou de dívida pública e juros"
+    },
+    {
+     "titulo": "O que ele disse",
+     "texto": "No domingo (8), Lula afirmou que \"a trajetória da dívida pública e os juros altos\" o preocupam e prometeu equilíbrio fiscal sem abandonar as regras fiscais."
+    },
+    {
+     "titulo": "A dívida",
+     "texto": "Em setembro, a dívida bruta chegou a 82,9% do PIB, ou R$ 11,1 trilhões, segundo o Banco Central. Desde o início de 2026, subiu 4,3 pontos."
+    },
+    {
+     "titulo": "Os juros",
+     "texto": "Em 12 meses, o governo gastou R$ 1,2 trilhão com juros, quase 9% do PIB. Em 4/11, o Copom manteve a Selic em 13,75% e interrompeu os cortes iniciados em março."
+    },
+    {
+     "titulo": "Por que o mercado ficou nervoso",
+     "texto": "Promessas de campanha têm custo e a inflação está acima do teto da meta. Na semana anterior, a bolsa caiu forte e o dólar subiu. O Copom citou a incerteza fiscal."
+    },
+    {
+     "titulo": "Os dois lados",
+     "texto": "O governo diz que é possível manter programas sociais e investimento com responsabilidade. Críticos cobram medidas concretas de corte de gastos, que o pronunciamento não detalhou."
+    },
+    {
+     "titulo": "O que acompanhar",
+     "texto": "As medidas da equipe econômica para o Orçamento de 2027 e a próxima reunião do Copom, em dezembro, quando o mercado espera a Selic parada."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Metrópoles, O Tempo, SBT News, O Povo, Banco Central. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "No domingo (8), Lula fez o primeiro pronunciamento em rede nacional depois de ser reeleito. Agradeceu aos mais de 64 milhões de eleitores, criticou o papel das big techs na campanha e deu um recado ao mercado: disse que a dívida pública e os juros altos o preocupam e prometeu responsabilidade fiscal. O contexto ajuda a entender. A dívida bruta está em 82,9% do PIB, o gasto com juros passou de R$ 1,2 trilhão em 12 meses e o Banco Central parou de cortar a Selic, que segue em 13,75%. O governo diz que dá para equilibrar as contas sem cortar programas sociais. O mercado quer ver as medidas. O que você espera da política econômica no quarto mandato?",
+   "hashtags": [
+    "#Brasil",
+    "#Lula",
+    "#Economia",
+    "#DívidaPública",
+    "#Selic",
+    "#Juros",
+    "#PolíticaBrasileira"
+   ],
+   "visual": "Gráfico de linha simples com a dívida bruta em % do PIB (início de 2026 e setembro: 82,9%) com dados do Banco Central. Card com Selic 13,75% e R$ 1,2 trilhão em juros. Foto oficial de Lula da Agência Brasil ou do Planalto (Ricardo Stuckert/PR), com crédito.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Lula promete responsabilidade fiscal e se diz preocupado com dívida pública",
+     "url": "https://www.metropoles.com/brasil/lula-promete-responsabilidade-fiscal-e-se-diz-preocupado-com-divida-publica"
+    },
+    {
+     "titulo": "O Tempo: Lula cita compromisso fiscal e diz que Brasil 'não é lugar para quem foge de responsabilidades'",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/8/lula-cita-compromisso-fiscal-e-diz-que-brasil-nao-e-lugar-para-quem-foge-de-responsabilidades"
+    },
+    {
+     "titulo": "SBT News: BC: dívida pública chega a 82,9% do PIB em setembro",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/bc-divida-publica-chega-a-82-9-do-pib-em-setembro"
+    },
+    {
+     "titulo": "O Povo: Copom mantém Selic em 13,75% e encerra ciclo de cortes iniciado em março",
+     "url": "https://mais.opovo.com.br/jornal/economia/2026/11/05/copom-mantem-selic-em-1375-e-encerra-ciclo-de-cortes-iniciado-em-marco-deste-ano.html"
+    },
+    {
+     "titulo": "Banco Central: Dívida bruta do governo geral (% PIB)",
+     "url": "https://dadosabertos.bcb.gov.br/pt_BR/dataset/13762-divida-bruta-do-governo-geral--pib---metodologia-utilizada-a-partir-de-2008"
+    }
+   ]
+  }
+ ]
+}
