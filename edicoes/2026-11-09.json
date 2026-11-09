@@ -1,0 +1,474 @@
+{
+ "data": "2026-11-09",
+ "manchete": "Trump admite que a política de deportações 'talvez seja dura demais' e acena com acordo para imigrantes antigos; a COP31 abre na Turquia sem o governo americano, e Lula promete na TV preservar as regras fiscais",
+ "abertura": "Na primeira entrevista desde a derrota nas midterms, Trump sinalizou recuo retórico na imigração, embora fontes do governo digam que o ICE não vai desacelerar. Fora dos EUA, a semana começa com a conferência do clima em Antália e, amanhã, a volta das negociações entre Ucrânia, Rússia e EUA em Abu Dhabi.",
+ "atualizacoes": [
+  {
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "historiaTitulo": "A disputa pós-eleitoral no Brasil",
+   "titulo": "TSE já tem 14 ações para cassar a chapa Lula-Alckmin, e o corregedor dá cinco dias para a defesa",
+   "texto": "Segundo a Revista Fórum, Flávio Bolsonaro protocolou 11 ações de investigação judicial eleitoral e o Novo outras três, acusando a chapa de abuso de poder político e econômico (o Novo cita 35 atos que criaram ou ampliaram benefícios, com impacto estimado em R$ 73 bilhões). O corregedor-geral Ricardo Villas Bôas Cueva admitiu a ação do Novo e uma de Flávio e deu cinco dias para Lula e Alckmin se defenderem. Novas ações podem ser apresentadas até a diplomação, prevista até 18/12; analistas consideram a cassação muito improvável.",
+   "fontes": [
+    {
+     "titulo": "Revista Fórum: com 14 ações no TSE, Flávio e Novo tentam cassar Lula e Alckmin",
+     "url": "https://revistaforum.com.br/politica/tse-flavio-bolsonaro-cassar-lula/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Política e história dos EUA",
+    "Deportações"
+   ],
+   "historia": "trump-imigracao-pos-midterms",
+   "titulo": "Trump diz que a política de deportações 'talvez seja dura demais' e fala em acordo para quem vive há 10 ou 15 anos nos EUA",
+   "oque": "Em entrevista ao 60 Minutes (CBS), exibida no domingo (8), Trump disse sobre as deportações: 'acho que talvez seja dura demais, sim', e que isso 'no fim me prejudicou'. Sugeriu 'fazer um acordo' para pessoas que estão no país 'há dez e 15 anos' e disse que adoraria 'fazer algo sobre imigração' com o novo Congresso, citando elogios do senador eleito democrata do Texas James Talarico.",
+   "contexto": "A fala vem quatro dias depois das midterms, em que os democratas conquistaram as duas casas, e dois dias depois de Trump pôr Stephen Miller, o arquiteto das deportações em massa, como chefe de gabinete. Pesquisa citada pela CBS mostra que 58% dos eleitores acham que a repressão 'foi longe demais'. Trump atribuiu a derrota sobretudo à guerra com o Irã e à alta da gasolina, e manteve que merece 'nota A+' por fechar a fronteira.",
+   "lados": "Fontes do governo disseram à CBS no mesmo domingo que não há ordem para reduzir a fiscalização; a meta do ICE subiu para cerca de 19 mil prisões por semana, e uma fonte disse 'eu apostaria no contrário' de um recuo. A Casa Branca afirma que seguirá prendendo e deportando 'imigrantes ilegais criminosos'. Democratas, que assumem o Congresso em janeiro, prometem intimações e audiências sobre as operações; o ICE tem US$ 75 bilhões garantidos até 2029 pela lei orçamentária de 2025.",
+   "proximo": "Observar se a Casa Branca de Miller traduz a fala em alguma mudança concreta (prioridades de prisão, metas) ou se ela fica no discurso. Um acordo migratório exigiria lei aprovada pelo Congresso, que só muda de mãos em 3 de janeiro.",
+   "fontes": [
+    {
+     "titulo": "CBS News: transcrição da entrevista de Trump ao 60 Minutes",
+     "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/"
+    },
+    {
+     "titulo": "CBS News: ICE não deve reduzir a repressão, dizem fontes, citando a promoção de Miller",
+     "url": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/"
+    },
+    {
+     "titulo": "Fox News: Trump admite que a fiscalização pode ter sido 'dura' demais",
+     "url": "https://www.foxnews.com/media/trump-admits-immigration-enforcement-may-have-been-too-tough-first-interview-since-midterms"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "Política internacional e geopolítica",
+    "Multilateralismo"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 abre em Antália com briga sobre financiamento climático, sem o governo americano e com 2026 entre os quatro anos mais quentes",
+   "oque": "A conferência do clima da ONU começou nesta segunda (9) em Antália, na Turquia, e vai até 20/11; a cerimônia atrasou uma hora e meia. Até a noite de domingo, países em desenvolvimento brigavam para incluir na agenda oficial o financiamento que os países ricos devem pagar. No mesmo dia, a Organização Meteorológica Mundial disse que a média de janeiro a setembro ficou cerca de 1,47 °C acima da era pré-industrial.",
+   "contexto": "É a primeira COP com um arranjo inédito: a Turquia preside, com Murat Kurum, e a Austrália conduz as negociações, solução para a disputa entre os dois pela sede. A COP28 prometeu a 'transição para longe' dos combustíveis fósseis, mas a COP30, em Belém, terminou sem essa linguagem e com um roteiro voluntário do Brasil. O governo Trump, fora do Acordo de Paris, não enviou representantes; só uma delegação do Congresso vai. A OMM diz ainda que o El Niño deve atingir força recorde até dezembro e que 2015-2026 será o período de 12 anos mais quente já medido.",
+   "lados": "Países africanos pedem negociar a triplicação do financiamento para adaptação; um alto funcionário da União Europeia avisou que não há 'vontade política' para novas promessas de dinheiro. A Turquia aposta numa agenda não vinculante, cujo centro é elevar a eletricidade de cerca de 20% para 35% da demanda global de energia até 2035; a UE quer que essa eletrificação seja 'limpa', o que pode gerar atrito com produtores de petróleo e gás.",
+   "proximo": "A cúpula de líderes é em 11 e 12/11, com presença confirmada de Lula. Observar se o tema do financiamento entra na agenda formal e se o texto final volta a citar os combustíveis fósseis, num ano de petróleo caro por causa da guerra com o Irã.",
+   "fontes": [
+    {
+     "titulo": "Turkish Minute: COP31 abre em Antália com disputa sobre financiamento",
+     "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+    },
+    {
+     "titulo": "OMM: State of the Climate Update para a COP31",
+     "url": "https://wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31?access-token=mJDg5BlTBjUJ12HdY6R1r1gNfTe0gjT_obPhTg-DYTM"
+    },
+    {
+     "titulo": "The Nation: ONU projeta 2026 entre os quatro anos mais quentes",
+     "url": "https://www.nationthailand.com/sustaination/40073291"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política fiscal",
+    "Economia"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Na TV, Lula diz que dívida e juros o preocupam e promete esforço fiscal 'preservando as regras', mas não anuncia medidas",
+   "oque": "No primeiro pronunciamento em rede nacional desde a reeleição, na noite de domingo (8), Lula disse que 'a trajetória da dívida pública e os juros altos me preocupam' e que 'todo esse esforço será feito preservando as regras fiscais'. Agradeceu os mais de 64 milhões de votos, mas não apresentou cortes, metas nem o nome do próximo ministro da Fazenda.",
+   "contexto": "O discurso, gravado na quinta (5), tenta acalmar um mercado que vem cobrando sinais fiscais desde o segundo turno. O Boletim Focus desta segunda, o primeiro após o Copom manter a Selic em 13,75%, passou a ver os juros terminando 2026 nesse patamar (antes, 13,50%) e elevou a projeção de inflação de 2027 de 4,76% para 4,90%. O dólar fechou a sexta a R$ 5,51.",
+   "lados": "O governo diz que o ajuste não vai atingir programas sociais nem o salário mínimo e que pode rever benefícios tributários. A oposição acusa a chapa de ter usado a expansão de benefícios em 2026 para ganhar a eleição, argumento central das ações de cassação no TSE. Economistas do mercado querem medidas concretas, e não apenas compromissos.",
+   "proximo": "A ata do Copom sai na terça (10) e o IPCA de outubro, na quinta (12). Observar a escolha da equipe econômica do quarto mandato e se o governo detalha a revisão de benefícios tributários.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Lula promete responsabilidade fiscal e se diz preocupado com a dívida",
+     "url": "https://www.metropoles.com/brasil/lula-promete-responsabilidade-fiscal-e-se-diz-preocupado-com-divida-publica"
+    },
+    {
+     "titulo": "SAFRAS & Mercado: Focus eleva Selic do fim do ano para 13,75%",
+     "url": "https://safras.com.br/focus-eleva-estimativa-de-selic-ao-final-do-ano-para-1375-e-aumenta-projecao-para-ipca-em-2027"
+    },
+    {
+     "titulo": "Investing.com Brasil: Ibovespa e dólar hoje: discurso de Lula, Focus e venda da CSN Cimentos",
+     "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-discurso-de-lula-focus-e-venda-da-csn-cimentos-2120343"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Ucrânia",
+    "Rússia"
+   ],
+   "historia": "ucrania-negociacao",
+   "titulo": "Ucrânia, Rússia e EUA voltam à mesa amanhã em Abu Dhabi, com delegações reforçadas",
+   "texto": "A Rússia mandará Vladimir Medinsky com dois vice-chanceleres e o chefe da inteligência militar; a Ucrânia vai com Rustem Umerov e Kyrylo Budanov, e os EUA com Steve Witkoff e Jared Kushner. Ao 60 Minutes, Trump disse que a guerra 'vai acabar logo' e indicou que a Ucrânia terá outro formato territorial.",
+   "fontes": [
+    {
+     "titulo": "Kyiv Independent: Rússia enviará diplomatas e militares de alto escalão a Abu Dhabi",
+     "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
+    },
+    {
+     "titulo": "Kyiv Post: Trump diz que a Ucrânia terá 'outro formato' após a guerra",
+     "url": "https://www.kyivpost.com/post/89511"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Oriente Médio"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Irã diz que negociações pararam desde as midterms; navios queimam perto de Ormuz",
+   "texto": "O chanceler Abbas Araghchi disse que os mediadores deixaram de viajar após o 'choque' eleitoral nos EUA e repetiu a oferta de reabrir o Estreito de Ormuz em dois dias se as condições iranianas forem aceitas; Trump disse à CBS que um novo ataque é 'altamente improvável' enquanto houver conversa. A Guarda Revolucionária diz que petroleiros bateram em minas no estreito, e os EUA inutilizaram no sábado o cargueiro M/V Huda por tentar furar o bloqueio.",
+   "fontes": [
+    {
+     "titulo": "CBS News: atualizações ao vivo sobre a guerra com o Irã",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    },
+    {
+     "titulo": "Gulf News: EAU resgatam 22 tripulantes; EUA apertam o bloqueio",
+     "url": "https://gulfnews.com/world/mena/uae-rescues-22-crew-in-gulf-of-oman-as-us-tightens-iran-blockade-and-tehran-lifts-missile-limits-1.500739993"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "África do Sul",
+    "Eleições"
+   ],
+   "historia": "africa-do-sul-municipais-2026",
+   "titulo": "CNA tem o pior resultado da sua história nas eleições municipais da África do Sul",
+   "texto": "O partido de Mandela ficou com 30,76% dos votos, contra cerca de 46% em 2021; a Aliança Democrática teve 24,64% e o MK, de Jacob Zuma, 9,76%. As câmaras sem maioria saltaram de 70 para 142 das 213, o que abre uma rodada de coalizões locais.",
+   "fontes": [
+    {
+     "titulo": "Mail & Guardian: CNA mal se segura, e DA e ActionSA crescem nos resultados finais",
+     "url": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Mundo",
+   "temas": [
+    "Europa",
+    "Polônia",
+    "Terrorismo"
+   ],
+   "historia": "cracovia-ataque",
+   "titulo": "Polônia investiga como terrorismo o ataque que matou seis na praça central de Cracóvia",
+   "texto": "Um polonês de 24 anos, descrito como de extrema direita, matou seis pessoas (uma delas britânica) e feriu 16 no sábado (7); os pais e a irmã dele foram achados mortos em casa. O premiê Donald Tusk chamou o caso de terrorismo, e o país está em luto nacional de dois dias.",
+   "fontes": [
+    {
+     "titulo": "Euronews: o que se sabe sobre o tiroteio em Cracóvia",
+     "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Midterms"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Trump atribui a derrota à guerra e à gasolina, e admite 'mensagem ruim, talvez minha' sobre a economia",
+   "texto": "Na mesma entrevista ao 60 Minutes, Trump disse que os eleitores 'não gostaram da guerra' nem da alta da gasolina, e que não vê 'motivo' para voltar a atacar o Irã, embora o país não possa ter arma nuclear. Sobre a economia, reconheceu falha de comunicação, mas citou a bolsa 'mais alta da história'.",
+   "fontes": [
+    {
+     "titulo": "CBS News: transcrição da entrevista de Trump ao 60 Minutes",
+     "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Irã",
+    "Justiça"
+   ],
+   "historia": "deportacoes-ira",
+   "titulo": "Voo de deportação com 11 iranianos é cancelado já na pista, no Arizona",
+   "texto": "O voo de domingo (8) levava dez homens e uma mulher, que voltaram à detenção; o DHS não comentou o motivo. Num processo que acusa o governo de repassar ao Irã dados sigilosos de pedidos de asilo, a juíza federal Ana Reyes exige aviso de pelo menos cinco dias antes de qualquer embarque e ameaça com desacato; o 'pronto para decolar' é relato do grupo de defesa dos imigrantes.",
+   "fontes": [
+    {
+     "titulo": "ABC News: voo de deportação com iranianos é cancelado",
+     "url": "https://abcnews.com/US/judge-blasts-administration-planning-deport-iranian-immigrants-back/story?id=137886625"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Estudantes",
+    "Vistos"
+   ],
+   "historia": "opt-taxas-estudantes",
+   "titulo": "Termina hoje, às 23h59, o prazo para comentar a taxa de US$ 70 mil para o OPT",
+   "texto": "A proposta do DHS cobra US$ 70 mil de cada estudante para iniciar o OPT e US$ 30 mil a cada novo pedido, incluindo a extensão STEM de 24 meses; o prazo de comentários foi de 30 dias, metade do usual. Não houve prorrogação; o FWD.us projeta queda de mais de 78% nos pedidos.",
+   "fontes": [
+    {
+     "titulo": "FWD.us: OPT Tax, nota técnica",
+     "url": "https://www.fwd.us/news/opt-fee/"
+    },
+    {
+     "titulo": "Federal Register: Optional Practical Training Fees",
+     "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Mercado de capitais",
+    "Anthropic"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Anthropic começa o roadshow do IPO sem faixa de preço; investidores falam em US$ 1,2 trilhão a US$ 1,75 trilhão",
+   "texto": "Até domingo nenhum documento trazia número de ações ou faixa de preço; a empresa mira estrear na Nasdaq, com o código ANT, antes do Dia de Ação de Graças (26/11). As avaliações vêm de relatos do Financial Times e da Bloomberg, não confirmados pela Anthropic, que teve receita de quase US$ 17 bilhões no terceiro trimestre.",
+   "fontes": [
+    {
+     "titulo": "Seeking Alpha: o IPO da Anthropic pega a estrada",
+     "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road"
+    },
+    {
+     "titulo": "Tech Insider: Anthropic segue com o IPO enquanto lances caem para US$ 1,2 tri",
+     "url": "https://tech-insider.org/anthropic-presses-ahead-ipo-ft-bloomberg-1-2-1-3-trillion-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Chips",
+    "Espionagem"
+   ],
+   "historia": "nvidia-china-espionagem",
+   "titulo": "Nvidia abre investigação independente depois que Jensen Huang admite caso com suposta espiã chinesa",
+   "texto": "Em nota aos funcionários, Huang admitiu o relacionamento e pediu desculpas; o conselho diz não ter razão para crer que segredos da empresa ou a segurança nacional tenham sido comprometidos, e ele segue no cargo. As ações caíam cerca de 5% no pré-mercado desta segunda.",
+   "fontes": [
+    {
+     "titulo": "Newsweek: Nvidia investiga suspeita de espionagem chinesa após CEO admitir caso",
+     "url": "https://www.newsweek.com/nvidia-investigates-chinese-spy-claims-ceo-jensen-huang-admits-affair-12684313"
+    },
+    {
+     "titulo": "Investing.com Brasil: Ibovespa e dólar hoje",
+     "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-discurso-de-lula-focus-e-venda-da-csn-cimentos-2120343"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "Juros",
+    "Petróleo"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "Mercado vê 76% a 78% de chance de alta dos juros do Fed em dezembro; inflação de outubro sai amanhã",
+   "texto": "Depois das 165 mil vagas de outubro, os contratos futuros apostam em alta de 0,25 ponto; o CPI de terça deve vir em +0,3%. Na Ásia, as bolsas subiram com a recuperação das ações de IA (Nikkei +3,4%), e o Brent recuava para perto de US$ 97 depois de Trump minimizar novos ataques ao Irã.",
+   "fontes": [
+    {
+     "titulo": "AP: bolsas asiáticas se recuperam com ações de IA",
+     "url": "https://www.news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+    },
+    {
+     "titulo": "Seeking Alpha: Wall Street Brunch",
+     "url": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Empresas",
+    "China"
+   ],
+   "historia": "csn-cimentos-venda",
+   "titulo": "CSN vende a CSN Cimentos à chinesa Huaxin por R$ 12,74 bilhões",
+   "texto": "O negócio foi anunciado no fim de semana e era um dos destaques do mercado brasileiro na abertura desta segunda, junto com o discurso de Lula e o Focus.",
+   "fontes": [
+    {
+     "titulo": "Investing.com Brasil: Ibovespa e dólar hoje",
+     "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-discurso-de-lula-focus-e-venda-da-csn-cimentos-2120343"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Copa do Brasil"
+   ],
+   "historia": "copa-do-brasil-2026",
+   "titulo": "Palmeiras perde para o Vasco, mas vai à final da Copa do Brasil nos pênaltis",
+   "texto": "O Vasco venceu por 2 a 1 em São Januário e devolveu o 1 a 0 da ida, mas o Palmeiras ganhou a disputa de pênaltis por 5 a 4, com destaque para o goleiro Carlos Miguel. A final contra o Grêmio é em jogo único, no domingo 6/12, no Mané Garrincha.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: Carlos Miguel brilha, e Palmeiras vai à final",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/carlos-miguel-brilha-palmeiras-bate-vasco-e-vai-a-final-da-copa-do-brasil/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Esportes",
+   "temas": [
+    "Fórmula 1",
+    "Interlagos"
+   ],
+   "historia": "f1-gp-sao-paulo-2026",
+   "titulo": "Norris vence em Interlagos na chuva, e a Mercedes leva o título de construtores",
+   "texto": "Lando Norris (McLaren) ganhou à frente de Max Verstappen, que largou em 21º, e de Isack Hadjar, ambos da Red Bull; o 4º e o 5º lugares de George Russell e Kimi Antonelli garantiram o título de equipes à Mercedes. Gabriel Bortoleto (Audi) terminou em 16º; a próxima etapa é Las Vegas, de 20 a 22/11.",
+   "fontes": [
+    {
+     "titulo": "Formula 1: Norris bate Verstappen no GP de São Paulo, e Mercedes é campeã",
+     "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
+    },
+    {
+     "titulo": "Lance!: brasileiros decepcionam, e Norris vence",
+     "url": "https://www.lance.com.br/formula-1/brasileiros-decepcionam-e-norris-vence-gp-de-sao-paulo-pela-f1-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "godzilla-minus-zero",
+   "titulo": "'Godzilla Minus Zero' tem a maior estreia de um filme estrangeiro de ficção nos EUA",
+   "texto": "O filme japonês de Takashi Yamazaki faturou US$ 31,6 milhões no fim de semana, superando o recorde de 'Herói' (2004) e ficando atrás só de 'A Paixão de Cristo' entre filmes fora do inglês; custou menos de US$ 20 milhões. A animação 'O Gato de Chapéu', da Warner, estreou em 2º, com US$ 20,5 milhões.",
+   "fontes": [
+    {
+     "titulo": "AP (via ABC News): 'Godzilla Minus Zero' estreia com recorde de US$ 31,6 milhões",
+     "url": "https://abcnews.com/Entertainment/wireStory/godzilla-minus-zero-stomps-record-setting-316-debut-137957908"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde",
+    "Ciência brasileira",
+    "Cardiologia"
+   ],
+   "historia": "optimal-stroke",
+   "titulo": "Estudo brasileiro mostra que baixar a pressão para menos de 12 após um AVC reduz em 21% os eventos cardiovasculares",
+   "texto": "O ensaio OPTIMAL-STROKE, liderado por Gisele Sampaio (Unifesp) com 4.368 pacientes em 30 centros do Brasil, comparou a meta de sistólica abaixo de 120 mmHg com a de 140: os eventos caíram de 13,5% para 10,9%, sem mais casos de diálise. O estudo irmão, em diabéticos, não mostrou benefício; ambos saíram no NEJM e foram apresentados no congresso da AHA, em Chicago.",
+   "fontes": [
+    {
+     "titulo": "Healio: meta mais baixa de pressão após AVC reduz eventos",
+     "url": "https://www.healio.com/news/cardiology/20261107/lower-blood-pressure-target-after-stroke-reduces-risk-for-major-cardiovascular-events"
+    },
+    {
+     "titulo": "STAT: baixar a pressão após AVC ou com diabetes impõe desafios",
+     "url": "https://statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "El Niño"
+   ],
+   "historia": "omm-clima-2026",
+   "titulo": "OMM prevê El Niño de força recorde até dezembro e nível do mar no maior patamar já medido",
+   "texto": "O relatório da Organização Meteorológica Mundial diz que o El Niño se intensifica desde agosto e que o calor acumulado nos oceanos deve bater recorde pelo décimo ano seguido. Para o Brasil, El Niños fortes costumam trazer seca no Norte e no Nordeste e chuva excessiva no Sul.",
+   "fontes": [
+    {
+     "titulo": "OMM: State of the Climate Update para a COP31",
+     "url": "https://wmo.int/resources/publication-series/state-of-climate-update-cop/state-of-climate-update-cop31?access-token=mJDg5BlTBjUJ12HdY6R1r1gNfTe0gjT_obPhTg-DYTM"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "ONU",
+   "temas": [
+    "Gaza",
+    "Crise humanitária"
+   ],
+   "historia": "gaza-inundacoes",
+   "titulo": "Chuva mata cinco em Gaza, quatro deles crianças, e alaga 70 mil barracas",
+   "texto": "Um barranco desabou em Deir el-Balah no domingo (8); segundo o escritório de imprensa do governo de Gaza, cerca de 400 mil deslocados vivem em áreas sujeitas a enchentes. O representante do Unicef, Jonathan Veitch, descreveu 'condições terríveis' e pediu mais recursos; os números são das autoridades locais, não da ONU.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: quatro crianças entre os cinco mortos nas enchentes em Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Moradores de rua",
+    "Inverno"
+   ],
+   "historia": "nyc-inverno-abrigos",
+   "titulo": "Mamdani anuncia US$ 25 milhões para o plano de inverno de Nova York",
+   "texto": "O plano prevê mais de 300 agentes de abordagem a moradores de rua, até 55 unidades médicas móveis, 800 vagas extras de abrigo nos dias mais frios, quatro novos centros de aquecimento e até 20 ônibus aquecidos. O piso dos trabalhadores temporários que retiram neve sobe de US$ 19,14 para US$ 30 por hora; no inverno passado, 19 pessoas foram achadas mortas na rua durante a onda de frio.",
+   "fontes": [
+    {
+     "titulo": "amNY: Mamdani anuncia expansão de US$ 25 milhões da resposta ao frio",
+     "url": "https://www.amny.com/news/winter-mamdani-25m-cold-weather-response/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Por que as COPs brigam pela agenda antes de discutir o clima",
+  "texto": "Nas conferências da ONU sobre clima, as decisões saem por consenso entre quase 200 países, e só se negocia o que está na agenda formal aprovada no primeiro dia. Por isso, o primeiro embate costuma ser sobre o que entra nela: os países em desenvolvimento querem itens de financiamento, porque o Acordo de Paris (2015) diz que os países ricos devem ajudar os mais pobres a cortar emissões e se adaptar. Na COP29, em Baku, a meta ficou em US$ 300 bilhões por ano até 2035, bem abaixo dos US$ 1,3 trilhão pedidos.",
+  "fontes": [
+   {
+    "titulo": "Turkish Minute: COP31 abre com disputa sobre financiamento",
+    "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; a Anthropic volta numa nota sobre o roadshow do IPO. Pelas avaliações, dei peso a Imigração, EUA, Brasil e IA, e deixei a formação de governo em Israel de fora (sem fato novo decisivo). O ebola não ganhou atualização: o último balanço da ONU (6/11, mais de 10.700 casos e 5.200 mortes) é só um pequeno aumento sobre o da edição de 6/11. O Brasileirão não teve rodada no fim de semana (volta em 14/11), e o Booker Prize só anuncia o vencedor hoje à noite em Londres. Avisos: as avaliações do IPO da Anthropic são relatos do FT e da Bloomberg; os números de Gaza são das autoridades locais; o caso do voo para o Irã se baseia num grupo de defesa dos imigrantes; a venda da CSN Cimentos foi lida num resumo de mercado. Não consegui abrir Gothamist, Al Jazeera ao vivo, Bloomberg e InfoMoney.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-09T12:07:12.943820+00:00"
+}
