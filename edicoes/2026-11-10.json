@@ -1,0 +1,410 @@
+{
+ "data": "2026-11-10",
+ "manchete": "EUA, Rússia e Ucrânia voltam à mesa em Abu Dhabi pela primeira vez desde fevereiro; na Câmara americana, um republicano força o voto do impeachment de Hegseth, e a Anthropic põe preço no seu IPO",
+ "abertura": "O dia é de diplomacia: começa em Abu Dhabi a primeira rodada a três sobre a Ucrânia em nove meses, e Lula chega à COP31, na Turquia. Em Washington, a Câmara em fim de mandato pode votar até quarta o impeachment do secretário de Defesa, enquanto a inflação americana de outubro e a ata do Copom testam o humor dos mercados.",
+ "atualizacoes": [
+  {
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "historiaTitulo": "Eleição presidencial no Brasil e a disputa no TSE",
+   "titulo": "TSE julga nesta noite a ação de Lula contra a Meta, enquanto Lula diz em rede nacional que big techs tentaram interferir",
+   "texto": "O plenário do TSE analisa às 19h a ação em que a campanha de Lula acusa a Meta de reduzir o alcance de posts a seu favor e favorecer Flávio Bolsonaro; a Meta nega. No pronunciamento de domingo, Lula disse que 'as chamadas big techs tentaram interferir no processo eleitoral', sem citar empresa nem apresentar prova. Seguem pendentes as 14 ações do PL para cassar a chapa Lula-Alckmin.",
+   "fontes": [
+    {
+     "titulo": "Esmael Morais: TSE julga ação de Lula contra Meta",
+     "url": "https://www.esmaelmorais.com.br/tse-julga-acao-lula-meta-favorecimento-flavio-bolsonaro/"
+    },
+    {
+     "titulo": "The Rio Times: Lula says Big Tech tried to sway vote",
+     "url": "https://www.riotimesonline.com/the-big-read-brazil-10-november-2026/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia",
+    "EUA",
+    "Europa"
+   ],
+   "historia": "ucrania-negociacoes-abu-dhabi",
+   "titulo": "EUA, Rússia e Ucrânia voltam a negociar em Abu Dhabi, pela primeira vez desde fevereiro, com garantias de segurança no topo da pauta",
+   "oque": "Delegações dos três países começaram nesta terça (10) dois dias de conversas em Abu Dhabi, nos Emirados Árabes. A Rússia mandou o assessor presidencial Vladimir Medinsky e dois vice-chanceleres; a Ucrânia, Rustem Umerov, chefe da inteligência externa, com Kyrylo Budanov; os EUA, os enviados Steve Witkoff e Jared Kushner. Europeus estão na cidade, mas, ao que tudo indica, fora da mesa a três.",
+   "contexto": "Os três lados fizeram três rodadas em janeiro e fevereiro, mas a diplomacia parou quando os EUA entraram em guerra com o Irã. Desde então, Witkoff e Kushner só se reuniram separadamente com Putin e Zelensky. A volta ocorre num momento de pressão sobre Trump depois das midterms e às vésperas da cúpula da APEC em Shenzhen, na China (18 e 19/11), onde ele diz esperar encontrar Putin e Xi Jinping. Na véspera, a Rússia voltou a atacar a rede elétrica ucraniana, tema de reunião do Conselho de Segurança da ONU.",
+   "lados": "A Rússia quer que a Ucrânia saia de Donetsk, Luhansk, Zaporíjia e Kherson, regiões que anexou em 2022 sem controlar por inteiro, desista da Otan e aceite limites às suas Forças Armadas. A Ucrânia rejeita ceder território não conquistado e limitar seu Exército, pede cessar-fogo imediato e diz que só um encontro Putin-Zelensky resolve a questão territorial. Kushner fala em um primeiro passo e em um arranjo de segurança que envolva europeus e russos; Rubio disse que 'nada está fechado'. Lavrov afirma que a segurança da Rússia e da região vem primeiro.",
+   "proximo": "As conversas vão até quarta (11). Observe se sai algum texto comum sobre garantias de segurança ou um novo cessar-fogo local, como o de Oleshky (28/10 a 1/11). Depois, a atenção vai para Shenzhen: o Kremlin confirmou em outubro que um encontro a três 'está sendo preparado', mas analistas duvidam de resultados concretos.",
+   "fontes": [
+    {
+     "titulo": "CBS News/AP: US, Russia, Ukraine begin talks in Abu Dhabi",
+     "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+    },
+    {
+     "titulo": "Meduza: Russia, Ukraine and the U.S. to hold peace talks in Abu Dhabi",
+     "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda"
+    },
+    {
+     "titulo": "Euronews: Trump plans to meet Putin and Xi in China next week",
+     "url": "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
+    },
+    {
+     "titulo": "UN News: Security Council on strikes on Ukraine's power grid",
+     "url": "https://news.un.org/en/story/2026/11/1168761"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Irã",
+    "Forças Armadas"
+   ],
+   "historia": "impeachment-hegseth",
+   "titulo": "Republicano Thomas Massie força votação do impeachment de Hegseth, e a Câmara pode decidir até quarta",
+   "oque": "O deputado Thomas Massie (republicano do Kentucky) leu na segunda (9), no plenário, uma resolução de 34 páginas e oito artigos para o impeachment do secretário de Defesa, Pete Hegseth. Três artigos o acusam de fazer guerra ao Irã sem autorização do Congresso; os outros tratam de mortes de civis, ataques a supostos barcos de drogas no Caribe e no Pacífico, a operação que capturou Nicolás Maduro, a campanha de bombardeios no Iêmen e retaliação ao senador Mark Kelly.",
+   "contexto": "Massie tentou o mesmo em setembro, mas o presidente da Câmara, Mike Johnson, encerrou os trabalhos antes do voto. Agora a Câmara ainda é a antiga, de maioria republicana, mas está em fim de mandato depois das midterms de 3/11, que deram aos democratas as duas Casas. Deputados que perderam a reeleição podem faltar, o que muda a conta. O último secretário de gabinete a sofrer impeachment foi Alejandro Mayorkas, em 2024, e o caso morreu no Senado sem julgamento. Para condenar, o Senado precisa de dois terços.",
+   "lados": "O líder democrata Hakeem Jeffries se diz um 'sim firme', e a maioria dos democratas deve acompanhar. Alguns republicanos disseram à Fox News que a medida pode passar, mas a maioria do partido deve votar contra; Warren Davidson (republicano de Ohio) chama a ação de 'tentativa de fazer de Hegseth o bode expiatório' de um Congresso que não cumpriu seu papel. Hegseth disse: 'não estamos preocupados'.",
+   "proximo": "Como a resolução é 'privilegiada', Johnson tem dois dias legislativos para pô-la em votação, o que leva a quarta (11). O caminho mais provável para enterrá-la é uma moção para arquivá-la ou mandá-la a uma comissão. Mesmo aprovada, a condenação no Senado é improvável.",
+   "fontes": [
+    {
+     "titulo": "Roll Call: Massie moves to force Hegseth impeachment vote",
+     "url": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/"
+    },
+    {
+     "titulo": "Stars and Stripes: Republican Massie moves to force impeachment vote against Hegseth",
+     "url": "https://www.stripes.com/theaters/us/2026-11-09/pete-hegseth-impeachment-effort-begins-23414161.html"
+    },
+    {
+     "titulo": "Fox News: Hegseth impeachment vote looms",
+     "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercado",
+    "Regulação"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Anthropic fixa a faixa de preço do IPO em US$ 70 a US$ 78 por ação e pode levantar até US$ 64,4 bilhões",
+   "oque": "Segundo um rascunho de prospecto visto pela Reuters nesta terça (10), a Anthropic e alguns de seus investidores vão oferecer cerca de 825 milhões de ações a US$ 70–78 cada, o que levantaria até US$ 64,4 bilhões. A CNBC confirmou a faixa. A empresa, criadora do Claude, deve estrear na Nasdaq com o código ANT.",
+   "contexto": "Seria um dos maiores IPOs da história. A empresa vinha de um roadshow sem preço definido e de uma semana de queda nas ações de IA, em que investidores pediam desconto; relatos da imprensa falavam em avaliação entre US$ 1,2 trilhão e US$ 1,75 trilhão. Os números citados pela Reuters mostram o tamanho da aposta: receita de cerca de US$ 16,8 bilhões no terceiro trimestre (alta de 45%), prejuízo de US$ 80,7 bilhões no primeiro semestre (em grande parte contábil, sem saída de caixa) e ao menos US$ 518 bilhões em compromissos de infraestrutura na próxima década. No fim de semana, o FT revelou que a Anthropic fechou em setembro um acordo de US$ 3,4 bilhões por geradores a gás de 1,7 gigawatt para seus data centers.",
+   "lados": "Quem defende o preço aponta o crescimento rápido da receita. Os céticos olham o prejuízo, os gastos gigantes com computação e a volatilidade do setor. No pano de fundo regulatório, Trump disse ao '60 Minutes' que 'não se importa com regras de proteção' para a IA e que pode trabalhar com os democratas, mas sem deixar os EUA 'em segundo lugar' atrás da China. A Reuters lembra que ele sempre preferiu a autorregulação das empresas; os democratas, que assumem o Congresso em janeiro, prometem uma série de projetos de lei sobre segurança de IA.",
+   "proximo": "A precificação final e a data de estreia devem sair nos próximos dias. Observe se a demanda leva o preço para o topo da faixa e como o mercado reage ao primeiro grande teste público de um laboratório de IA de ponta.",
+   "fontes": [
+    {
+     "titulo": "Reuters via Global Banking & Finance: Anthropic IPO to raise as much as $64.4 billion",
+     "url": "https://www.globalbankingandfinance.com/exclusive-anthropic-ipo-raise-much-64-4-billion-latest-draft/"
+    },
+    {
+     "titulo": "CNBC: Anthropic sets price range of $70 to $78 in upcoming IPO",
+     "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+     "titulo": "Reuters via Yahoo: Trump says AI risks can be managed, signals openness to guardrails",
+     "url": "https://ca.finance.yahoo.com/news/trump-says-ai-risks-managed-003342231.html"
+    },
+    {
+     "titulo": "The Neuron: Everything that happened in AI on November 9",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-9-2026/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Oriente Médio",
+    "EUA"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Trump vê 'avanço' após falar com o premiê do Catar sobre o Irã; Rubio chama exigências de Teerã de 'absurdas'",
+   "texto": "Em discussão está um plano de dois dias: os EUA suspendem o bloqueio naval e liberam parte dos ativos congelados, o Irã recebe inspetores da AIEA e depois reabre o Estreito de Ormuz. Não há acordo; Trump disse que novos ataques são 'muito improváveis' enquanto houver conversa, mas que impedir a bomba iraniana não é negociável.",
+   "fontes": [
+    {
+     "titulo": "Eurasia Review: Trump says talks with Qatari PM show positive momentum on Iran",
+     "url": "https://www.eurasiareview.com/10112026-trump-says-talks-with-qatari-pm-show-positive-momentum-on-iran/"
+    },
+    {
+     "titulo": "Times of Israel: liveblog November 9",
+     "url": "https://www.timesofisrael.com/liveblog-november-9-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Clima",
+    "Política externa"
+   ],
+   "historia": "lula-cop31",
+   "titulo": "Na COP31, Brasil propõe que países revejam subsídios a combustíveis fósseis, mas mantém o seu ao diesel",
+   "texto": "Lula chega hoje a Antália com o mapa do desmatamento aprovado e um roteiro voluntário para a saída dos fósseis; o plano brasileiro completo só deve sair na COP32, em 2027. Em outubro, o governo prorrogou a subvenção ao diesel, que chega a R$ 3,52 por litro e custou R$ 10,5 bilhões em 30 dias. Ele discursa na cúpula de líderes na quarta (11) e segue para a cúpula da Asean, em Manila.",
+   "fontes": [
+    {
+     "titulo": "TV Sim Brasil: Brasil propõe fim de subsídio a fóssil na COP31, mas mantém o seu",
+     "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/10/brasil-propoe-fim-subsidio-fossil-cop31-mantem-seu"
+    },
+    {
+     "titulo": "eixos: Lula leva à COP31 mapa do desmatamento pronto; o dos fósseis fica para 2027",
+     "url": "https://eixos.com.br/transicao-energetica/lula-leva-a-cop31-mapa-do-desmatamento-pronto-o-dos-fosseis-fica-para-2027/"
+    },
+    {
+     "titulo": "Metrópoles: Lula acumula decisões para o pós-viagem",
+     "url": "https://www.metropoles.com/brasil/ajuste-fiscal-6x1-e-futura-gestao-lula-acumula-decisoes-para-o-pos-viagem"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Brasil",
+   "temas": [
+    "Congresso",
+    "Sistema eleitoral"
+   ],
+   "historia": "voto-distrital-misto",
+   "titulo": "Câmara quer votar o voto distrital misto até o fim do mês, mas PT e PL resistem",
+   "texto": "A PEC relatada por Domingos Neto (PSD-CE) elegeria metade dos deputados por distrito e metade por lista do partido, a partir de 2032 nas eleições municipais e 2034 nas gerais. PP, União, PSD e Republicanos apoiam; as duas maiores bancadas, PT e PL, são contra, e uma PEC precisa de 308 votos em dois turnos.",
+   "fontes": [
+    {
+     "titulo": "TV Sim Brasil: Câmara mira voto distrital misto até fim de novembro",
+     "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/09/camara-mira-voto-distrital-misto-fim-novembro"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Congresso",
+    "DACA"
+   ],
+   "historia": "trump-imigracao-pos-midterms",
+   "titulo": "Democratas respondem à oferta de acordo de Trump: 'prove'",
+   "texto": "Hakeem Jeffries diz que qualquer acordo começa por restaurar o DACA e o TPS e por reformar o ICE; um assessor democrata sugere que Trump mostre boa-fé desacelerando as deportações. O secretário de Segurança Interna, Markwayne Mullin, descarta anistia ampla, mas se diz aberto a discutir o DACA, e a ala mais dura do Partido Republicano já rejeitou qualquer anistia.",
+   "fontes": [
+    {
+     "titulo": "TIME: Democrats' reaction to Trump immigration deal offer",
+     "url": "https://time.com/article/2026/11/09/democratic-congress-immigration-deal-Trump-DACA-mass-deportation-amnesty/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Juros"
+   ],
+   "historia": "selic-2026",
+   "titulo": "Ata do Copom diz que expectativas desancoradas pedem juros altos 'por mais tempo'",
+   "texto": "Com a Selic mantida em 13,75% e o ciclo de cortes interrompido, o BC cita a guerra no Oriente Médio, o petróleo e o risco de afrouxamento fiscal, sem indicar o próximo passo. Na véspera, o Ibovespa subiu 2,22%, a 172,2 mil pontos, a maior alta desde outubro, puxado pela queda de 5,9% do petróleo; o dólar fechou a R$ 5,51.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Copom diz que cenário de inflação exige juros mais elevados por maior tempo",
+     "url": "https://www.metropoles.com/brasil/copom-diz-que-cenario-de-inflacao-exige-juros-mais-elevados-por-maior-tempo"
+    },
+    {
+     "titulo": "A Crítica: Bolsa brasileira dispara 2,22% e dólar fecha a R$ 5,50",
+     "url": "https://acritica.net/noticias/bolsa-brasileira-dispara-222-e-tem-maior-alta-desde-outubro-dolar-fecha-a-r-550/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "EUA",
+    "Inflação",
+    "Juros"
+   ],
+   "historia": "fed-juros-2026",
+   "titulo": "Inflação americana sobe 0,4% em outubro, acima do esperado, e reforça a aposta de alta dos juros em dezembro",
+   "texto": "O índice de preços ao consumidor subiu 0,4% no mês (a previsão era 0,3%), e o núcleo, sem alimentos e energia, 0,3% (previsão de 0,2%); os futuros das bolsas caíram logo depois. Não há taxa anual oficial: a paralisação do governo em 2025 impediu a coleta de outubro daquele ano. O Fed decide em 9/12, depois de subir os juros em setembro e pausar em outubro.",
+   "fontes": [
+    {
+     "titulo": "investingLive: US October core CPI +0.3% vs +0.2% expected",
+     "url": "https://investinglive.com/news/us-october-core-cpi-vs-0-2-expected"
+    },
+    {
+     "titulo": "CNBC: S&P 500 futures drop after higher-than-expected CPI",
+     "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+    },
+    {
+     "titulo": "Kiplinger: October CPI report, what to expect",
+     "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Seleção"
+   ],
+   "historia": "selecao-ancelotti",
+   "titulo": "Seleção completa o grupo em Singapura para os últimos amistosos do ano, contra Japão e Singapura",
+   "texto": "Ancelotti tem os 25 convocados a partir desta terça. O Brasil enfrenta o Japão no sábado (14), às 7h15 de Brasília, e Singapura na terça (17), às 7h, ambos no Estádio Nacional de Singapura, na última data Fifa de 2026.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Ancelotti terá grupo completo na Seleção a partir desta terça",
+     "url": "https://www.metropoles.com/esportes/demais-jogadores-da-selecao-brasileira-se-apresentam-para-nesta-terca-feira"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Cultura",
+   "temas": [
+    "Livros",
+    "Prêmios"
+   ],
+   "historia": "booker-2026",
+   "titulo": "M. John Harrison, de 81 anos, vence o Booker com 'The End of Everything', o primeiro romance de ficção científica premiado",
+   "texto": "Ele é o vencedor mais velho da história do prêmio e superou ex-vencedores como Douglas Stuart e Marlon James. O livro é uma sátira distópica sobre a costa inglesa depois de um desastre sem nome; para a presidente do júri, Mary Beard, é 'a política de agora vista pelas lentes do futuro'. O prêmio é de £ 50 mil.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: UK author M John Harrison's End of Everything wins Booker Prize",
+     "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize"
+    },
+    {
+     "titulo": "CNN: 81-year-old sci-fi author M. John Harrison wins the 2026 Booker Prize",
+     "url": "https://www.cnn.com/2026/11/09/style/booker-prize-winner-2026-m-john-harrison"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "Emissões"
+   ],
+   "historia": "emissoes-2026",
+   "titulo": "Emissões de CO2 dos combustíveis fósseis devem cair 0,4% em 2026, mas por causa da guerra, não da transição",
+   "texto": "Estudo na Nature Climate Change atribui a queda aos preços altos do petróleo e do gás depois do bloqueio de Ormuz e diz que ela deve ser passageira; sem esse choque, as emissões teriam subido. O Orçamento Global de Carbono de 2026 é lançado hoje na COP31.",
+   "fontes": [
+    {
+     "titulo": "Science News: Fossil fuel emissions are down in 2026. Green energy isn't the reason",
+     "url": "https://sciencenews.org/article/fossil-fuel-emissions-down-2026-gas"
+    },
+    {
+     "titulo": "Climate Diplomacy Brief: COP31 day 2",
+     "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-1ff"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "Alimentação"
+   ],
+   "historia": "el-nino-2026",
+   "titulo": "El Niño pode custar até US$ 11 trilhões à economia mundial, estima o Fida, da ONU",
+   "texto": "O alerta do fundo agrícola da ONU vem depois de a OMM prever um El Niño de força recorde até dezembro e de outro relatório da ONU dizer que as temperaturas extremas 'excepcionais' devem seguir no ano que vem.",
+   "fontes": [
+    {
+     "titulo": "UN News: El Niño's $11 trillion price tag",
+     "url": "https://news.un.org/en/story/2026/11/1168768"
+    },
+    {
+     "titulo": "UN News: 'Exceptional' extreme temperatures to continue into next year",
+     "url": "https://news.un.org/en/story/2026/11/1168760"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Secretário-geral",
+    "Política internacional e geopolítica"
+   ],
+   "historia": "onu-secretario-geral-2026",
+   "titulo": "Grynspan amplia a liderança na corrida pela Secretaria-Geral, e dois nomes de última hora tentam entrar no jogo",
+   "texto": "Na oitava votação informal do Conselho de Segurança, a costarriquenha Rebeca Grynspan teve 12 votos de incentivo e 3 de desestímulo, à frente do argentino Rafael Grossi. Os recém-chegados, Lana Nusseibeh (Emirados) e Feridun Sinirlioglu (Turquia), não alcançaram os nove votos de incentivo; ainda não se sabe se há veto de algum membro permanente.",
+   "fontes": [
+    {
+     "titulo": "PassBlue: Grynspan extends lead in UN race",
+     "url": "https://passblue.com/2026/11/05/grynspan-extends-lead-in-un-race-as-new-entrants-struggle-to-stay-above-water/"
+    },
+    {
+     "titulo": "Just Security: Early Edition, November 9",
+     "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "ONU",
+   "temas": [
+    "Migração",
+    "Mediterrâneo",
+    "África"
+   ],
+   "historia": "naufragios-migrantes",
+   "titulo": "Pelo menos 56 migrantes morrem em naufrágios no Senegal e na Grécia em um fim de semana",
+   "texto": "Foram ao menos 34 mortos num barco que virou perto de Loumpoul, no Senegal, e 22 em dois naufrágios perto de Creta, de barcos saídos do leste da Líbia. A OIM conta ao menos 454 mortos e desaparecidos na rota do Atlântico neste ano e pede vias legais e seguras de migração.",
+   "fontes": [
+    {
+     "titulo": "UN News: At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
+     "url": "https://news.un.org/en/story/2026/11/1168769"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Imigração"
+   ],
+   "historia": "nj-vice-governadora",
+   "titulo": "Sherrill nomeia Shirley Emehelu, nascida na Nigéria, a primeira vice-governadora imigrante de Nova Jersey",
+   "texto": "Ex-promotora federal e atual secretária de Estado, Emehelu, de 48 anos, tomou posse no mesmo dia, sem precisar do Senado estadual. O cargo estava vago desde setembro, quando Dale Caldwell renunciou depois que uma investigação interna concluiu que ele assediou uma funcionária.",
+   "fontes": [
+    {
+     "titulo": "New Jersey Globe: Sherrill formally names Shirley Emehelu as lieutenant governor",
+     "url": "https://newjerseyglobe.com/governor/sherrill-formally-names-shirley-emehelu-as-lieutenant-governor/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Como se escolhe o secretário-geral da ONU (e por que um único veto pode decidir tudo)",
+  "texto": "A Carta da ONU diz só que o secretário-geral é nomeado pela Assembleia Geral 'mediante recomendação do Conselho de Segurança'. Na prática, o Conselho faz votações informais e secretas ('straw polls'), em que cada um dos 15 membros marca 'incentivo', 'desestímulo' ou 'sem opinião'. Para ser recomendado, um candidato precisa de pelo menos nove votos e nenhum veto dos cinco permanentes (EUA, Rússia, China, Reino Unido e França). Por isso, a certa altura, as cédulas ganham cores diferentes para revelar se o 'não' veio de um membro permanente. Há ainda uma regra informal de rodízio regional, e 2026 é visto como a vez da América Latina e de uma possível primeira mulher no cargo. O mandato de António Guterres termina em 31 de dezembro.",
+  "fontes": [
+   {
+    "titulo": "PassBlue: Grynspan extends lead in UN race",
+    "url": "https://passblue.com/2026/11/05/grynspan-extends-lead-in-un-race-as-new-entrants-struggle-to-stay-above-water/"
+   },
+   {
+    "titulo": "UN News: Gender, geography and powerbroking in play in race for next UN chief",
+    "url": "https://news.un.org/en/story/2026/04/1167323"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; hoje a Anthropic volta no destaque de Tecnologia, com a faixa de preço do IPO e a sinalização de Trump sobre regras para a IA. Pelas avaliações, dei peso a geopolítica, EUA, IA, Brasil e Imigração, e deixei de fora a formação de governo em Israel e Gaza (sem fato novo decisivo). O ebola não ganhou atualização: não houve boletim novo da OMS desde 6/11 (dados até 3/11: 10.668 casos e 5.198 mortes no Congo; o Quênia não tem caso novo desde 19/10). Avisos: os números do IPO vêm de um rascunho de prospecto visto pela Reuters e podem mudar; a chance de aprovação do impeachment de Hegseth se baseia em relatos de deputados à imprensa; as notícias sobre o TSE e a Meta vêm de sites brasileiros que repercutiram a pauta; a ata do Copom foi lida via Metrópoles e o resultado da inflação americana via investingLive e CNBC, ainda sem os detalhes por item. Não consegui abrir Gothamist, Washington Post, AILA e a página da CNBC.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-10T13:40:34+00:00"
+}
