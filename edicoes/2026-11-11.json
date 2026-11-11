@@ -1,0 +1,407 @@
+{
+ "data": "2026-11-11",
+ "manchete": "Câmara engaveta o impeachment de Hegseth e os republicanos escolhem Jim Jordan para liderar a minoria; Nova York abre o registro da sua lei de segurança de IA, e as prisões do ICE seguem apesar do recuo verbal de Trump",
+ "abertura": "O Congresso que sai e o que entra se cruzaram ontem em Washington: a maioria republicana derrubou o impeachment do secretário da Defesa, enquanto o partido se reorganiza para ser oposição a partir de janeiro. Fora dos EUA, a conversa entre Rússia e Ucrânia em Abu Dhabi entra no segundo dia, e a COP31 recebe os líderes na Turquia, com Lula cobrando os países ricos.",
+ "atualizacoes": [
+  {
+   "historia": "eleicao-brasil-2026-segundo-turno",
+   "historiaTitulo": "Eleição de 2026 e a disputa no TSE",
+   "titulo": "TSE multa a Meta em R$ 7,5 milhões por descumprir ordens, mas não vê interferência deliberada a favor de Flávio",
+   "texto": "Por unanimidade, o TSE seguiu o relator Marco Aurélio Bellizze: a Meta cumpriu só em parte as ordens sobre alcance de posts, revisão de contas de anúncios e igualdade na ferramenta de IA, e atrasou informações. A multa (R$ 500 mil por dia de 17 a 19/10 e R$ 1 milhão por dia de 20 a 25/10) é coercitiva e não reconhece favorecimento; o pedido da campanha de Lula para elevá-la foi negado. A campanha de Lula diz que as falhas 'foram direcionadas'; a Meta nega e diz que as contas de Lula tiveram 1,5 vez mais alcance que as de Flávio.",
+   "fontes": [
+    {
+     "titulo": "Agenda do Poder: TSE multa Meta em R$ 7,5 milhões, mas afasta interferência eleitoral",
+     "url": "https://agendadopoder.com.br/tse-multa-meta-em-r-75-milhoes-por-falhas-durante-campanha-mas-afasta-interferencia-eleitoral/"
+    },
+    {
+     "titulo": "CartaCapital: TSE condena Meta a pagar R$ 7,5 mi",
+     "url": "https://www.cartacapital.com.br/politica/tse-condena-meta-a-pagar-r-75-mi-em-acao-sobre-favorecimento-de-flavio-bolsonaro-em-eleicao/"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Defesa"
+   ],
+   "historia": "impeachment-hegseth",
+   "titulo": "Câmara engaveta o impeachment de Hegseth por 211 a 204, e Jim Jordan vence Scalise para liderar os republicanos na minoria",
+   "oque": "A Câmara aprovou por 211 a 204 enviar à comissão as oito acusações de impeachment apresentadas pelo republicano Thomas Massie contra o secretário da Defesa, Pete Hegseth, o que na prática enterra o processo neste Congresso. Massie foi o único republicano a votar contra o partido. No mesmo dia, os republicanos escolheram Jim Jordan como líder da minoria (106 a 73 sobre Steve Scalise), e o Senado reconduziu John Thune por aclamação.",
+   "contexto": "As midterms de 3/11 deram aos democratas a maioria nas duas Casas a partir de janeiro (na Câmara, cerca de 254 a 166, com disputas ainda abertas). Até lá, o Congresso atual, de maioria republicana, segue funcionando. O processo de Massie acusava Hegseth de conduzir a guerra contra o Irã sem autorização do Congresso e de violações de direitos humanos; é a mesma disputa constitucional sobre quem decide ir à guerra que divide Casa Branca e Congresso desde a Guerra do Vietnã. Mike Johnson desistiu de liderar o partido na minoria.",
+   "lados": "Hegseth chamou o voto de 'espetáculo político' e 'farsa' e disse que repetiria 'amanhã' todas as operações; Trump e o vice JD Vance o defenderam. Massie disse que agiu 'porque é o certo', sem ter contado votos antes. Hakeem Jeffries, que deve virar presidente da Câmara, prometeu que os democratas vão 'tirar Hegseth da cidade' quando assumirem.",
+   "proximo": "O 120º Congresso toma posse em 3 de janeiro de 2027, com Jeffries como provável presidente da Câmara. Observe se os democratas reabrem o impeachment ou preferem investigações em comissões, e a disputa interna sobre a liderança de Chuck Schumer no Senado.",
+   "fontes": [
+    {
+     "titulo": "Stars and Stripes: Republican-led House blocks effort to impeach Hegseth",
+     "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html"
+    },
+    {
+     "titulo": "ABC News: House Republicans elect Jim Jordan as minority leader",
+     "url": "https://abcnews.com/Politics/house-republicans-elect-jim-jordan-minority-leader-congress/story?id=138016685"
+    },
+    {
+     "titulo": "TIME: House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in 2027",
+     "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "Nova York"
+   ],
+   "historia": "lei-ia-nova-york-raise",
+   "titulo": "Nova York abre o registro da RAISE Act, e OpenAI e Anthropic terão de relatar incidentes graves de IA em 72 horas",
+   "oque": "O estado de Nova York abriu na terça (10) o portal de registro da RAISE Act, sua lei de segurança e transparência para IA de fronteira. Empresas com mais de US$ 500 milhões de receita anual, como OpenAI e Anthropic, devem se registrar até 1º de janeiro de 2027, publicar seus planos de segurança, emitir relatórios de transparência dos modelos e comunicar incidentes críticos em até 72 horas. As multas chegam a US$ 1 milhão pela primeira violação e US$ 3 milhões pelas seguintes.",
+   "contexto": "Sem uma lei federal, os estados viraram o laboratório da regulação de IA nos EUA. A lei da Califórnia (SB 53), em vigor desde janeiro, exige algo parecido, mas dá 15 dias para relatar incidentes; Illinois (SB 315) entra em vigor em 2027 e prevê auditorias independentes. Nova York criou um órgão para aplicar a lei (DIGIT) e lançou um centro de avaliação de sistemas de IA na SUNY Binghamton. É a linha de leis que obrigam as empresas a mostrar como controlam riscos, diferente da proposta levada pela Anthropic ao Congresso em outubro, que daria à Justiça o poder de suspender modelos de alto risco.",
+   "lados": "A governadora Kathy Hochul diz que o estado constrói 'um modelo nacional' e critica líderes do setor que tratam danos como custo aceitável da corrida da IA. Parte da indústria e da Casa Branca defende que uma colcha de leis estaduais atrapalha a inovação e prefere uma regra federal única; a reportagem consultada não traz reação das empresas.",
+   "proximo": "Prazo de registro em 1º/1/2027; a lei de Nova York sobre chatbots e menores começa a valer em 1º/6/2027. Observe se o novo Congresso democrata tenta uma lei federal e se a Casa Branca insiste em barrar leis estaduais.",
+   "fontes": [
+    {
+     "titulo": "TechCrunch: OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+     "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Deportações",
+    "Justiça"
+   ],
+   "historia": "trump-imigracao-pos-midterms",
+   "titulo": "Prisões do ICE continuam no mesmo ritmo apesar de Trump dizer que a política foi 'dura demais'; secretário promete 'mudança zero'",
+   "oque": "Uma semana depois de Trump dizer ao '60 Minutes' que a repressão 'talvez seja dura demais' e acenar com um acordo, a AP relata prisões de imigrantes sem antecedentes criminais da Califórnia a Massachusetts, incluindo solicitantes de asilo com permissão de trabalho. O secretário de Segurança Interna, Markwayne Mullin, escreveu que suas ordens não mudaram e que 'as deportações vão continuar'. Em Denver, um chefe do ICE admitiu a uma juíza federal ter mandado prender de novo, na hora, imigrantes soltos por ordem judicial.",
+   "contexto": "Trump escolheu Stephen Miller, arquiteto das deportações em massa, como chefe de gabinete horas depois da entrevista, o que reforça a dúvida sobre o recuo. Na segunda (9), a Suprema Corte liberou, com voto contrário só de Ketanji Brown Jackson, a retomada do muro na região de Big Bend, no Texas, suspendendo uma decisão que exigia cumprir leis ambientais. As novas prisões após soltura dividem juízes federais em Minnesota, e nenhum tribunal de apelação decidiu ainda.",
+   "lados": "O ICE diz que as novas prisões são usadas 'quando apropriado' e o DHS afirma que mira quem 'violou as leis'. Advogados e a ACLU dizem que as recapturas desrespeitam ordens judiciais. Democratas cobram que Trump 'prove' a oferta de acordo; parte da base conservadora rejeita qualquer acordo.",
+   "proximo": "A juíza Charlotte Sweeney decide se aplica desacato ao governo no Colorado. Observe se a Casa Branca apresenta uma proposta concreta aos democratas antes da posse do novo Congresso, em janeiro.",
+   "fontes": [
+    {
+     "titulo": "AP (via News4Jax): Immigration arrests go on unabated despite Trump's misgivings",
+     "url": "https://www.news4jax.com/news/national/2026/11/11/immigration-arrests-go-on-unabated-despite-trumps-misgivings-after-the-gops-midterm-wipeout/"
+    },
+    {
+     "titulo": "MPR News: ICE re-arrests in Colorado followed Minnesota's lead, official says",
+     "url": "https://www.mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says"
+    },
+    {
+     "titulo": "SCOTUSblog: Supreme Court allows Trump administration to continue border wall construction",
+     "url": "https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Ucrânia",
+    "Rússia"
+   ],
+   "historia": "ucrania-negociacoes-abu-dhabi",
+   "titulo": "Primeiro dia em Abu Dhabi dura quase 4 horas; Zelensky diz que os EUA perguntaram se Kyiv trocaria o Donbas por segurança",
+   "texto": "Zelensky chamou a rodada de 'construtiva', mas rejeitou ceder o Donbas e falou numa troca de prisioneiros de 1.000 por 1.000 ou mais; Lavrov disse que Moscou não aceita o cessar-fogo pedido pelos europeus. O segundo dia acontece hoje, ainda sem acordo anunciado.",
+   "fontes": [
+    {
+     "titulo": "CBS News: No signs of progress as U.S.-Russia-Ukraine talks get underway in Abu Dhabi",
+     "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+    },
+    {
+     "titulo": "Kyiv Independent: Ukraine, Russia, US conclude 1st day of peace talks",
+     "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Oriente Médio"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Irã nega negociar com os EUA e diz que Ormuz segue fechado até Washington aceitar suas sete condições",
+   "texto": "Mohsen Rezaei chamou de falsas as notícias de conversas no Catar; Trump fala em 'impulso positivo' e diz que novos ataques são desnecessários. Novembro já soma ao menos 37 ataques a navios no estreito, o maior total mensal da guerra, segundo empresas de monitoramento.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Iran denies talks with US, says Hormuz will stay shut until demands are met",
+     "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Segurança cibernética",
+    "União Europeia"
+   ],
+   "historia": "franca-ira-ciberataque",
+   "titulo": "França acusa a Guarda Revolucionária do Irã de sabotar geladeiras de 700 supermercados e pede sanções da UE",
+   "texto": "Segundo o chanceler Jean-Noël Barrot, hackers ligados ao Irã forçaram ciclos de degelo e desligaram alarmes em outubro, e Paris convocou o embaixador iraniano. O Irã não comentou; incidentes parecidos em outros nove países europeus ainda são tratados como suspeitas.",
+   "fontes": [
+    {
+     "titulo": "Al-Monitor: France says Iran behind 'unprecedented' cyberattacks on fridges",
+     "url": "https://www.al-monitor.com/originals/2026/11/france-says-iran-behind-unprecedented-cyberattacks-fridges"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política fiscal"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Governo e Congresso combinam projeto de ajuste fiscal de 0,5% do PIB para 2027",
+   "texto": "O projeto de lei complementar deve ser escrito nos próximos dias, ainda sem medidas detalhadas, segundo a CNN Brasil. Lula está fora até 16/11 (Turquia e Filipinas), e decisões como o decreto do fim da escala 6x1 e a vaga no STF ficaram para a volta.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil (via ac24horas): Governo acorda com Congresso ajuste fiscal de 0,5% do PIB em 27",
+     "url": "https://ac24horas.com/2026/11/10/governo-acorda-com-congresso-projeto-de-ajuste-fiscal-de-05-do-pib-em-27/"
+    },
+    {
+     "titulo": "Metrópoles: Ajuste fiscal, 6x1 e futura gestão: Lula acumula decisões para o pós-viagem",
+     "url": "https://www.metropoles.com/brasil/ajuste-fiscal-6x1-e-futura-gestao-lula-acumula-decisoes-para-o-pos-viagem"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Clima",
+    "Política externa"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Na COP31, Lula diz que o mundo fala 'mais de armas e tarifas' do que de clima e apresenta dois 'mapas do caminho'",
+   "texto": "O Brasil propôs roteiros para reduzir a dependência de combustíveis fósseis e zerar o desmatamento, e busca doações para o fundo de florestas tropicais (TFFF), que precisa captar mais de US$ 2 bilhões até o fim do ano.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Lula critica guerras e tarifas e cobra ação climática na COP31",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/11/lula-na-cop31-passamos-a-falar-mais-de-armas-e-tarifas-do-que-sobrevivencia-das-futuras-geracoes"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Indústria de chips",
+    "China"
+   ],
+   "historia": "nvidia-huang-espionagem",
+   "titulo": "FBI investiga o caso da Nvidia, e ação da empresa cai mais de 5% num dia",
+   "texto": "Trump, que defendeu Jensen Huang no início, disse que o FBI agora investiga a suposta espiã chinesa ligada à Megaspeed, suspeita de desviar chips para a China; republicanos chamaram Huang a uma audiência fechada na semana que vem. As suspeitas vêm de fontes de inteligência ouvidas pelo FT e pelo NYT.",
+   "fontes": [
+    {
+     "titulo": "Fortune: Jensen Huang might hang on as CEO, but his influence on U.S. AI policy is over",
+     "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over/"
+    },
+    {
+     "titulo": "TheStreet: Stock Market Today, Nov. 10, 2026",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "juros-fed-dezembro",
+   "titulo": "Juro do título de 10 anos dos EUA chega a 5% depois da inflação acima do esperado",
+   "texto": "O rendimento subiu 0,14 ponto no dia, e o diretor do Fed Christopher Waller disse apoiar ao menos uma alta de 0,25 ponto em dezembro. O S&P 500 caiu 0,38% e o Nasdaq, 0,74%.",
+   "fontes": [
+    {
+     "titulo": "TheStreet: Nasdaq falls after key inflation report",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Câmbio",
+    "Brasil"
+   ],
+   "historia": "dolar-real-2026",
+   "titulo": "Dólar sobe 1,46% e fecha a R$ 5,59, o maior valor em 15 meses",
+   "texto": "Pesaram a inflação americana e a ata do Copom, que citou a desvalorização do real ligada à incerteza política interna. O Ibovespa caiu 0,52%, para 171.337 pontos.",
+   "fontes": [
+    {
+     "titulo": "Imirante: Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+     "url": "https://imirante.com/noticias/brasil/2026/11/10/dolar-sobe-146-fecha-maior-valor-15-meses"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Flamengo lidera com 3 pontos sobre o Palmeiras, e Corinthians e Grêmio estão na zona de rebaixamento",
+   "texto": "Depois de 34 rodadas, o Flamengo tem 76 pontos e o Palmeiras, 73; os dois se enfrentam em 21/11, na casa do Palmeiras. Corinthians e Grêmio têm 37 pontos, e o Grêmio, finalista da Copa do Brasil, está atrás no saldo.",
+   "fontes": [
+    {
+     "titulo": "GC Mais: Classificação do Brasileirão 2026",
+     "url": "https://gcmais.com.br/noticias/2026/11/10/classificacao-do-brasileirao-2026-veja-tabela-atualizada-e-disputa-pelo-titulo"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Seleção brasileira"
+   ],
+   "historia": "selecao-amistosos-novembro",
+   "titulo": "Seleção pega o Japão no sábado (14), em Singapura, com cinco estreantes na lista de Ancelotti",
+   "texto": "Depois, enfrenta Singapura na terça (17), no mesmo estádio. Flamengo e Palmeiras não cederam jogadores, a pedido atendido pela CBF.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: Seleção Brasileira: veja convocados para os últimos amistosos do ano",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/convocados-selecao-brasileira-amistosos/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Cultura",
+   "temas": [
+    "Música",
+    "Prêmios"
+   ],
+   "historia": "grammy-latino-2026",
+   "titulo": "Grammy Latino sai amanhã em Las Vegas, com Anitta indicada a Álbum do Ano",
+   "texto": "Anitta disputa com 'EQUILIBRIVM' e concorre também em pop contemporâneo em português, contra Marina Sena, entre outros. Ana Castela, João Gomes, Djavan e Emicida estão entre os brasileiros indicados.",
+   "fontes": [
+    {
+     "titulo": "A Rede: Grammy Latino 2026: Anitta, Ana Castela e João Gomes disputam prêmios",
+     "url": "https://arede.info/mix/692016/grammy-latino-2026-anitta-ana-castela-e-joao-gomes-disputam-premios-nesta-semana-veja-os-indicados"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas",
+    "EUA"
+   ],
+   "historia": "sarampo-eua-eliminacao",
+   "titulo": "Painel da OPAS decide até sexta se os EUA perdem o status de país livre do sarampo",
+   "texto": "A comissão independente se reúne de 10 a 13/11 para avaliar se houve transmissão contínua por um ano desde o surto do Texas, em janeiro de 2025. Os EUA já têm 5.182 casos em 2026, o maior número desde 1991; o Canadá perdeu o status no ano passado.",
+   "fontes": [
+    {
+     "titulo": "ABC News: Upcoming meeting could determine if US loses its measles elimination status",
+     "url": "https://abcnews.com/Health/upcoming-meeting-determine-us-loses-measles-elimination-status/story?id=137989156"
+    },
+    {
+     "titulo": "Al Jazeera: CDC reports more than 5,000 measles cases",
+     "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Clima"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Guterres abre a cúpula de líderes da COP31: 'a crise do clima está nos ultrapassando'",
+   "texto": "O secretário-geral cobrou o fim da dependência de combustíveis fósseis; os EUA faltam pelo segundo ano, e França, Alemanha, Japão, Itália e Canadá não mandaram seus chefes de governo. A Turquia propõe elevar a eletricidade a 35% do consumo de energia até 2035, meta criticada por não exigir fontes limpas.",
+   "fontes": [
+    {
+     "titulo": "Al-Monitor: Climate crisis is 'outrunning us', UN chief warns COP31",
+     "url": "https://www.al-monitor.com/originals/2026/11/climate-crisis-outrunning-us-un-chief-warns-cop31"
+    },
+    {
+     "titulo": "UN News: COP31 opens in Antalya",
+     "url": "https://news.un.org/en/story/2026/11/1168763"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Líbano",
+    "Missões de paz"
+   ],
+   "historia": "unifil-libano",
+   "titulo": "Patrulha da missão de paz da ONU no Líbano é atacada a tiros, a 50 dias do fim do mandato",
+   "texto": "Ninguém se feriu perto de Tiro, e a Unifil não identificou os autores. O Conselho de Segurança encerra a missão em 31/12, e o G7 admitiu não ter solução para evitar um 'vazio de segurança'.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: UNIFIL patrol comes under fire in southern Lebanon",
+     "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Moradia"
+   ],
+   "historia": "mamdani-copa-moradia",
+   "titulo": "Mamdani sanciona lei que dá a organizações sem fins lucrativos preferência na compra de prédios problemáticos",
+   "texto": "A COPA vale para cerca de 2.100 imóveis de aluguel estabilizado com infrações: o dono terá de avisar a prefeitura antes de vender, e entidades aprovadas poderão cobrir ofertas de terceiros. A lei entra em vigor em um ano; o mercado imobiliário, que a chamava de ataque à propriedade, passou a apoiar parte do texto revisado.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News: Mamdani signs law giving nonprofits first dibs to buy distressed NYC properties",
+     "url": "https://www.yahoo.com/news/politics/articles/mamdani-signs-law-giving-nonprofits-221003844.html"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "O 'pato manco': por que o Congresso derrotado nas urnas ainda manda até janeiro",
+  "texto": "Nos EUA, o Congresso eleito em novembro só toma posse em 3 de janeiro, regra fixada pela 20ª Emenda (1933), que encurtou um intervalo que antes ia até março. Nesse meio-tempo, o Congresso que sai, chamado 'lame duck' ('pato manco'), continua votando com a maioria antiga, como se viu no impeachment de Hegseth. É também quando os partidos escolhem seus líderes para a nova legislatura e quando costumam passar orçamentos e nomeações pendentes antes da troca de comando.",
+  "fontes": [
+   {
+    "titulo": "ABC News: House Republicans elect Jim Jordan as minority leader for the next Congress",
+    "url": "https://abcnews.com/Politics/house-republicans-elect-jim-jordan-minority-leader-congress/story?id=138016685"
+   },
+   {
+    "titulo": "Stars and Stripes: Republican-led House blocks effort to impeach Hegseth",
+    "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; hoje o destaque de Tecnologia trata da lei de segurança de IA de Nova York, que atinge Anthropic e OpenAI, e a compara com a proposta da Anthropic ao Congresso. Pelas avaliações, dei peso a EUA, IA, Imigração e Brasil, e deixei Ucrânia e Irã como notas curtas. O ebola não ganhou atualização: não houve balanço novo desde 6/11 (mais de 10.500 casos). Avisos: o caso da Nvidia se apoia em fontes de inteligência ouvidas pela imprensa; a autoria iraniana do ciberataque é uma acusação da França, sem resposta de Teerã; o ajuste fiscal foi lido numa republicação da CNN Brasil, ainda sem medidas; o número final de cadeiras na Câmara ainda depende de disputas sem resultado. Não consegui abrir NPR, CNN, CNBC, NBC, Washington Times e Crain's; usei AP, ABC, Stars and Stripes e outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-11T11:59:35+00:00"
+}
