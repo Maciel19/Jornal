@@ -1,0 +1,376 @@
+{
+ "data": "2026-11-12",
+ "manchete": "Conselho da Nvidia discute afastar Jensen Huang; enviados de Trump levam a Putin o saldo de Abu Dhabi, e o Senado tenta votar hoje o ajuste fiscal de Lula",
+ "abertura": "O dia gira em torno de poder e confiança: a maior empresa de chips de IA do mundo pode perder o fundador, e Washington tenta transformar dois dias de conversa entre Rússia e Ucrânia em algo concreto. No Brasil, a inflação de outubro veio abaixo do esperado no mesmo dia em que o Senado decide o pacote fiscal.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Congo passa de 11 mil casos confirmados de ebola e 5.387 mortes",
+   "texto": "Segundo o governo congolês (dados de 10/11), são 11.042 casos confirmados e 5.387 mortes, letalidade de 48,8%; o último boletim da OMS (dados até 3/11) tinha 10.668 casos e 5.198 mortes. É o segundo maior surto de ebola já registrado, atrás só do da África Ocidental (2014-2016). A OMS diz que o acompanhamento de contatos está em 86%, abaixo da meta de 95%, e que um teste de vacina de fase 2/3 começou em Bunia em 23/10, com resultados esperados só em 2027.",
+   "fontes": [
+    {
+     "titulo": "allAfrica: Congo Ebola Cases Surpass 11,000 As Death Toll Reaches 5,387",
+     "url": "https://allafrica.com/stories/202611120020.html"
+    },
+    {
+     "titulo": "OMS: Disease Outbreak News DON625",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "China",
+    "Governança corporativa",
+    "EUA"
+   ],
+   "historia": "nvidia-huang-espionagem",
+   "titulo": "Conselho da Nvidia se reúne para decidir se afasta Jensen Huang, e as ações caem mais de 5%",
+   "oque": "Segundo o Wall Street Journal, o conselho da Nvidia se prepara para tirar Jensen Huang, cofundador e CEO há 33 anos. Os 11 conselheiros se reuniram na noite de quarta (11), sem decisão anunciada até a manhã de hoje. A ação caía cerca de 5,5% antes da abertura, depois de recuar mais de 8% no after-hours.",
+   "contexto": "A crise começou no domingo, quando o conselho abriu investigação sobre a relação de Huang com Alice Huang, executiva da Megaspeed que agências de inteligência dos EUA suspeitam ser espiã chinesa e que teria ajudado a enviar chips da Nvidia a empresas chinesas. Na quarta, o New York Times relatou um segundo relacionamento, com Kimberly Powell, vice-presidente que se reportava diretamente a ele, citando cinco ex-funcionários. O caso mistura governança corporativa e segurança nacional: a Nvidia é peça central da disputa tecnológica entre EUA e China, e Washington restringe a venda dos seus chips mais avançados a Pequim.",
+   "lados": "Em memorando aos funcionários, Huang admitiu ter sido infiel à mulher e disse assumir total responsabilidade; segundo Trump, ele disse na segunda (9) que não sabia que a mulher seria espiã. A Casa Branca diz que não interfere na decisão do conselho. Os senadores democratas Elizabeth Warren e Chris Coons pediram que se preservem documentos sobre negociações do governo com a Nvidia envolvendo a China, e parlamentares ameaçam intimar Huang. Bloomberg e Semafor citam a diretora financeira Colette Kress como favorita para um comando interino. A suspeita de espionagem vem de fontes de inteligência ouvidas pela imprensa e não foi confirmada oficialmente.",
+   "proximo": "A decisão do conselho pode sair a qualquer momento; pelo estatuto, basta maioria simples, e a empresa não tem plano de sucessão público. Em 17/11, a Nvidia divulga o balanço trimestral. Observe também se o Departamento de Comércio retoma a ofensiva contra o desvio de chips para a China, que segundo a Axios foi adiada.",
+   "fontes": [
+    {
+     "titulo": "The Next Web: Jensen Huang's fate hangs on Nvidia's board after overnight meeting",
+     "url": "https://thenextweb.com/news/nvidia-board-meeting-jensen-huang-ouster-no-decision"
+    },
+    {
+     "titulo": "US News/Reuters: Nvidia Is Preparing to Oust CEO Jensen Huang, WSJ Reports",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-11/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports"
+    },
+    {
+     "titulo": "Newsquawk: Daily US Opening News, 12/11/2026",
+     "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---12th-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia",
+    "EUA",
+    "Europa"
+   ],
+   "historia": "ucrania-negociacoes-abu-dhabi",
+   "titulo": "Abu Dhabi termina sem avanço sobre território, mas com troca de prisioneiros; Witkoff e Kushner chegam a Moscou para ver Putin",
+   "oque": "As conversas entre EUA, Rússia e Ucrânia em Abu Dhabi terminaram na quarta (11) com um acordo de princípio para uma nova troca de prisioneiros em grande escala, sem números divulgados, e sem acordo sobre o Donbas. Steve Witkoff e Jared Kushner chegaram a Moscou nesta quinta (12) para encontrar Putin e depois seguem para Dublin, onde está Zelensky.",
+   "contexto": "Foi o primeiro encontro presencial entre russos e ucranianos desde fevereiro. Segundo o Kyiv Post, Kyiv rejeitou uma proposta americana de redesenhar a fronteira no Donbas, e Zelensky já tinha dito que os EUA perguntaram se a Ucrânia trocaria a região por garantias de segurança. Os combates seguiram durante as conversas: a Rússia atacou seis grandes instalações de energia em quatro regiões ucranianas, e drones ucranianos atingiram o porto russo de Ust-Luga. Pela lente de RI, a disputa agora é sobre quem senta à mesa: os EUA querem trazer os europeus, que fizeram consultas paralelas em Abu Dhabi.",
+   "lados": "Kushner falou em 'algumas aberturas e oportunidades' e disse que Moscou parece 'receptiva' à entrada da Europa. O chefe da delegação russa, Vladimir Medinsky, rejeitou isso por ora, dizendo que os europeus podem entrar quando 'desenvolverem uma consciência', e prometeu recuperar 'cada centímetro' do território que Moscou reivindica. Zelensky disse estar cético, mas com 'esperança', e que tudo depende da disposição americana de pressionar a Rússia. O negociador ucraniano Davyd Arakhamia vê chance de solução antes do Ano Novo.",
+   "proximo": "Lavrov disse que Putin vai ouvir primeiro a própria delegação e depois os enviados americanos antes de decidir. Arakhamia espera marcar a data da próxima rodada depois das reuniões em Moscou e Dublin. Observe a troca de prisioneiros, que é o resultado mais concreto até agora.",
+   "fontes": [
+    {
+     "titulo": "Euronews: Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
+     "url": "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-"
+    },
+    {
+     "titulo": "RFE/RL: US Envoys To Meet Putin And Zelenskyy Following Abu Dhabi Talks",
+     "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html"
+    },
+    {
+     "titulo": "Kyiv Post: Witkoff, Kushner to Meet Putin in Moscow After Abu Dhabi Talks",
+     "url": "https://www.kyivpost.com/post/89817"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política fiscal",
+    "Congresso"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Senado tenta votar hoje o ajuste fiscal de até R$ 60 bilhões que o governo considera essencial para o Orçamento de 2027",
+   "oque": "O Senado retoma às 16h desta quinta (12) a votação do PLP 299/2026, o pacote de ajuste fiscal do governo Lula. A sessão de quarta foi suspensa depois que a oposição reclamou do pouco tempo para analisar o texto. Alcolumbre admitiu que a votação pode ficar para a semana que vem.",
+   "contexto": "O projeto, de Jaques Wagner (PT-BA) e relatado por Eduardo Braga (MDB-AM), reduz de 2,5% para 2% o crescimento real máximo das despesas em anos de contenção, amplia de 10% para 20% o corte de benefícios tributários, restringe o uso de créditos tributários, permite usar até 40% dos superávits de fundos vinculados (exceto saúde, educação, segurança pública e seguridade) e dá ao Congresso 120 dias para regular os supersalários. O governo estima impacto de R$ 50 bilhões a R$ 60 bilhões em 2027; a Agência Senado fala em melhora de R$ 43 bilhões a R$ 54 bilhões no resultado primário. O pacote é a primeira resposta concreta à promessa de Lula, depois da reeleição, de fazer esforço fiscal 'preservando as regras', num momento de dólar alto e juros elevados.",
+   "lados": "Braga diz que as medidas evitam 'bloqueios desordenados' e dão previsibilidade; ele também é o relator-geral do Orçamento de 2027. Opositores como Damares Alves (Republicanos-DF) e Magno Malta (PL-ES) dizem que o texto é técnico e pedem mais tempo; Tereza Cristina (PP-MS) considera o corte de gastos meritório, mas também quer prazo maior. Segundo o Metrópoles, a base tenta, com ajuda de Alcolumbre, evitar que o texto seja 'desidratado'. As cifras são estimativas que dependem de aprovação e execução.",
+   "proximo": "Se passar no Senado, o projeto segue para a Câmara, onde a base fiel do governo é estreita. O mercado reagiu bem à pauta: o dólar caiu 0,42% na quarta, a R$ 5,56. Observe quais trechos caem no plenário, sobretudo o corte de benefícios tributários.",
+   "fontes": [
+    {
+     "titulo": "Jornal de Brasília: Senado deve votar pacote de ajuste fiscal do governo Lula nesta quinta-feira",
+     "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/senado-deve-votar-pacote-de-ajuste-fiscal-do-governo-lula-nesta-quinta-feira/"
+    },
+    {
+     "titulo": "Metrópoles: Senado pode votar nesta quinta ajuste fiscal de até R$ 60 bilhões",
+     "url": "https://www.metropoles.com/brasil/senado-pode-votar-nesta-quinta-ajuste-fiscal-de-ate-r-60-bilhoes"
+    },
+    {
+     "titulo": "Esmael Morais: Senado adia votação do ajuste fiscal após impasse com oposição",
+     "url": "https://www.esmaelmorais.com.br/senado-adia-votacao-plp-299-apos-impasse-oposicao/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Oriente Médio",
+    "Energia"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Irã diz que dois superpetroleiros explodiram em Ormuz; EUA estudam encontro de Vance com Rezaei",
+   "texto": "A Guarda Revolucionária afirma que dois superpetroleiros foram inutilizados por explosões, segundo a TV estatal ao bater em minas, após usar uma 'rota não autorizada'; não há confirmação independente nem nomes dos navios. Ao mesmo tempo, o WSJ relata que o vice JD Vance avalia encontrar em Doha Mohsen Rezaei, chefe do Conselho de Segurança Nacional iraniano, que nega haver negociação.",
+   "fontes": [
+    {
+     "titulo": "MarineLink: Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says",
+     "url": "https://www.marinelink.com/news/two-oil-supertankers-explode-strait-544312"
+    },
+    {
+     "titulo": "Israel Hayom: Vance considers face-to-face meeting with Iran's national security chief",
+     "url": "https://www.israelhayom.com/2026/11/11/report-vance-considers-face-to-face-meeting-with-irans-national-security-chief/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Separação de poderes"
+   ],
+   "historia": "oversight-democratas-2027",
+   "titulo": "Casa Branca avisa democratas que investigações do Congresso podem virar 'criminalidade'",
+   "texto": "Em carta a Robert Garcia, provável presidente da Comissão de Supervisão da Câmara a partir de janeiro, o advogado da Casa Branca Will Scharf disse que ameaças a servidores ou processos 'abusivos' podem cruzar a linha da 'criminalidade flagrante'. Garcia respondeu que Trump 'parece ter algo a esconder' e que o Congresso não precisa de permissão para investigar; os democratas planejam examinar a riqueza da família Trump, o caso Epstein e o ICE.",
+   "fontes": [
+    {
+     "titulo": "NBC Los Angeles: White House lawyer warns Democrats that threats of oversight could be criminally probed",
+     "url": "https://www.nbclosangeles.com/news/politics/white-house-democrats-planned-probes-criminality/3968967/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Senado",
+    "Partido Republicano"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Thune é reeleito líder republicano no Senado apesar da revolta conservadora após a derrota",
+   "texto": "Na terça (10), os senadores republicanos reconduziram John Thune por aclamação, depois que Ron Johnson, Rick Scott, Mike Lee e outros forçaram uma reunião para cobrar 'um plano' para os 54 dias que restam antes de os democratas assumirem. Johnson disse que o partido 'não pode continuar como se nada tivesse acontecido', mas admitiu não haver alternativa a Thune.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Thune reelected as Senate GOP leader after brutal midterm losses",
+     "url": "https://www.cbsnews.com/news/john-thune-reelected-senate-republican-leader/"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça",
+    "Detenção"
+   ],
+   "historia": "trump-imigracao-pos-midterms",
+   "titulo": "Chefe do ICE em Denver admite ter mandado recapturar imigrantes logo após juízes ordenarem a soltura",
+   "texto": "Nathan Rasper disse à juíza Charlotte Sweeney que copiou uma prática de Minnesota, onde ao menos oito homens foram presos de novo antes de deixar o prédio federal; no Colorado, a lista oficial tem 14 casos desde 27/10, e a ACLU diz que é subnotificada. A juíza ainda não decidiu se aplica desacato; o ICE afirma agir dentro da lei.",
+   "fontes": [
+    {
+     "titulo": "MPR News: ICE re-arrests in Colorado followed Minnesota's lead, official says",
+     "url": "https://www.mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Detenção"
+   ],
+   "historia": "ice-armazens-detencao",
+   "titulo": "Governo avança na conversão de mais dois armazéns em centros de detenção do ICE",
+   "texto": "Segundo a NPR, o Departamento de Segurança Interna, que já comprou 11 armazéns pelo país, vai transformar mais dois em centros de detenção de imigrantes. O avanço contrasta com a fala de Trump de que a política teria sido 'dura demais'.",
+   "fontes": [
+    {
+     "titulo": "NPR (via WLRN): Trump administration pushes forward with ICE detention center plans",
+     "url": "https://www.wlrn.org/npr-breaking-news/2026-11-12/trump-administration-pushes-forward-with-ice-detention-center-plans"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "Inflação",
+    "Brasil",
+    "Juros"
+   ],
+   "historia": "selic-2026",
+   "titulo": "IPCA desacelera para 0,14% em outubro, abaixo do esperado, mas ainda acima do teto da meta em 12 meses",
+   "texto": "A inflação oficial veio abaixo da projeção de 0,25%, puxada pela queda de energia, gasolina e passagens aéreas; os alimentos subiram. Em 12 meses, o índice está em 4,63%, acima do teto de 4,5% da meta, o que sustenta o discurso do Copom de juros altos 'por mais tempo'.",
+   "fontes": [
+    {
+     "titulo": "SBT News: Inflação desacelera para 0,14% em outubro, diz IBGE",
+     "url": "https://sbtnews.sbt.com.br/noticia/economia/inflacao-desacelera-para-0-14-em-outubro-diz-ibge"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "Juros",
+    "EUA",
+    "Fed"
+   ],
+   "historia": "juros-fed-dezembro",
+   "titulo": "Waller e Logan abrem a porta para alta de meio ponto dos juros do Fed em dezembro",
+   "texto": "O diretor Christopher Waller disse que subir só 0,25 ponto poria a credibilidade do Fed 'em risco' se o núcleo da inflação seguir perto de 0,3% ao mês; Lorie Logan defendeu ao menos mais duas altas. Hoje falam Hammack, Goolsbee, Daly, Williams e Barr, e o título de 10 anos segue perto de 5%.",
+   "fontes": [
+    {
+     "titulo": "Kitco: Fed's Waller and Logan signal readiness to hike higher and faster",
+     "url": "https://www.kitco.com/news/article/2026-11-10/feds-waller-and-logan-signal-readiness-hike-higher-and-faster-50-bps-table"
+    },
+    {
+     "titulo": "Newsquawk: Daily US Opening News, 12/11/2026",
+     "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---12th-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Câmbio",
+    "Brasil"
+   ],
+   "historia": "dolar-real-2026",
+   "titulo": "Dólar cai 0,42%, a R$ 5,56, com o mercado de olho no pacote fiscal",
+   "texto": "Depois de fechar a R$ 5,59 na terça, o maior valor em 15 meses, o dólar recuou na quarta com a expectativa da votação do ajuste fiscal no Senado, e o Ibovespa subiu acima dos 172 mil pontos.",
+   "fontes": [
+    {
+     "titulo": "Imirante: Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
+     "url": "https://imirante.com/noticias/brasil/2026/11/11/dolar-cai-042-fecha-r-556-foco-pacote-fiscal"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Futebol feminino"
+   ],
+   "historia": "copa-do-brasil-feminina-2026",
+   "titulo": "Internacional vira sobre o Flamengo no Rio e abre vantagem na final da Copa do Brasil Feminina",
+   "texto": "O Inter venceu por 3 a 1 no jogo de ida, no estádio Luso-Brasileiro, com gols de Valéria Cantuário, Débora e Sole Jaimes no segundo tempo, depois de Letícia Oliveira abrir o placar para o Flamengo. A decisão fica para o jogo de volta, ainda sem data divulgada na reportagem.",
+   "fontes": [
+    {
+     "titulo": "Jornal do Comércio: Inter vira sobre Flamengo na final da Copa do Brasil Feminina",
+     "url": "https://www.jornaldocomercio.com/esportes/2026/11/1270240-inter-vira-sobre-flamengo-na-final-da-copa-do-brasil-feminina.html"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Cultura",
+   "temas": [
+    "Séries",
+    "Streaming"
+   ],
+   "historia": "aneis-de-poder-t3",
+   "titulo": "Terceira temporada de 'Os Anéis de Poder' estreia com quatro episódios e salto de cinco anos na história",
+   "texto": "A temporada da Prime Video começa cinco anos após a queda de Eregion, com Sauron dominando boa parte da Terra-média e forjando o Um Anel; os episódios 5 e 6 saem em 18/11 e os dois últimos em 25/11. Entre os novos nomes estão Jamie Campbell Bower e Eddie Marsan, e Simon Pegg dá voz ao Balrog. Hoje à noite, em Las Vegas, acontece o Grammy Latino.",
+   "fontes": [
+    {
+     "titulo": "Amazon: The Rings of Power Season 3",
+     "url": "https://www.aboutamazon.com/md/news/entertainment/lord-of-the-rings-rings-of-power-season-3-prime-video"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Obesidade",
+    "Pesquisa"
+   ],
+   "historia": "obesidade-nova-definicao",
+   "titulo": "Estudo na Nature indica que nova definição de obesidade prevê riscos à saúde melhor que o IMC",
+   "texto": "Publicado nesta quarta (11), o trabalho testou em grandes coortes de vários países a proposta da comissão da Lancet de 2025, que separa obesidade 'clínica' (com dano a órgãos ou limitação funcional) de 'pré-clínica' e usa medidas de gordura abdominal, não só o IMC. Segundo a Nature, o método supera o antigo; estudos anteriores mostram que ele pode reclassificar muita gente, por isso a adoção em larga escala ainda é debatida.",
+   "fontes": [
+    {
+     "titulo": "Nature: Validation of clinical and preclinical obesity across global cohorts",
+     "url": "https://www.nature.com/articles/s41586-026-11237-5"
+    },
+    {
+     "titulo": "Nature: Move over BMI: new obesity definition is better for predicting your health",
+     "url": "https://www.nature.com/articles/d41586-026-03636-5"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "COP31",
+    "Financiamento climático"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Guterres propõe na COP31 um 'pacto de justiça climática' e taxar lucros extraordinários do petróleo",
+   "texto": "O secretário-geral pediu quatro prioridades: transição dos fósseis com proteção a trabalhadores, adaptação e alertas antecipados, financiamento acessível e cooperação contra barreiras comerciais. Ele lembrou que as nove maiores petroleiras lucraram US$ 95 bilhões em um trimestre, enquanto o fundo de perdas e danos recebeu cerca de US$ 600 milhões; a conferência vai até 20/11.",
+   "fontes": [
+    {
+     "titulo": "UN News: 'Make or bake time': Guterres urges climate justice pact as leaders gather at COP31",
+     "url": "https://news.un.org/en/story/2026/11/1168783"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Segurança",
+    "Habitação"
+   ],
+   "historia": "desabamento-flatbush",
+   "titulo": "Desabamento de prédio em Flatbush, no Brooklyn, mata ao menos cinco pessoas",
+   "texto": "O prédio misto de três andares, com 96 anos, ruiu na tarde de quarta (11) para dentro da escavação de uma obra vizinha, perto da Bedford Avenue; há pelo menos 17 feridos, quatro em estado crítico, e as buscas continuam. O comissário de Edificações, Ahmed Tigani, apontou a escavação ao lado; o registro da cidade mostra uma multa em abril à obra e nenhuma infração no prédio que caiu.",
+   "fontes": [
+    {
+     "titulo": "AP (via ClickOnDetroit): Death toll rises to 5 in Brooklyn building collapse",
+     "url": "https://www.clickondetroit.com/news/national/2026/11/12/death-toll-rises-to-5-in-brooklyn-building-collapse-nyc-fire-department-says/"
+    },
+    {
+     "titulo": "ABC7: Brooklyn building collapse investigation focuses on structure's history, nearby construction",
+     "url": "https://abc7.com/story/brooklyn-building-collapse-investigation-focuses-structuress-history-nearby-construction/20035533/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "De onde vem o poder do Congresso americano de investigar o presidente",
+  "texto": "A Constituição dos EUA não fala em 'investigar', mas a Suprema Corte entendeu em 1927 (McGrain v. Daugherty, do escândalo Teapot Dome) que o poder de legislar inclui o de investigar e de obrigar testemunhas a depor. Foi com base nisso que o Senado conduziu as audiências de Watergate, em 1973, e que comissões emitem intimações (subpoenas). O limite é que a investigação tenha um propósito legislativo legítimo, como decidiu a Corte em Trump v. Mazars (2020). Por isso a carta da Casa Branca aos democratas é incomum: ela sugere responsabilidade criminal pela forma de fiscalizar, um terreno que tende a ir parar nos tribunais.",
+  "fontes": [
+   {
+    "titulo": "NBC Los Angeles: White House lawyer warns Democrats that threats of oversight could be criminally probed",
+    "url": "https://www.nbclosangeles.com/news/politics/white-house-democrats-planned-probes-criminality/3968967/"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido. Pelas avaliações, dei peso a IA, EUA, Imigração e Brasil, e deixei Gaza e Israel de fora; a Ucrânia virou destaque por ser o fato geopolítico do dia, mas em formato de negociação, não de sanções. A eleição no Brasil não ganhou atualização: não houve decisão nova no TSE sobre as ações contra a chapa Lula-Alckmin. O Grammy Latino é hoje à noite e o resultado sai na próxima edição. Avisos: a suspeita de espionagem no caso Nvidia vem de fontes de inteligência ouvidas pela imprensa; as explosões em Ormuz são versão da Guarda Revolucionária, sem confirmação independente; o número de mortes do ebola é do governo do Congo, ainda não validado pela OMS; o IPCA foi lido no SBT News, e não consegui abrir a página do IBGE nem as matérias completas da Nature sobre obesidade. Também não consegui abrir CNN, NPR, Washington Post e Semafor; usei AP, Euronews, RFE/RL e outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-12T12:06:40+00:00"
+}
