@@ -1,0 +1,371 @@
+{
+ "data": "2026-11-13",
+ "manchete": "Jensen Huang deixa a Nvidia após 33 anos, Putin aceita um papel para a Europa nas negociações sobre a Ucrânia, e o ICE fecha o ano fiscal com recorde de deportações",
+ "abertura": "A maior empresa de chips de IA do mundo perdeu o fundador em meio a suspeitas de espionagem e de conflito de interesses, a seis dias da estreia da Anthropic na bolsa. Na diplomacia, os enviados de Trump saíram de Moscou com uma troca de prisioneiros e a promessa de incluir os europeus; no Golfo, Trump diz que já não precisa de acordo com o Irã.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Empresas",
+    "Segurança nacional",
+    "China"
+   ],
+   "historia": "nvidia-huang-espionagem",
+   "titulo": "Jensen Huang renuncia ao comando da Nvidia; a diretora financeira Colette Kress assume como interina",
+   "oque": "Na quinta (12), o conselho da Nvidia anunciou que Jensen Huang deixou, com efeito imediato, os cargos de presidente, CEO e membro do conselho. Colette Kress, diretora financeira desde 2013, acumula a função de CEO interina, e Harvey Jones, no conselho desde 1993, vira o primeiro presidente independente do conselho. A ação chegou a cair mais de 14% no dia, antes de recuperar parte da perda.",
+   "contexto": "Huang fundou a Nvidia em 1993 e a levou ao centro da economia da IA. No domingo, ele admitiu ter sido infiel à esposa; depois, a imprensa ligou uma das relações a uma ex-executiva de uma empresa de Singapura que, segundo as reportagens, teria trabalhado para a inteligência chinesa. Na quarta, o New York Times relatou um caso com uma vice-presidente subordinada direta dele, o que levanta a questão de conflito de interesses. O caso pesa mais porque a Nvidia está no meio da disputa tecnológica entre EUA e China, com restrições à venda de chips avançados a Pequim.",
+   "lados": "O comunicado oficial à SEC não informa o motivo da saída e só agradece as 'contribuições profundas' de Huang. Antes, o conselho tinha aberto uma investigação independente e dito não ter razão para crer que a segurança nacional foi comprometida. Não há prova pública de que Huang tenha ajudado Pequim ou de que segredos da empresa vazaram; parlamentares americanos querem examinar as implicações de segurança.",
+   "proximo": "O conselho procura um CEO permanente, com nomes internos e externos em análise. O teste imediato é o IPO da Anthropic: o preço sai em 18/11 e as ações estreiam na Nasdaq em 19/11, e a Nvidia se comprometeu a comprar cerca de US$ 10 bilhões em ações. Vale observar se o Congresso abre investigação formal.",
+   "fontes": [
+    {
+     "titulo": "SEC: comunicado 8-K da Nvidia sobre a transição de CEO",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "titulo": "Al Jazeera: Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+     "titulo": "CNN: CFO Colette Kress to serve as interim leader after Huang resignation",
+     "url": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia",
+    "EUA",
+    "Europa"
+   ],
+   "historia": "ucrania-negociacoes-abu-dhabi",
+   "titulo": "Depois de ver Putin, Witkoff e Kushner anunciam a maior troca de prisioneiros da guerra e dizem que a Europa terá lugar na mesa",
+   "oque": "Os enviados de Trump se reuniram com Putin no Kremlin na quinta (12), por cerca de duas horas, e voaram para Dublin, onde encontraram Zelensky. Na entrevista conjunta, disseram que EUA e Rússia fecharam uma troca de prisioneiros de guerra envolvendo 'milhares' de pessoas e que Putin aceitou 'tentar' um papel europeu nas negociações. 'Não podemos concluir este acordo sem os europeus à mesa', disse Kushner.",
+   "contexto": "A reunião fecha a rodada aberta em Abu Dhabi (10 e 11/11), a primeira trilateral desde fevereiro, que terminou sem avanço sobre território. Até aqui, Moscou resistia à presença europeia, e a Europa temia um acordo feito por cima dela. Pela lente de Relações Internacionais, o ponto central é que a Rússia volta a enquadrar a guerra como questão da arquitetura de segurança europeia: o Kremlin citou as exigências de 2021 sobre limitar a expansão da Otan.",
+   "lados": "Zelensky disse que a trilateral foi 'desbloqueada' e quer a Europa como membro pleno da equipe negociadora. O assessor de Putin, Yuri Ushakov, chamou a conversa de 'substantiva e construtiva', mas disse que os parâmetros da troca ainda estão em ajuste e rejeitou uma tropa estrangeira da 'coalizão dos dispostos' no pós-guerra. O tamanho exato da troca não foi divulgado, e as versões americana e russa diferem em ênfase.",
+   "proximo": "Não há data para a próxima reunião; as partes falam em marcá-la 'o quanto antes'. Ushakov disse que Putin e Trump devem tratar da guerra num encontro bilateral na cúpula da Apec, na China. Observe a troca de prisioneiros, que seria o primeiro resultado concreto, e quais países europeus serão chamados.",
+   "fontes": [
+    {
+     "titulo": "Interfax-Ukraine: Putin agrees to European role in talks, mass POW exchange",
+     "url": "https://en.interfax.com.ua/news/general/1235876.html"
+    },
+    {
+     "titulo": "UA.News: After talks with Putin, Witkoff and Kushner met with Zelenskyy",
+     "url": "https://ua.news/en/world/pislia-peregovoriv-iz-putinim-vitkoff-i-kushner-zustrilisia-iz-zelenskim"
+    },
+    {
+     "titulo": "ABC News: Witkoff and Kushner arrive in Moscow to meet with Putin",
+     "url": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Deportações",
+    "Dados",
+    "Política e história dos EUA"
+   ],
+   "historia": "trump-imigracao-pos-midterms",
+   "titulo": "ICE fecha o ano fiscal de 2026 com 483 mil deportações e 491 mil prisões, os maiores números da sua história",
+   "oque": "O Departamento de Segurança Interna (DHS) divulgou na quinta (12) que o ICE deportou 483.200 pessoas no ano fiscal de 2026 (outubro de 2025 a setembro de 2026) e fez mais de 491 mil prisões, quase 475 mil delas administrativas, por infração civil. O recorde anterior era de 442.640 deportações, em 2025; o número supera em 18% o pico da era Obama (2012) e em 78% o de 2024.",
+   "contexto": "O ritmo acelerou no fim do ano, com 50.925 prisões em agosto e mais de 48 mil em setembro, financiado pelos cerca de US$ 170 bilhões da lei fiscal de 2025 para fiscalização e fronteira. O perfil mudou: o Migration Policy Institute estima que só cerca de 20% dos deportados entre janeiro de 2025 e julho de 2026 tinham condenação criminal, e uma análise da CBS indica que em julho mais da metade dos presos pelo ICE não tinha condenação nem acusação pendente. Os dados saem uma semana depois de Trump dizer que a política foi 'dura demais' e de promover Stephen Miller, arquiteto da linha dura, a chefe de gabinete.",
+   "lados": "O secretário Markwayne Mullin celebrou o 'maior número de deportações e prisões da história do ICE'. Steven Camarota, do Center for Immigration Studies, vê queda da população sem documentos, mas diz que os dados não separam bem prisões no interior e devoluções na fronteira. Bennie Thompson, futuro presidente da comissão de Segurança Interna da Câmara, promete investigar o DHS; o democrata centrista Henry Cuellar defende focar em criminosos. Nas pesquisas de boca de urna, 58% dos eleitores disseram que a fiscalização foi longe demais.",
+   "proximo": "Os democratas assumem as duas casas do Congresso em janeiro, mas o dinheiro já aprovado e o veto presidencial limitam o que podem mudar. Segundo a CBS, agentes foram orientados a buscar cerca de 19 mil prisões por semana. Observe a negociação do orçamento do DHS e as audiências do novo Congresso.",
+   "fontes": [
+    {
+     "titulo": "CBS News: ICE deportations and arrests hit record high",
+     "url": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
+    },
+    {
+     "titulo": "Al Jazeera: US reports record number of deportations and arrests in 2026",
+     "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026"
+    },
+    {
+     "titulo": "ICE: comunicado sobre os recordes do ano fiscal de 2026",
+     "url": "https://www.ice.gov/news/releases/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Oriente Médio",
+    "EUA"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Trump diz que os EUA 'não precisam mais' de acordo com o Irã e tira Vance das conversas",
+   "texto": "Na quinta (12), Trump escreveu que 'esses dias já passaram', que os EUA têm o dinheiro iraniano e 'o seu estreito', e mandou o vice JD Vance se dedicar a supostos crimes em estados democratas. A mudança veio após o Wall Street Journal relatar que Vance estudava conversar pessoalmente com um dirigente iraniano; o bloqueio naval segue, e o petróleo subiu com a declaração.",
+   "fontes": [
+    {
+     "titulo": "The National: Trump says US no longer needs Iran deal",
+     "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+    },
+    {
+     "titulo": "ABC (Austrália): Trump says US does not 'need' Iran deal",
+     "url": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Contas públicas",
+    "Congresso"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Senado aprova o texto-base do ajuste fiscal por 45 a 31; destaques ficam para a semana que vem",
+   "texto": "O projeto reduz de 2,5% para 2% o teto de crescimento real dos gastos a partir de 2027, corta cerca de 20% dos benefícios fiscais e permite contingenciar mirando o centro da meta; o governo estima ganho de R$ 45 bilhões a R$ 56 bilhões em 2027. A oposição reclamou do relatório de última hora, e o texto ainda vai à Câmara.",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: Senado aprova texto-base do ajuste fiscal",
+     "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-plp-do-ajuste-fiscal/"
+    },
+    {
+     "titulo": "Agência Brasil: Senado deve votar ajuste fiscal com previsão de economia de R$ 60 bi",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-deve-votar-ajuste-fiscal-com-previsao-de-economia-de-r-60-bi"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Brasil",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Brasil",
+    "Ásia",
+    "Comércio"
+   ],
+   "historia": "lula-asean-manila",
+   "titulo": "Lula chega a Manila para a cúpula da Asean, de olho em status de parceiro pleno e em acordo com o Canadá",
+   "texto": "Lula encontra Ferdinand Marcos Jr. no sábado (14) e, no domingo (15), discursa na abertura da cúpula e se reúne com Mark Carney e Lawrence Wong. O Brasil quer subir de parceiro 'setorial' a parceiro de diálogo pleno da Asean e retomar a negociação Mercosul-Canadá, parada desde 2021; um encontro com Trump foi cogitado, mas não está confirmado.",
+   "fontes": [
+    {
+     "titulo": "TV Sim Brasil: Lula negocia acordo com Canadá e status na Asean, em Manila",
+     "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/lula-negocia-acordo-canada-status-brasil-asean"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "No Alasca, o democrata Kreiss-Tomkins passa de 50% para governador, e Mary Peltola amplia a vantagem no Senado",
+   "texto": "Com cerca de 12% dos votos por contar, Jonathan Kreiss-Tomkins tem pouco mais de 50%, o que dispensaria a apuração ranqueada; seria o primeiro governador democrata do estado desde 2002. Na disputa pelo Senado, Peltola tem 49% contra 46,8% de Dan Sullivan, cerca de 5.800 votos; o governo Trump recorre de uma ação sobre a confusão com outro candidato chamado Sullivan, e os últimos votos do exterior são contados até 18/11.",
+   "fontes": [
+    {
+     "titulo": "Alaska Public Media: JKT tops 50% in Alaska governor's race as Peltola extends Senate lead",
+     "url": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercado"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Nvidia e Google se comprometem a comprar US$ 10 bilhões cada em ações da Anthropic no IPO",
+   "texto": "Segundo o prospecto atualizado em 10/11, sete empresas, entre elas AMD, Broadcom, Micron, Microsoft e TSMC, comprarão US$ 26 bilhões em ações sem direito a voto, ao preço do IPO; a oferta é de 825 milhões de ações a US$ 70-78, com preço em 18/11 e estreia na Nasdaq (ANT) em 19/11. O documento mostra receita de US$ 33,2 bilhões e prejuízo de US$ 104 bilhões nos nove primeiros meses de 2026; analistas dizem que a saída de Huang adiciona incerteza à operação.",
+   "fontes": [
+    {
+     "titulo": "Dataconomy: Google and Nvidia commit $10 billion each to Anthropic IPO",
+     "url": "https://dataconomy.com/2026/11/12/google-and-nvidia-commit-10-billion-each-to-anthropic-ipo/"
+    },
+    {
+     "titulo": "Yahoo Finance: Anthropic's blockbuster IPO just got harder after Huang's exit",
+     "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-blockbuster-ipo-just-got-175115107.html"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Câmbio",
+    "Brasil"
+   ],
+   "historia": "dolar-real-2026",
+   "titulo": "Dólar sobe 1,6% e fecha a R$ 5,65, o maior valor em 17 meses",
+   "texto": "Pesaram a dúvida sobre o que o Congresso vai aprovar do pacote fiscal, a alta global do dólar com a chance de novo aumento de juros nos EUA e o balanço do Banco do Brasil, cujo lucro ajustado caiu 66,5% no trimestre; a ação do banco despencou 8,3%. O Ibovespa recuou 0,43%, a 171 mil pontos.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Dólar dispara e fecha no maior valor desde junho de 2025",
+     "url": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "juros-fed-dezembro",
+   "titulo": "Mercado já vê 89% de chance de o Fed subir os juros em dezembro; vendas de imóveis usados caem 5,5%",
+   "texto": "Pelo CME FedWatch, a alta de 0,25 ponto em dezembro virou o cenário quase certo, depois da inflação acima do esperado. As vendas de imóveis usados caíram para ritmo anual de 3,75 milhões em outubro, e os pedidos de seguro-desemprego subiram a 200 mil; a inflação ao produtor (PPI) sai nesta sexta.",
+   "fontes": [
+    {
+     "titulo": "Zacks/Yahoo Finance: Stock Market News for Nov 13, 2026",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-13-081500049.html"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Série B"
+   ],
+   "historia": "serie-b-2026",
+   "titulo": "Série B decide título e acesso neste sábado, com Novorizontino e Juventude na briga pela taça",
+   "texto": "Sete jogos simultâneos às 15h30 de sábado (14) fecham o campeonato: Juventude e Vila Nova disputam as vagas diretas, e CRB, Goiás e Atlético-GO brigam pelo mata-mata de acesso. No mesmo dia, a seleção de Ancelotti enfrenta o Japão em Singapura, e a Série A volta na quarta (18), com o Flamengo três pontos à frente do Palmeiras.",
+   "fontes": [
+    {
+     "titulo": "Hoje Cidades: Seleção se prepara para o Japão, Flamengo lidera e Série B chega à decisão",
+     "url": "https://hojecidades.com.br/futebol-brasileiro-12-novembro-2026-selecao-brasileirao-serie-b/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Cultura",
+   "temas": [
+    "Música",
+    "Prêmios"
+   ],
+   "historia": "grammy-latino-2026",
+   "titulo": "Rosalía vence Álbum do Ano no Grammy Latino, e Anitta ganha o primeiro troféu da carreira",
+   "texto": "'Lux' deu a Rosalía o prêmio principal, e Anitta venceu em Pop Contemporâneo em Língua Portuguesa com 'Equilibrivm'. Entre os brasileiros, também levaram prêmios a trilha de 'O Agente Secreto', Criolo com Amaro Freitas e Dino D'Santiago, Emicida, Leci Brandão e Johnny Hooker com Ney Matogrosso.",
+   "fontes": [
+    {
+     "titulo": "Terra: Grammy Latino 2026: Rosalía vence Álbum do Ano e Anitta ganha pela 1ª vez",
+     "url": "https://www.terra.com.br/diversao/musica/grammy-latino-2026-rosalia-vence-album-do-ano-e-anitta-ganha-pela-1-vez-veja-lista-completa,2eabdfa8c60488ce05290fc1c7b0e9d0rgc4h1we.html"
+    },
+    {
+     "titulo": "CNN Brasil: Grammy Latino 2026: veja os vencedores",
+     "url": "https://www.cnnbrasil.com.br/pop/musica/grammy-latino-2026-veja-os-vencedores-das-principais-categorias/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas",
+    "EUA"
+   ],
+   "historia": "sarampo-eua-eliminacao",
+   "titulo": "Decisão da Opas sobre o sarampo nos EUA e no México fica para a semana que vem",
+   "texto": "A comissão da Opas analisou dados genéticos a portas fechadas, e o anúncio deve sair na próxima semana; especialistas esperam que os dois países percam o status de eliminação, como o Canadá em 2025. Os EUA têm mais de 5.100 casos e oito mortes em 2026, o maior número em mais de 30 anos; o México, mais de 20.500 casos e 50 mortes.",
+   "fontes": [
+    {
+     "titulo": "Boston Globe/AP: The US and Mexico are on the verge of forfeiting a major health victory",
+     "url": "https://www.bostonglobe.com/2026/11/13/nation/us-mexico-measles-elimination-status/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "Diplomacia",
+    "COP31"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 divulga o 'cardápio' da decisão final, e a China desiste de sediar a COP33",
+   "texto": "As presidências turca e australiana listaram ideias para o texto final, como limitar a ultrapassagem de 1,5°C, a meta de 35% de eletricidade no consumo final de energia até 2035 e o metano; os pontos mais disputados são citar o roteiro de saída dos fósseis da COP30, que os países árabes rejeitam, e a eliminação de 'medidas comerciais unilaterais', alvo da taxa de carbono da UE. Segundo o Guardian, a China não vai sediar a COP33, em 2028; o primeiro rascunho deve sair depois de sábado.",
+   "fontes": [
+    {
+     "titulo": "Climate Home News: COP31 Bulletin Day 5",
+     "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Polícia",
+    "Mamdani"
+   ],
+   "historia": "mamdani-nypd-srg",
+   "titulo": "Mamdani deve anunciar o fim do Grupo de Resposta Estratégica do NYPD, que cuida de protestos",
+   "texto": "A prefeitura confirmou que vai extinguir o SRG e separar a resposta a protestos do contraterrorismo; segundo o Politico, uma unidade civil focada em desescalar pode assumir os protestos, com policiais por perto para prisões, e o anúncio pode sair nesta sexta. A cúpula do NYPD defende o grupo, e a comissária Jessica Tisch mantém amplo controle sobre as operações, regidas por um acordo judicial de 2020.",
+   "fontes": [
+    {
+     "titulo": "Politico via Yahoo News: Mamdani planning announcement to disband controversial NYPD unit",
+     "url": "https://www.yahoo.com/news/politics/articles/mamdani-planning-announcement-disband-controversial-162054995.html"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Moradia",
+    "Construção"
+   ],
+   "historia": "desabamento-flatbush",
+   "titulo": "Desabamento em Flatbush deixa oito mortos, entre eles duas crianças, e a cidade inspeciona 100 obras ligadas ao caso",
+   "texto": "O FDNY encerrou as buscas na quinta (12): são oito mortos e 18 feridos no prédio da Flatbush Avenue, 1321, que caiu sobre uma obra vizinha na quarta. A causa está sob investigação, e o Departamento de Edificações vistoria cerca de 100 canteiros ligados a cinco empresas.",
+   "fontes": [
+    {
+     "titulo": "Time: Brooklyn apartment building collapses, killing 8",
+     "url": "https://time.com/article/2026/11/12/brooklyn-new-york-apartment-building-collapse-death-toll-search-rescue-operations/"
+    },
+    {
+     "titulo": "ABC7 NY: Brooklyn building collapse: 8 dead, 17 hurt",
+     "url": "https://abc7ny.com/post/flatbush-partial-building-collapse-brooklyn-reported-people-trapped/20033903/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "O que é ser 'parceiro de diálogo' da Asean e por que o Brasil quer subir de nível",
+  "texto": "A Asean reúne 11 países do Sudeste Asiático e se relaciona com potências de fora em camadas. No topo ficam os parceiros de diálogo plenos, um grupo de cerca de uma dezena que inclui EUA, China, União Europeia, Japão, Índia e Canadá: eles participam das cúpulas anuais com o bloco e de fóruns de segurança como a Cúpula do Leste Asiático. Abaixo vem o parceiro setorial, que coopera só em áreas específicas; o Brasil tem esse status desde agosto de 2022, com foco em agricultura, energia renovável, clima e conectividade digital. Subir de nível daria ao Brasil acesso político regular a uma região de quase 700 milhões de pessoas, no centro da disputa entre EUA e China, num momento em que o país busca novos mercados diante das tarifas americanas.",
+  "fontes": [
+   {
+    "titulo": "Asean: ASEAN, Brazil launch sectoral dialogue partnership",
+    "url": "https://asean.org/asean-brazil-launch-sectoral-dialogue-partnership"
+   },
+   {
+    "titulo": "TV Sim Brasil: Lula negocia acordo com Canadá e status na Asean",
+    "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/13/lula-negocia-acordo-canada-status-brasil-asean"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota ou destaque; Esportes ficou só com a prévia da rodada final da Série B, porque não houve jogo decisivo nas últimas 24 horas. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; hoje a Anthropic aparece no destaque da Nvidia e na nota sobre o IPO. Pelas avaliações, dei peso a IA, geopolítica, EUA, Imigração (com dados, como você aprovou) e Brasil, e deixei Israel e Gaza de fora. As histórias seguidas não ganharam atualização: na eleição do Brasil não houve decisão nova no TSE, e no ebola a OMS repetiu em 11/11 os números já publicados (quase 11 mil casos e mais de 5.300 mortes); a novidade é que o Quênia deu alta ao último paciente e começou a contagem de 42 dias para ser declarado livre da doença. Avisos: a suspeita de espionagem no caso Huang vem de fontes ouvidas pela imprensa, sem prova pública, e a Nvidia não deu motivo para a saída; o tamanho da troca de prisioneiros não foi divulgado, e as versões dos EUA e da Rússia diferem; a disputa no Alasca ainda não foi projetada pela AP; o plano do NYPD vem de fontes anônimas do Politico, com confirmação parcial da prefeitura. Não consegui abrir Bloomberg, Washington Post, CNN (ao vivo), NPR e as páginas do DHS; usei Interfax, Al Jazeera, CBS e outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-13T12:05:16+00:00"
+}
