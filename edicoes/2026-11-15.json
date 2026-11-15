@@ -1,0 +1,440 @@
+{
+ "data": "2026-11-15",
+ "manchete": "Trump, Xi e Putin marcam em Shenzhen a primeira cúpula a três, os EUA perdem o status de país livre do sarampo, e um roteador defeituoso explica a parada nacional dos voos",
+ "abertura": "O domingo começa com a diplomacia de grandes potências em primeiro plano: o Kremlin confirmou para quinta (19) um encontro inédito entre os líderes de EUA, China e Rússia, enquanto Lula e Trump passam pela cúpula da Asean em Manila. Nos EUA, a semana fecha com dois sinais de desgaste do Estado: o sarampo volta a ser endêmico após 26 anos, e a maior paralisação aérea desde o 11 de Setembro ganha uma explicação técnica.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "EUA",
+    "China",
+    "Rússia",
+    "Controle de armas"
+   ],
+   "historia": "cupula-trilateral-shenzhen",
+   "titulo": "Kremlin confirma a primeira cúpula a três entre Trump, Xi e Putin, na quinta (19), em Shenzhen; EUA e Rússia já divergem sobre a pauta",
+   "oque": "O porta-voz do Kremlin, Dmitri Peskov, disse à agência Tass no sábado (14) que 'chegou-se a um acordo' para um encontro trilateral em 19 de novembro, à margem da cúpula da APEC (18 e 19) em Shenzhen. A Casa Branca também confirmou; a China, anfitriã, ainda não confirmou a data em público e diz apenas que mantém contato com as partes. Antes, Trump vai a Manila para a cúpula EUA-Asean, na terça (17).",
+   "contexto": "Os três líderes só se encontraram aos pares neste ano; segundo o Wall Street Journal, Putin propôs o formato a três num telefonema em 9 de outubro, e esta seria sua primeira APEC presencial desde 2017. O pano de fundo é o vazio no controle de armas: o tratado New START expirou em 5 de fevereiro, sem limites aos arsenais estratégicos de EUA e Rússia; Trump recusou a oferta russa de manter os tetos por um ano e quer um tratado novo que inclua a China, que se recusa a negociar. Pesam ainda a guerra com o Irã, iniciada em 28 de fevereiro, e a perda das duas casas do Congresso por Trump nas eleições de 3 de novembro.",
+   "lados": "Os EUA dizem que a pauta é armas nucleares, controle de armas e Irã, que a Ucrânia está fora e que não haverá reunião bilateral com Putin; um funcionário disse não esperar 'nenhum tipo de acordo'. O Kremlin afirma que Putin e Trump seguirão discutindo um acordo amplo sobre a Ucrânia e rejeitou comparações com a Conferência de Yalta (1945). O chanceler ucraniano, Andrii Sybiha, disse que o encontro fará 'o oposto' de ajudar a acabar com a guerra, e Zelensky teme acertos sem Kiev. A China não divulgou pauta; segundo o presidente alemão, Frank-Walter Steinmeier, Xi descreveu o conflito como uma guerra europeia que os europeus devem ajudar a negociar. Entre analistas, Danny Russel avalia que Putin é quem mais ganha, e Craig Singleton vê risco de a reunião virar só uma foto.",
+   "proximo": "Três sinais a observar: se Pequim confirma data e formato; se sai uma declaração conjunta ou comunicados separados; e como Washington e Moscou descrevem depois qualquer conversa sobre a Ucrânia. O analista Victor Cha espera uma parada curta, com a conversa substantiva entre Trump e Xi ficando para o G20 de Miami, em 14 e 15 de dezembro.",
+   "fontes": [
+    {
+     "titulo": "Anadolu: Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+     "titulo": "HNGN: Trump-Xi-Putin Summit Set for Nov. 19: Iran In, Ukraine Out",
+     "url": "https://www.hngn.com/articles/273717/20261113/china-confirms-talks-first-xi-putin-trump-summit-apec.htm"
+    },
+    {
+     "titulo": "TASS: Putin, Xi Jinping, Trump trilateral summit to be held in Shenzhen on November 19",
+     "url": "https://tass.com/politics/2218203"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas",
+    "EUA",
+    "Dados"
+   ],
+   "historia": "sarampo-eua-eliminacao",
+   "titulo": "EUA perdem o status de país livre do sarampo após 26 anos; 2026 já tem mais de 5.400 casos, o dobro de 2025",
+   "oque": "A comissão da Organização Pan-Americana da Saúde (Opas) que verifica a eliminação do sarampo nas Américas se reuniu de 10 a 13 de novembro e, segundo o Wall Street Journal (citado pela Reuters), concluiu que o vírus circula sem interrupção nos EUA há mais de 12 meses, critério para perder o status. No sábado (14), a NPR informou que autoridades globais de saúde confirmaram a perda; a Opas não comentou de imediato e ainda publicará o relatório final.",
+   "contexto": "Os EUA tinham o status desde 2000. A cadeia de transmissão analisada começou em 20 de janeiro de 2025; o CDC já confirmou mais de 5.400 casos em 2026, mais que o dobro dos 2.289 de 2025, com Pensilvânia (1.542) e Wisconsin (651) à frente. A cobertura da vacina tríplice viral entre crianças do jardim de infância caiu de 95,2% (2019-2020) para 92,4% (2025-2026), abaixo da meta de 95% da Opas. O Canadá perdeu o status em 2025, e o resultado da revisão do México, que também passou pela comissão, não foi divulgado.",
+   "lados": "Há divergência sobre as mortes: os estados contam 10 (sete na Pensilvânia, duas em Wisconsin e uma em Nova York), mas o site do CDC lista seis. O secretário de Saúde, Robert F. Kennedy Jr., pediu à diretora do CDC, Erica Schwartz, que não incluísse no total oficial as mortes informadas pelos estados, alegando falta de evidência de que foram causadas pelo sarampo; o CDC trabalha com o conselho de epidemiologistas estaduais numa definição padronizada.",
+   "proximo": "Para recuperar o status, o país precisa interromper a transmissão e passar ao menos 12 meses sem circulação endêmica. A observar: o relatório final da Opas, a decisão sobre o México e a evolução dos casos no inverno, quando doenças respiratórias se espalham mais.",
+   "fontes": [
+    {
+     "titulo": "Contagion Live: Reports Say US Loses Measles Elimination Status After 26 Years",
+     "url": "https://www.contagionlive.com/view/reports-say-us-loses-measles-elimination-status-after-26-years"
+    },
+    {
+     "titulo": "NPR: US has lost measles elimination status, global health authorities say",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho"
+    },
+    {
+     "titulo": "Spokesman-Review (Reuters): U.S. loses measles-free status, WSJ reports",
+     "url": "https://www.spokesman.com/stories/2026/nov/14/us-loses-measles-free-status-after-continued-sprea/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Infraestrutura",
+    "Aviação",
+    "Governo federal"
+   ],
+   "historia": "faa-ground-stop",
+   "titulo": "Roteador defeituoso instalado por uma terceirizada causou a parada nacional dos voos nos EUA; Duffy agora pede US$ 50 bilhões",
+   "oque": "O Departamento de Transportes atribuiu a pane de sexta (13) a um roteador defeituoso que surgiu numa atualização feita pela L3Harris, que troca fios de cobre por fibra óptica na rede do controle aéreo. O equipamento disparava cerca de mil tentativas de conexão a cada quatro ou cinco segundos, sobrecarregou o sistema e causou falhas de comunicação e de radar em 17 dos 22 centros de controle de rota; sem achar a origem, a FAA parou todos os voos das 15h54 às 20h15 (horário de Nova York). Foram mais de 9 mil voos cancelados na sexta e mais de 5 mil no sábado.",
+   "contexto": "Foi a parada nacional mais longa desde o 11 de Setembro. A Casa Branca chegou a reunir a Sala de Situação por suspeita de ataque cibernético, hipótese depois descartada. A modernização do controle aéreo, que usa equipamentos antigos, é uma pendência de vários governos: o Congresso aprovou US$ 12,5 bilhões no ano passado, e o secretário Sean Duffy, que pedia US$ 30 bilhões, agora fala em US$ 50 bilhões.",
+   "lados": "Duffy disse que a L3Harris 'não esteve à altura', que a empresa 'é dona dessa rede' e que 'vamos responsabilizar as pessoas', sem definir se houve erro de instalação ou defeito do aparelho. A L3Harris diz que coopera com a investigação e já concluiu mais de 70% da conversão para fibra. O sindicato dos técnicos da FAA (PASS) afirma que o problema ficou restrito a dois roteadores atualizados na sexta, que seriam do Arkansas e do Texas, e que seus técnicos não participaram das atualizações. O administrador da FAA, Bryan Bedford, disse haver 'zero evidência' de ação maliciosa ou de algo ligado a IA.",
+   "proximo": "Duffy espera que as companhias normalizem as malhas até a noite deste domingo (15); a FAA faz testes adicionais com a L3Harris para achar outros riscos, e as empresas oferecem remarcação sem custo. O pedido de mais verba dependerá do Congresso, que passa ao controle democrata em janeiro, e o teste seguinte é o feriado de Ação de Graças, em 26 de novembro, o pico anual de viagens.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: What forced the US to ground all planes? A router switch, we now know",
+     "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 15, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Irã",
+    "Golfo",
+    "Energia",
+    "Alimentos"
+   ],
+   "historia": "ira-guerra-2026",
+   "titulo": "Irã diz que mais dois petroleiros bateram em minas perto de Ormuz, o sétimo incidente em 24 horas",
+   "texto": "Segundo a Marinha da Guarda Revolucionária, os navios usavam rotas não autorizadas por Teerã e estavam com rastreamento desligado; o Irã condiciona reabrir o estreito ao fim do bloqueio naval dos EUA e a sete condições para um acordo. A Guarda também diz ter derrubado um drone americano MQ-1 sobre a ilha de Qeshm, sem confirmação independente, e um alto funcionário da ONU alertou que cargas de fertilizantes estão paradas, com preços 30% mais altos, o que pode levar 45 milhões de pessoas à insegurança alimentar grave se safras forem perdidas.",
+   "fontes": [
+    {
+     "titulo": "Investing.com: Iran claims fresh strike on U.S. base as Hormuz shipping crisis deepens",
+     "url": "https://www.investing.com/news/economy-news/iran-claims-fresh-strike-on-us-base-as-hormuz-shipping-crisis-deepens-5027672"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 15, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política externa",
+    "Ásia"
+   ],
+   "historia": "lula-asean-manila",
+   "titulo": "Afônico, Lula cancela discursos em Manila, mas fecha acordos com as Filipinas antes da cúpula da Asean",
+   "texto": "Na primeira visita de um chefe de Estado brasileiro às Filipinas, no ano dos 80 anos de relações, Lula e Ferdinand Marcos Jr. assinaram acordos em pecuária, agricultura e defesa da concorrência; o comércio bilateral quase quadruplicou em 20 anos e chega a cerca de US$ 3 bilhões. Os dois discursos previstos para sábado foram cancelados por afonia, e a cúpula, de 15 a 17 de novembro, é a chance de o Brasil avançar no pedido para virar parceiro de diálogo do bloco.",
+   "fontes": [
+    {
+     "titulo": "Jornal de Brasília (Estadão Conteúdo): Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia",
+     "url": "https://jornaldebrasilia.com.br/noticias/mundo/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/"
+    },
+    {
+     "titulo": "ANI: Manila turns into global diplomatic epicentre as world leaders gather for 49th ASEAN Summit",
+     "url": "https://aninews.in/news/world/asia/manila-turns-into-global-diplomatic-epicentre-as-world-leaders-gather-for-49th-asean-summit20261115083214/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Eleições",
+    "Câmara"
+   ],
+   "historia": "midterms-2026-apuracao",
+   "titulo": "Lauren Boebert perde o distrito mais conservador do Colorado para uma ex-almirante democrata",
+   "texto": "A AP projetou na sexta (13) a vitória de Eileen Laubacher, contra-almirante aposentada da Marinha, por pouco mais de 3 mil votos no 4º distrito, onde Trump venceu por 18 pontos em 2024; Boebert reconheceu a derrota e disse que 'esta não é a última vez' que ouvirão falar dela. No Alasca, a democrata Mary Peltola amplia a vantagem sobre o senador Dan Sullivan com a apuração ainda em curso.",
+   "fontes": [
+    {
+     "titulo": "Deseret News: Lauren Boebert loses Colorado's 4th District to Democrat Eileen Laubacher",
+     "url": "https://www.deseret.com/politics/2026/11/13/republican-lauren-boebert-loses-colorado-congressional-race-against-democratic-challenger-eileen-laubacher/"
+    },
+    {
+     "titulo": "Yahoo News: Lauren Boebert concedes Colorado's 4th District",
+     "url": "https://www.yahoo.com/news/politics/articles/lauren-boebert-concedes-colorado-4th-112100922.html"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 15, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Nova York",
+    "Federalismo",
+    "Trabalho"
+   ],
+   "historia": "cnh-caminhoneiros-imigrantes",
+   "titulo": "Tribunal de apelação impede governo Trump de cortar US$ 73,5 milhões de Nova York por carteiras de caminhoneiro dadas a imigrantes",
+   "texto": "O 2º Circuito decidiu na sexta (13) que a agência federal de segurança de transporte rodoviário não podia punir o estado por descumprir uma exigência que não existia nas regras da época: as normas pediam documento migratório válido no pedido, mas não que a carteira vencesse junto com ele. Nova York tinha cerca de 32,6 mil dessas licenças; a decisão não afeta a regra mais dura em vigor desde março, que limita o benefício a vistos H-2A, H-2B e E-2 e é contestada em outro tribunal.",
+   "fontes": [
+    {
+     "titulo": "Yahoo News (Newsweek): Trump admin dealt legal blow over immigrant truckers",
+     "url": "https://www.yahoo.com/news/us/articles/trump-admin-dealt-legal-blow-161815350.html"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Liberdade de expressão",
+    "Justiça"
+   ],
+   "historia": "ice-advogado-celular",
+   "titulo": "Juíza proíbe agentes federais de vasculhar dados copiados do celular de um advogado de imigração crítico do governo",
+   "texto": "A juíza federal Allison Burroughs, de Massachusetts, concluiu que Andrew Lattarulo provavelmente foi alvo por suas críticas públicas e vídeos de 'conheça seus direitos', o que violaria a Primeira Emenda; o telefone foi apreendido sem mandado no aeroporto de Boston em setembro. O governo nega retaliação e diz que a apreensão fazia parte de uma investigação sobre autorizações de trabalho; os dados ficam bloqueados até o fim do processo.",
+   "fontes": [
+    {
+     "titulo": "Newsweek: Judge Blocks ICE From Searching Immigration Lawyer's Phone",
+     "url": "https://www.newsweek.com/judge-blocks-ice-from-searching-immigration-lawyers-phone-12715119"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Privacidade",
+    "Europa",
+    "Big Techs"
+   ],
+   "historia": "meta-multa-italia",
+   "titulo": "Itália aplica à Meta multa de 805 milhões de euros por acessar fotos de usuários de Android sem consentimento",
+   "texto": "A autoridade de proteção de dados (Garante) diz que a função do Facebook que sugere fotos e vídeos da galeria vinha ativada por padrão e acessava imagens e metadados sem consentimento específico, atingindo cerca de 20 milhões de usuários; é a maior multa da história do órgão, cerca de 0,47% do faturamento global da empresa. O processo não tratou de uso das imagens para treinar IA, o que a Meta nega; a empresa não comentou e pode recorrer.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Italy fines Meta $880m over photo privacy",
+     "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy"
+    },
+    {
+     "titulo": "The Hacker News: Italy Fines Meta €805 Million Over Facebook's Android Gallery Access",
+     "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "Tecnologia e IA",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "ipo-anthropic",
+   "titulo": "Semana decisiva para os mercados: balanço da Nvidia, ata do Fed e a estreia da Anthropic na bolsa",
+   "texto": "A Nvidia divulga na terça (17) o primeiro balanço desde a saída de Jensen Huang, com previsão de cerca de US$ 108 bilhões de receita; a ata do Fed sai na quarta (18), com o mercado já apostando em alta de juros em dezembro. A Anthropic oferece 825 milhões de ações a US$ 70-78 na Nasdaq, sob o código ANT, com preço previsto para quarta e estreia na quinta (19), segundo a CNBC; as datas e o valor de mercado estimado (cerca de US$ 1,2 trilhão) ainda podem mudar.",
+   "fontes": [
+    {
+     "titulo": "Anthropic: Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+     "titulo": "Learn2Trade: Week Ahead: Nvidia Earnings, Anthropic IPO, Fed Minutes",
+     "url": "https://learn2.trade/week-ahead-nvidia-earnings-anthropic-ipo"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Fiscal",
+    "Congresso"
+   ],
+   "historia": "lula-4-equipe-economica",
+   "titulo": "Ajuste fiscal volta ao Senado na terça e pode chegar à Câmara na mesma semana; IBC-Br sai na segunda",
+   "texto": "Os senadores votam na terça (17) quatro destaques ao projeto, que reduz de 2,5% para 2% o teto de crescimento real dos gastos e dobra o corte de benefícios fiscais, com efeito de até R$ 56,1 bilhões em 2027 segundo o relator, Eduardo Braga; Hugo Motta sinalizou votar em seguida na Câmara, sem data. Na agenda, o Banco Central divulga o IBC-Br na segunda (16), e a B3 fecha na sexta (20), feriado da Consciência Negra.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Motta sinaliza votação de ajuste fiscal de Lula na próxima semana",
+     "url": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
+    },
+    {
+     "titulo": "Rio Times: Key Market Events for the Week of November 16-20, 2026",
+     "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-november-16-20-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Seleção"
+   ],
+   "historia": "selecao-amistosos-novembro",
+   "titulo": "Japão vence o Brasil por 3 a 2 com gol nos acréscimos, e Ancelotti e Raphinha são expulsos",
+   "texto": "Em Singapura, Kubo (14') e Nakamura (18') abriram 2 a 0, Vini Jr. empatou com dois gols (32' e 74'), e Sakamoto decidiu no fim; Ancelotti e Raphinha foram expulsos numa confusão no fim do jogo. É a segunda vitória japonesa sobre o Brasil, depois da virada de outubro de 2025; a seleção enfrenta Singapura na terça (17), às 7h de Brasília.",
+   "fontes": [
+    {
+     "titulo": "TV Guararapes: Brasil perde para o Japão em Singapura em jogo com expulsões",
+     "url": "https://www.tvguararapes.com.br/esportes/2026/11/14/brasil-perde-para-o-japao-em-singapura-em-jogo-com-expulsoes.html"
+    },
+    {
+     "titulo": "Soccerway: Ancelotti diz que colapso contra Japão é 'aula para o futuro'",
+     "url": "https://pt.soccerway.com/noticias/futebol-campeonato-do-mundo-ancelotti-diz-que-colapso-contra-japao-e-aula-para-o-futuro/lnWXg4ld"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Série B"
+   ],
+   "historia": "serie-b-2026",
+   "titulo": "Novorizontino é campeão inédito da Série B, Juventude sobe junto, e mata-mata define as outras vagas",
+   "texto": "O Novorizontino venceu o Criciúma por 1 a 0 fora e fechou com 73 pontos; o Juventude (71) bateu o Botafogo-SP e também sobe direto. No novo mata-mata de acesso, Vila Nova enfrenta Atlético-GO, e Fortaleza pega Criciúma; caem Avaí, Londrina, América-MG e Ponte Preta.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Novorizontino é campeão da Série B; veja quem subiu, playoffs e rebaixados",
+     "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-e-campeao-da-serie-b-veja-playoffs-acesso-e-rebaixados/"
+    },
+    {
+     "titulo": "CBF: Título inédito coroa campanha do Novorizontino na Série B",
+     "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/titulo-inedito-coroa-campanha-do-novorizontino-na-serie-b"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Liga das Nações",
+    "Europa"
+   ],
+   "historia": "liga-das-nacoes-2026",
+   "titulo": "No primeiro jogo de Portugal sem Cristiano Ronaldo, Dinamarca vence por 4 a 1 em Braga",
+   "texto": "Pela Liga das Nações, Rasmus Højlund marcou duas vezes, e a Dinamarca encerrou a sequência de quatro vitórias portuguesas e subiu para o segundo lugar do grupo A4. Foi a estreia de Portugal após a aposentadoria de Ronaldo da seleção.",
+   "fontes": [
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 15, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Música",
+    "Prêmios",
+    "Ásia"
+   ],
+   "historia": "premios-musica-2026",
+   "titulo": "Filipinas vencem o primeiro Eurovision da Ásia, e as indicações ao Grammy saem nesta segunda",
+   "texto": "Em Bangcoc, a filipina Carmelle, de 19 anos, a mais jovem do concurso, venceu com 'Sobra-Sobra' e 211 pontos contra outros dez países. As indicações ao Grammy 2027 serão anunciadas na segunda (16), às 7h45 de Nova York, com cinco categorias novas, entre elas a de melhor performance de pop asiático; a cerimônia é em 7 de fevereiro.",
+   "fontes": [
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 15, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    },
+    {
+     "titulo": "ABC News: What to know about the 69th Grammy nominations",
+     "url": "https://abcnews.com/culture/story/2027-grammy-nominations/?id=137921246"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "Tecnologia e IA",
+    "Engenharia"
+   ],
+   "historia": "starship-2026",
+   "titulo": "SpaceX agarra pela primeira vez o estágio superior da Starship com a torre de lançamento",
+   "texto": "No voo 15, a nave voltou da órbita e foi capturada pelos braços da torre no Texas no sábado (14), cerca de 22,5 horas após o lançamento; até agora só o propulsor havia sido pego assim, e o Super Heavy desta vez abortou a captura por alarme de pouco combustível e caiu no Golfo do México. A captura da nave é peça-chave para o reuso total do foguete, e a empresa deve tentar pegar os dois estágios no próximo voo.",
+   "fontes": [
+    {
+     "titulo": "Space.com: SpaceX catches Starship upper stage for 1st time ever",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14"
+    },
+    {
+     "titulo": "Aviation Week: Starship Flight 15 Ends With First Ship Tower Catch",
+     "url": "https://aviationweek.com/space/operations-safety/starship-flight-15-ends-first-ship-tower-catch"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "COP31",
+    "Brasil",
+    "Multilateralismo"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 entra na semana final com ministros em Antália e texto principal ainda em aberto",
+   "texto": "Após a plenária de balanço de sábado, os ministros assumem os temas mais duros; o primeiro rascunho da decisão política sai no início da semana, e a conferência termina na sexta (20). Estão em disputa a meta voluntária de elevar a eletricidade de 23% para 35% da energia final até 2035, o pedido africano de ao menos US$ 120 bilhões anuais para adaptação até 2035 e uma menção ao roteiro brasileiro para deixar os combustíveis fósseis; Guterres disse que nem triplicar o dinheiro para adaptação cobriria 30% da necessidade.",
+   "fontes": [
+    {
+     "titulo": "Climate Home News: COP31 Bulletin Day 6",
+     "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+    },
+    {
+     "titulo": "UN News: COP31: Climate finance falls short as calls grow for polluters to pay",
+     "url": "https://news.un.org/en/story/2026/11/1168802"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Construção",
+    "Segurança",
+    "Moradia"
+   ],
+   "historia": "desabamento-flatbush",
+   "titulo": "Desabamento em Flatbush: planos aprovados não exigiam escoramento do lado do prédio que caiu, e dono aparece seis vezes em lista de piores senhorios",
+   "texto": "Três engenheiros estruturais disseram ao Gothamist que a escavação aprovada pela prefeitura na Bedford Avenue não previa reforço justamente no lado vizinho ao número 1321 da Flatbush Avenue; no sábado, o defensor público Jumaane Williams afirmou que o responsável pelo prédio, Olufemi Falade, entrou seis vezes na lista dos piores senhorios da cidade. Entre os oito mortos estão três operários imigrantes do Equador e da Guatemala; a causa segue sob investigação da prefeitura e da promotoria do Brooklyn, que abriu inquérito criminal.",
+   "fontes": [
+    {
+     "titulo": "The Real Deal: Trades urge reform after deadly Brooklyn collapse",
+     "url": "https://therealdeal.com/new-york/2026/11/14/building-trades-urge-reform-after-deadly-brooklyn-collapse/"
+    },
+    {
+     "titulo": "FOX 5 NY: Landlord of collapsed Brooklyn building made 'Worst Landlord' list 6 times",
+     "url": "https://www.fox5ny.com/news/landlord-collapsed-brooklyn-building-killed-collapse-nyc"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Por que um encontro a três entre EUA, China e Rússia remete à 'diplomacia triangular' da Guerra Fria",
+  "texto": "Em 1971, Henry Kissinger fez uma viagem secreta a Pequim, e em fevereiro de 1972 Richard Nixon se tornou o primeiro presidente americano no cargo a visitar a China continental. A aproximação explorou a rivalidade entre China e União Soviética: ao se aproximar de Pequim, Washington ganhou margem para negociar com Moscou, o que ajudou a abrir a fase de distensão com os soviéticos. Por décadas, a lógica foi que os EUA deveriam ter relações melhores com cada um dos dois do que eles tinham entre si. Hoje o quadro se inverteu: China e Rússia se declaram parceiras próximas, e a cúpula de Shenzhen põe os três numa mesma sala pela primeira vez, sem que nenhum deles tenha a posição de pivô que os EUA tiveram nos anos 1970.",
+  "fontes": [
+   {
+    "titulo": "Departamento de Estado (Office of the Historian): Rapprochement with China, 1972",
+    "url": "https://history.state.gov/milestones/1969-1976/rapprochement-china"
+   },
+   {
+    "titulo": "E-International Relations: Nixon's Opening to China: The Misleading Apotheosis of Triangular Diplomacy",
+    "url": "https://e-ir.info/?p=39860"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram destaque ou nota. Seu pedido mais recente (19/10, sobre a Anthropic e a lei de IA) já tinha sido atendido; hoje a Anthropic aparece na nota de Economia sobre a abertura de capital prevista para esta semana. Pelas avaliações, dei peso a geopolítica (com a lente de controle de armas, não de sanções), política dos EUA, Imigração, Brasil e saúde pública com dados, e deixei Israel e Gaza fora. As histórias seguidas não ganharam atualização: no ebola, não houve dado novo desde o briefing da ONU de 13/11; na eleição, Flávio só repetiu a cobrança de cassação da chapa Lula-Alckmin, sem decisão nova do TSE. Avisos: a perda do status do sarampo foi noticiada pelo WSJ e pela NPR, mas a Opas não havia comentado oficialmente; a data da cúpula de Shenzhen foi confirmada por Kremlin e Casa Branca, não pela China; minas, drones e o MQ-1 são versões iranianas sem confirmação independente; as datas e o valor do IPO da Anthropic são previsões. Não consegui abrir CNN, NPR, NBC, CNBC, France 24, Taipei Times e US News; usei Anadolu, Al Jazeera, Contagion Live e outras fontes. A bilheteria de 'Ebenezer' ficou de fora porque já saiu ontem.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-15T12:02:21+00:00"
+}
