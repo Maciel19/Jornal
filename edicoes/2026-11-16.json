@@ -1,0 +1,425 @@
+{
+ "data": "2026-11-16",
+ "manchete": "EUA e nove aliados assinam pacto para blindar a cadeia da IA na véspera da cúpula com Xi e Putin, a semana da Anthropic na bolsa começa sob pressão, e a COP31 entra na reta final dividida",
+ "abertura": "A semana gira em torno de Shenzhen, onde a China confirmou para quinta (19) o primeiro encontro a três entre Xi, Trump e Putin, e de Wall Street, que espera o balanço da Nvidia e a estreia da Anthropic. No Golfo, o Irã voltou a atacar o Bahrein no dia em que um terceiro porta-aviões americano chegou à região.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Seis meses depois, ebola chega a 11.254 casos e 5.505 mortes; OMS diz que a maioria das infecções é detectada tarde demais",
+   "texto": "Pelos dados do governo congolês até 13/11, a letalidade é de 48,9%, com 400 a 500 casos novos por semana em 67 zonas de saúde de oito províncias. Ao marcar seis meses do surto, a OMS destacou que crianças são mais de um quarto dos casos e um terço das mortes, e que dois terços das mortes ocorrem fora dos centros de tratamento; a Africa CDC diz que 80% dos casos novos surgem fora da vigilância. Há sinal positivo em Bunia (Ituri), onde os casos novos caíram pela metade, e o Quênia iniciou a contagem de 42 dias para se declarar livre do vírus.",
+   "fontes": [
+    {
+     "titulo": "Infobae (EFE): OMS: seis meses depois, o ebola se expande na RDC por conflito e falta de acesso",
+     "url": "https://www.infobae.com/america/agencias/2026/11/15/oms-seis-meses-despues-el-ebola-se-expande-en-la-rdc-por-conflicto-y-la-falta-de-acceso/"
+    },
+    {
+     "titulo": "ONU News: Ebola segue emergência na RD Congo, mas Quênia inicia contagem de 42 dias",
+     "url": "https://news.un.org/pt/story/2026/11/1854901"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Política internacional e geopolítica",
+    "China",
+    "Cadeias de suprimento"
+   ],
+   "historia": "pax-silica-declaracao-sf",
+   "titulo": "EUA e nove parceiros assinam a 'Declaração de São Francisco' para proteger a cadeia de suprimentos da IA; a China fica de fora",
+   "oque": "No domingo (15), EUA, Austrália, Índia, Israel, Japão, Coreia do Sul, Catar, Singapura, Emirados Árabes Unidos e Reino Unido assinaram um acordo para proteger as tecnologias e a infraestrutura por trás da IA avançada: chips, equipamentos de fabricação, redes de energia, plataformas digitais, portos e logística. O texto cria cinco grupos de trabalho, entre eles cadeia de suprimentos e segurança, e trata a segurança econômica como parte da segurança nacional.",
+   "contexto": "O acordo nasce da Pax Silica, iniciativa conduzida pelo subsecretário de Estado para Assuntos Econômicos, Jacob Helberg, que busca reduzir a 'dependência excessiva' de fornecedores considerados não confiáveis, inclusive em minerais críticos. O texto não cita a China, mas a lógica é a de 'friend-shoring': montar cadeias redundantes entre aliados num setor em que Pequim domina o refino de terras raras. O momento importa: a assinatura vem quatro dias antes do encontro de Trump com Xi e Putin e em meio à pressão no Congresso sobre a venda de chips da Nvidia à China.",
+   "lados": "Washington apresenta o pacto como defesa da 'prosperidade duradoura' entre parceiros confiáveis. Governos europeus resistiram: segundo a Euronews, temiam definições amplas demais, perda de autonomia regulatória e o uso do termo 'superinteligência'; por isso a UE não assinou agora. A China ainda não se manifestou sobre o texto.",
+   "proximo": "Segundo o Financial Times, citando Helberg, Alemanha, Suécia, Holanda e a Comissão Europeia devem assinar na próxima semana; é uma expectativa, não confirmação. Vale observar se o tema entra na conversa de Shenzhen, na quinta (19), e no acordo de reduções tarifárias recíprocas que EUA e China negociam.",
+   "fontes": [
+    {
+     "titulo": "TRT World: US, nine partners sign pact to secure AI supply chains",
+     "url": "https://www.trtworld.com/article/bae20f6b5c22"
+    },
+    {
+     "titulo": "CASRAI: Pax Silica partners sign AI supply-chain pact",
+     "url": "https://casrai.org/news/pax-silica-san-francisco-declaration-2026"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Economia",
+   "temas": [
+    "Tecnologia e IA",
+    "Mercados",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Semana da estreia da Anthropic na bolsa começa com queda das ações de IA, balanço da Nvidia na terça e mercado já contando com alta de juros do Fed",
+   "oque": "Os futuros do Nasdaq 100 caíam quase 1% na manhã desta segunda (16), puxados por Nvidia, Intel, AMD, Broadcom e Micron (quedas de 2% a 5%). A Anthropic, dona do Claude, oferece 825 milhões de ações entre US$ 70 e US$ 78 na Nasdaq, sob o código ANT, o que pode levantar cerca de US$ 64 bilhões. Relatos de mercado indicam precificação na quarta (18) e estreia na quinta (19), mas a empresa não confirmou as datas.",
+   "contexto": "Seria a maior abertura de capital da história, num momento de dúvida sobre os gastos com IA: a Nvidia teve a pior sequência de perdas semanais desde 2012 após a saída de Jensen Huang, e os juros americanos sobem. O título de 10 anos está perto de 5,15%, e a ferramenta CME FedWatch mostra o mercado precificando por completo uma alta de juros em dezembro, depois de a inflação ao produtor chegar a 6,5% em 12 meses. A Anthropic também é a empresa que propôs ao Congresso, em outubro, uma lei para que a Justiça possa suspender modelos de IA de alto risco.",
+   "lados": "A Reuters relatou que a oferta estava cerca de seis vezes sobrescrita no terceiro dia de apresentações a investidores, e Nvidia, Google e Microsoft participam de uma colocação privada simultânea. Analistas alertam que uma estreia forte não garante alta do setor: investidores podem vender outras ações de tecnologia para comprar ANT.",
+   "proximo": "Terça (17): balanço da Nvidia e varejo dos EUA. Quarta (18): ata do Fed sobre a pausa de outubro (decidida por 10 a 2). Nesta segunda, o presidente do Fed, Kevin Warsh, fala em São Francisco. A reunião do Fed que decide os juros é em dezembro.",
+   "fontes": [
+    {
+     "titulo": "Reuters via Yahoo Finance: S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+    },
+    {
+     "titulo": "Anthropic: Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch"
+    },
+    {
+     "titulo": "KuCoin News: Anthropic's IPO This Week",
+     "url": "https://www.kucoin.com/news/flash/anthropic-s-ipo-this-week-valuation-revenue-and-institutional-demand"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Clima",
+    "Multilateralismo",
+    "Brasil"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 entra na semana final com o primeiro rascunho do texto principal previsto para hoje e blocos divididos sobre petróleo e dinheiro",
+   "oque": "Em Antália (Turquia), a copresidência turco-australiana deve divulgar nesta segunda (16) o primeiro rascunho da 'decisão de capa', o texto político que resume a conferência. Os negociadores abriram a semana pessimistas: países produtores de petróleo e grandes países em desenvolvimento rejeitam metas novas, e os países ricos chegaram com pouco dinheiro novo.",
+   "contexto": "A disputa repete o eixo Norte-Sul das COPs. Os países em desenvolvimento querem que a promessa de triplicar o financiamento para adaptação seja fixada em pelo menos US$ 120 bilhões por ano até 2035; os doadores evitam números. A Arábia Saudita se opõe a citar o roteiro brasileiro para a transição para longe dos combustíveis fósseis, herança da COP30 em Belém. A Turquia quer um compromisso voluntário de eletrificação (35% do consumo final de energia até 2035), com apoio de cerca de 30 países, mas a lista não foi publicada.",
+   "lados": "O grupo árabe e os países em desenvolvimento 'afins' rejeitam metas setoriais; a Índia não aceita citar relatórios científicos de fora da ONU; Rússia, Argentina e países africanos rejeitam incluir a reforma do processo da ONU. A Alemanha apoia a eletrificação, mas diz que metas numéricas podem esperar o Balanço Global de 2028. Os europeus já baixaram as expectativas.",
+   "proximo": "Ministros devem ser reunidos pela presidência por volta de quarta e quinta (18 e 19) para opinar sobre o texto; a conferência termina no fim da semana. No fundo de florestas TFFF, lançado pelo Brasil, o Canadá prometeu um empréstimo de até C$ 560 milhões (cerca de US$ 400 milhões), e o total chega a uns US$ 8,2 bilhões, ainda abaixo da meta de US$ 10 bilhões. A próxima COP será na Etiópia, em 2027.",
+   "fontes": [
+    {
+     "titulo": "Climate Home News: COP31 Bulletin Day 7: Sharp divisions lower expectations",
+     "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+    },
+    {
+     "titulo": "Hürriyet Daily News: COP31 turns to ministers for deal on finance, energy",
+     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "China",
+    "Rússia",
+    "EUA"
+   ],
+   "historia": "cupula-trilateral-shenzhen",
+   "titulo": "China confirma a cúpula de Xi, Trump e Putin em Shenzhen na quinta (19)",
+   "texto": "O Ministério das Relações Exteriores chinês confirmou nesta segunda, em nota curta, o encontro 'China-Rússia-EUA' à margem da APEC, sem divulgar a pauta; até sábado, só Kremlin e Casa Branca tinham confirmado. A cúpula empresarial da APEC ocorre na terça e na quarta (17 e 18) em Guangdong.",
+   "fontes": [
+    {
+     "titulo": "The Tribune (ANI): China confirms first Xi-Trump-Putin summit on November 19",
+     "url": "https://www.tribuneindia.com/news/world/china-confirms-first-xi-trump-putin-summit-on-november-19/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "EUA",
+    "Golfo"
+   ],
+   "historia": "guerra-ira-ormuz",
+   "titulo": "Irã ataca o Bahrein pela segunda vez em três dias, e terceiro porta-aviões dos EUA chega à região",
+   "texto": "A Guarda Revolucionária diz ter lançado seis drones contra um radar americano na base de Riffa; o Bahrein afirma ter interceptado todos. O USS Theodore Roosevelt se juntou ao Bush e ao Washington, e Guterres pediu o fim da situação de 'nem paz nem guerra'. O Irã alega ter afundado seis navios em Ormuz desde domingo, sem confirmação independente.",
+   "fontes": [
+    {
+     "titulo": "The National: Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia",
+    "União Europeia",
+    "Segurança"
+   ],
+   "historia": "ucrania-negociacoes-abu-dhabi",
+   "titulo": "Chanceleres da UE discutem hoje a defesa da Ucrânia no inverno; Estônia vai fechar a fronteira com a Rússia",
+   "texto": "Ataques russos a instalações de energia em Odessa deixaram cerca de 41 mil casas sem luz no domingo, e a Ucrânia atingiu uma refinaria em Nizhnekamsk, no Tartaristão. A Estônia anunciou que fechará todas as passagens com a Rússia a partir de 1º de dezembro, após uma tentativa fracassada de sabotagem contra uma empresa de defesa.",
+   "fontes": [
+    {
+     "titulo": "Eunews: Weekend Round-Up, War in Ukraine Brief",
+     "url": "https://www.eunews.it/en/2026/11/16/weekend-round-up-war-ukraine-brief-europe-3/"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política externa",
+    "Minerais críticos"
+   ],
+   "historia": "lula-asean-manila",
+   "titulo": "Na cúpula da Asean, Lula defende processar minerais críticos no Brasil e acerta visitas de Canadá e Singapura em 2027",
+   "texto": "Em Manila, no domingo (15), Lula pediu investimento asiático para industrializar terras raras no país, em vez de exportá-las brutas, e renovou o pedido de status de parceiro pleno da Asean. Com Mark Carney, falou em concluir o acordo Mercosul-Canadá; com Lawrence Wong, cuja Singapura presidirá a Asean em 2027, discutiu retomar a negociação Mercosul-Asean.",
+   "fontes": [
+    {
+     "titulo": "Metrópoles: Lula se reúne com líderes do Canadá e Singapura e acerta visitas em 2027",
+     "url": "https://www.metropoles.com/mundo/lula-se-reune-com-lideres-do-canada-e-singapura-e-acerta-visitas-em-2027"
+    },
+    {
+     "titulo": "Agência Brasil: Lula quer ampliar relações comerciais com países da Asean",
+     "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-quer-ampliar-relacoes-comerciais-com-paises-da-asean"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Inflação",
+    "Juros"
+   ],
+   "historia": "ajuste-fiscal-2027",
+   "titulo": "Focus: inflação esperada para 2027 sobe pela quinta semana e chega a 5%, acima do teto da meta",
+   "texto": "O mercado também elevou a Selic projetada para o fim de 2027 de 12,50% para 12,75% e cortou o PIB de 2027 para 1,02%; para 2026, o IPCA esperado caiu a 5,11%. Na terça (17), o Senado vota os destaques do ajuste fiscal, cujo texto-base passou por 45 a 31, e sai o IBC-Br de setembro.",
+   "fontes": [
+    {
+     "titulo": "TMC: Focus eleva inflação de 2027 para 5%",
+     "url": "https://tmc.com.br/economia/focus-ipca-2027-selic-pib-revisao-novembro/"
+    },
+    {
+     "titulo": "Info Economics: agenda da semana",
+     "url": "https://infoeconomics.substack.com/p/encontro-entre-xi-trump-e-putin-e-ajuste-fiscal-brasil-colocam-politica-centro-da-semana"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "China",
+    "Tecnologia e IA"
+   ],
+   "historia": "nvidia-huang-espionagem",
+   "titulo": "Democratas e republicanos da Câmara miram Lutnick no caso Nvidia; Huang deve depor a portas fechadas",
+   "texto": "No 'Face the Nation', o republicano John Moolenaar chamou a relação de Jensen Huang com Alice Huang de 'ameaça direta à segurança nacional' e disse que a empresa Megaspeed deveria estar na lista de restrições comerciais. O democrata Jim Himes disse que o secretário de Comércio, Howard Lutnick, foi 'a barreira' para conter o fluxo de chips à China; se Alice Huang era agente chinesa, segundo ele, 'não sabemos'.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Face the Nation transcript, Nov. 15, 2026",
+     "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Detenção"
+   ],
+   "historia": "ice-detencao-expansao",
+   "titulo": "ICE abre em Minnesota um centro de detenção de até 1.600 vagas comprado por US$ 495,6 milhões",
+   "texto": "A antiga prisão privada de Appleton, vazia desde 2010 e anunciada à venda por US$ 75 milhões, segundo a KARE 11, começou a receber detidos em 9/11 e já teria mais de 70 pessoas. No primeiro fim de semana, manifestantes pediram transparência e acesso a advogados e famílias; o DHS não comentou.",
+   "fontes": [
+    {
+     "titulo": "MPR News: Appleton ICE detention facility draws protests in first weekend of operation",
+     "url": "https://www.mprnews.org/story/2026/11/15/appleton-ice-detention-facility-draws-protests-in-first-weekend-of-operation"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Espaço",
+    "Internet via satélite"
+   ],
+   "historia": "vulcan-amazon-leo",
+   "titulo": "Foguete Vulcan falha e destrói 40 satélites da Amazon Leo, a primeira falha total da ULA em 20 anos",
+   "texto": "A anomalia ocorreu cerca de dez minutos após o lançamento, no domingo (15), em Cabo Canaveral, durante a queima do estágio superior Centaur. Era o primeiro de 38 voos comprados pela Amazon, que corre atrás do Starlink e agora depende de investigação da ULA e do retorno do New Glenn, da Blue Origin.",
+   "fontes": [
+    {
+     "titulo": "Spaceflight Now: ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol internacional",
+    "Liga das Nações"
+   ],
+   "historia": "liga-das-nacoes-2026",
+   "titulo": "Com um a menos, Inglaterra vence a Espanha por 3 a 2 em Madri e encerra invencibilidade de 43 jogos da campeã mundial",
+   "texto": "Kane (pênalti), Konsa e White abriram 3 a 0; Elliot Anderson foi expulso aos 18 do segundo tempo, e Oyarzabal e Nico Williams descontaram. As duas seleções vão às quartas da Liga das Nações, assim como Bélgica (4 a 1 na Itália) e França (2 a 1 na Turquia).",
+   "fontes": [
+    {
+     "titulo": "The Journal: 10-man England beat world champions Spain in Madrid",
+     "url": "https://www.thejournal.ie/england-beat-spain-nations-league-2-7227367-Nov2026/"
+    },
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro"
+   ],
+   "historia": "ronaldinho-ravenna",
+   "titulo": "Aos 46 anos, Ronaldinho volta a jogar após 11 anos e participa de gol na vitória do Ravenna; Brasileirão retorna na quarta",
+   "texto": "Titular com a camisa 10, ele jogou o primeiro tempo do 2 a 0 sobre o Forlì pela Série C italiana e iniciou a jogada do primeiro gol. No Brasil, a 35ª rodada começa na quarta (18) com o líder Flamengo (76 pontos) contra o Athletico-PR e o vice Cruzeiro (73) contra o Palmeiras.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Na volta aos gramados, Ronaldinho participa de gol em vitória do Ravenna",
+     "url": "https://www.gazetaesportiva.com/campeonatos/serie-a/na-volta-aos-gramados-ronaldinho-participa-de-gol-em-vitoria-do-ravenna-na-italia/"
+    },
+    {
+     "titulo": "Metrópoles: Brasileirão retorna nesta semana; confira os jogos da 35ª rodada",
+     "url": "https://www.metropoles.com/esportes/brasileirao-retorna-nesta-semana-confira-todos-os-jogos-da-35a-rodada"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Música",
+    "Prêmios"
+   ],
+   "historia": "premios-temporada-2026",
+   "titulo": "Glenn Close recebe seu primeiro Oscar, honorário, após oito indicações; indicações ao Grammy saem hoje",
+   "texto": "No Governors Awards, a Academia também homenageou Ridley Scott e Floyd Norman, primeiro animador negro da Disney. No Hall da Fama do Rock, em Los Angeles, entraram Wu-Tang Clan e Phil Collins, entre 18 nomes. A lista do Grammy 2027 sai às 9h (Nova York), e a cerimônia será em 7 de fevereiro.",
+   "fontes": [
+    {
+     "titulo": "Anadolu: Morning Briefing, Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+    },
+    {
+     "titulo": "ABC News: What to know about the 69th Grammy nominations",
+     "url": "https://abcnews.com/culture/story/2027-grammy-nominations/?id=137921246"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "Ciência"
+   ],
+   "historia": "voyager-1-dia-luz",
+   "titulo": "Voyager 1 se torna na quarta (18) o primeiro objeto humano a um dia-luz da Terra",
+   "texto": "A sonda, lançada em 1977, chega a 25,9 bilhões de km; um sinal de rádio levará 24 horas para ir e 48 horas para ir e voltar. Ela segue funcionando com energia cada vez menor, e a Nasa desliga instrumentos aos poucos para prolongar a missão.",
+   "fontes": [
+    {
+     "titulo": "EarthSky: Voyager 1 1 light-day from Earth, November 17-18, 2026",
+     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+    },
+    {
+     "titulo": "IFLScience: It's official: Voyager 1 will cross the 1 light-day threshold on November 18, 2026",
+     "url": "https://iflscience.com/its-official-voyager-1-will-cross-the-1-light-day-threshold-on-november-18-2026-82733"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas",
+    "EUA"
+   ],
+   "historia": "sarampo-eua-eliminacao",
+   "titulo": "Após a perda do status de país livre do sarampo, senador republicano acusa RFK Jr. de 'dar cobertura ao fracasso'",
+   "texto": "Bill Cassidy, médico e presidente da Comissão de Saúde do Senado, disse que crianças pequenas demais para a vacina estão morrendo e que a mensagem pró-vacinação deveria ser repetida sem parar. Sobre um impeachment do secretário de Saúde, disse que a decisão cabe a outros.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Face the Nation transcript, Nov. 15, 2026",
+     "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Nova Jersey",
+    "Esportes"
+   ],
+   "historia": "gotham-fc-nwsl",
+   "titulo": "Gotham FC cai na semifinal da NWSL com gol aos 44 do segundo tempo, num estádio improvisado em Randall's Island",
+   "texto": "O Kansas City Current venceu por 2 a 1 e enfrenta o Washington Spirit na final. O jogo foi para um estádio de 5 mil lugares em Nova York porque a casa do time, em Harrison (NJ), foi considerada sem condições.",
+   "fontes": [
+    {
+     "titulo": "ESPN: Gotham 1-2 Kansas City, game analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401933740"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Economia"
+   ],
+   "historia": "sherrill-negocios-nj",
+   "titulo": "Governadora Mikie Sherrill assina decreto para tornar Nova Jersey mais atraente para empresas",
+   "texto": "A medida reage às notas ruins do estado em rankings de ambiente de negócios e cria mais apoio estadual a empresas; os detalhes de implementação ainda não foram divulgados por completo.",
+   "fontes": [
+    {
+     "titulo": "WVIA/WHYY: N.J. Gov. Sherrill signs executive order to create more state support for businesses",
+     "url": "https://www.wvia.org/news/pennsylvania-news/2026-11-16/n-j-gov-sherrill-signs-executive-order-to-create-more-state-support-for-businesses"
+    },
+    {
+     "titulo": "NJ Spotlight News: After NJ's poor marks, Sherrill unveils plan to improve business climate",
+     "url": "https://www.njspotlightnews.org/2026/11/after-njs-poor-marks-sherrill-unveils-plan-to-improve-business-climate/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "O que é a 'decisão de capa' de uma COP e por que ela importa",
+  "texto": "Nas conferências do clima, as decisões técnicas saem em dezenas de textos separados, mas a 'cover decision' é o documento político que resume o recado da reunião. Ela não é obrigatória: Glasgow (2021) e Dubai (2023) tiveram uma, outras COPs não. Como tudo na ONU climática é decidido por consenso, um único país pode barrar uma frase, e por isso a briga é por palavras: em Dubai, 'transição para longe dos combustíveis fósseis' foi o termo possível para substituir 'eliminação'. O texto não cria obrigações legais, mas define a direção que os países usam para cobrar uns aos outros nas metas nacionais seguintes.",
+  "fontes": [
+   {
+    "titulo": "Climate Home News: COP31 Bulletin Day 7",
+    "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram destaque ou nota. Seu pedido de 19/10 (Anthropic e a lei sobre IA perigosa) já tinha sido atendido; hoje a Anthropic é o destaque de Economia, pela abertura de capital desta semana, com a lembrança do projeto de lei que ela levou ao Congresso. Pelas avaliações, dei peso a IA com lente geopolítica, Brasil, política dos EUA, imigração e saúde pública, e deixei Gaza e Israel fora. Na história da eleição não houve novidade real (a ida de Flávio aos EUA e o plano de pedir green card já eram conhecidos), então não há atualização. Avisos: as datas de precificação (18) e estreia (19) da Anthropic vêm de relatos de mercado, não da empresa; os navios afundados em Ormuz e o alvo em Riffa são versões iranianas sem confirmação independente; a adesão europeia à Declaração de São Francisco é expectativa. Não consegui abrir CNBC, Hong Kong Free Press, Washington Post, InfoMoney e Gothamist; usei Reuters (via Yahoo), ANI, The Journal e outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-16T12:10:00Z"
+}
