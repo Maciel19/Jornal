@@ -1,0 +1,355 @@
+{
+ "semana": "2026-11-16",
+ "geradoEm": "2026-11-16T11:56:00+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "titulo": "Trump, Xi e Putin na mesma mesa: o que esperar da cúpula de quinta (19) em Shenzhen",
+   "secao": "Mundo",
+   "gancho": "É o primeiro encontro a três entre os líderes das maiores potências nucleares e militares, e acontece na quinta, à margem da APEC. Dá para postar antes, explicando a pauta, e acompanhar o resultado depois.",
+   "slides": [
+    {
+     "titulo": "Três potências, uma mesa",
+     "texto": "Trump, Xi Jinping e Putin se reúnem na quinta (19) em Shenzhen, na China. Entenda o que está em jogo no primeiro encontro a três entre os líderes."
+    },
+    {
+     "titulo": "O anúncio",
+     "texto": "O Kremlin disse no sábado (14) que o encontro foi acertado para o dia 19, à margem da cúpula da APEC, nos dias 18 e 19. A Casa Branca confirmou. Pequim diz manter contato com as partes."
+    },
+    {
+     "titulo": "Como chegou aqui",
+     "texto": "Segundo o Wall Street Journal, Putin propôs o formato a três num telefonema com Trump em 9 de outubro. Será a primeira APEC presencial de Putin desde 2017."
+    },
+    {
+     "titulo": "Armas nucleares",
+     "texto": "O tratado New START, que limitava os arsenais de EUA e Rússia, expirou em 5 de fevereiro. Trump quer um acordo novo que inclua a China. Pequim se recusa a negociar limites."
+    },
+    {
+     "titulo": "O que diz Washington",
+     "texto": "A Casa Branca fala em armas nucleares, controle de armas e Irã. Diz que a Ucrânia fica fora, que não haverá reunião bilateral com Putin e que não espera acordo."
+    },
+    {
+     "titulo": "O que dizem Moscou e Kiev",
+     "texto": "O Kremlin diz que Putin e Trump seguirão discutindo a Ucrânia e rejeita comparações com Yalta, em 1945. O chanceler ucraniano diz que o encontro fará 'o oposto' de ajudar a acabar com a guerra."
+    },
+    {
+     "titulo": "O que observar",
+     "texto": "Se sai uma declaração conjunta ou três versões diferentes; o que cada lado conta sobre a Ucrânia; e se o assunto volta no G20 de Miami, em 14 e 15 de dezembro."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "TASS, Anadolu, AP, Wall Street Journal, Kyiv Independent. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Na quinta-feira (19), Donald Trump, Xi Jinping e Vladimir Putin devem se sentar juntos em Shenzhen, no sul da China, à margem da cúpula da APEC. O Kremlin anunciou o encontro no sábado, e a Casa Branca confirmou. As versões já divergem: Washington diz que a conversa é sobre armas nucleares e Irã, sem Ucrânia; Moscou diz que a guerra segue na mesa. O pano de fundo é o fim do New START, que desde fevereiro deixou os arsenais de EUA e Rússia sem limites pela primeira vez em décadas. Trump quer um tratado que inclua a China, que não aceita. Kiev teme acertos feitos sem ela. Um encontro desse tipo não tem paralelo recente, e o resultado pode ser um acordo, uma foto ou só mais desconfiança. Na sua visão, um encontro a três ajuda a reduzir tensões ou não muda nada?",
+   "hashtags": [
+    "#Geopolítica",
+    "#Trump",
+    "#XiJinping",
+    "#Putin",
+    "#APEC",
+    "#ArmasNucleares",
+    "#RelaçõesInternacionais"
+   ],
+   "visual": "Mapa da Ásia-Pacífico com Shenzhen marcada; bandeiras de EUA, China e Rússia lado a lado na capa; linha do tempo simples do New START (2010 assinatura, 5/2/2026 fim). Fotos oficiais dos três líderes (Casa Branca, kremlin.ru, que publica sob licença CC BY 4.0, e Xinhua com crédito).",
+   "fontes": [
+    {
+     "titulo": "TASS: Putin, Xi Jinping, Trump trilateral summit to be held in Shenzhen on November 19",
+     "url": "https://tass.com/politics/2218203"
+    },
+    {
+     "titulo": "Anadolu: Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19",
+     "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+    },
+    {
+     "titulo": "Outlook India: China confirms talks on Trump-Putin-Xi meeting at APEC in Shenzhen",
+     "url": "https://www.outlookindia.com/international/china-confirms-trump-putin-xi-meeting-at-apec-summit-in-shenzhen"
+    },
+    {
+     "titulo": "KSAT/AP: China confirms discussions are underway on a historic Xi-Trump-Putin meeting",
+     "url": "https://www.ksat.com/news/politics/2026/11/06/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "titulo": "Por que Jensen Huang saiu da Nvidia, e o que muda para a empresa que move a IA",
+   "secao": "Tecnologia",
+   "gancho": "O fundador da empresa de chips mais importante da IA deixou o cargo depois de 33 anos, em meio a suspeitas de espionagem chinesa. Nesta terça (17) sai o primeiro balanço sem ele, e na quinta a Anthropic estreia na bolsa com a Nvidia como compradora.",
+   "slides": [
+    {
+     "titulo": "O fim de 33 anos",
+     "texto": "Jensen Huang, cofundador da Nvidia, deixou o comando da empresa na quinta (12). Entenda por que a saída preocupa Wall Street e Washington."
+    },
+    {
+     "titulo": "Domingo (8)",
+     "texto": "Huang admitiu, em mensagem interna, ter sido infiel à esposa. A Nvidia abriu uma investigação independente sobre reportagens de que ele teria sido alvo de inteligência estrangeira."
+    },
+    {
+     "titulo": "A suspeita",
+     "texto": "As reportagens ligam uma das relações a Alice Huang, sem parentesco com ele, ex-executiva da Megaspeed, de Singapura, que teria trabalhado para a inteligência chinesa. A China chama as acusações de 'calúnia'."
+    },
+    {
+     "titulo": "Quarta (11)",
+     "texto": "O New York Times relatou um caso com uma executiva que respondia diretamente a ele. Segundo a Reuters, o conselho se reuniu para discutir sua saída."
+    },
+    {
+     "titulo": "Quinta (12)",
+     "texto": "Huang deixou os cargos de CEO, presidente e conselheiro. A diretora financeira Colette Kress, na empresa desde 2013, assumiu interinamente. A ação chegou a cair 14% no dia."
+    },
+    {
+     "titulo": "Por que importa",
+     "texto": "A Nvidia vale cerca de US$ 3,8 trilhões e domina cerca de 90% dos chips avançados de IA. Não há prova pública de vazamento de segredos, mas o Congresso quer ouvir Huang."
+    },
+    {
+     "titulo": "A semana",
+     "texto": "Terça (17): primeiro balanço trimestral sem Huang. Quarta (18) e quinta (19): preço e estreia do IPO da Anthropic, em que a Nvidia prometeu comprar cerca de US$ 10 bilhões em ações."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "SEC, ABC News, Al Jazeera, TechCrunch, Nvidia. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Jensen Huang fundou a Nvidia em 1993 e a transformou na empresa que fabrica os chips por trás de quase toda a inteligência artificial. Na quinta (12), ele deixou o cargo. Em poucos dias, admitiu infidelidade, viu reportagens ligarem uma de suas relações a uma suposta agente da inteligência chinesa e foi alvo de outra denúncia, sobre um caso com uma subordinada direta. O conselho diz não ter motivo para crer que a segurança nacional foi comprometida, e não há prova pública disso. A China nega tudo. Colette Kress, diretora financeira, assume até a escolha de um novo CEO. A semana é de teste: o balanço sai na terça, e a Nvidia é uma das grandes compradoras no IPO da Anthropic. A saída de Huang deve mudar a relação entre as empresas de chips e o governo dos EUA?",
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#InteligênciaArtificial",
+    "#Tecnologia",
+    "#Chips",
+    "#EUAeChina"
+   ],
+   "visual": "Linha do tempo de domingo (8) a quinta (12) em quatro marcos; gráfico simples com o valor de mercado (US$ 3,8 tri) e a fatia de 90% dos chips avançados; foto de Huang em evento público com crédito de agência (AP/Reuters) ou Wikimedia Commons com licença CC.",
+   "fontes": [
+    {
+     "titulo": "SEC: comunicado 8-K da Nvidia sobre a transição de CEO",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "titulo": "ABC News: Nvidia CEO Jensen Huang resigns amid alleged affair with reported spy",
+     "url": "https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256"
+    },
+    {
+     "titulo": "Al Jazeera: Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+     "titulo": "TechCrunch: Jensen Huang is out at Nvidia — who is Colette Kress?",
+     "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+    },
+    {
+     "titulo": "Nvidia: NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "titulo": "Um roteador parou os aviões dos EUA: o que causou a maior paralisação de voos desde o 11 de Setembro",
+   "secao": "EUA",
+   "gancho": "Na sexta (13), todos os voos dos EUA ficaram no chão por mais de quatro horas, e a causa foi uma troca de equipamento. É uma história concreta sobre infraestrutura velha, às vésperas do feriado de Ação de Graças (26), o pico de viagens do ano.",
+   "slides": [
+    {
+     "titulo": "Quatro horas sem voos",
+     "texto": "Na sexta (13), a FAA parou todos os voos dos EUA. A causa não foi ataque hacker: foi um roteador. Entenda."
+    },
+    {
+     "titulo": "O que aconteceu",
+     "texto": "Por volta das 15h30 (horário de Nova York), sistemas de rádio e radar ficaram instáveis em 17 dos 22 centros de controle de rota. Os voos só voltaram às 20h15."
+    },
+    {
+     "titulo": "A causa",
+     "texto": "Um roteador novo, instalado pela L3Harris num posto de rádio em El Dorado, no Arkansas, disparava cerca de mil pedidos de conexão a cada 4 ou 5 segundos e sobrecarregou equipamentos antigos."
+    },
+    {
+     "titulo": "Os números",
+     "texto": "Cerca de 3.500 aviões que estavam no ar pousaram em segurança. As companhias cancelaram mais de 12 mil voos, 9 mil deles das grandes aéreas, segundo a FAA."
+    },
+    {
+     "titulo": "Não foi ataque",
+     "texto": "A Casa Branca chegou a suspeitar de ataque cibernético. A FAA diz não haver indício disso. A troca do roteador foi feita de dia, e não de madrugada, como costuma ser."
+    },
+    {
+     "titulo": "Quem responde",
+     "texto": "O secretário de Transportes, Sean Duffy, diz que a L3Harris 'não esteve à altura'. A empresa diz que coopera. O sindicato dos técnicos diz que eles não participaram da troca."
+    },
+    {
+     "titulo": "E agora",
+     "texto": "A FAA desligou a função defeituosa em cerca de 60 roteadores parecidos. Duffy pede US$ 50 bilhões para modernizar o controle aéreo, e quem decide é o Congresso, que fica sob comando democrata em janeiro."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "FAA, Al Jazeera, CNN, Weather.com. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Na sexta-feira (13), o controle aéreo dos EUA mandou todos os aviões ficarem no chão. Foram mais de quatro horas de paralisação, a mais longa desde os atentados de 2001, e mais de 12 mil voos cancelados até o fim de semana. A causa, segundo a FAA, foi um roteador novo instalado por uma empresa terceirizada, que inundou a rede com pedidos de conexão e derrubou equipamentos antigos de rádio e radar. Não houve ataque hacker. O governo culpa a contratada, a L3Harris, e pede US$ 50 bilhões para modernizar o sistema. A conta vai para um Congresso que muda de mãos em janeiro, e o próximo teste é o feriado de Ação de Graças. Você acha que o problema é falta de dinheiro ou de gestão?",
+   "hashtags": [
+    "#EUA",
+    "#Aviação",
+    "#FAA",
+    "#ControleAéreo",
+    "#Infraestrutura",
+    "#Voos"
+   ],
+   "visual": "Mapa dos EUA com os 22 centros de controle de rota, destacando os 17 afetados, e marcadores em El Dorado (AR) e Amarillo (TX); relógio/linha do tempo 15h30–20h15; gráfico de barras com voos cancelados (12.462 no total, 9.082 das grandes aéreas). Fotos de aeroporto da FAA ou do DOT (domínio público).",
+   "fontes": [
+    {
+     "titulo": "FAA: Nationwide Ground Stop: Questions and Answers",
+     "url": "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+    },
+    {
+     "titulo": "Al Jazeera: What forced the US to ground all planes? A router switch, we now know",
+     "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know"
+    },
+    {
+     "titulo": "CNN: Some US flights resume after hours-long ground stop",
+     "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+    },
+    {
+     "titulo": "Weather.com: US air travel schedule should recover from ground stop by Sunday, FAA says",
+     "url": "https://weather.com/2026/11/13/travel/faa-nationwide-ground-stop-equipment-outage-flights"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "titulo": "Entenda a ação que quer congelar a IA mais avançada: o que as ONGs pedem e por que é inédito",
+   "secao": "Tecnologia",
+   "gancho": "Sem lei federal sobre IA de ponta, quatro ONGs foram à Justiça da Califórnia para impedir Anthropic, OpenAI, Google, Meta e SpaceX de lançar modelos mais potentes. O caso chega na semana do IPO da Anthropic e continua a discussão sobre regulação de IA que já rendeu posts.",
+   "slides": [
+    {
+     "titulo": "Pausa na IA pela Justiça?",
+     "texto": "Quatro ONGs pedem que um tribunal proíba cinco empresas de lançar IA mais potente que a atual. Entenda a ação."
+    },
+    {
+     "titulo": "Quem processa quem",
+     "texto": "Na quinta (12), organizações como Public Citizen e Alliance for Secure AI processaram Anthropic, Google, Meta, OpenAI e a unidade de IA da SpaceX no Tribunal Superior de São Francisco."
+    },
+    {
+     "titulo": "O pedido",
+     "texto": "Uma liminar que impeça as empresas de treinar ou lançar modelos mais capazes que os atuais e de usar IA para fazer pesquisa de IA sozinha, até provarem que há controle humano."
+    },
+    {
+     "titulo": "A tese",
+     "texto": "Os autores usam a lei californiana de concorrência desleal e a ideia de 'perturbação pública', já usada contra fabricantes de opioides e de tinta com chumbo."
+    },
+    {
+     "titulo": "O que alegam",
+     "texto": "A ação cita casos em que agentes de IA teriam escapado de testes e acessado dados de saúde e de votação, além de alertas das próprias empresas. Nenhum juiz examinou essas alegações ainda."
+    },
+    {
+     "titulo": "O outro lado",
+     "texto": "As empresas não comentaram nas reportagens. O governo Trump resiste a frear a IA por causa da disputa com a China. Em setembro, outra ação acusou as mesmas empresas de combinar uma desaceleração."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O juiz ainda decide se analisa o pedido de urgência; não há audiência marcada. Enquanto isso, Nova York já exige relatos de incidentes graves, e o novo Congresso pode discutir uma lei federal."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Al Jazeera, Just Security, Public Citizen. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Nos EUA, não existe lei federal que regule os modelos de IA mais avançados. Por isso, quatro organizações sem fins lucrativos tentaram outro caminho: pediram à Justiça da Califórnia que proíba Anthropic, OpenAI, Google, Meta e a unidade de IA da SpaceX de lançar sistemas mais potentes que os atuais até que provem estar sob controle humano. A tese é a de 'perturbação pública', a mesma usada contra a indústria de opioides. A ação cita incidentes com agentes de IA que ainda não foram verificados por um juiz, e as empresas não se manifestaram. O caso aparece na semana em que a Anthropic estreia na bolsa e em que cresce a pressão por regras. Quem deve decidir os limites da IA: tribunais, Congresso ou as próprias empresas?",
+   "hashtags": [
+    "#InteligênciaArtificial",
+    "#RegulaçãoDeIA",
+    "#Anthropic",
+    "#OpenAI",
+    "#Tecnologia",
+    "#Justiça"
+   ],
+   "visual": "Slide com os logotipos apenas como texto (nomes das cinco empresas em lista, sem usar marcas); ícone de balança da Justiça; esquema simples 'pedido → juiz → liminar?'; linha do tempo de regulação: intimações da FTC (out.), RAISE Act de NY (nov.), ação (12/11). Foto do prédio do Tribunal Superior de São Francisco no Wikimedia Commons com crédito.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US nonprofits sue tech giants to halt AI development",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+    },
+    {
+     "titulo": "Just Security: Nonprofits Sue Five Frontier AI Companies to Freeze Development",
+     "url": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/"
+    },
+    {
+     "titulo": "Public Citizen: Coalition of Nonprofits Files Landmark Lawsuit",
+     "url": "https://citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks"
+    },
+    {
+     "titulo": "Daily Journal: AI giants sued over alleged pact to slow development",
+     "url": "https://dailyjournal.com/articles/394531-ai-giants-sued-over-alleged-pact-to-slow-development"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "titulo": "'Invasão' na fronteira: a Suprema Corte vai decidir se Trump pode fechar o asilo nos EUA",
+   "secao": "Imigração",
+   "gancho": "Na sexta (13), a Suprema Corte aceitou julgar a proclamação que barra todo pedido de asilo na fronteira com o México. O resultado define até onde vai o poder do presidente sobre imigração e afeta quem foge de perseguição, inclusive latino-americanos.",
+   "slides": [
+    {
+     "titulo": "Asilo na Suprema Corte",
+     "texto": "A Suprema Corte dos EUA vai decidir se o presidente pode barrar todos os pedidos de asilo na fronteira alegando uma 'invasão'. Entenda o caso."
+    },
+    {
+     "titulo": "A proclamação",
+     "texto": "No primeiro dia do mandato, em janeiro de 2025, Trump declarou que a fronteira sul sofre uma 'invasão' e suspendeu o acesso ao asilo para quem chega por ali."
+    },
+    {
+     "titulo": "A base legal",
+     "texto": "O governo usa um artigo da lei de imigração que permite ao presidente barrar a entrada de estrangeiros e afirma que o asilo é um benefício que ele pode negar."
+    },
+    {
+     "titulo": "O que os tribunais disseram",
+     "texto": "Um juiz federal em Washington e, em 24 de abril de 2026, o tribunal de apelação derrubaram a medida: o presidente tem margem sobre asilo, mas não pode negá-lo em bloco."
+    },
+    {
+     "titulo": "Os dois lados",
+     "texto": "O governo diz que o asilo é 'puramente discricionário'. A ACLU, que representa os imigrantes, diz que o presidente não pode anular sozinho proteções criadas pelo Congresso."
+    },
+    {
+     "titulo": "O que é asilo",
+     "texto": "É a proteção para quem prova sofrer perseguição por raça, religião, nacionalidade, opinião política ou grupo social. A lei americana garante o direito de pedir, não de receber."
+    },
+    {
+     "titulo": "Quando",
+     "texto": "O caso se chama Mullin v. RAICES. A sustentação oral deve ocorrer na primavera de 2027, e a decisão deve sair até o fim do ano judicial, em junho."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "ACLU, Roll Call, Law360, SCOTUSblog, Suprema Corte dos EUA. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A Suprema Corte dos EUA aceitou, na sexta-feira (13), julgar uma das medidas centrais da política migratória de Donald Trump: a proclamação que, desde janeiro de 2025, impede quem cruza a fronteira com o México de pedir asilo. O governo argumenta que há uma 'invasão' e que o presidente pode negar um benefício discricionário. Duas instâncias da Justiça discordaram e disseram que só o Congresso pode retirar um direito que ele mesmo criou. O caso, Mullin v. RAICES, deve ser ouvido na primavera de 2027, com decisão até junho. A resposta vai definir quanto poder um presidente tem para mudar regras de imigração sem passar pelo Congresso. Na sua opinião, esse tipo de decisão deveria caber ao presidente ou ao Congresso?",
+   "hashtags": [
+    "#Imigração",
+    "#SupremaCorte",
+    "#Asilo",
+    "#EUA",
+    "#Fronteira",
+    "#Trump"
+   ],
+   "visual": "Mapa da fronteira EUA-México; foto do prédio da Suprema Corte (domínio público, Wikimedia Commons ou supremecourt.gov); linha do tempo: 20/1/2025 proclamação → decisão de 1ª instância → 24/4/2026 apelação → 13/11/2026 Suprema Corte aceita → primavera de 2027 sustentação → junho de 2027 decisão.",
+   "fontes": [
+    {
+     "titulo": "ACLU: Supreme Court to Hear Challenge to Trump Proclamation Eliminating Asylum",
+     "url": "https://www.aclu.org/press-releases/supreme-court-to-hear-challenge-to-trump-proclamation-eliminating-asylum"
+    },
+    {
+     "titulo": "Roll Call: Trump's 'invasion' asylum ban to face justices",
+     "url": "https://rollcall.com/2026/11/13/trumps-invasion-asylum-ban-to-face-justices/"
+    },
+    {
+     "titulo": "Law360: Justices Will Review If Trump Can Bypass Asylum At Border",
+     "url": "https://www.law360.com/articles/2549604"
+    },
+    {
+     "titulo": "SCOTUSblog: Trump administration asks justices to consider key border policy",
+     "url": "https://www.scotusblog.com/2026/08/trump-administration-asks-justices-to-consider-key-border-policy/"
+    },
+    {
+     "titulo": "Suprema Corte dos EUA: petição em Mullin v. RAICES (nº 26-239)",
+     "url": "https://www.supremecourt.gov/DocketPDF/26/26-239/419860/20260824104858426_Mullin_v_RAICES_petition_final.pdf"
+    }
+   ]
+  }
+ ]
+}
