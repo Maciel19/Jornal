@@ -1,0 +1,442 @@
+{
+ "data": "2026-11-21",
+ "manchete": "Ações de IA desabam e Wall Street tem a pior semana desde 2020, mísseis russos caem na Polônia e a COP31 entra na prorrogação sem acordo",
+ "abertura": "A sexta-feira terminou com o S&P 500 e o Dow em correção, puxados pela queda de 14% da Nvidia após relato de investigação da SEC. Na Europa, um ataque russo maciço contra a Ucrânia atingiu também o território da Polônia, enquanto em Antalya os países seguem sem consenso sobre combustíveis fósseis.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Economia",
+   "temas": [
+    "Tecnologia e IA",
+    "Mercados",
+    "EUA"
+   ],
+   "historia": "wall-street-queda-ia",
+   "titulo": "Nasdaq cai 5,3% e apaga o ganho do ano; S&P 500 e Dow entram em correção com o tombo da Nvidia",
+   "oque": "Na sexta (20), o S&P 500 caiu 3,70%, para 6.910 pontos, a sétima queda seguida; a Nasdaq perdeu 5,28% e o Dow, 1,93%. Com isso, S&P e Dow ficaram mais de 10% abaixo dos recordes (correção), e a Nasdaq teve a pior semana desde março de 2020. A Nvidia caiu 14%, para US$ 125,53, e perdeu cerca de US$ 490 bilhões em valor de mercado em um dia.",
+   "contexto": "O gatilho foi uma reportagem da Reuters, com duas fontes, de que a equipe de fiscalização da SEC examina possíveis problemas contábeis na Nvidia; a SEC não comentou e a empresa não respondeu. A Nvidia já vinha pressionada pela saída de Jensen Huang do comando, em 12/11, e acumula queda de quase 50% desde o recorde de outubro. Pesam também dúvidas sobre o retorno dos gastos bilionários em infraestrutura de IA e a expectativa de que o Fed suba os juros em dezembro (o mercado precifica cerca de 95% de chance de alta de 0,25 ponto). A Anthropic, que estreou na quinta, caiu 8,5%, para US$ 88,91, ainda acima do preço de oferta de US$ 83. A onda veio da Ásia: Kospi -5,2%, Nikkei -4,8% e bolsa de Taiwan com a pior semana desde 1991.",
+   "lados": "Para o BNP Paribas, houve 'venda em pânico'. O Deutsche Bank diz que o mercado está 'muito sobrevendido' e que crescimento e lucros seguem sólidos. Outros gestores falam em 'correção saudável', que leva as ações de IA de volta aos níveis de março e abril. A natureza e o alvo exato da apuração da SEC não foram confirmados oficialmente.",
+   "proximo": "Observe a abertura de segunda (23), em semana curta de Ação de Graças; qualquer confirmação ou desmentido da SEC ou da Nvidia; se a Nasdaq passa de 20% de queda (mercado de baixa); e a reunião do Fed em dezembro. No Brasil, a B3 estava fechada na sexta (feriado) e absorve o tombo global na segunda.",
+   "fontes": [
+    {
+     "titulo": "Motley Fool: Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/"
+    },
+    {
+     "titulo": "Motley Fool: Nvidia Stock Plunge Wipes Out Nearly $500 Billion in One Day as SEC Reportedly Probes Its Accounting",
+     "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+    },
+    {
+     "titulo": "MarketScreener: Nasdaq has its worst week since 2020; Dow, S&P 500 in correction",
+     "url": "https://www.marketscreener.com/news/nasdaq-has-its-worst-week-since-2020-dow-s-p-500-in-correction-ce785ed3dc80f620"
+    },
+    {
+     "titulo": "Taipei Times: TAIEX plunges almost 18% in worst week since 1991",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868120"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia",
+    "Otan"
+   ],
+   "historia": "russia-ataque-polonia",
+   "titulo": "Rússia lança mais de 400 drones e 110 mísseis contra a Ucrânia, e dois mísseis caem na Polônia",
+   "oque": "Na madrugada de quinta para sexta, a Rússia disparou mais de 400 drones e cerca de 110 mísseis contra a Ucrânia, 27 deles balísticos, nenhum interceptado. Ao menos 8 pessoas morreram, 6 em Kiev e 2 em Lviv. Dois mísseis de cruzeiro Kh-101 e um drone caíram no sudeste da Polônia, sem vítimas.",
+   "contexto": "Moscou apresenta o ataque como retaliação aos golpes ucranianos contra a ponte da Crimeia nesta semana. O episódio ocorre um dia depois da reunião da 'coalizão dos dispostos' em Berlim, convocada como resposta europeia à cúpula Trump-Xi-Putin em Shenzhen; lá, Trump disse por telefone que Putin 'quer acabar com a guerra' e questionou a ajuda militar europeia. A queda de armas russas em território da Otan testa a coesão da aliança e a credibilidade da dissuasão no flanco leste, onde a coalizão faz seus primeiros exercícios a cerca de 100 km do local.",
+   "lados": "O premiê polonês, Donald Tusk, falou em 'provocação intencional' e pediu à Otan mais caças e aviões-radar, mas não invocou formalmente o Artigo 4. O secretário-geral da Otan, Mark Rutte, responsabilizou a Rússia e chamou o caso de 'claramente perigoso'. Trump disse que Putin vinha lançando drones e 'uns mísseis pequenos, por engano' na Polônia. Zelensky, que culpa a falta de interceptadores, respondeu a Trump que Putin 'para nós é um assassino'. Putin descartou conversar diretamente com Kiev e prometeu resposta 'muito mais dolorosa'.",
+   "proximo": "A França pediu reunião do Conselho de Segurança da ONU (data não confirmada). A Polônia investiga os destroços. Líderes da UE discutem na próxima semana como cobrir o rombo no orçamento da Ucrânia em 2027, e Bruxelas prepara o 22º pacote de sanções.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil, kill at least 8 in Ukraine",
+     "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+     "titulo": "Latin Times: Poland Requests More NATO Air Defenses After Russian Missiles, Drone Crash on Its Soil",
+     "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+    },
+    {
+     "titulo": "AP via Yahoo: Coalition of the Willing gathers in Berlin after Putin-Trump talks",
+     "url": "https://www.yahoo.com/news/politics/articles/coalition-willing-gathers-berlin-putin-161824482.html"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "TPS",
+    "Suprema Corte"
+   ],
+   "historia": "tps-venezuela",
+   "titulo": "Governo retira pedido à Suprema Corte, mas venezuelanos seguem sem TPS: tribunal de apelação prorrogou a suspensão",
+   "oque": "Em 18/11, o governo Trump pediu à Suprema Corte que bloqueasse a decisão do juiz Edward Chen, de San Francisco, que anulou o fim do TPS dos venezuelanos. Horas depois, o Tribunal de Apelação do 9º Circuito prorrogou a suspensão da decisão até sete dias após julgar o mérito, e no dia 19 o governo retirou o pedido por considerá-lo desnecessário. Na prática, o TPS segue encerrado: não há proteção restaurada nem autorização de trabalho renovada.",
+   "contexto": "Cerca de 600 mil venezuelanos tinham TPS estendido até outubro de 2026 no governo Biden. Em junho, no caso Mullin v. Doe, a Suprema Corte decidiu que designações e encerramentos de TPS em geral não podem ser revistos pela Justiça, o que pesa a favor do governo. Foi a terceira ida do governo à Suprema Corte sobre o tema; ao todo, ele encerrou o TPS de mais de 1 milhão de pessoas de 13 países.",
+   "lados": "O governo diz que restaurar o TPS causaria 'dano grave e imediato', bloqueando até 332 ordens de deportação e podendo obrigar a soltar cerca de 1.800 venezuelanos detidos. A aliança de beneficiários afirma que, desde 2025, ex-portadores foram detidos, separados de filhos americanos e deportados para a Venezuela ou terceiros países.",
+   "proximo": "O 9º Circuito não tem data para decidir o mérito. Se os beneficiários vencerem, o governo promete voltar 'imediatamente' à Suprema Corte. Advogados recomendam guardar cópias de autorizações de trabalho e protocolos.",
+   "fontes": [
+    {
+     "titulo": "SCOTUSblog: Trump administration withdraws application to Supreme Court to block lower court ruling on protected status for Venezuelan nationals",
+     "url": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/"
+    },
+    {
+     "titulo": "Al Jazeera: Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+     "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Golfo"
+   ],
+   "historia": "guerra-ira-ormuz",
+   "titulo": "Dois petroleiros são atingidos perto de Ormuz, e Guarda Revolucionária diz ter derrubado drones dos EUA",
+   "texto": "A agência britânica UKMTO relatou neste sábado dois petroleiros atingidos por 'projéteis não identificados' perto de Khasab, em Omã, sem feridos; o Irã fala em mina, versão não verificada. A Guarda Revolucionária diz ter abatido um MQ-9 e um MQ-1 americanos, sem confirmação dos EUA, e Trump disse que 'não tem pressa' para decidir os próximos passos.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    },
+    {
+     "titulo": "Jerusalem Post (Reuters): Two tankers hit by unidentified projectiles in Strait of Hormuz",
+     "url": "https://www.jpost.com/middle-east/article-915628"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "América Latina",
+    "Democracia"
+   ],
+   "historia": "bukele-terceiro-mandato",
+   "titulo": "Bukele registra candidatura ao terceiro mandato seguido em El Salvador",
+   "texto": "Nayib Bukele se inscreveu para a eleição de fevereiro de 2027, depois que seu partido usou a supermaioria para acabar com o limite de mandatos, estender o mandato para 6 anos, abolir o segundo turno e antecipar a votação. A Human Rights Watch diz que ele concorre 'depois de aparelhar a corte'; o governo defende as mudanças como vontade popular.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: El Salvador's Bukele seeks third term after constitution change",
+     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "TSE"
+   ],
+   "historia": "tse-ney-santos",
+   "titulo": "Relator no TSE vota para barrar deputado eleito Ney Santos e anular seus 118 mil votos",
+   "texto": "O ministro Floriano de Azevedo Marques votou para impedir a diplomação de Ney Santos (Republicanos-SP), réu por lavagem ligada ao tráfico, por supostos laços com o PCC; a defesa nega. Se os votos forem anulados, o TRE-SP terá de recalcular o quociente eleitoral, o que pode mudar a bancada paulista na Câmara; o plenário ainda vai decidir.",
+   "fontes": [
+    {
+     "titulo": "Diário do Grande ABC: Ministro do TSE vota para anular candidatura e votos de Ney Santos",
+     "url": "https://www.dgabc.com.br/Noticia/4369949/ministro-do-tse-vota-para-anular-candidatura-e-votos-de-ney-santos"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Clima",
+    "Rio Grande do Sul"
+   ],
+   "historia": "temporal-tupancireta",
+   "titulo": "Temporal deixa 3 mortos e 60 feridos em Tupanciretã (RS) e danifica 90% das casas",
+   "texto": "Rajadas de 114 km/h atingiram a cidade do centro gaúcho na madrugada de sexta (20), danificando cerca de 5 mil imóveis; ao menos nove outros municípios foram afetados. O governo estadual liberou R$ 2 milhões, e equipes da Defesa Civil nacional e da Força Nacional do SUS foram enviadas.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Chega a três os mortos e 60 feridos em temporal em Tupanciretã, no RS",
+     "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/chega-tres-os-mortos-e-60-feridos-emr-temporal-em-tupancireta-no-rs"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Orçamento"
+   ],
+   "historia": "orcamento-shutdown",
+   "titulo": "Verba federal acaba em 11 de dezembro, e guerra com o Irã divide o Congresso",
+   "texto": "Trump quer US$ 350 bilhões a mais para o Pentágono, mas o projeto republicano no Senado inclui só US$ 69 bilhões desse pedido; democratas se dividem entre evitar um shutdown e usar a verba para limitar a guerra. O caminho mais provável é uma prorrogação até o início do ano, quando os democratas assumem o controle do Congresso.",
+   "fontes": [
+    {
+     "titulo": "Cyprus Mail (Reuters): Congress struggles to avert US shutdown as Iran war divides lawmakers",
+     "url": "https://cyprus-mail.com/2026/11/20/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Universidades"
+   ],
+   "historia": "ice-eva-yi-xie",
+   "titulo": "ICE detém doutoranda de Princeton com pedido de asilo pendente em aeroporto de Washington",
+   "texto": "Eva Yi Xie, neurocientista no terceiro ano do doutorado, foi detida no aeroporto Reagan em 19/11, ao voltar de um congresso; sua audiência de imigração só está marcada para 2028, e o ICE não deu motivo. Princeton contratou uma advogada, e a defesa pediu habeas corpus; um título do jornal estudantil fala em ordem judicial para não transferi-la da Virgínia, ainda não confirmada.",
+   "fontes": [
+    {
+     "titulo": "The Daily Princetonian: Judge orders ICE not to move Xie, a Princeton Ph.D. student and asylum seeker, out of Virginia",
+     "url": "https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-eva-yi-xie-neuroscience-phd-ice-pending-asylum-claim"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação"
+   ],
+   "historia": "regulacao-ia-kill-switch",
+   "titulo": "Califórnia propõe poder estadual de desligar sistemas de IA perigosos; rascunho federal ligado à Anthropic segue parado",
+   "texto": "Painel de especialistas de Newsom recomendou que o estado possa ordenar o desligamento emergencial de um sistema de IA quando a empresa se recusar a contê-lo, além de auditores licenciados e aviso de incidentes em 48 horas; o governador eleito Xavier Becerra promete agir rápido, e a Assembleia volta em 7/12. Em Washington, o rascunho que permitiria à Justiça suspender modelos por 45 dias não foi apresentado, e outros projetos aguardam o novo Congresso.",
+   "fontes": [
+    {
+     "titulo": "CalMatters via Lost Coast Outpost: Newsom Touts an AI Kill Switch to Halt Dangerous OpenAI, Anthropic Releases",
+     "url": "https://lostcoastoutpost.com/2026/nov/19/newsom-touts-an-ai-kill-switch-to-halt-dangerous-o/"
+    },
+    {
+     "titulo": "PPC Land: Draft bill tied to Anthropic would let courts halt AI models for 45 days",
+     "url": "https://ppc.land/draft-bill-tied-to-anthropic-would-let-courts-halt-ai-models-for-45-days/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Câmbio",
+    "Brasil"
+   ],
+   "historia": "dolar-real",
+   "titulo": "Dólar fecha a R$ 5,93 antes do feriado, maior valor desde abril de 2025",
+   "texto": "Na quinta (19), a moeda subiu 1,1%, a sexta alta seguida, apesar da venda de US$ 1 bilhão pelo Banco Central; o Tesouro Direto chegou a suspender negociações de alguns títulos. Pesam o risco fiscal, a indefinição sobre o novo ministro da Fazenda e a fraqueza de emergentes; a Câmara vota o ajuste fiscal na segunda (23), mesmo dia em que a B3 reabre.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Flamengo enfrenta o Palmeiras hoje e é campeão brasileiro com um empate",
+   "texto": "O jogo é às 16h30 de Brasília (14h30 em Nova York) no Nubank Parque, com seis pontos de vantagem do Flamengo; Abel Ferreira deve poupar titulares de olho na final da Libertadores, dia 28, contra o Estudiantes. A CBF só entrega a taça na última rodada, no Maracanã.",
+   "fontes": [
+    {
+     "titulo": "CartaCapital: Flamengo encara Palmeiras e pode ser campeão neste sábado",
+     "url": "https://www.cartacapital.com.br/esporte/flamengo-encara-palmeiras-e-pode-ser-campeao-neste-sabado/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Fórmula 1"
+   ],
+   "historia": "f1-las-vegas",
+   "titulo": "Verstappen herda a pole em Las Vegas após punição a Antonelli",
+   "texto": "Kimi Antonelli fez o melhor tempo, mas perdeu cinco posições e larga em 6º; Verstappen sai na frente, com Russell e Norris logo atrás. A corrida é na noite deste sábado.",
+   "fontes": [
+    {
+     "titulo": "ESPN: Antonelli on Las Vegas pole but starts sixth with penalty, Verstappen promoted",
+     "url": "https://www.espn.com/f1/story/_/id/50472094/kimi-antonelli-max-verstappen-las-vegas-grand-prix-formula-1"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "jogos-vorazes-bilheteria",
+   "titulo": "Novo 'Jogos Vorazes' faz US$ 51 milhões na sexta e mira estreia de US$ 110 milhões",
+   "texto": "'Amanhecer na Colheita' arrecadou US$ 51 milhões no primeiro dia nos EUA, incluindo pré-estreias; a projeção da Deadline é de US$ 110 milhões no fim de semana, a 4ª maior estreia da franquia. Os números finais saem no domingo.",
+   "fontes": [
+    {
+     "titulo": "Deadline via Yahoo: 'Hunger Games: Sunrise On The Reaping' Hot $110M+ U.S. Opening",
+     "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hunger-games-sunrise-reaping-2nd-072242091.html"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Artes",
+    "Leilões"
+   ],
+   "historia": "van-gogh-recorde",
+   "titulo": "Van Gogh com passado na Alemanha nazista é vendido por recorde de US$ 190 milhões",
+   "texto": "'Castanheiros em flor', pintado semanas antes da morte do artista, foi arrematado na Sotheby's de Nova York, superando o recorde anterior de US$ 117 milhões. Herdeiros da família que o vendeu sob o nazismo em 1936 pediam o adiamento; a casa anunciou um acordo de termos não divulgados na véspera.",
+   "fontes": [
+    {
+     "titulo": "AP via ABC News: A van Gogh with a complex past sells for a record $190 million at auction",
+     "url": "https://abcnews.com/International/wireStory/van-gogh-complex-past-sells-record-190-million-138284157"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas"
+   ],
+   "historia": "sarampo-eua",
+   "titulo": "EUA chegam a 5.838 casos de sarampo no ano, dias após perder o status de eliminação",
+   "texto": "O balanço do CDC de 19/11 mostra 426 casos novos em uma semana e 2,6 vezes o total de 2025; a Opas retirou em 17/11 o status de eliminação de EUA, México e Bolívia por transmissão contínua de 12 meses. As Américas somam mais de 58 mil casos em 2026.",
+   "fontes": [
+    {
+     "titulo": "Contagion Live: Measles Update: November 20, 2026",
+     "url": "https://www.contagionlive.com/view/measles-update-november-20-2026"
+    },
+    {
+     "titulo": "Pharmacy Times: US Loses Measles Elimination Status After 26 Years",
+     "url": "https://www.pharmacytimes.com/view/us-loses-measles-elimination-status-after-26-years"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Matemática",
+    "Tecnologia e IA"
+   ],
+   "historia": "hipotese-riemann-ia",
+   "titulo": "Matemático da Anthropic diz ter provado a hipótese de Riemann com ajuda do Claude; comunidade ainda não validou",
+   "texto": "Levent Alpöge publicou uma nota afirmando que a prova, de cerca de 17 milhões de linhas, foi verificada no sistema formal Lean; um matemático de Rutgers disse que a checagem confirma a validade, mas entender a prova levará tempo. O Instituto Clay, que oferece US$ 1 milhão, ainda lista o problema como aberto, e uma prova rival, sem IA, foi anunciada no mesmo dia.",
+   "fontes": [
+    {
+     "titulo": "Boston Globe/AP: Anthropic worker claims to have solved math problems with help of AI",
+     "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/"
+    },
+    {
+     "titulo": "Washington Post: Using Anthropic AI, mathematician claims to have solved Riemann hypothesis",
+     "url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "ONU",
+   "temas": [
+    "Clima",
+    "COP31",
+    "Multilateralismo"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 estoura o prazo sem acordo; texto não cita petróleo, gás ou carvão",
+   "texto": "A plenária de sexta foi suspensa após aprovar só decisões já fechadas, como a confirmação da Etiópia como sede da COP32; até o fim da manhã de sábado não havia acordo. A UE e o Panamá exigem menção à transição para longe dos fósseis, a Arábia Saudita e o Grupo Árabe rejeitam, e o rascunho tirou a meta de US$ 120 bilhões anuais para adaptação.",
+   "fontes": [
+    {
+     "titulo": "RTÉ: COP31 enters extra day of talks amid fears over agreement",
+     "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
+    },
+    {
+     "titulo": "The National: Cop31 climate talks overrun in dispute over final deal",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/21/cop31-climate-talks-overrun-in-dispute-over-final-deal/"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "Tecnologia e IA",
+    "Desarmamento"
+   ],
+   "historia": "armas-autonomas-ccw",
+   "titulo": "Em Genebra, países concordam só em 'elaborar' regras para armas autônomas até 2028",
+   "texto": "Os 128 membros da convenção da ONU sobre armas convencionais rejeitaram a palavra 'negociar' e não se comprometeram com um tratado vinculante, como queriam quase 100 países; EUA, Rússia e Israel se opuseram. Organizações como a Human Rights Watch chamaram o mandato de decepcionante.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Justiça criminal"
+   ],
+   "historia": "rikers-fechamento",
+   "titulo": "Mamdani adia o fechamento de Rikers para 2032",
+   "texto": "A lei de 2019 previa 2027; pelo novo plano, as cadeias de bairro abrem entre 2029 (Brooklyn) e 2032 (Manhattan), e a população carcerária cai de 6.700 para pouco mais de 4 mil. O Conselho Municipal precisa aprovar os novos prazos, e não há estimativa de custo.",
+   "fontes": [
+    {
+     "titulo": "PBS NewsHour/AP: Mamdani sets plan to close NYC's notorious Rikers Island jail by 2032",
+     "url": "https://www.pbs.org/newshour/nation/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail-by-2032"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Transporte"
+   ],
+   "historia": "mta-tarifas",
+   "titulo": "MTA propõe aumentar tarifas e pedágios em 4% em 2027 e de novo em 2029",
+   "texto": "O plano financeiro de cinco anos atinge metrô, ônibus, LIRR, Metro-North, pontes e túneis; a passagem básica hoje é US$ 3, e os novos valores começariam em março de 2027. Haverá audiências públicas antes da votação do conselho.",
+   "fontes": [
+    {
+     "titulo": "La Voce di New York: NY transit fares and tolls set to rise 4% in 2027, with more to follow",
+     "url": "https://lavocedinewyork.com/en/new-york/2026/11/19/ny-transit-fares-and-tolls-set-to-rise-4-in-2027-with-more-to-follow/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Artigo 4 x Artigo 5 da Otan: consulta não é defesa coletiva",
+  "texto": "O Artigo 4 do Tratado do Atlântico Norte permite a qualquer membro pedir consultas quando sente sua integridade territorial, independência ou segurança ameaçada; não obriga ninguém a agir. Já o Artigo 5 diz que um ataque armado contra um aliado é um ataque contra todos, e só foi invocado uma vez, após o 11 de Setembro. O Artigo 4 já foi usado algumas vezes, incluindo pela própria Polônia em 2025, após a entrada de drones russos. Por isso a Polônia, desta vez, pediu reforços sem acionar formalmente nem um nem outro: a escolha da ferramenta sinaliza o grau de escalada que um governo está disposto a assumir.",
+  "fontes": [
+   {
+    "titulo": "Latin Times: Poland Requests More NATO Air Defenses After Russian Missiles, Drone Crash on Its Soil",
+    "url": "https://www.latintimes.com/russian-weapons-crash-poland-nato-article-4-601654"
+   },
+   {
+    "titulo": "CBS News: Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil",
+    "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm ao menos uma nota. Sem atualizações hoje: o ebola na RD Congo não teve dado novo desde o boletim da OMS de 17/11 (11.613 casos e 5.678 mortes), e a disputa Lula x Flávio no TSE não teve novidade. Seguindo suas avaliações, os destaques priorizam IA/tecnologia, geopolítica e dados de imigração.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-21T12:06:03+00:00"
+}
