@@ -1,0 +1,438 @@
+{
+ "data": "2026-11-22",
+ "manchete": "COP31 termina sem acordo, no maior fracasso das negociações do clima desde 2009, enquanto o Irã ataca bases dos EUA no Bahrein e o Flamengo é decacampeão brasileiro",
+ "abertura": "A cúpula do clima na Turquia acabou neste domingo sem texto aprovado, depois que a UE vetou um pacto que não citava combustíveis fósseis. No Golfo, o Irã atacou posições americanas no Bahrein enquanto o Catar tenta reabrir a negociação, e em Washington Trump mandou empresas contratadas pelo governo avisarem a Casa Branca sobre pedidos do Congresso.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Clima",
+    "Multilateralismo"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "COP31 termina sem acordo depois que a UE rejeita um pacto que não cita combustíveis fósseis",
+   "oque": "Na plenária final em Antália, neste domingo (22), o presidente da COP31, o ministro turco Murat Kurum, declarou que 'não há consenso' e que as decisões 'não foram adotadas'. A cúpula deveria ter acabado na sexta (20) e passou mais de 40 horas da hora. Segundo a Reuters, é o maior colapso das negociações do clima da ONU desde Copenhague, em 2009.",
+   "contexto": "O quarto rascunho, apresentado pela Turquia e pela Austrália (copresidentes), reconhecia pela primeira vez numa COP que o aquecimento vai passar de 1,5°C, mas só citava os fósseis de forma indireta, pelo 'Consenso dos Emirados' da COP28. Também tirava a meta de US$ 120 bilhões por ano para adaptação pedida pelos países em desenvolvimento e deixava 'para discussão' a ideia de triplicar esse dinheiro até 2035. Como a convenção do clima decide por consenso, uma objeção formal basta para travar o texto. O fracasso não apaga obrigações já assumidas, como o Acordo de Paris e o balanço global da COP28.",
+   "lados": "A UE fez objeção formal: seu porta-voz, o ministro irlandês Darragh O'Brien, disse ser 'inconcebível' um pacto do clima sem menção aos fósseis e falou em 'greenwashing'; Panamá, Ilhas Marshall e Alemanha também se opuseram, e cerca de 130 países defendiam manter a linguagem de 'transição para longe dos fósseis'. Do outro lado, a Arábia Saudita, apoiada pela Rússia e, segundo relatos, pela Índia, rejeitou qualquer menção aos fósseis e defendeu captura de carbono. Guterres cobrou que 'os poluidores paguem' e sugeriu imposto sobre lucros extraordinários das petroleiras.",
+   "proximo": "Não está claro se a sessão será suspensa e retomada depois, como ocorreu só uma vez, na COP6 de 2000. Temas técnicos já tinham sido empurrados para a COP32, na Etiópia, em 2027. Observe se a UE e o bloco liderado por França e Panamá tentam um acordo fora da ONU e como ficam as novas metas nacionais (NDCs).",
+   "fontes": [
+    {
+     "titulo": "Reuters (via Al-Monitor): COP31 climate talks break down as EU, others reject deal",
+     "url": "https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-break-down-eu-others-reject-deal"
+    },
+    {
+     "titulo": "UN News: COP31: Countries demand stronger climate deal amid deadlock in Antalya",
+     "url": "https://news.un.org/en/story/2026/11/1168845"
+    },
+    {
+     "titulo": "Inquisitr: EU rejects 4th COP31 draft over lack of fossil fuel reference",
+     "url": "https://www.inquisitr.com/eu-rejects-cop31-draft-fossil-fuels/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Separação de poderes",
+    "Congresso"
+   ],
+   "historia": "trump-congresso-privilegio",
+   "titulo": "Trump manda empresas contratadas pelo governo avisarem a Casa Branca sobre pedidos do Congresso, antes da posse da maioria democrata",
+   "oque": "Uma ordem executiva assinada na noite de sexta (20) obriga contratadas e subcontratadas federais a notificar a Casa Branca sempre que receberem pedidos de informação do Congresso e a reter material que o governo considere 'privilegiado'. Quem descumprir pode perder contratos ou ser suspenso de futuras licitações. Trump disse que a medida impede parlamentares de 'assediar empresas privadas'.",
+   "contexto": "A ordem vem dias depois de uma diretriz do conselheiro jurídico da Casa Branca, Will Scharf, exigindo que agências autorizem antes o depoimento de servidores ao Congresso. Os democratas venceram as duas Casas nas eleições de meio de mandato e assumem em janeiro de 2027; o provável presidente da comissão de Supervisão da Câmara, Robert Garcia, já mandou cartas pedindo preservação de documentos a 12 pessoas, entre elas JD Vance, Donald Trump Jr., Eric Trump, Jared Kushner e Stephen Miller. O choque é clássico na história americana: o 'privilégio executivo' não está escrito na Constituição e foi delimitado pela Suprema Corte, como em EUA v. Nixon (1974), que negou proteção absoluta.",
+   "lados": "Para a Casa Branca, investigações democratas sobre os negócios da família Trump, a fiscalização migratória e o caso Epstein seriam perseguição política, e Scharf sugeriu que algumas poderiam até ser criminosas. Democratas veem tentativa de esvaziar o poder de fiscalização do Congresso antes que ele seja usado. Empresas que dependem de contratos federais ficam entre as duas pressões.",
+   "proximo": "São prováveis ações na Justiça assim que o novo Congresso emitir intimações (subpoenas), a partir de janeiro. Até lá, observe se agências publicam regras para aplicar a ordem e se empresas grandes de defesa e tecnologia se manifestam. O prazo da verba federal, 11 de dezembro, é a próxima disputa entre Casa Branca e Congresso.",
+   "fontes": [
+    {
+     "titulo": "Fox News: Trump orders federal contractors to alert White House on congressional record requests",
+     "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Aeroportos",
+    "Direitos civis"
+   ],
+   "historia": "ice-prisoes-aeroportos",
+   "titulo": "ICE prende dois passageiros na ponte de embarque de um voo da Alaska Airlines em Seattle, na semana de Ação de Graças",
+   "oque": "Na manhã de sábado (21), agentes do ICE de rosto coberto detiveram duas pessoas no embarque do voo 1306 da Alaska Airlines, de Seattle para Los Angeles, que atrasou. Vídeos mostram ao menos uma pessoa sendo arrastada e uma mulher gritando que levavam sua filha, que teria permissão de trabalho. O DHS disse que foi uma 'operação direcionada' contra Ricardo Larrondo Mendoza, por suposta permanência além do visto, e que Sofia Hernandez Mejia, mexicana, também estava com o visto vencido.",
+   "contexto": "Segundo a CBS, prisões em aeroportos cresceram desde o verão, a maioria contra quem ficou além do prazo do visto, e fontes do ICE atribuem isso à cooperação com a TSA, que controla a segurança dos voos. O caso lembra o da doutoranda de Princeton Eva Yi Xie, detida no aeroporto Reagan em 19/11, e acontece no fim de semana de maior movimento de viagens do ano. Permanecer além do visto é infração civil, não crime, e costuma ser resolvida em tribunal de imigração.",
+   "lados": "O DHS afirma que Hernandez Mejia jogou café quente nos agentes e será acusada de agredir um agente federal, e que outros passageiros 'obstruíram e agrediram' a equipe; não disse para onde os dois foram levados. O Porto de Seattle disse estar 'indignado', afirmou não ter sido avisado e vai checar se protocolos combinados foram violados; a Alaska Airlines também disse não ter sido informada. O governador Bob Ferguson chamou o ICE de 'completamente fora de controle'. A relação entre os dois detidos não está confirmada: alguns veículos falam em pai e filha, mas ABC e CBS não confirmam.",
+   "proximo": "Observe se Hernandez Mejia é formalmente acusada, para onde os dois foram levados e se o Porto de Seattle muda regras de acesso de agentes federais. Com o pico de viagens até domingo (29), novos casos em aeroportos são possíveis.",
+   "fontes": [
+    {
+     "titulo": "CBS News: ICE officers arrest 2 passengers boarding Alaska Airlines flight in Seattle",
+     "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+    },
+    {
+     "titulo": "ABC News: Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport",
+     "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Golfo"
+   ],
+   "historia": "guerra-ira-eua",
+   "titulo": "Irã ataca bases americanas no Bahrein enquanto o Catar tenta mediar",
+   "texto": "O Bahrein diz que um ataque iraniano na noite de sábado (21) incendiou uma instalação industrial civil, sem feridos; a Guarda Revolucionária afirma ter atingido as bases de Riffa e Awali e destruído dois radares Patriot, alegação não verificada. Na sexta, uma delegação do Catar conversou duas horas em Teerã; o Irã exige manter o urânio enriquecido, fim do bloqueio naval e das sanções, e Trump diz querer um acordo 'permanente' que impeça a bomba.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Bahrain says Iranian attack caused fire at industrial facility",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    },
+    {
+     "titulo": "Al Jazeera: Iran says held talks with Qatari mediators, urges US to accept conditions",
+     "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Otan",
+    "Rússia"
+   ],
+   "historia": "russia-ataque-polonia",
+   "titulo": "Rutte promete defender 'cada centímetro' da Polônia, e o Conselho da Otan se reúne na segunda",
+   "texto": "Em Varsóvia, no sábado (21), o secretário-geral da Otan disse ter pedido ao comandante militar da aliança que reforce a defesa após a queda de dois mísseis russos em território polonês; a Polônia pediu F-35 e aviões radar Awacs, mas não invocou formalmente o Artigo 4. Tusk fala em 'provocação intencional', e Trump disse que pode ter sido um 'erro'.",
+   "fontes": [
+    {
+     "titulo": "RBC-Ukraine: Rutte pledges to defend Poland after Russia's missiles violate its airspace",
+     "url": "https://newsukraine.rbc.ua/news/nato-will-defend-every-inch-of-poland-after-1795292171.html"
+    },
+    {
+     "titulo": "Al Jazeera: Russian missiles hit Poland: What happened, and could NATO respond?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Báltico",
+    "Rússia"
+   ],
+   "historia": "baltico-kaliningrado",
+   "titulo": "Drones atingem navio de carga a caminho de Kaliningrado no Golfo da Finlândia",
+   "texto": "O ataque de sábado (21), em águas internacionais perto da fronteira russa, provocou incêndio e a retirada da tripulação; ninguém assumiu a autoria. A Finlândia restringiu o tráfego aéreo e marítimo no leste do golfo e avisou os aliados, num sinal de que o Báltico vira mais um ponto de atrito entre Otan e Rússia.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Ajuste fiscal"
+   ],
+   "historia": "ajuste-fiscal-2026",
+   "titulo": "Às vésperas da votação na Câmara, Lula defende o ajuste fiscal e ataca os 'yuppies da Faria Lima'",
+   "texto": "Numa live no sábado (21), Lula disse que 'não é o sistema financeiro' que vai ensiná-lo a governar, negou cortes em saúde, educação e salário mínimo e elogiou o ministro do Planejamento, Bruno Moretti, criticado pela esquerda. A Câmara vota o texto do Senado nesta segunda (23), às 18h; por ser lei complementar, precisa de 257 votos, e qualquer mudança no mérito o devolve ao Senado.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Lula rebate críticas da esquerda a ajuste fiscal, ironiza Faria Lima e defende Moretti",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/21/lula-rebate-criticas-da-esquerda-a-ajuste-fiscal-ironiza-faria-lima-e-defende-moretti"
+    },
+    {
+     "titulo": "Gazeta do Povo: Motta agenda votação do ajuste fiscal de Lula na Câmara para segunda-feira (23)",
+     "url": "https://www.gazetadopovo.com.br/republica/motta-agenda-votacao-ajuste-fiscal-lula-camara-segunda-feira-23/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Clima",
+    "Rio Grande do Sul"
+   ],
+   "historia": "temporal-tupancireta",
+   "titulo": "Governo reconhece calamidade em Tupanciretã (RS), onde 8 mil das 8.600 casas foram danificadas",
+   "texto": "O reconhecimento federal saiu no sábado (21), e a Agência Brasil relatou uma quarta morte, ainda não incluída nos números oficiais de três mortos e mais de 60 feridos. No estado, 33 municípios e quase 20 mil pessoas foram afetados; o Exército enviou cerca de 200 militares e o Bolsa Família será antecipado.",
+   "fontes": [
+    {
+     "titulo": "Agora RN: Calamidade pública em Tupanciretã (RS) é reconhecida",
+     "url": "https://agorarn.com.br/brasil/governo-reconhece-calamidade-publica-tupancireta/"
+    },
+    {
+     "titulo": "Revista Fórum: Governo Lula mobiliza força-tarefa após temporal destruir milhares de casas no RS",
+     "url": "https://revistaforum.com.br/politica/lula-forca-tarefa-temporal-rs/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Moradia",
+    "Justiça"
+   ],
+   "historia": "hud-familias-mistas",
+   "titulo": "Processos tentam barrar regra que tira famílias com imigrantes sem status da moradia subsidiada",
+   "texto": "A regra do HUD, que vale a partir de 14/12, exige comprovar cidadania ou status de todos os moradores e, pela própria estimativa do governo, pode desalojar cerca de 80 mil pessoas, 36 mil delas crianças elegíveis. Uma ação coletiva em Massachusetts inclui moradores das Alfred E. Smith Houses, em Manhattan; o secretário Scott Turner diz que a norma apenas cumpre a lei de 1980.",
+   "fontes": [
+    {
+     "titulo": "Newsweek: Trump sued over rule that could separate US citizens from parents",
+     "url": "https://newsweek.com/trump-sued-over-rule-that-could-separate-us-citizens-from-parents-12732062"
+    },
+    {
+     "titulo": "Legal Aid NYC: petição inicial da ação sobre famílias de status misto (19/11)",
+     "url": "https://legalaidnyc.org/wp-content/uploads/2026/11/File-Stamp-11.19.26-1120-am-Mixed-Status-Families-Complaint.pdf"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Data centers",
+    "Política industrial"
+   ],
+   "historia": "data-centers-ia",
+   "titulo": "Trump ameaça 'imposto tremendo' para empresas que construírem data centers de IA fora dos EUA",
+   "texto": "Na sexta (20), ele não deu detalhes, admitiu não ter consultado a própria equipe e pediu que comunidades aceitem os centros, cobrando contrapartidas. A resistência local a data centers pesou nas eleições de meio de mandato, e licenças negadas por prefeituras viraram o principal gargalo do setor.",
+   "fontes": [
+    {
+     "titulo": "ABC News (AP): Trump says he plans to penalize companies that build data centers in other countries",
+     "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Segurança digital"
+   ],
+   "historia": "vazamentos-cadeia-ia",
+   "titulo": "Estudo com 2 milhões de iscas mostra segredos de usuários vazando por revendedores de IA",
+   "texto": "O pesquisador HD Moore, da Dragos, inseriu credenciais falsas em prompts enviados a serviços de IA e viu sinais de invasão em pelo menos três provedores; num caso, chaves da AWS roubadas foram usadas em dezenas de milhares de chamadas. Um laboratório chinês não identificado acessou links secretos até de prompts marcados como 'sem retenção de dados'; a maioria das empresas não foi nomeada.",
+   "fontes": [
+    {
+     "titulo": "Dragos: Three breaches, endless leaks: Your AI supply chain needs canaries",
+     "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Juros",
+    "EUA",
+    "Mercados"
+   ],
+   "historia": "fed-juros-dezembro",
+   "titulo": "Mesmo com a bolsa em queda, Fed sinaliza alta de juros, e a semana curta traz o PCE na quarta",
+   "texto": "A diretora Lisa Cook disse na sexta (20) que, se o Fed ficar para trás, 'altas maiores' podem ser necessárias; o mercado ainda vê cerca de 92% de chance de alta de 0,25 ponto em 9/12, segundo relatos baseados no CME FedWatch. O PCE de outubro e o PIB do 3º tri saem na quarta (25), e a bolsa fecha na quinta pelo Dia de Ação de Graças; a B3 reabre na segunda depois do feriado e absorve o tombo de sexta.",
+   "fontes": [
+    {
+     "titulo": "24/7 Wall St: Fed's Lisa Cook Warns of Larger Rate Hikes Ahead",
+     "url": "https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/"
+    },
+    {
+     "titulo": "BEA: Release schedule",
+     "url": "https://www.bea.gov/news/schedule"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "Criptomoedas"
+   ],
+   "historia": "bitcoin-queda",
+   "titulo": "Bitcoin cai a US$ 55 mil, menor nível desde setembro de 2024",
+   "texto": "No sábado (21), a moeda chegou a US$ 55.326 antes de voltar a cerca de US$ 60 mil, com US$ 2,4 bilhões em posições alavancadas liquidadas em 24 horas, segundo a CoinGlass. O movimento acompanha a venda de ações de tecnologia e a perspectiva de juros mais altos.",
+   "fontes": [
+    {
+     "titulo": "Investing.com: Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000",
+     "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Flamengo empata com o Palmeiras e é decacampeão brasileiro, o segundo título seguido",
+   "texto": "Jhon Arias abriu o placar para o Palmeiras no Nubank Parque, e Samuel Lino empatou no segundo tempo; com 80 pontos contra 74 e mais vitórias, o time de Leonardo Jardim não pode mais ser alcançado a duas rodadas do fim. O Palmeiras decide a Libertadores contra o Estudiantes no sábado (28), em Montevidéu, e Inter e Grêmio seguem na zona de rebaixamento.",
+   "fontes": [
+    {
+     "titulo": "ESPN Brasil: Flamengo empata com Palmeiras e se sagra campeão brasileiro no Nubank Parque",
+     "url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Fórmula 1"
+   ],
+   "historia": "f1-2026",
+   "titulo": "Verstappen vence em Las Vegas, com Norris e Piastri no pódio",
+   "texto": "Foi a terceira vitória dele na cidade, numa corrida com várias trocas de liderança e safety car após batida entre Pérez e o brasileiro Rafael Câmara, que será investigada. Kimi Antonelli, 4º, já é campeão do mundo com a Mercedes; faltam Catar (27 a 29/11) e Abu Dhabi (4 a 6/12).",
+   "fontes": [
+    {
+     "titulo": "Formula1.com: Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+     "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX"
+    },
+    {
+     "titulo": "RaceFans: 2026 Las Vegas Grand Prix race result and championship points",
+     "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-race-result-and-championship-points/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "jogos-vorazes-bilheteria",
+   "titulo": "'Jogos Vorazes: Amanhecer na Colheita' caminha para estreia acima de US$ 110 milhões",
+   "texto": "O primeiro dia rendeu US$ 56 milhões, segundo a TheWrap (a Deadline falava em US$ 51 milhões), e as projeções para o fim de semana vão de US$ 110 milhões a US$ 120 milhões nos EUA, com nota A- do público no CinemaScore. Seria a primeira estreia acima de US$ 100 milhões da Lionsgate desde 2015; os números oficiais saem hoje.",
+   "fontes": [
+    {
+     "titulo": "TheWrap: 'Hunger Games: Sunrise on the Reaping' Becomes Lionsgate's First $100 Million-Plus Opening Since 2015",
+     "url": "https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Cultura",
+   "temas": [
+    "Música",
+    "Prêmios"
+   ],
+   "historia": "mama-awards-2026",
+   "titulo": "BTS leva artista e álbum do ano no MAMA, maior prêmio do k-pop",
+   "texto": "Na cerimônia em Osaka, encerrada no sábado (21), o grupo venceu com o álbum 'Arirang'; CORTIS ganhou canção do ano com 'RedRed' e o BIGBANG levou melhor clipe. O resultado só pôde ser confirmado em uma fonte aberta e na manchete da Billboard.",
+   "fontes": [
+    {
+     "titulo": "CelebMix: MAMA Awards 2026: All the Winners and Biggest Moments From Osaka",
+     "url": "https://celebmix.com/mama-awards-2026-all-the-winners-and-biggest-moments-from-osaka/"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço"
+   ],
+   "historia": "voyager-1",
+   "titulo": "Voyager 1 chega a um 'dia-luz' da Terra, mas está sem enviar dados desde 14/11",
+   "texto": "A sonda passou de 25,9 bilhões de km em 18/11, e um sinal agora leva 24 horas para chegar; o JPL confirmou a posição pelo sinal de portadora, mas não recebe dados científicos nem de engenharia há mais de uma semana. Os instrumentos devem durar ao menos até meados de 2027.",
+   "fontes": [
+    {
+     "titulo": "ScienceDaily (NASA/JPL): NASA's Voyager 1 Is Now So Far Away That Light Takes 24 Hours to Reach It",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Meio ambiente",
+    "Amazônia",
+    "Brasil"
+   ],
+   "historia": "desmatamento-lista-prioritaria",
+   "titulo": "Estudo na PNAS: 'lista suja' de municípios cortou um terço do desmatamento na Amazônia",
+   "texto": "Os 88 municípios incluídos na lista federal desde 2008 desmataram em média 30,7 km² a menos por ano, sem empurrar o desmatamento para os vizinhos; o efeito se concentrou em terras privadas e assentamentos. Os autores pedem cautela porque as tendências anteriores não eram idênticas.",
+   "fontes": [
+    {
+     "titulo": "Nature World News: Brazil's 'Priority List' Cut Amazon Deforestation by About a Third in Targeted Towns, PNAS Study Finds",
+     "url": "https://www.natureworldnews.com/articles/73968/20261120/brazils-priority-list-cut-amazon-deforestation-about-third-targeted-towns-pnas-study-finds.htm"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Trabalho",
+    "Amazon"
+   ],
+   "historia": "amazon-entregadores-nyc",
+   "titulo": "Amazon ameaça encarecer pedidos em NY se a Câmara obrigar a contratar entregadores diretamente",
+   "texto": "O projeto de Tiffany Cabán seria o primeiro do país a proibir o modelo de terceirizadas; a Amazon diz em anúncios que cada pedido pode custar até US$ 5 a mais. A presidente da Câmara, Julie Menin, chamou a campanha de 'enganosa' e negocia um meio-termo, e Mamdani diz que alta de preço viria da 'ganância'; não há data de votação.",
+   "fontes": [
+    {
+     "titulo": "NY Daily News (via Yahoo): Amazon threatens NYC orders could be $5 more if Council bill passes",
+     "url": "https://www.yahoo.com/news/politics/articles/amazon-threatens-nyc-orders-could-205400418.html"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Moradia"
+   ],
+   "historia": "newark-housing-authority",
+   "titulo": "Governo federal assume a autoridade de habitação de Newark e destitui o conselho",
+   "texto": "O HUD declarou o órgão em 'inadimplência substancial' de um acordo de recuperação de 2024, por metas de ocupação e de finanças não cumpridas, e passou os poderes a dois funcionários federais. A direção admitiu as falhas mas disse estar melhorando; não há prazo para o fim da intervenção.",
+   "fontes": [
+    {
+     "titulo": "New Jersey Globe: Federal government takes over Newark Housing Authority, removes board",
+     "url": "https://newjerseyglobe.com/local/federal-government-takes-over-newark-housing-authority-removes-board/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Por que um só país pode travar uma COP",
+  "texto": "A convenção do clima da ONU (UNFCCC) nunca aprovou suas regras de votação: desde a primeira COP, em 1995, a regra sobre votos ficou entre colchetes por oposição de alguns países, principalmente produtores de petróleo. Sem ela, as decisões saem por consenso, entendido como ausência de objeção formal. Isso dá poder de veto prático a qualquer delegação, e a presidência às vezes 'bate o martelo' por cima de protestos, como na COP28, quando o balanço global foi aprovado antes de os pequenos países insulares voltarem à sala. Em Antália, a objeção formal da UE impediu essa saída.",
+  "fontes": [
+   {
+    "titulo": "UN News: COP31: Countries demand stronger climate deal amid deadlock in Antalya",
+    "url": "https://news.un.org/en/story/2026/11/1168845"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm destaque ou nota. Sem atualizações hoje: no ebola, o boletim da OMS de 20/11 repete os dados de 17/11 (11.613 casos e 5.678 mortes) e só acrescenta que duas vacinas específicas para a cepa Bundibugyo devem entrar em teste nas próximas semanas; na disputa Lula x Flávio sobre sigilos, o TSE encerrou o caso em 4/11 e não houve novidade. Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido. Pelas avaliações, dei peso a política dos EUA, imigração com dados e decisões judiciais, IA e Brasil, e evitei Israel e Gaza. Avisos: a ordem de Trump foi confirmada só pela Fox News (CNN, NPR e Washington Post também noticiaram, mas não abriram); as alegações do Irã sobre o Bahrein não têm verificação independente; a chance de alta do Fed vem de fonte secundária; os números de bilheteria são projeções e divergem; o MAMA teve só uma fonte aberta. Gothamist, NPR, CNN, Variety e Billboard bloquearam acesso.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-22T12:08:49+00:00"
+}
