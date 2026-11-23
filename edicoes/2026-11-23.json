@@ -1,0 +1,482 @@
+{
+ "data": "2026-11-23",
+ "manchete": "Câmara vota hoje o ajuste fiscal de Lula com o dólar perto de R$ 5,93, enquanto a Otan se reúne em emergência sobre os mísseis russos na Polônia",
+ "abertura": "A semana curta de Ação de Graças começa com a Câmara decidindo o principal pacote fiscal do governo e com Wall Street tentando se recuperar da pior semana desde 2020. Fora dos mercados, governadores dos EUA propõem como dividir com Washington a regulação da IA, e o governo americano admite ter deportado um cidadão.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Surto passa de 11,6 mil casos, e combates prendem equipe da OMS em hospital de Ituri",
+   "texto": "A OMS contava 11.613 casos e 5.678 mortes até 17/11, contra 9.704 casos e 4.687 mortes em 20/10; a letalidade segue perto de 48%. No domingo (22), Tedros disse que confrontos perto de um hospital em Ituri obrigaram profissionais de saúde a se abrigar por mais de 24 horas numa maternidade e pediu paz: 'o melhor remédio é a paz'. A OMS vê leve queda em algumas áreas, mas 'transmissão sustentada e alta' no conjunto; a vacina segue em teste (estudo TUMAINI, desde 23/10).",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+     "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region"
+    },
+    {
+     "titulo": "ECDC: Ebola disease outbreak update",
+     "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Congresso"
+   ],
+   "historia": "ajuste-fiscal-2026",
+   "titulo": "Câmara vota hoje o ajuste fiscal; se mudar uma vírgula, o texto volta ao Senado",
+   "oque": "Hugo Motta convocou sessão extraordinária para as 18h (Brasília) para votar o PLP 299/2026, o pacote de ajuste fiscal do governo. Por ser lei complementar, precisa de ao menos 257 votos. O relator, Mauro Benevides Filho (União-CE), manteve sem mudanças o texto aprovado pelo Senado por 69 a 2 em 18/11.",
+   "contexto": "O pacote é a resposta do governo à desconfiança do mercado: o dólar fechou a R$ 5,932 na quinta (19), maior valor desde abril de 2025, com alta de 9% no mês, e o Tesouro Direto chegou a suspender negociações por volatilidade. As estimativas de impacto vão de R$ 45 bi a R$ 56 bi em 2027. As medidas centrais limitam compensações tributárias, reduzem de 2,5% para 2% o teto de crescimento real do gasto em certas condições e dão 60 dias ao Congresso para tratar dos supersalários. Hoje também é o primeiro pregão desde o feriado.",
+   "lados": "O governo quer aprovação sem mudanças; Lula disse no sábado que 'o sistema financeiro não vai ensinar como dirigir o país'. O mercado considera o ajuste insuficiente, a ala esquerda do PT vê concessão demais, o PL tenta alterar o texto com destaques e municípios contestam o limite à compensação previdenciária.",
+   "proximo": "Se aprovado sem alterações, vai à sanção; com mudanças, volta ao Senado e pode atrasar o Orçamento de 2027. O resultado deve sair à noite. Observe também a reação do dólar e a escolha do ministro da Fazenda do novo mandato, prevista para o fim do mês.",
+   "fontes": [
+    {
+     "titulo": "Estado de Minas: Câmara vota hoje o ajuste fiscal de Lula com negociação voto a voto",
+     "url": "https://www.em.com.br/politica/2026/11/7542486-camara-vota-hoje-o-ajuste-fiscal-de-lula-com-negociacao-voto-a-voto.html"
+    },
+    {
+     "titulo": "Revista Fórum: Ajuste fiscal vai à votação na Câmara mesmo com 'mau humor' do mercado e da oposição",
+     "url": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao"
+    },
+    {
+     "titulo": "JB: Dólar fecha acima de R$ 5,93 apesar de atuação do Banco Central",
+     "url": "https://www.jb.com.br/economia/2026/11/1061603-dolar-fecha-acima-de-rs-593-apesar-de-atuacao-do-banco-central.html"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Regulação",
+    "EUA",
+    "Federalismo"
+   ],
+   "historia": "regulacao-ia-kill-switch",
+   "titulo": "Governadores pedem regras federais para IA de fronteira, mas sem tirar dos estados o poder de proteger moradores",
+   "oque": "A Associação Nacional de Governadores (NGA) divulgou no domingo (22) princípios para a regulação da IA. Washington cuidaria dos riscos nacionais e internacionais dos modelos de fronteira, com revisões de segurança independentes e notificação obrigatória de incidentes graves; os estados manteriam o poder de regular o uso da IA, e a lei federal não anularia as estaduais.",
+   "contexto": "O documento entra na disputa central da política de IA nos EUA: quem manda. O rascunho federal no Senado (Thune, Cruz e Klobuchar), com dever de cuidado e poder de bloquear o lançamento de modelos inseguros, está parado; a ideia de dar à Justiça poder de suspender modelos de alto risco, que a Anthropic levou ao Congresso em outubro, também não avançou. Enquanto isso, os estados agem: a Califórnia propôs um 'botão de desligar' estadual, Nova York prepara o 'RAISE 2.0', que permitiria a um órgão estadual mandar cortar o poder de computação de desenvolvedores, e 23 procuradores-gerais pediram ao Congresso regras obrigatórias sem preempção. O Congresso eleito em novembro, de maioria democrata, toma posse em 3 de janeiro.",
+   "lados": "Os governadores, liderados por Wes Moore (D-MD) com apoio de Mike Braun (R-IN) e Spencer Cox (R-UT), dizem que 'os humanos precisam continuar no controle'. O governo Trump defende menos limites e já criticou leis estaduais; parte da indústria prefere uma regra federal única que se sobreponha às estaduais.",
+   "proximo": "Acompanhe os rascunhos do novo Congresso a partir de janeiro e o RAISE 2.0 em Albany, previsto para 2027. Na quarta (25), vence o prazo do governo para a Nvidia responder sobre vendas de chips à China, outro foco da política de tecnologia.",
+   "fontes": [
+    {
+     "titulo": "The Next Web: Governors want federal AI rules that leave states room to protect residents",
+     "url": "https://thenextweb.com/news/governors-ai-principles-federal-state-roles-nga"
+    },
+    {
+     "titulo": "Bloomberg: Governors Call for Federal AI Rules Without Sidelining States",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states"
+    },
+    {
+     "titulo": "Bloomberg Law: New York Democrats Plan Country's Toughest AI Limits in 2027",
+     "url": "https://news.bloomberglaw.com/new-york-brief/new-york-democrats-plan-countrys-toughest-ai-limits-in-2027"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Deportações",
+    "Justiça"
+   ],
+   "historia": "cidadaos-deportados",
+   "titulo": "Governo admite em juízo que deportou um cidadão americano e pede que o processo dele seja arquivado",
+   "oque": "Em petição de 20/11, a Procuradoria federal no oeste do Texas reconheceu que Brian José Morales García, nascido em Denver, tem dupla cidadania americana e mexicana. Ele foi deportado no início de 2026 após uma blitz da polícia estadual do Texas. Mesmo assim, o governo pede o arquivamento da ação, alegando imunidade na aplicação da lei de imigração.",
+   "contexto": "Em abril, a CBP afirmou que 'NÃO prendeu um cidadão americano'. Morales García voltou aos EUA por um acordo em agosto e processa ICE, polícia do Texas e o xerife do condado de Gillespie. O caso não é isolado: a ProPublica contou mais de 170 cidadãos americanos detidos por agentes de imigração nos primeiros nove meses do segundo mandato de Trump, num período de deportações recordes e de parcerias com polícias locais.",
+   "lados": "O governo sustenta que agentes têm imunidade e que o caso não deve seguir. A defesa, da advogada Kate Lincoln-Goldfinch, vai contestar e argumenta que a deportação de um cidadão é exatamente o tipo de erro que a Justiça precisa poder rever.",
+   "proximo": "O juiz Robert Pitman ainda não decidiu. Em paralelo, a Suprema Corte aceitou julgar a suspensão do asilo na fronteira (Mullin v. RAICES), com sustentação oral prevista para a primavera de 2027.",
+   "fontes": [
+    {
+     "titulo": "Texas Tribune: Feds admit in court filing that Austin man who was deported held dual citizenship",
+     "url": "https://www.texastribune.org/2026/11/20/texas-man-deportation-federal-lawsuit-dismissal-sought/"
+    },
+    {
+     "titulo": "SCOTUSblog: Supreme Court agrees to hear case on Trump administration's suspension of asylum",
+     "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Otan",
+    "Rússia"
+   ],
+   "historia": "russia-ataque-polonia",
+   "titulo": "Otan faz reunião de emergência; Polônia confirma que um dos objetos era um míssil russo Kh-101",
+   "texto": "Promotores poloneses confirmaram o Kh-101, fabricado no fim de 2026, entre os três objetos que caíram na sexta (20); um piloto sueco de Gripen tinha autorização para abatê-lo, mas o mau tempo impediu a confirmação visual. A Polônia pede mais aviões-radar AWACS e F-35, e o comandante da Otan na Europa revisa a postura de dissuasão.",
+   "fontes": [
+    {
+     "titulo": "Stars and Stripes: NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
+     "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+    },
+    {
+     "titulo": "Kyiv Post: NATO to Offer Poland 'Strong Support' After Russian Missiles Enter Its Airspace",
+     "url": "https://www.kyivpost.com/post/90893"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Europa"
+   ],
+   "historia": "guerra-hibrida-russia",
+   "titulo": "Polônia e Dinamarca acusam a Rússia de tentar matar duas vezes um rapper ucraniano",
+   "texto": "Segundo os dois países, Albert Vasiliev ('Kyivstoner'), ucraniano com cidadania americana, foi alvo de um plano frustrado na Polônia em agosto e de outro num show perto de Copenhague em setembro; a Dinamarca expulsou um diplomata russo e estuda suspender vistos Schengen para russos. Moscou diz que as acusações não têm prova.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Poland says Russia tried to assassinate Ukrainian rapper twice",
+     "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Eleições"
+   ],
+   "historia": "midterms-2026",
+   "titulo": "Democratas chegam a 258 cadeiras, a maior maioria na Câmara desde 1992",
+   "texto": "Após recontagem, o democrata Chuck Hubbard derrotou Virginia Foxx na Carolina do Norte por 330 votos; ainda há 4 disputas em aberto. Trump disse que seria 'muito difícil' trabalhar com Schumer, que enfrenta Chris Van Hollen na eleição para líder do Senado em 1º de dezembro.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Democrats win largest House majority since 1992 with North Carolina seat",
+     "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+    },
+    {
+     "titulo": "Al Jazeera: Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+     "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Meio ambiente",
+    "Justiça",
+    "Poder Executivo"
+   ],
+   "historia": "iowa-azida-chumbo",
+   "titulo": "Exército planeja detonar 4,4 toneladas de azida de chumbo em Iowa apesar de suspensão judicial",
+   "texto": "Um tribunal de apelação suspendeu na sexta a licença de emergência da EPA, mas o Departamento de Justiça diz que o Exército pode agir por exceção de emergência, alegando que o material formou cristais instáveis. Ambientalistas temem uma nuvem de chumbo que chegue a Illinois; a data da explosão diverge entre fontes (hoje, terça ou quarta).",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: 'Extremely concerning': Inside a US Army plan to detonate Iowa lead stores",
+     "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores"
+    },
+    {
+     "titulo": "The Intercept: Iowa lead ammunition detonation",
+     "url": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Governo"
+   ],
+   "historia": "lula-ministerio-2027",
+   "titulo": "Bastidores apontam Durigan mais forte para seguir na Fazenda no quarto mandato de Lula",
+   "texto": "Segundo a colunista Vera Magalhães, Dario Durigan, ministro desde março, ganha força, Rafael Fonteles está praticamente descartado e Camilo Santana é favorito para a Casa Civil. Os nomes são relatos de bastidor, sem anúncio oficial; Lula toma posse em 5 de janeiro.",
+   "fontes": [
+    {
+     "titulo": "Brasil 247: Lula deve definir Casa Civil e Fazenda até o fim de novembro",
+     "url": "https://www.brasil247.com/poder/lula-deve-definir-casa-civil-e-fazenda-ate-o-fim-de-novembro/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração",
+    "Deportações",
+    "Terceiros países"
+   ],
+   "historia": "deportacoes-terceiros-paises",
+   "titulo": "Mais 25 deportados pelos EUA, a maioria sul-americanos, chegam à Libéria",
+   "texto": "O grupo pousou na sexta (21) dentro do acordo pelo qual a Libéria aceita até 1.200 estrangeiros em um ano. O NYT relatou um pagamento americano de US$ 5 milhões, que o governo liberiano nega ter recebido; ONGs de direitos humanos contestam esses acordos.",
+   "fontes": [
+    {
+     "titulo": "Asharq Al-Awsat/AFP: 25 Migrants Deported from US Arrive in Liberia",
+     "url": "https://english.aawsat.com/world/5344185-25-migrants-deported-us-arrive-liberia"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Chips",
+    "China"
+   ],
+   "historia": "nvidia-china-chips",
+   "titulo": "Bessent deixa aberta a volta de Jensen Huang à Nvidia, que tem até quarta para responder sobre chips na China",
+   "texto": "O secretário do Tesouro disse à CBS que Huang 'já está de fora' e que o governo ainda espera saber 'onde fica a responsabilidade'. A Nvidia precisa informar até 25/11 se usou empresas de fachada para vender chips avançados à China; a alegação de espionagem ligada ao caso não foi comprovada publicamente.",
+   "fontes": [
+    {
+     "titulo": "Motley Fool: Bessent just delivered great news to former Nvidia CEO Jensen Huang",
+     "url": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/"
+    },
+    {
+     "titulo": "Fortune: Bessent on Nvidia and Jensen Huang",
+     "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Cibersegurança",
+    "Fusões"
+   ],
+   "historia": "crowdstrike-zscaler",
+   "titulo": "CrowdStrike anuncia compra da Zscaler por cerca de US$ 43,9 bilhões em ações",
+   "texto": "Cada ação da Zscaler valerá 1,135 ação da CrowdStrike, e George Kurtz comandará a empresa combinada. O negócio ainda depende de voto dos acionistas e de aprovação regulatória, num momento de apagões tecnológicos em série nos EUA.",
+   "fontes": [
+    {
+     "titulo": "CrowdStrike (SEC 8-K): press release",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+     "titulo": "Bloomberg: CrowdStrike Reaches $44 Billion Cybersecurity Deal for Zscaler",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Brasil",
+    "Juros"
+   ],
+   "historia": "focus-boletim",
+   "titulo": "Focus eleva inflação e dólar e já vê Selic a 13% no fim de 2027",
+   "texto": "O mercado subiu a projeção do IPCA de 2026 para 5,15% e a de 2027 para 5,12%, e a do dólar no fim deste ano de R$ 5,40 para R$ 5,55. A Selic de 2026 segue em 13,75%; para 2027 a mediana subiu pela segunda semana, a 13%.",
+   "fontes": [
+    {
+     "titulo": "Canal Rural: Focus mantém Selic de 2026 em 13,75% e eleva projeção de 2027 para 13,00%",
+     "url": "https://www.canalrural.com.br/economia/focus-mantem-selic-de-2026-em-1375-e-eleva-projecao-de-2027-para-1300/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "EUA",
+    "Mercados"
+   ],
+   "historia": "wall-street-queda-ia",
+   "titulo": "Futuros de Wall Street sobem forte depois da correção, com o PCE e a alta de juros no radar",
+   "texto": "Às 5h ET, os futuros do Nasdaq subiam 3,5% e a Nvidia cerca de 8% no pré-mercado, após a semana em que os três índices entraram em correção; a Coreia do Sul caiu 3,3%. O PCE de outubro sai na quarta, e a ata do Fed mostrou quase consenso por nova alta de 0,25 ponto em dezembro.",
+   "fontes": [
+    {
+     "titulo": "Investing.com: Wall Street futures jump after major indexes enter correction territory",
+     "url": "https://ca.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-4974621"
+    },
+    {
+     "titulo": "AP/ADN: Fed minutes: Higher interest rates needed in December",
+     "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Remo é rebaixado, e Inter e Grêmio jogam hoje para sair do Z-4",
+   "texto": "O Athletico venceu o Remo por 4 a 2 e confirmou o segundo rebaixado, depois da Chapecoense. Inter e Grêmio, com 38 pontos, estão a 2 do Corinthians e enfrentam hoje Vitória e Santos.",
+   "fontes": [
+    {
+     "titulo": "O Liberal: Remo perde para o Athletico e está rebaixado à Série B",
+     "url": "https://www.oliberal.com/esportes/remo/remo-perde-para-o-athletico-e-esta-rebaixado-a-serie-b-do-brasileirao-1.1197105"
+    },
+    {
+     "titulo": "Metrópoles: Internacional e Grêmio lutam por sobrevivência no Brasileirão nesta segunda",
+     "url": "https://www.metropoles.com/esportes/internacional-e-gremio-lutam-por-sobrevivencia-no-brasileirao-nesta-segunda"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Libertadores",
+    "Champions League"
+   ],
+   "historia": "libertadores-2026",
+   "titulo": "Semana de decisões: Palmeiras faz a final da Libertadores no sábado, e a Champions tem a 5ª rodada",
+   "texto": "O Palmeiras enfrenta o Estudiantes em Montevidéu no dia 28 e ainda decide a Copa do Brasil com o Grêmio em 6/12. Na Champions, terça e quarta têm Manchester City x Napoli, Arsenal x Dortmund e PSG x Roma.",
+   "fontes": [
+    {
+     "titulo": "Terra: Flamengo conquista Brasileirão e pressiona rival antes das decisões das Copas",
+     "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/flamengo-conquista-brasileirao-com-empate-contra-palmeiras-e-1-campeao-da-era-nubank-parque-e-pressiona-rival-antes-das-decisoes-das-copas,59ae8856f40adbf0a4fea5d1ff50ed5c3zwbs8ib.html"
+    },
+    {
+     "titulo": "Paramount+: UEFA Champions League Matchday 5 schedule",
+     "url": "https://www.paramountplus.com/sneak-peak/uefa-champions-league-matchday-5-2026-schedule/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "jogos-vorazes-bilheteria",
+   "titulo": "Novo 'Jogos Vorazes' estreia com US$ 120 milhões nos EUA, acima do previsto",
+   "texto": "'Amanhecer na Colheita' somou cerca de US$ 225 milhões no mundo, quase o triplo da estreia do prequel de 2023 e perto de 'A Esperança – Parte 1'. Os números são estimativas do estúdio; o feriado de Ação de Graças é o próximo teste.",
+   "fontes": [
+    {
+     "titulo": "Forbes: 'The Hunger Games: Sunrise On The Reaping' Grosses $120 Million",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/22/the-hunger-games-sunrise-on-the-reaping-grosses-120-million-for-one-of-2026s-strongest-debuts/"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "Ciência"
+   ],
+   "historia": "bepicolombo-mercurio",
+   "titulo": "Sonda BepiColombo entra na órbita de Mercúrio, mas a queima do motor terminou antes do previsto",
+   "texto": "A missão europeia-japonesa, após oito anos de viagem, é a segunda a orbitar Mercúrio; uma falha de software encerrou a manobra antes, mas a ESA diz que a sonda está segura e a captura foi confirmada. As duas sondas se separam por volta de 9/12, e a ciência começa em abril de 2027.",
+   "fontes": [
+    {
+     "titulo": "Space.com: BepiColombo becomes 2nd ever to arrive in orbit around Mercury",
+     "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Gripe"
+   ],
+   "historia": "gripe-eua-2026",
+   "titulo": "Temporada de gripe chega cedo e forte aos EUA antes da Ação de Graças",
+   "texto": "O CDC estima 3,7 milhões de casos, 50 mil internações e 2.800 mortes na temporada, com internações semanais mais de 7 vezes acima do mesmo período de 2025 e predomínio do H1N1. O CDC ainda classifica a gravidade como baixa, mas prevê mais internações nesta semana de viagens.",
+   "fontes": [
+    {
+     "titulo": "Spectrum News: CDC: Flu cases continue to rise across the U.S. ahead of Thanksgiving",
+     "url": "https://spectrumlocalnews.com/mo/st-louis/health/2026/11/20/flul-cases-rise-thanksgiving-holiday"
+    },
+    {
+     "titulo": "Becker's: Flu admissions running more than 7x higher than last year",
+     "url": "https://www.beckershospitalreview.com/quality/flu-admissions-running-more-than-7x-higher-than-last-year-8-notes-for-clinical-leaders/"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Política internacional e geopolítica"
+   ],
+   "historia": "onu-secretario-geral",
+   "titulo": "Corrida para secretário-geral da ONU segue travada após a 9ª votação no Conselho de Segurança",
+   "texto": "Todos os 8 candidatos receberam ao menos dois votos de 'desencorajamento' de membros permanentes; a líder, Rebeca Grynspan (Costa Rica), tem 10 votos a favor, mas dois potenciais vetos. O mandato de Guterres termina em 31/12, e o processo já é o mais longo da história.",
+   "fontes": [
+    {
+     "titulo": "PassBlue: UN Secretary-General Race Remains Deadlocked as Veto Powers Fail to Reach Consensus",
+     "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Sudão",
+    "Crise humanitária"
+   ],
+   "historia": "sudao-guerra",
+   "titulo": "Drones atingem prédio humanitário da ONU perto de Cartum e matam 4 pessoas",
+   "texto": "A coordenadora humanitária Denise Brown chamou de 'inaceitável' o risco aos funcionários, que estavam no prédio do OCHA. Uma fonte do Exército sudanês atribui os drones às RSF e diz que saíram da Etiópia, alegação não confirmada e já negada por Adis Abeba em casos anteriores.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Drone attacks kill four near Sudan's capital, damage UN building",
+     "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Tecnologia e IA",
+    "Cibersegurança"
+   ],
+   "historia": "nyc-apagoes-ia",
+   "titulo": "Após onda de apagões tecnológicos, projeto na Câmara de NY exige plano de emergência para ameaças de IA",
+   "texto": "O projeto Intro. 1119, de Chi Ossé, obrigaria o Cyber Command da cidade e a Defesa Civil a criar e revisar todo ano um plano contra ameaças ligadas à IA; a Biblioteca Pública do Queens ainda sofre com um ataque de ransomware. As falhas recentes incluíram uma parada de 4 horas da FAA, e o diretor de Inteligência diz não haver sinal de ataque coordenado.",
+   "fontes": [
+    {
+     "titulo": "amNewYork: NYC tech outages raise questions about cybersecurity readiness",
+     "url": "https://www.amny.com/news/nyc-tech-outages-cybersecurity-readiness/"
+    },
+    {
+     "titulo": "AP/AJC: Tech outages are piling up and AI is raising the stakes",
+     "url": "https://www.ajc.com/news/2026/11/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Como se escolhe o secretário-geral da ONU",
+  "texto": "Pela Carta da ONU, a Assembleia Geral nomeia o secretário-geral por recomendação do Conselho de Segurança. Na prática, o Conselho faz votações informais secretas em que cada membro marca 'encorajo', 'desencorajo' ou 'sem opinião'. Um candidato precisa de 9 dos 15 votos e de nenhum 'desencorajo' de EUA, China, Rússia, Reino Unido ou França, o que equivale a um veto. Por isso o favorito no placar geral pode não ser escolhido: o que conta é o consenso entre as cinco potências, e o impasse atual reflete a rivalidade entre elas.",
+  "fontes": [
+   {
+    "titulo": "PassBlue: UN Secretary-General Race Remains Deadlocked",
+    "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/"
+   }
+  ]
+ },
+ "nota": "Todas as seções tiveram nota. O pedido sobre a Anthropic e a lei de IA já tinha sido atendido; mesmo assim, as avaliações positivas para regulação de IA e imigração puxaram os destaques d2 e d3, e o Mundo ficou nas notas, já que você tem votado contra itens dessa seção. A eleição brasileira acabou em 25/10 (Lula reeleito com 51,78%) e não teve novidade no TSE; por isso ficou sem atualização. O preço do bitcoin não foi confirmado e ficou de fora.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-23T12:08:01+00:00"
+}
