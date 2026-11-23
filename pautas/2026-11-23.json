@@ -1,0 +1,375 @@
+{
+ "semana": "2026-11-23",
+ "geradoEm": "2026-11-23T11:46:29+00:00",
+ "topicos": [
+  {
+   "id": "p1",
+   "secao": "Mundo",
+   "titulo": "Mísseis russos na Polônia: o que a Otan discute hoje em Bruxelas",
+   "gancho": "O Conselho do Atlântico Norte faz reunião extraordinária nesta segunda (23) depois que mísseis russos caíram em território polonês. É o teste mais direto da defesa do flanco leste da Otan desde o início da guerra.",
+   "slides": [
+    {
+     "titulo": "Mísseis russos caem em território da Otan",
+     "texto": "Três objetos lançados pela Rússia caíram no sudeste da Polônia na sexta (20). Nenhum foi interceptado. Hoje a aliança se reúne em Bruxelas para decidir a resposta."
+    },
+    {
+     "titulo": "O ataque",
+     "texto": "Na madrugada de sexta, a Rússia disparou mais de 400 drones e cerca de 110 mísseis contra a Ucrânia. Ao menos 8 pessoas morreram, em Kiev e Lviv. Parte do arsenal cruzou a fronteira polonesa."
+    },
+    {
+     "titulo": "O que caiu na Polônia",
+     "texto": "Os objetos caíram nas regiões de Lubelskie e Podkarpackie, sem vítimas. Varsóvia falou primeiro em dois mísseis e um drone; a promotoria de Lublin diz agora que os três eram mísseis de cruzeiro Kh-101."
+    },
+    {
+     "titulo": "Por que ninguém derrubou",
+     "texto": "Caças poloneses, suecos e holandeses e baterias Patriot foram acionados. Segundo a imprensa de defesa europeia, um piloto sueco tinha autorização para atirar, mas o mau tempo impediu identificar o alvo."
+    },
+    {
+     "titulo": "O que diz cada lado",
+     "texto": "Donald Tusk fala em provocação intencional. Mark Rutte prometeu defender 'cada centímetro' da Polônia. Trump disse que pode ter sido erro. Moscou trata o ataque como resposta aos golpes ucranianos na ponte da Crimeia."
+    },
+    {
+     "titulo": "Artigo 4, não Artigo 5",
+     "texto": "O Artigo 4 prevê consultas quando um aliado se sente ameaçado; o 5 trata um ataque a um como ataque a todos. A Polônia pediu a reunião, mas até domingo não tinha invocado formalmente nenhum dos dois."
+    },
+    {
+     "titulo": "O que a Polônia quer",
+     "texto": "Varsóvia pede mais defesa aérea no flanco leste, caças F-35, aviões-radar Awacs e reforço da missão Eastern Sentry, criada em 2025. Observe se a Otan anuncia novos meios e se a ONU marca reunião do Conselho de Segurança."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "CBS News, ProtoThema, LIGA.net, Defence Matters, Al Jazeera. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Na sexta (20), durante um dos maiores ataques russos contra a Ucrânia na guerra, três mísseis caíram no sudeste da Polônia, país da Otan. Ninguém se feriu, mas nenhum deles foi interceptado. Nesta segunda (23), o Conselho do Atlântico Norte, principal instância de decisão da aliança, faz uma reunião extraordinária em Bruxelas a pedido de Varsóvia. O governo polonês fala em provocação deliberada e pede mais caças e defesa aérea. Trump sugeriu que pode ter sido um erro. No carrossel, explicamos o que caiu, por que não foi derrubado, a diferença entre os Artigos 4 e 5 e o que a Polônia está pedindo. Na sua opinião, qual deveria ser a resposta da Otan a esse tipo de incidente?",
+   "hashtags": [
+    "#Otan",
+    "#Polônia",
+    "#Rússia",
+    "#Ucrânia",
+    "#Geopolítica",
+    "#PolíticaInternacional",
+    "#AtlasDiário"
+   ],
+   "visual": "Mapa do sudeste da Polônia com a fronteira ucraniana e as regiões de Lubelskie e Podkarpackie marcadas; ícones de míssil com os números do ataque (400+ drones, ~110 mísseis). Fotos de agência (Reuters/AP) ou fotos oficiais do Ministério da Defesa da Polônia e da Otan (nato.int, com crédito) de Rutte em Varsóvia. Slide do Artigo 4 x 5 com texto simples sobre fundo de bandeiras da Otan e da Polônia. Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil",
+     "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+     "titulo": "ProtoThema: All three missiles that violated Polish airspace were Russian, NATO to meet today",
+     "url": "https://en.protothema.gr/2026/11/23/all-three-missiles-that-violated-polish-airspace-were-russian-nato-to-meet-today/"
+    },
+    {
+     "titulo": "LIGA.net: The North Atlantic Council will meet in Brussels following the Russian missile strikes in Poland",
+     "url": "https://news.liga.net/en/world/news/the-north-atlantic-council-will-meet-in-brussels-following-the-russian-missile-strikes-in-poland"
+    },
+    {
+     "titulo": "Defence Matters: NATO to review eastern flank air defences after Russian missiles enter Poland",
+     "url": "https://defencematters.eu/nato-eastern-flank-air-defence-russian-missiles-poland/"
+    },
+    {
+     "titulo": "Al Jazeera: Russian missiles hit Poland: What happened, and could NATO respond?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+    },
+    {
+     "titulo": "RBC-Ukraine: Rutte pledges to defend Poland after Russia's missiles violate its airspace",
+     "url": "https://newsukraine.rbc.ua/news/nato-will-defend-every-inch-of-poland-after-1795292171.html"
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "secao": "ONU",
+   "titulo": "Entenda a decisão histórica da Corte de Haia: Mianmar cometeu genocídio contra os rohingya",
+   "gancho": "Pela primeira vez, a Corte Internacional de Justiça condenou um Estado por cometer genocídio. É um explicador que ajuda a entender o direito internacional e deve ser citado em outros casos, como o da África do Sul contra Israel.",
+   "slides": [
+    {
+     "titulo": "Pela primeira vez, um país condenado por genocídio",
+     "texto": "Na quinta (19), a Corte Internacional de Justiça decidiu que Mianmar cometeu genocídio contra os rohingya em 2017. Entenda o caso e o que muda."
+    },
+    {
+     "titulo": "Quem são os rohingya",
+     "texto": "Minoria muçulmana do estado de Rakhine, no oeste de Mianmar, de maioria budista. Há décadas não são reconhecidos como cidadãos pelo governo do país."
+    },
+    {
+     "titulo": "O que aconteceu em 2017",
+     "texto": "Uma operação militar em Rakhine matou cerca de 10 mil pessoas, segundo a Corte. Quase 400 aldeias foram queimadas, e mais de 700 mil rohingya fugiram para Bangladesh."
+    },
+    {
+     "titulo": "Por que a Gâmbia abriu o caso",
+     "texto": "Em 2019, a Gâmbia processou Mianmar sem ter ligação direta com o conflito. Usou a regra de que todo país que assinou a Convenção sobre Genocídio pode cobrar seu cumprimento."
+    },
+    {
+     "titulo": "A decisão",
+     "texto": "Por 9 votos a 6, os juízes concluíram que Mianmar cometeu genocídio e falhou em preveni-lo e puni-lo. A Corte rejeitou o argumento de que era combate à insurgência. Não cabe recurso."
+    },
+    {
+     "titulo": "O que Mianmar terá de fazer",
+     "texto": "Investigar e punir responsáveis, permitir o retorno seguro e voluntário dos refugiados e pagar indenizações, com valor a definir. O país tem dois anos para apresentar um plano à Corte."
+    },
+    {
+     "titulo": "O limite da sentença",
+     "texto": "A Corte não tem polícia. Se Mianmar não cumprir, o caso pode ir ao Conselho de Segurança, onde a China, aliada da junta militar, tem veto. Cerca de 1,2 milhão de rohingya vivem hoje em Bangladesh."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "UN News, Human Rights Watch, NPR, Al Jazeera, Radio Free Asia. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A Corte Internacional de Justiça, principal tribunal da ONU, decidiu na quinta (19) que Mianmar cometeu genocídio contra os rohingya durante a operação militar de 2017 no estado de Rakhine. É a primeira vez que a Corte condena um Estado por esse crime. O placar foi de 9 a 6, e não cabe recurso. O caso foi aberto pela Gâmbia, um país do outro lado do mundo, com base na Convenção sobre Genocídio de 1948. A sentença obriga Mianmar a punir responsáveis, permitir o retorno dos refugiados e pagar indenizações, mas a Corte não tem como forçar o cumprimento. Explicamos o caso no carrossel. Decisões como essa mudam alguma coisa na prática, mesmo sem poder de execução?",
+   "hashtags": [
+    "#Rohingya",
+    "#Mianmar",
+    "#CorteInternacionalDeJustiça",
+    "#DireitoInternacional",
+    "#DireitosHumanos",
+    "#ONU",
+    "#AtlasDiário"
+   ],
+   "visual": "Mapa de Mianmar e Bangladesh com o estado de Rakhine e Cox's Bazar destacados e uma seta indicando o fluxo de refugiados. Gráfico simples com os números da sentença (10 mil mortos, ~400 aldeias, 700 mil refugiados em 2017, 1,2 milhão hoje). Foto oficial da sessão da CIJ (icj-cij.org, uso com crédito 'UN Photo/ICJ-CIJ') e fotos do campo de Cox's Bazar de agência ou da UN Photo/ACNUR com crédito. Placar 9 x 6 em destaque. Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "UN News: ICJ finds Myanmar responsible for genocide against Rohingya",
+     "url": "https://news.un.org/en/story/2026/11/1168836"
+    },
+    {
+     "titulo": "Human Rights Watch: World Court finds Myanmar committed Rohingya genocide",
+     "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
+    },
+    {
+     "titulo": "NPR (via OPB): The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+     "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/"
+    },
+    {
+     "titulo": "Al Jazeera: What the ICJ genocide ruling means for the Rohingya people",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+    },
+    {
+     "titulo": "Radio Free Asia: World Court finds Myanmar responsible for Rohingya genocide in landmark ruling",
+     "url": "https://www.rfa.org/english/myanmar/2026/11/19/rohingya-genocide-icj-ruling-myanmar/"
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "secao": "EUA",
+   "titulo": "Trump x novo Congresso: a ordem que manda empresas avisarem a Casa Branca antes de responder a deputados",
+   "gancho": "A seis semanas da posse da maioria democrata, Trump assinou uma ordem que pode travar investigações do Congresso. É um bom gancho para explicar separação de poderes e privilégio executivo, temas clássicos da política americana.",
+   "slides": [
+    {
+     "titulo": "A briga começou antes de janeiro",
+     "texto": "Trump assinou na sexta (20) uma ordem que obriga empresas contratadas pelo governo a avisar a Casa Branca quando o Congresso pedir informações. Os democratas assumem o Legislativo em 3 de janeiro."
+    },
+    {
+     "titulo": "O que a ordem exige",
+     "texto": "Contratadas e subcontratadas federais devem notificar a Casa Branca e o órgão contratante sobre qualquer pedido do Congresso e seguir instruções sobre o que reter como informação 'privilegiada'."
+    },
+    {
+     "titulo": "Quem é afetado",
+     "texto": "Cerca de 100 mil empresas têm contratos com o governo federal, segundo a Bloomberg Government, além das subcontratadas. Quem descumprir pode perder o contrato e ser impedido de disputar novas licitações."
+    },
+    {
+     "titulo": "O argumento da Casa Branca",
+     "texto": "O governo diz proteger o privilégio executivo contra 'excessos' do Congresso e acusa parlamentares de assediar empresas privadas. Dias antes, o conselheiro jurídico Will Scharf exigiu aval prévio para servidores deporem."
+    },
+    {
+     "titulo": "O argumento dos democratas",
+     "texto": "Robert Garcia, que deve presidir a comissão de Supervisão da Câmara, diz que o Congresso é um poder igual e não será intimidado. Os democratas planejam investigar contratos do Pentágono ligados a empresas da família Trump."
+    },
+    {
+     "titulo": "O que é privilégio executivo",
+     "texto": "Não está escrito na Constituição. Foi reconhecido pela Suprema Corte em EUA v. Nixon (1974), que também decidiu que ele não é absoluto: Nixon teve de entregar as fitas de Watergate."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O Escritório de Orçamento (OMB) vai detalhar como aplicar a ordem. A partir de janeiro, quando a Câmara democrata começar a emitir intimações, a disputa deve parar na Justiça."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "ABC News, CBS News/AP, Washington Post, Fox News. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "Trump assinou na sexta (20) uma ordem executiva que obriga empresas com contratos federais a avisar a Casa Branca sempre que receberem pedidos de informação do Congresso, e a seguir orientações sobre o que não entregar. Quem descumprir pode perder contratos. A medida vem antes de 3 de janeiro, quando os democratas assumem a maioria na Câmara e no Senado e prometem investigar o governo. A Casa Branca fala em proteger o privilégio executivo; os democratas dizem que é uma tentativa de esvaziar a fiscalização antes que ela comece. No carrossel, explicamos a ordem, os dois lados e o que a Suprema Corte já decidiu sobre o tema. Onde termina o direito do presidente ao sigilo e começa o poder de fiscalização do Congresso?",
+   "hashtags": [
+    "#EUA",
+    "#Trump",
+    "#CongressoAmericano",
+    "#SeparaçãoDePoderes",
+    "#PolíticaAmericana",
+    "#CasaBranca",
+    "#AtlasDiário"
+   ],
+   "visual": "Foto oficial da Casa Branca (domínio público, crédito 'Official White House Photo') e foto do Capitólio (Architect of the Capitol ou Wikimedia Commons, com crédito). Linha do tempo simples: 16/11 diretriz de Scharf, 20/11 ordem executiva, 11/12 prazo do orçamento, 3/1 posse do novo Congresso. Slide de história com foto de domínio público de Nixon (National Archives). Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "ABC News: Trump orders federal contractors to coordinate with White House on congressional inquiries",
+     "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717"
+    },
+    {
+     "titulo": "CBS News (AP): Trump's new executive order tells federal contractors to check with White House before responding to Congress",
+     "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
+    },
+    {
+     "titulo": "Washington Post: Trump White House orders contractors to limit information shared with Congress",
+     "url": "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/"
+    },
+    {
+     "titulo": "Fox News: Trump orders federal contractors to alert White House on congressional record requests",
+     "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests"
+    },
+    {
+     "titulo": "Justia: United States v. Nixon, 418 U.S. 683 (1974)",
+     "url": "https://supreme.justia.com/cases/federal/us/418/683/"
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "secao": "Brasil",
+   "titulo": "Ajuste fiscal na Câmara: o que muda nas contas do governo e o que está em jogo na votação",
+   "gancho": "A Câmara vota nesta segunda (23), às 18h, o pacote que já passou pelo Senado. Se for aprovado sem mudanças, vai direto à sanção de Lula; o resultado deve mexer com dólar e juros na semana.",
+   "slides": [
+    {
+     "titulo": "O ajuste fiscal chega à Câmara",
+     "texto": "Os deputados votam nesta segunda (23) o pacote que promete economizar cerca de R$ 50 bilhões em 2027. Entenda o que muda e por que o mercado está de olho."
+    },
+    {
+     "titulo": "O que é o projeto",
+     "texto": "É o PLP 299/2026, apresentado pelo líder do governo no Senado, Jaques Wagner. O Senado aprovou o texto e concluiu a votação em 18 de novembro, sem as mudanças da oposição."
+    },
+    {
+     "titulo": "A principal regra",
+     "texto": "Em anos de contenção de gastos, o crescimento real das despesas federais cai de até 2,5% para até 2%. O governo também poderá bloquear verbas de forma preventiva, antes de a meta estar em risco."
+    },
+    {
+     "titulo": "De onde vem o dinheiro",
+     "texto": "O texto corta benefícios tributários de setores, restringe o uso de créditos para abater impostos e limita repasses a estados e municípios. A estimativa de economia vai de R$ 45 bilhões a R$ 56 bilhões em 2027."
+    },
+    {
+     "titulo": "A matemática da votação",
+     "texto": "Por ser lei complementar, precisa de 257 votos. O relator, Mauro Benevides Filho, manteve o texto do Senado: se a Câmara mudar o mérito, a proposta volta para os senadores."
+    },
+    {
+     "titulo": "O que dizem os lados",
+     "texto": "Lula nega cortes em saúde, educação e salário mínimo. Hugo Motta chama o pacote de 'primeiro passo'. Parte do mercado o vê como insuficiente, e CNI e Fiesp dizem que as empresas pagarão a maior parte."
+    },
+    {
+     "titulo": "Por que importa",
+     "texto": "O dólar fechou a R$ 5,93 na quinta (20), o maior valor desde abril de 2025, e a inflação esperada para 2027 está acima da meta. Observe o placar, a reação do câmbio e a sanção de Lula."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "Agência Câmara, Agência Brasil, Gazeta do Povo, Revista Fórum, Brasil 247, TMC. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A Câmara dos Deputados vota nesta segunda (23), a partir das 18h, o ajuste fiscal do governo Lula, já aprovado pelo Senado. O projeto reduz o limite de crescimento dos gastos em anos de aperto, permite bloquear verbas de forma preventiva e corta benefícios tributários de empresas, com economia estimada entre R$ 45 bilhões e R$ 56 bilhões em 2027. Por ser lei complementar, precisa de 257 votos. Se passar sem mudanças, vai direto à sanção. O governo diz que não mexe em programas sociais; parte do mercado considera pouco, e a indústria reclama da conta. No carrossel, explicamos o que muda e o que observar depois da votação. Para você, o pacote vai na direção certa, é insuficiente ou exagerado?",
+   "hashtags": [
+    "#AjusteFiscal",
+    "#CâmaraDosDeputados",
+    "#Economia",
+    "#ContasPúblicas",
+    "#Lula",
+    "#Dólar",
+    "#AtlasDiário"
+   ],
+   "visual": "Foto do plenário da Câmara (Agência Câmara/Câmara dos Deputados ou Agência Senado, com crédito do fotógrafo). Gráfico simples de barras comparando o limite de gastos 2,5% x 2%; gráfico com a faixa de economia R$ 45 bi a R$ 56 bi; contador '257 votos necessários'. Linha do dólar em 2026 até R$ 5,93 (dados do Banco Central). Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "Agência Câmara: Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na segunda-feira",
+     "url": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira"
+    },
+    {
+     "titulo": "Agência Brasil: Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo"
+    },
+    {
+     "titulo": "Gazeta do Povo: Relator do ajuste fiscal mantém texto do Senado para agilizar votação na Câmara",
+     "url": "https://www.gazetadopovo.com.br/economia/relator-do-ajuste-fiscal-mantem-texto-do-senado-para-agilizar-votacao-na-camara/"
+    },
+    {
+     "titulo": "Revista Fórum: Ajuste fiscal vai à votação na Câmara mesmo com 'mau humor' do mercado e da oposição",
+     "url": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao"
+    },
+    {
+     "titulo": "Brasil 247: Saiba o que muda com o ajuste fiscal, que vai à votação na Câmara nesta segunda",
+     "url": "https://www.brasil247.com/economia/saiba-o-que-muda-com-o-ajuste-fiscal-que-vai-a-votacao-na-camara-nesta-segunda/"
+    },
+    {
+     "titulo": "TMC: Câmara deve votar projeto de ajuste fiscal nesta segunda (23/11)",
+     "url": "https://tmc.com.br/politica/camara-vota-plp-299-ajuste-fiscal-hugo-motta/"
+    },
+    {
+     "titulo": "O Tempo: Lula rebate críticas da esquerda a ajuste fiscal, ironiza Faria Lima e defende Moretti",
+     "url": "https://www.otempo.com.br/politica/governo/2026/11/21/lula-rebate-criticas-da-esquerda-a-ajuste-fiscal-ironiza-faria-lima-e-defende-moretti"
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "secao": "Tecnologia",
+   "titulo": "O 'botão de desligar' da IA: a proposta da Califórnia para parar sistemas perigosos",
+   "gancho": "Um painel convocado por Newsom recomendou que o estado possa ordenar o desligamento emergencial de sistemas de IA, e o governador eleito promete transformar isso em lei. A Califórnia é sede das maiores empresas de IA, e o tema segue a linha das pautas sobre regulação que mais interessaram.",
+   "slides": [
+    {
+     "titulo": "A Califórnia quer poder desligar uma IA",
+     "texto": "Um painel de especialistas propôs que o estado possa mandar desligar um sistema de IA perigoso quando a empresa se recusar a agir. Entenda a proposta e por que ela importa fora dos EUA."
+    },
+    {
+     "titulo": "De onde veio",
+     "texto": "Em setembro, Gavin Newsom encomendou um estudo sobre segurança de IA. O relatório saiu em 18 de novembro, assinado por um painel com Alondra Nelson, Rob Reich, Jason Goldman e Gillian Hadfield."
+    },
+    {
+     "titulo": "O desligamento de emergência",
+     "texto": "Grandes desenvolvedoras teriam de provar que conseguem parar seus modelos. O estado poderia ordenar a parada se a empresa não contiver um sistema que saiu do controle, como os de OpenAI e Anthropic."
+    },
+    {
+     "titulo": "Auditores com licença",
+     "texto": "Auditores independentes passariam a ter licença do estado, que poderia cassá-la por falta de independência. Hoje, em geral, as próprias empresas contratam quem avalia seus modelos."
+    },
+    {
+     "titulo": "Prazo menor para avisar",
+     "texto": "Incidentes graves de segurança teriam de ser comunicados em 48 horas, e não em 15 dias como manda a lei atual, a SB 53, de 2025. A proteção a denunciantes também seria ampliada."
+    },
+    {
+     "titulo": "O que dizem os lados",
+     "texto": "Newsom diz que o estado preenche um vazio deixado por Trump, que rejeita regulação 'globalista' da IA. A Anthropic disse estar encorajada com a avaliação independente. Nada disso é lei ainda."
+    },
+    {
+     "titulo": "O que vem",
+     "texto": "O governador eleito Xavier Becerra promete levar o desligamento de emergência à lei. A Assembleia volta em 7 de dezembro. Em Washington, o governo Trump tenta barrar leis estaduais de IA."
+    },
+    {
+     "titulo": "Fontes",
+     "texto": "CalMatters, KQED, Agência de Operações do Governo da Califórnia. Siga @atlas.diarionews para entender o mundo."
+    }
+   ],
+   "legenda": "A Califórnia, onde estão OpenAI, Anthropic, Google e Meta, pode ser o primeiro governo a ter poder para mandar desligar um sistema de inteligência artificial considerado perigoso. A recomendação está num relatório entregue ao governador Gavin Newsom em 18 de novembro, que também propõe auditores licenciados pelo estado e prazo de 48 horas para as empresas comunicarem incidentes graves. Nada disso virou lei: depende da Assembleia, que volta a se reunir em 7 de dezembro, e do novo governador, Xavier Becerra, que promete apoiar a ideia. Enquanto isso, o governo Trump se opõe a regras estaduais para IA. Explicamos a proposta no carrossel. Quem deveria ter a palavra final para parar uma IA: governo, empresas ou auditores independentes?",
+   "hashtags": [
+    "#InteligênciaArtificial",
+    "#IA",
+    "#RegulaçãoDaIA",
+    "#Califórnia",
+    "#Tecnologia",
+    "#EUA",
+    "#AtlasDiário"
+   ],
+   "visual": "Foto oficial do gabinete do governador da Califórnia (gov.ca.gov, com crédito) ou do Capitólio estadual em Sacramento (Wikimedia Commons, com crédito). Ilustração gráfica simples, feita à mão no editor, de um interruptor ou painel com três etiquetas: desligamento, auditores, 48 horas. Comparativo '15 dias → 48 horas'. Evitar logos das empresas como peça principal. Marca d'água Atlas Diário.",
+   "fontes": [
+    {
+     "titulo": "CalMatters: Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+     "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/"
+    },
+    {
+     "titulo": "KQED: Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+     "url": "https://www.kqed.org/news/12110744/newsom-touts-an-ai-kill-switch-to-halt-dangerous-openai-anthropic-releases"
+    },
+    {
+     "titulo": "Agência de Operações do Governo da Califórnia: AI Safety in 2026 and Beyond (relatório)",
+     "url": "https://www.govops.ca.gov/wp-content/uploads/sites/11/2026/11/FINAL_-AI-Safety-in-2026-and-Beyond-v2.pdf"
+    }
+   ]
+  }
+ ]
+}
