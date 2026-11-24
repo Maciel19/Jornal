@@ -1,0 +1,475 @@
+{
+ "data": "2026-11-24",
+ "manchete": "Nvidia devolve o comando a Jensen Huang após pressão de Trump, e Wall Street tem o maior salto desde abril de 2025; no Brasil, a Câmara aprova o ajuste fiscal sem mudanças",
+ "abertura": "A volta de Huang reanimou as ações de IA, mas abriu no Congresso americano uma briga sobre segurança nacional e chips para a China. No Brasil, o pacote fiscal de Lula vai à sanção no dia em que o dólar chegou a passar de R$ 6.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "OMS conta 11.762 casos e 5.775 mortes; Ituri concentra dois terços dos casos",
+   "texto": "Os números da OMS até 20/11 mostram 149 casos e 97 mortes a mais que no boletim de 17/11, em 68 zonas de saúde de 8 províncias. Ituri, onde combates prenderam equipes num hospital desde o dia 21, tem mais de 8 mil casos e 3.791 mortes (letalidade de 47%). Segundo a CEPI, os três testes de vacina em curso podem dar resultados no início de 2027, mas a violência atrasa a inclusão de voluntários.",
+   "fontes": [
+    {
+     "titulo": "UN News: Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+     "url": "https://news.un.org/en/story/2026/11/1168858"
+    },
+    {
+     "titulo": "CIDRAP: Ebola in DR Congo at 6 months: rampant spread, new waves of violence",
+     "url": "https://cidrap.umn.edu/ebola/ebola-dr-congo-6-months-rampant-spread-new-waves-violence"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Política e história dos EUA",
+    "China",
+    "Controle de exportações"
+   ],
+   "historia": "nvidia-china-chips",
+   "titulo": "Nvidia devolve o cargo de CEO a Jensen Huang depois de pressão de Trump, e o Congresso promete investigar",
+   "oque": "Na segunda (23), o conselho da Nvidia votou por unanimidade pela volta de Huang como CEO, dias depois de rejeitar a mesma proposta. Trump disse à CNBC que sua 'intervenção foi muito importante'. A ação subiu 31,5%, o melhor dia em mais de duas décadas.",
+   "contexto": "Huang renunciou em 12/11, após relatos de casos extraconjugais, um deles com uma empresária que autoridades americanas suspeitam ser espiã chinesa; Pequim nega. Ela foi executiva da Megaspeed, empresa de Singapura investigada pelo Departamento de Justiça por possível desvio de chips da Nvidia para a China. O caso junta duas pautas centrais da rivalidade EUA-China: o controle sobre chips avançados de IA e a contraespionagem. No documento enviado à SEC, a Nvidia diz ter ouvido 'altos funcionários do governo' que não viram risco à segurança nacional, e o secretário de Justiça, Todd Blanche, disse não ter provas de crime cometido por Huang.",
+   "lados": "Para a Casa Branca e o conselho, Huang é peça-chave da liderança americana em IA, e a empresa criou um comitê de segurança nacional e controle de exportações, além de um cargo de diretor de compliance. Democratas como Elizabeth Warren ('imprudente') e Ron Wyden ('nossa segurança nacional está à venda') criticam a decisão, e republicanos como Tom Cotton e os presidentes de três comissões da Câmara dizem que uma 'breve investigação interna' não resolve as dúvidas. Ruben Gallego pediu apuração de negociações de ações antes do anúncio.",
+   "proximo": "Huang dá depoimento fechado a três comissões da Câmara em 1º/12 e fala em público na Comissão Bancária do Senado em 3/12. Um comitê independente do conselho segue investigando se ele foi alvo de operação de inteligência estrangeira. Continuam abertas a apuração da SEC sobre a divulgação de informações e a do Departamento de Justiça sobre a Megaspeed.",
+   "fontes": [
+    {
+     "titulo": "PBS NewsHour/AP: Nvidia board unanimously reinstates Jensen Huang as CEO and chairman",
+     "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman"
+    },
+    {
+     "titulo": "Nvidia (SEC 8-K): comunicado de 23/11",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+    },
+    {
+     "titulo": "Washington Post: Nvidia reinstates Jensen Huang after Trump speaks 'directly' to board",
+     "url": "https://www.washingtonpost.com/technology/2026/11/23/nvidia-board-reinstates-jensen-huang-after-us-government-input/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Política fiscal",
+    "Congresso"
+   ],
+   "historia": "ajuste-fiscal-2026",
+   "titulo": "Câmara aprova o ajuste fiscal de Lula sem mudanças, e o pacote vai à sanção",
+   "oque": "Na madrugada desta terça (24), a Câmara aprovou o texto-base do PLP 299/2026 por 353 a 128 e rejeitou todos os destaques. Como o relator, Mauro Benevides Filho (União-CE), manteve o texto do Senado, o projeto não volta para lá e segue para Lula. O governo estima ganho de R$ 45 bilhões a R$ 56 bilhões em 2027.",
+   "contexto": "O pacote é a principal resposta do governo, recém-reeleito, à desconfiança do mercado, que levou o dólar a seis altas seguidas. Ele dobra de 10% para 20% o corte linear de benefícios tributários, permite limitar compensações de créditos tributários (R$ 12,8 bi a R$ 18,3 bi), baixa para 2% o teto de crescimento real do gasto em anos de contenção e dá 60 dias ao Congresso para regulamentar os supersalários. A urgência passou por 318 a 135, folga de 61 votos.",
+   "lados": "O presidente da Câmara, Hugo Motta, disse que o texto mostra uma política fiscal 'mais forte, mais firme' e deve ajudar a baixar juros e dólar. A oposição tentou, sem sucesso, cortar gastos de viagens de autoridades e proteger programas para pessoas com deficiência e autismo; Nikolas Ferreira (PL) disse que 'quem governa também precisa dar o exemplo'. À esquerda, o PSOL criticou o aperto do teto de gastos, e um levantamento aponta que a saúde pode perder cerca de R$ 9 bilhões em 2027 com a exclusão de receitas do petróleo dos pisos.",
+   "proximo": "Lula tem 15 dias úteis para sancionar, com ou sem vetos. O ministro do Planejamento, Bruno Moretti, deve anunciar hoje um novo contingenciamento. O ministro da Fazenda, Dario Durigan, chamou o pacote de 'primeiro passo'. Observe a reação do dólar e a escolha da equipe econômica do novo mandato, incluindo vagas na diretoria do Banco Central.",
+   "fontes": [
+    {
+     "titulo": "O Tempo: Governo barra todas as mudanças, e pacote fiscal de Lula vai à sanção como saiu do Senado",
+     "url": "https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado"
+    },
+    {
+     "titulo": "SP Diário: Câmara aprova ajuste fiscal do governo Lula e rejeita todos os destaques",
+     "url": "https://spdiario.com.br/noticias/politica/camara-aprova-ajuste-fiscal-do-governo-lula-e-rejeita-todos-os-destaques.html"
+    },
+    {
+     "titulo": "O Tempo: Câmara aprova urgência do ajuste fiscal de Lula por 318 a 135",
+     "url": "https://www.otempo.com.br/politica/2026/11/23/camara-aprova-urgencia-do-ajuste-fiscal-de-lula-por-318-a-135-com-61-votos-de-folga"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Moradia",
+    "Justiça",
+    "Nova York"
+   ],
+   "historia": "hud-familias-mistas",
+   "titulo": "Nova York e cerca de 20 estados processam o governo para barrar a regra que tira famílias com imigrantes sem status da moradia subsidiada",
+   "oque": "Na segunda (23), a Prefeitura de Nova York entrou numa coalizão de governos locais liderada por São Francisco, com ação na Justiça federal em Massachusetts. A procuradora-geral do estado, Letitia James, abriu outro processo com procuradores de outros estados. A regra do HUD vale a partir de 14/12.",
+   "contexto": "Hoje, as chamadas famílias mistas (com integrantes cidadãos e sem status) recebem ajuda proporcional apenas para quem é elegível. A nova regra acaba com essa divisão e exige status elegível de todos os moradores. O governo estima cerca de 20 mil domicílios afetados no país, perto de 79 mil pessoas, muitas delas crianças cidadãs americanas; em Nova York seriam cerca de 2.540 famílias, segundo James. O número de estados na ação de James diverge entre as fontes.",
+   "lados": "O secretário do HUD, Scott Turner, diz que a regra garante que 'SOMENTE cidadãos AMERICANOS' e não cidadãos elegíveis morem em habitação paga pelo governo, e que até US$ 218 milhões serão redistribuídos para quem espera na fila. O prefeito Zohran Mamdani disse que a cidade não vai 'ficar parada enquanto famílias são postas em risco'; os autores argumentam que a regra separa famílias e viola a lei de habitação.",
+   "proximo": "Os autores devem pedir uma liminar antes de 14/12. Sem decisão judicial até lá, as autoridades de habitação começam a exigir comprovação de status de todos os moradores.",
+   "fontes": [
+    {
+     "titulo": "amNY: Mamdani joins lawsuit against Trump housing rule that could force NYC families apart",
+     "url": "https://www.amny.com/news/mamdani-joins-lawsuit-against-trump-housing-rule/"
+    },
+    {
+     "titulo": "Spectrum News: N.Y. attorney general joins lawsuit against HUD over new rule",
+     "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/23/n-y--attorney-general-joins-lawsuit-against-trump-administration-over-new-hud-rules-"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Otan",
+    "Rússia"
+   ],
+   "historia": "russia-ataque-polonia",
+   "titulo": "Otan manda avião-radar AWACS à Polônia, mas não aciona o Artigo 4",
+   "texto": "Na reunião de emergência de segunda (23), a Polônia pediu consultas e mais meios, sem invocar formalmente o Artigo 4, e os aliados aprovaram o envio de um AWACS. A Otan responsabilizou a Rússia por um 'incidente perigoso'; as fontes divergem sobre se os três objetos caídos eram todos mísseis Kh-101.",
+   "fontes": [
+    {
+     "titulo": "Stars and Stripes: Poland, Russia, NATO and the missiles",
+     "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+    },
+    {
+     "titulo": "QNC News: NATO sends AWACS surveillance aircraft to Poland after council meets",
+     "url": "https://qncnews.com/2026/11/24/nato-sends-awacs-surveillance-aircraft-to-poland-after-council-meets-over-russian-missiles/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Oriente Médio"
+   ],
+   "historia": "guerra-ira-eua",
+   "titulo": "Irã diz que só negocia se 'sete condições' forem atendidas; Guarda Revolucionária fala em petroleiros atingidos por minas em Ormuz",
+   "texto": "O negociador-chefe Mohammad Bagher Qalibaf não publicou as condições, que segundo a mídia estatal incluem fim das sanções, do bloqueio naval americano e liberação de ativos. A alegação de três petroleiros incendiados por minas, apesar de escolta aérea dos EUA, não tem confirmação independente; Trump disse que tende a atacar o Irã após o Ano-Novo se não houver acordo.",
+   "fontes": [
+    {
+     "titulo": "AP (via WSLS): Iran insists no talks with the US until its 7 conditions are met",
+     "url": "https://www.wsls.com/news/world/2026/11/24/iran-insists-no-talks-with-the-us-until-its-7-conditions-are-met-and-other-mideast-news/"
+    },
+    {
+     "titulo": "Al Jazeera: Iran war live — three ships catch fire after hitting Hormuz mines",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia",
+    "Líbia"
+   ],
+   "historia": "ucrania-ataques-navios-russos",
+   "titulo": "Ucrânia diz ter afundado corveta russa na Líbia, e Moscou ameaça 'consequências dolorosas'",
+   "texto": "Zelensky afirmou que a corveta Merkury foi afundada numa base em Benghazi no domingo (22), um dia depois do ataque de drones a um cargueiro russo no Báltico. A missão da ONU na Líbia pediu investigação independente e disse que o país 'não pode virar campo de batalha de conflitos estrangeiros'.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Russia warns Ukraine of 'dangerous trend' after Libya and Baltic attacks",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks"
+    },
+    {
+     "titulo": "UN News: UNSMIL pede investigação sobre ataque em Benghazi",
+     "url": "https://news.un.org/en/story/2026/11/1168857"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Irã"
+   ],
+   "historia": "orcamento-shutdown",
+   "titulo": "Republicanos do Senado avaliam limitar a guerra com o Irã para fechar o orçamento até 11/12",
+   "texto": "A ideia em discussão pagaria a reposição de munições, mas restringiria novas operações ofensivas sem aval do Congresso, como propõe o democrata Tim Kaine. O relato vem da CNN via Newsmax e ainda não há acordo; na quinta (19), o Senado rejeitou por 51 a 48 a resolução que limitava os poderes de guerra de Trump.",
+   "fontes": [
+    {
+     "titulo": "Newsmax (via Yahoo): GOP weighs deal that comes with Iran war limits",
+     "url": "https://yahoo.com/news/politics/articles/gop-weighs-deal-comes-iran-222427066.html"
+    },
+    {
+     "titulo": "Cyprus Mail: US Senate rejects resolution curbing Trump's Iran war powers",
+     "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça"
+   ],
+   "historia": "ice-desacato-judicial",
+   "titulo": "Juíza no Colorado declara autoridades do DHS em desacato por prender de novo imigrantes soltos por ordem judicial",
+   "texto": "A juíza federal Charlotte Sweeney apontou recapturas logo após ordens de soltura; a rádio pública do Colorado contou ao menos 18 casos no estado, e houve relatos parecidos em Louisiana, Minnesota e Pensilvânia. Uma funcionária do ICE admitiu sob juramento não ter lido as ordens; a juíza deixou aberta a possibilidade de desacato criminal.",
+   "fontes": [
+    {
+     "titulo": "NPR/CPR (via WJCT): Federal judges in Colorado are fed up with ICE re-arresting the same immigrants",
+     "url": "https://news.wjct.org/national-news/2026-11-23/federal-judges-in-colorado-are-fed-up-with-ice-re-arresting-the-same-immigrants"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Federalismo"
+   ],
+   "historia": "leis-estaduais-ice",
+   "titulo": "Juiz federal suspende trechos da lei de Connecticut que proibia máscaras e permitia processar agentes do ICE",
+   "texto": "O juiz Vernon Oliver entendeu que os trechos provavelmente violam a Cláusula de Supremacia, porque agentes federais têm imunidade quando agem dentro de suas funções. O governador Ned Lamont disse estar 'decepcionado'; o caso testa até onde estados podem fiscalizar a imigração federal.",
+   "fontes": [
+    {
+     "titulo": "CT Public: Federal judge blocks CT law that sought to regulate ICE agents",
+     "url": "https://www.ctpublic.org/news/2026-11-23/ct-law-ice-agents-masks-face-coverings-immigration"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Mercados"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Ação da Anthropic cai abaixo do preço de IPO, de US$ 83, cinco dias após a estreia",
+   "texto": "No pré-mercado de terça (24), o papel recuava 6,5%, a US$ 82, depois de abrir a US$ 111,50 no dia 19, num IPO recorde de US$ 93,5 bilhões. Um registro mostrou que o CEO Dario Amodei vendeu mais de 3,37 milhões de ações no dia seguinte à estreia; a Reuters cita temor com avaliações esticadas e gastos com computação.",
+   "fontes": [
+    {
+     "titulo": "Reuters (via 104.9 The Wolf): Anthropic breaks below $83 IPO price as debut rally unravels",
+     "url": "https://www.1049thewolf.com/2026/11/24/anthropic-breaks-below-83-ipo-price-as-debut-rally-unravels/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "Juros",
+    "EUA"
+   ],
+   "historia": "wall-street-queda-ia",
+   "titulo": "S&P 500 sobe 4,7%, a maior alta desde abril de 2025, e o mercado já vê alta de juros do Fed como quase certa",
+   "texto": "Na segunda (23), a Nasdaq ganhou 6,5% e o Dow 3%, recuperando pouco mais da metade das perdas da semana anterior; o petróleo WTI caiu 3,9%, a US$ 80,17. Depois de John Williams, do Fed de Nova York, dizer que o banco 'tem trabalho a fazer' com a inflação perto de 3,5%, a chance de alta de 0,25 ponto em 9/12 chegou a cerca de 98%, segundo dado de fonte secundária; o PCE sai na quarta (25).",
+   "fontes": [
+    {
+     "titulo": "AP (via Yahoo Finance): How major US stock indexes fared Monday 11/23/2026",
+     "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-213053319.html"
+    },
+    {
+     "titulo": "CNBC: Fed's John Williams indicates higher interest rates likely 'over time'",
+     "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Câmbio"
+   ],
+   "historia": "dolar-real",
+   "titulo": "Dólar passa de R$ 6 pela primeira vez desde abril de 2025, mas fecha em queda, a R$ 5,93",
+   "texto": "A moeda chegou a R$ 6,0066 na segunda (23) e virou depois de relato de que Lula recebeu nomes bem vistos pelo mercado para a diretoria do Banco Central; fechou em R$ 5,9262 (-0,15%), interrompendo seis altas. O Ibovespa caiu 0,95%, a 164.796 pontos.",
+   "fontes": [
+    {
+     "titulo": "Times Brasil: Ibovespa cai 0,95% com tensão fiscal; dólar atinge os R$ 6 e recua",
+     "url": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-cai-095-com-tensao-fiscal-dolar-atinge-os-r-6-e-vira-para-queda-no-fechamento/"
+    },
+    {
+     "titulo": "Jovem Pan: Dólar fecha a R$ 5,92 após bater R$ 6 durante o dia",
+     "url": "https://jovempan.com.br/economia/em-meio-a-votacao-do-ajuste-fiscal-dolar-fecha-a-r-592-apos-bater-r-6-durante-o-dia/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-2026",
+   "titulo": "Inter leva 5 a 2 do Vitória e fica no Z-4; Grêmio vence o Santos e sai",
+   "texto": "O Vitória marcou aos 12 segundos no Beira-Rio, e o Grêmio ganhou por 2 a 0 no MorumBIS. Com duas rodadas para o fim, o Inter (38) é o 18º, atrás do Corinthians (40, com um jogo a menos, contra o Atlético-MG na quarta) e de Grêmio e Mirassol (41).",
+   "fontes": [
+    {
+     "titulo": "Vavel: Vitória atropela o Internacional no Beira-Rio",
+     "url": "https://www.vavel.com/br/futebol/2026/11/24/1280508-vitoria-atropela-o-internacional-no-beira-rio-com-direito-a-gol-mais-rapido-do-brasileirao-e-afunda-os-colorados-na-briga-do-rebaixamento.html"
+    },
+    {
+     "titulo": "Hora Brasil: classificação após a 36ª rodada",
+     "url": "https://www.horabrasil.com.br/2026/11/24/brasileirao-2026-classificacao-e-zona-de-rebaixamento-apos-os-jogos-da-36a-rodada/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Libertadores",
+    "Champions League"
+   ],
+   "historia": "libertadores-2026",
+   "titulo": "Palmeiras perde Paulinho para a final da Libertadores; Champions tem Arsenal x Dortmund e City x Napoli hoje",
+   "texto": "O atacante tem inflamação na perna direita e está praticamente fora do jogo contra o Estudiantes, sábado (28), às 17h de Brasília (15h em Nova York), em Montevidéu. Na Champions, os jogos principais desta terça começam às 15h de Nova York.",
+   "fontes": [
+    {
+     "titulo": "Terra: Palmeiras perde Paulinho para a final da Libertadores",
+     "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-perde-paulinho-para-a-final-da-libertadores-contra-o-estudiantes,cd9fc88d6b960af90b2532ef7158f061hjmhwg7w.html"
+    },
+    {
+     "titulo": "CBS Sports: UEFA Champions League schedule, Matchday 5",
+     "url": "https://www.cbssports.com/soccer/news/2026-uefa-champions-league-schedule-results/"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "bilheteria-acao-de-gracas",
+   "titulo": "'Hexed', da Disney, e 'Focker-In-Law' disputam o feriado de Ação de Graças a partir de quarta",
+   "texto": "A animação original da Disney e o quarto filme da série 'Entrando numa Fria', com Ben Stiller e Robert De Niro, estreiam na quarta (25); as projeções divergem, de US$ 40 milhões a US$ 70 milhões em cinco dias para cada um. É bem menos que os US$ 225 milhões de 'Moana 2', recorde do feriado.",
+   "fontes": [
+    {
+     "titulo": "SlashFilm: Focker-In-Law could be a rare theatrical comedy box office hit over Thanksgiving",
+     "url": "https://www.slashfilm.com/2321636/focker-in-law-box-office-preview/"
+    },
+    {
+     "titulo": "Boxoffice Pro: Long Range Forecast – Nov. 25, 2026",
+     "url": "https://www.boxofficepro.com/?p=46471"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "China",
+    "Paquistão"
+   ],
+   "historia": "shenzhou-24",
+   "titulo": "China leva o primeiro astronauta estrangeiro à estação Tiangong, um paquistanês, na quarta",
+   "texto": "A Shenzhou-24 deve decolar às 8h18 de Pequim de quarta (25), 19h18 de terça em Nova York, com Muhammad Zeeshan Ali como especialista de carga, numa missão de cerca de uma semana. É um marco da diplomacia espacial chinesa, que oferece a parceiros o acesso que a Estação Espacial Internacional dá aos aliados dos EUA.",
+   "fontes": [
+    {
+     "titulo": "Dawn: Zeeshan Ali to be 'first' Pakistani astronaut in space aboard China's Shenzhou-24",
+     "url": "https://www.dawn.com/news/2046714/pakistans-zeeshan-ali-selected-for-shenzhou-24-crewed-space-mission-liftoff-scheduled-for-nov-25"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "COP31"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Balanço da COP31: o que passou e o que caiu em Antalya",
+   "texto": "Sem a decisão principal, ficaram de pé um mecanismo de transição justa (a ser desenhado até a COP32, na Etiópia), que cita 'minerais críticos' pela primeira vez, e textos sobre adaptação; a meta de triplicar o financiamento de adaptação caiu. Foi a COP mais longa já registrada, com quase 50 horas de atraso.",
+   "fontes": [
+    {
+     "titulo": "Carbon Brief: COP31 key outcomes agreed at the UN climate talks in Antalya",
+     "url": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "ONU",
+   "temas": [
+    "Tecnologia e IA",
+    "Governança global"
+   ],
+   "historia": "onu-governanca-ia",
+   "titulo": "Guterres pede negociação de um marco multilateral para riscos da IA",
+   "texto": "Na cúpula sobre segurança da IA em Bridgetown, Barbados, na segunda (23), ele propôs testes padronizados, transparência e avaliação independente de modelos avançados, além de um fundo global de capacitação. Disse que a IA provoca 'a maior transferência de poder da história' e que máquinas escolherem alvos para matar é 'inaceitável'.",
+   "fontes": [
+    {
+     "titulo": "UN News: Guterres na cúpula de Bridgetown sobre segurança da IA",
+     "url": "https://news.un.org/en/story/2026/11/1168861"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "Ucrânia",
+    "Conselho de Segurança"
+   ],
+   "historia": "onu-ucrania-civis",
+   "titulo": "ONU registra alta de 95% nas vítimas civis na Ucrânia; 2026 é o ano mais letal para civis desde 2022",
+   "texto": "No Conselho de Segurança, Rosemary DiCarlo citou 372 civis mortos em outubro e pediu cessar-fogo imediato. A Ucrânia disse que mais de 850 mil pessoas estão sem luz e que a usina de Zaporíjia perdeu energia externa pela 28ª vez.",
+   "fontes": [
+    {
+     "titulo": "UN News: Security Council — winter attacks on Ukraine's power grid",
+     "url": "https://news.un.org/en/story/2026/11/1168859"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Clima",
+    "Ação de Graças"
+   ],
+   "historia": "noreaster-acao-de-gracas",
+   "titulo": "Nor'easter ameaça Ação de Graças em NY, e balões do desfile da Macy's podem ficar no chão",
+   "texto": "A Defesa Civil prevê rajadas de 40 a 45 milhas por hora (64 a 72 km/h), 2,5 a 5 cm de chuva e alagamentos costeiros na quinta (26); os balões não voam com ventos sustentados acima de 23 mph ou rajadas acima de 34 mph. A AAA projeta recorde de 81,5 milhões de viajantes no país até segunda (30).",
+   "fontes": [
+    {
+     "titulo": "TIME: Will bad weather disrupt Thanksgiving travel?",
+     "url": "https://time.com/article/2026/11/23/weather-disruption-thanksgiving-travel"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Imigração (ICE, vistos)"
+   ],
+   "historia": "roxbury-detencao-ice",
+   "titulo": "Nova Jersey acusa o governo federal de descumprir ordem judicial com o centro de detenção do ICE em Roxbury",
+   "texto": "O estado diz que o contrato de quase US$ 32 milhões (até US$ 998 milhões em cinco anos) para transformar um galpão em centro de detenção viola a exigência de estudo ambiental de maio; o governo nega. O juiz Jamel Semper acelerou o caso, com pedidos previstos para o início de dezembro.",
+   "fontes": [
+    {
+     "titulo": "ENR: Feds battle NJ in court over warehouse-to-detention center conversion",
+     "url": "https://enr.com/articles/64392-feds-battle-nj-in-court-over-warehouse-to-detention-center-conversion"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Sanção, veto e derrubada: o caminho de uma lei depois do Congresso",
+  "texto": "Pela Constituição (art. 66), quando o Congresso aprova um projeto o presidente tem 15 dias úteis para sancionar ou vetar, no todo ou em parte; se ficar calado, a sanção é tácita. Um veto só pode atingir artigos, parágrafos, incisos ou alíneas inteiros, nunca palavras soltas, e precisa ser justificado por inconstitucionalidade ou contrariedade ao interesse público. O Congresso tem 30 dias para analisar vetos em sessão conjunta, e derrubar exige maioria absoluta: 257 deputados e 41 senadores. É por isso que o ajuste fiscal aprovado ontem ainda pode mudar, mas só para tirar trechos, não para acrescentar.",
+  "fontes": [
+   {
+    "titulo": "Planalto: Constituição Federal, art. 66",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm destaque ou nota; o Brasil está no destaque d2 e não ganhou nota extra porque não houve outra novidade relevante (o caso Ney Santos no TSE segue sem conclusão). Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido. Pelas avaliações, os destaques ficaram com IA, Brasil e imigração com decisões judiciais, e o Mundo foi para as notas. Atualização só para o ebola; a eleição brasileira acabou em 25/10 e não teve novidade. Avisos: as alegações do Irã sobre minas não têm verificação independente; a chance de alta do Fed vem de fonte secundária; o acordo do orçamento no Senado veio da CNN via Newsmax; o número de estados na ação de Letitia James diverge; as projeções de bilheteria variam muito. Reuters, CNBC, NPR e Gothamist bloquearam acesso em parte da pesquisa.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-24T12:08:53+00:00"
+}
