@@ -1,0 +1,484 @@
+{
+ "data": "2026-11-25",
+ "manchete": "Republicanos do Senado admitem cortar dinheiro da guerra com o Irã para evitar um shutdown, enquanto Teerã aperta o fechamento de Ormuz e o Departamento de Justiça manda 2 mil advogados socorrerem o ICE nos tribunais",
+ "abertura": "Na véspera de Ação de Graças, Washington negocia o orçamento à sombra da guerra com o Irã, e o governo tenta dar conta de quase 100 mil pedidos de habeas corpus de imigrantes presos. Em Nova York, a tempestade ameaça os balões do centésimo desfile da Macy's, e no Brasil Lula sanciona o ajuste fiscal no mesmo dia em que a Câmara o aprovou.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "Equipe da OMS é retirada de hospital em Ituri depois de três dias sob fogo",
+   "texto": "Tedros Adhanom anunciou na terça (24) a retirada, 'em circunstâncias muito difíceis', de funcionários da OMS, do Ministério da Saúde e de parceiros que estavam abrigados havia mais de três dias na maternidade do hospital de Akwe, onde os combates começaram no sábado (21). A equipe foi realocada até a situação se acalmar. Um levantamento do UNICEF com 1.062 mulheres e meninas de Ituri aponta que quase 6 em cada 10 relatam violência que começou ou aumentou desde o surto. Não há números novos da OMS desde 23/11 (11.762 casos e 5.775 mortes), e as vacinas ChAdOx1 e mRNA-1469 estão perto de entrar em teste em Ituri.",
+   "fontes": [
+    {
+     "titulo": "AFP via Jamaica Observer: WHO chief says staff evacuated from DR Congo hospital",
+     "url": "https://www.jamaicaobserver.com/2026/11/24/chief-says-staff-evacuated-dr-congo-hospital/"
+    },
+    {
+     "titulo": "UN News: Ebola em Ituri (24/11)",
+     "url": "https://news.un.org/en/story/2026/11/1168865"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Política internacional e geopolítica",
+    "Orçamento",
+    "Irã"
+   ],
+   "historia": "orcamento-shutdown",
+   "titulo": "Para evitar o shutdown de 11/12, líderes republicanos do Senado admitem limitar o dinheiro da guerra com o Irã",
+   "oque": "A presidente da Comissão de Orçamento do Senado, Susan Collins, disse estudar um texto que pagaria a reposição de munições, mas negaria verba para a guerra com o Irã. O líder da maioria, John Thune, se disse 'aberto a qualquer coisa que mantenha o governo funcionando'. O governo pediu US$ 350 bilhões a mais para o setor militar.",
+   "contexto": "O financiamento do governo acaba em 11 de dezembro, e o Congresso volta do feriado só na segunda (30). Na quinta passada (19), o Senado rejeitou por 51 a 48 uma resolução democrata de poderes de guerra (Collins, Murkowski e Paul votaram com os democratas). Trump disse ao New York Post que a guerra está paga 'até o fim de janeiro', justamente quando toma posse a nova Câmara, onde a AP já conta pelo menos 259 cadeiras democratas, a maior maioria desde 1990. É o velho 'poder da bolsa': quando o Congresso não consegue frear uma guerra pelo voto direto, tenta pelo orçamento.",
+   "lados": "O democrata Tim Kaine propõe proibir gastos com ações ofensivas contra o Irã sem autorização do Congresso, liberando a defesa das tropas e a retirada de civis. O republicano Roger Wicker diz que os democratas podem marcar posição 'sem amarrar as mãos do comandante-em-chefe'; John Hoeven diz que qualquer acordo tem de ser aceitável para o governo. O democrata Peter Welch resume o dilema: 'Não queremos financiar a guerra, não queremos fechar o governo.' A Casa Branca não comentou, e Trump, que se chama de 'Sr. Veto', não disse se assinaria uma lei assim.",
+   "proximo": "O Congresso retoma os trabalhos em 30/11, com menos de duas semanas até o prazo. Em 1º/12, Chris Van Hollen desafia Chuck Schumer pela liderança democrata no Senado. Observar se os republicanos aceitam uma prorrogação curta, como querem os democratas, e se entra ajuda à Ucrânia no pacote. Seria o quarto shutdown do segundo mandato de Trump.",
+   "fontes": [
+    {
+     "titulo": "Washington Post via Yahoo: GOP leaders signal openness to cutting Iran war funding",
+     "url": "https://www.yahoo.com/news/politics/articles/gop-leaders-signal-openness-cutting-140100010.html"
+    },
+    {
+     "titulo": "CNN/Newsmax via Yahoo: GOP weighs deal on Iran",
+     "url": "https://www.yahoo.com/news/politics/articles/gop-weighs-deal-comes-iran-222427066.html"
+    },
+    {
+     "titulo": "AP via Local10: Democrats clinch a House majority of at least 259 seats",
+     "url": "https://www.local10.com/news/politics/2026/11/24/democrats-clinch-a-historic-house-majority-of-at-least-259-seats-the-largest-since-1990/"
+    },
+    {
+     "titulo": "Gulf News: Trump says Iran war funded through January",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça",
+    "Dados"
+   ],
+   "historia": "ice-habeas-corpus",
+   "titulo": "Com 97 mil pedidos de habeas corpus de imigrantes presos, Departamento de Justiça manda cerca de 2 mil advogados de outras áreas defenderem o ICE",
+   "oque": "Um memorando de três páginas do procurador-geral Todd Blanche, de 24/11, convoca as divisões Antitruste, Civil, de Direitos Civis e de Meio Ambiente, cerca de 2 mil advogados, para atuar nos processos de imigrantes detidos. Funcionários dos gabinetes da cúpula do departamento também vão pegar casos.",
+   "contexto": "Desde janeiro de 2025 foram apresentados mais de 97 mil pedidos de habeas corpus, cerca de 10 mil só desde outubro. Antes deste governo eram algumas centenas por ano. A explosão acompanha a política de prender quem já vivia no país e de negar audiências de fiança, o que leva os detidos a pedir a um juiz federal que avalie a legalidade da prisão. Em outubro, a procuradoria do oeste de Washington chegou a dizer a um juiz que deixaria de defender 'muitos' desses casos.",
+   "lados": "Blanche diz que as procuradorias estão 'sobrecarregadas' e chama muitos pedidos de 'frívolos', atribuindo parte deles ao esforço de advogados de imigração para travar a agenda de Trump. Advogados de imigrantes não comentaram à CBS; nos tribunais, juízes têm concedido muitos desses pedidos e, em casos como o do Colorado na semana passada, punido o governo por descumprir ordens de soltura.",
+   "proximo": "O memorando não diz quantos advogados serão de fato remanejados. Observar o efeito sobre outras frentes do departamento, como os processos antitruste, e se a nova maioria democrata na Câmara, a partir de janeiro, usa o tema em audiências de fiscalização.",
+   "fontes": [
+    {
+     "titulo": "CBS News: Inundated by thousands of ICE detainee lawsuits, DOJ directs non-immigration attorneys to help",
+     "url": "https://www.cbsnews.com/news/ice-detainee-lawsuits-justice-department-non-immigration-attorneys/"
+    },
+    {
+     "titulo": "Newsweek: DOJ to stop defending ICE in many detention cases",
+     "url": "https://newsweek.com/doj-to-stop-defending-ice-in-many-detention-cases-12693067"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "ONU",
+    "Sucessão de Guterres"
+   ],
+   "historia": "onu-secretario-geral",
+   "titulo": "Sem acordo após nove votações, os cinco membros permanentes passam a negociar entre si o próximo secretário-geral da ONU",
+   "oque": "Os cinco membros permanentes do Conselho de Segurança (EUA, China, Rússia, Reino Unido e França) começaram a discutir o processo entre si, e não há data para a 10ª votação. O embaixador americano Mike Waltz sugeriu que os candidatos mais atrás pensem em desistir.",
+   "contexto": "A costa-riquenha Rebeca Grynspan ficou em primeiro em 8 das 9 votações de sondagem; na de 20/11 teve 10 votos de incentivo e 4 de desestímulo, dois deles de membros permanentes, o que equivale a um veto. Segundo pesquisadores ouvidos pela AFP, EUA e Rússia resistem a ela. Lana Nusseibeh, dos Emirados, que entrou tarde e é vista como a preferida de Washington, teve 7 a 6. É a disputa mais longa da história da ONU, e o mandato de Guterres termina em 31 de dezembro.",
+   "lados": "Os EUA defendem afunilar a lista de candidatos. Apoiadores de Grynspan lembram que ela lidera desde o início e que a maioria do Conselho a apoia. A cúpula Trump-Xi-Putin em Shenzhen (18 e 19/11) falou em 'reforma da ONU', mas não produziu um nome comum. Os bastidores vêm de fontes anônimas e não foram confirmados oficialmente.",
+   "proximo": "Uma recomendação precisa de 9 votos no Conselho e nenhum veto, e depois vai à Assembleia Geral. Não há prazo formal: se ninguém for escolhido até 31/12, a ONU ficaria sem titular escolhido na virada do ano, algo inédito. Observar desistências e a marcação da próxima votação.",
+   "fontes": [
+    {
+     "titulo": "AFP via Yahoo: Intrigue ratchets up as UN struggles to pick new chief",
+     "url": "https://sg.news.yahoo.com/intrigue-ratchets-un-struggles-pick-012854562.html"
+    },
+    {
+     "titulo": "PassBlue: UN secretary-general race remains deadlocked",
+     "url": "https://passblue.com/2026/11/20/un-secretary-general-race-remains-deadlocked-as-veto-powers-fail-to-reach-consensus/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Petróleo"
+   ],
+   "historia": "guerra-ira-eua",
+   "titulo": "Irã manda apertar 'dia após dia' o fechamento de Ormuz, e o premiê do Catar vai a Washington",
+   "texto": "O comandante do Exército iraniano, Amir Hatami, ordenou endurecer o bloqueio do estreito até os EUA aceitarem as 'sete condições' de Teerã; o Irã diz que reabriria em 48 horas se elas fossem atendidas. O premiê do Catar se reuniu com Rubio e com Vance, num encontro de cerca de 10 minutos, sem detalhes divulgados. A Guarda Revolucionária diz que mais dois petroleiros bateram em minas nesta quarta (25), alegação sem verificação independente.",
+   "fontes": [
+    {
+     "titulo": "Euronews: Iran orders Hormuz closed 'further day by day'",
+     "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+    },
+    {
+     "titulo": "Middle East Eye: Qatar needs US, Iran to resume talks",
+     "url": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Arábia Saudita",
+    "Iêmen"
+   ],
+   "historia": "guerra-arabia-houthis",
+   "titulo": "Projétil atinge torre do distrito financeiro de Riad e fere 11 pessoas",
+   "texto": "É o segundo ataque à região em menos de uma semana; testemunhas disseram à AFP que o alvo era a torre do fundo soberano PIF, o prédio mais alto do país. Fontes sauditas atribuem o ataque aos houthis, e a coalizão liderada por Riad bombardeou o porto de Hodeida e mandou civis saírem da cidade.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Saudi-led coalition condemns attack on tower in Riyadh",
+     "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Putin diz que retaliação a ataques ucranianos contra refinarias é 'inevitável'",
+   "texto": "Drones ucranianos atingiram refinarias em Perm e Rostov na madrugada de 23/11, e um ataque russo a Zaporizhzhia matou 2 e feriu mais de 40 na terça. Zelensky diz que a inteligência indica novos ataques russos em preparação, enquanto seguem as conversas a três com EUA e Rússia.",
+   "fontes": [
+    {
+     "titulo": "RBC-Ukraine: Putin warns of inevitable retaliation",
+     "url": "https://newsukraine.rbc.ua/news/putin-warns-of-inevitable-retaliation-over-1795541075.html"
+    },
+    {
+     "titulo": "Al Jazeera: Russian attack kills two in Zaporizhzhia",
+     "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Contas públicas"
+   ],
+   "historia": "ajuste-fiscal-2026",
+   "titulo": "Lula sanciona o ajuste fiscal no mesmo dia em que a Câmara o aprovou",
+   "texto": "A lei permite ao governo bloquear gastos para cumprir a meta a partir de 2027 e reduz de 2,5% para 2% acima da inflação o teto de crescimento real das despesas nos anos de contenção; a economia estimada é de R$ 45 a 56 bilhões. Durigan chamou a lei de 'primeiro passo', e o mercado a considera insuficiente depois de 2027.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Lula sanciona ajuste fiscal aprovado no Congresso",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Comércio",
+    "China",
+    "União Europeia"
+   ],
+   "historia": "tarifas-sobrecapacidade",
+   "titulo": "Governo deve anunciar tarifas contra 16 economias, incluindo China e UE, por excesso de produção subsidiada",
+   "texto": "Fontes anônimas disseram à AP que o Escritório do Representante Comercial vai divulgar nos próximos dias uma investigação sobre subsídios e capacidade industrial excessiva. As novas tarifas substituiriam as de abril de 2025, derrubadas pela Suprema Corte em fevereiro; a Casa Branca não comentou.",
+   "fontes": [
+    {
+     "titulo": "AP via CP24: US ready to slap tariffs on China, EU and others",
+     "url": "https://www.cp24.com/news/world/2026/11/25/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Justiça",
+    "TPI"
+   ],
+   "historia": "sancoes-tpi",
+   "titulo": "Juiz proíbe de vez o governo de punir americanos que trabalham com o Tribunal Penal Internacional",
+   "texto": "Jesse Furman, juiz federal em Manhattan, decidiu que o trecho da ordem executiva de Trump que veta serviços ao TPI restringe a liberdade de expressão. Não se sabe se o governo vai recorrer.",
+   "fontes": [
+    {
+     "titulo": "Middle East Eye: US judge permanently bars Trump from punishing groups who liaise with ICC",
+     "url": "https://www.middleeasteye.net/news/us-judge-permanently-bars-trump-punishing-rights-groups-who-liaise-icc"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Deportações"
+   ],
+   "historia": "abrego-garcia",
+   "titulo": "Kilmar Abrego Garcia, deportado por engano a El Salvador em 2025, deixa os EUA rumo à Espanha",
+   "texto": "Ele saiu voluntariamente na terça (24), prazo que, segundo fonte anônima, um juiz havia fixado; a mulher e o filho, americanos, ficam em Maryland. O senador Van Hollen disse que ele está livre da 'perseguição constante' do governo; o DHS não comentou.",
+   "fontes": [
+    {
+     "titulo": "AP via WRAL: Kilmar Abrego Garcia is self-deporting to Spain",
+     "url": "https://www.wral.com/news/ap/790f1-kilmar-abrego-garcia-who-fought-being-mistakenly-sent-to-el-salvador-is-self-deporting-to-spain/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Universidades",
+    "Asilo"
+   ],
+   "historia": "ice-prisoes-aeroportos",
+   "titulo": "Doutoranda de Princeton presa pelo ICE em aeroporto; governo tem até hoje para responder à Justiça",
+   "texto": "A neurocientista chinesa Eva Yi Xie, que tem pedido de asilo pendente, foi detida em 19/11 no aeroporto Reagan, ao voltar de um congresso; um juiz da Virgínia proibiu sua transferência e deu prazo até as 17h desta quarta. Em Seattle, o porto revisa a prisão de dois passageiros na ponte de embarque, e advogados aconselham clientes sem cidadania a não voar no feriado.",
+   "fontes": [
+    {
+     "titulo": "The Transmitter: Detained neuroscientist holding out strong",
+     "url": "https://www.thetransmitter.org/community/detained-neuroscientist-holding-out-strong/"
+    },
+    {
+     "titulo": "KUOW: Sea-Tac officials call for an end to ICE at airport",
+     "url": "https://www.kuow.org/immigration/2026-11-24/seattle-airport-reviewing-whether-ice-violated-protocols-during-weekend-arrests"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Música"
+   ],
+   "historia": "musica-ia-streaming",
+   "titulo": "Tidal vai banir e apagar cerca de 29 milhões de músicas feitas inteiramente por IA",
+   "texto": "As remoções começam em 9/12; segundo a plataforma, 6,3% do catálogo é 100% gerado por IA, e 96% dessas faixas nunca foram ouvidas. Músicas apenas assistidas por IA continuam permitidas; Spotify e YouTube Music só rotulam esse conteúdo.",
+   "fontes": [
+    {
+     "titulo": "TechCrunch: Tidal to ban and remove millions of AI-generated tracks",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Chips",
+    "China"
+   ],
+   "historia": "nvidia-china-chips",
+   "titulo": "Procurador-geral não diz se Jensen Huang foi investigado, e o CEO da Nvidia depõe no Senado em 3/12",
+   "texto": "Trump afirma que uma investigação 'completa' liberou a volta de Huang, mas Todd Blanche se recusou a confirmar que ela existiu. As ações da Nvidia caíram 5,9% na terça, e Schumer promete investigação nas comissões.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Todd Blanche declines to confirm if Nvidia's Jensen Huang was investigated",
+     "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+    },
+    {
+     "titulo": "Axios: Nvidia's Jensen Huang to testify in Congress",
+     "url": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Economia",
+   "temas": [
+    "Mercados",
+    "EUA",
+    "Juros"
+   ],
+   "historia": "wall-street-queda-ia",
+   "titulo": "Dow Jones fecha acima de 50 mil pontos pela primeira vez, mas Nasdaq cai com a venda de ações de chips",
+   "texto": "Na terça, o Dow subiu 0,85%, o S&P 500 caiu 0,5% e o Nasdaq, 1,5%; o juro do título de 10 anos está em 4,92%. Hoje saem o PCE de outubro (consenso de 3,8% em 12 meses) e o PIB revisado, e o mercado vê mais de 90% de chance de alta de juros do Fed em 9/12.",
+   "fontes": [
+    {
+     "titulo": "Yahoo Finance: Stock market today, Nov. 24",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html"
+    },
+    {
+     "titulo": "ABC News: Inflation report to provide Fed's preferred gauge",
+     "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Economia",
+   "temas": [
+    "Câmbio",
+    "Petróleo",
+    "Brasil"
+   ],
+   "historia": "dolar-real",
+   "titulo": "Dólar recua a R$ 5,91 após a sanção do ajuste, e o petróleo sobe com a tensão em Ormuz",
+   "texto": "O dólar comercial caiu 0,26%, e o Ibovespa perdeu 0,43%, puxado pela queda de 5,5% da Vale. O Brent subiu 2,3%, a US$ 91,40; o IPCA-15 de novembro sai na quinta (26).",
+   "fontes": [
+    {
+     "titulo": "CNN Brasil: Ibovespa e dólar em 24 de novembro",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-24-novembro-2026/"
+    },
+    {
+     "titulo": "A Crítica: Dólar fecha a R$ 5,91, mas bolsa cai 0,43%",
+     "url": "https://acritica.net/noticias/dolar-fecha-a-r-591-mas-bolsa-cai-043-com-pressao-da-vale/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Libertadores",
+    "Brasileirão"
+   ],
+   "historia": "libertadores-2026",
+   "titulo": "Com reservas, Palmeiras perde de 3 a 0 para a Chapecoense antes da final contra o Estudiantes",
+   "texto": "A final da Libertadores é no sábado (28), às 17h de Brasília, no Centenário, em Montevidéu, repetindo o adversário e o estádio da final de 1968. Na luta contra a queda, o Inter (38 pontos) é quem corre mais risco, à frente de Corinthians, Grêmio e Mirassol.",
+   "fontes": [
+    {
+     "titulo": "CartaCapital: Com reservas, Palmeiras perde para a Chapecoense",
+     "url": "https://www.cartacapital.com.br/esporte/com-reservas-palmeiras-perde-para-a-chapecoense-em-ultimo-jogo-antes-da-final-da-libertadores/"
+    },
+    {
+     "titulo": "ValorFinal: Chances de rebaixamento",
+     "url": "https://valorfinal.com.br/brasileirao/chances-rebaixamento"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "bilheteria-acao-de-gracas",
+   "titulo": "'Hexed' e 'Focker In-Law' estreiam hoje, com críticas bem diferentes",
+   "texto": "A animação da Disney tem 65% de aprovação no Rotten Tomatoes, e a comédia com De Niro, Stiller e Ariana Grande, 27%. As projeções para os cinco dias do feriado vão de US$ 40 milhões a US$ 70 milhões para cada um.",
+   "fontes": [
+    {
+     "titulo": "Forbes: Disney's 'Hexed' and Rotten Tomatoes critics",
+     "url": "https://www.forbes.com/sites/timlammers/2026/11/24/disneys-hexed-casts-weak-spell-over-rotten-tomatoes-critics/"
+    },
+    {
+     "titulo": "Rotten Tomatoes: Focker In-Law",
+     "url": "https://www.rottentomatoes.com/m/focker_in_law"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "China",
+    "Paquistão"
+   ],
+   "historia": "shenzhou-24",
+   "titulo": "China lança a Shenzhou-24 com o primeiro astronauta estrangeiro a visitar a Tiangong",
+   "texto": "O paquistanês Zeeshan Ali decolou nesta quarta (25) de Jiuquan com Tang Hongbo e Wu Yi e deve ficar de 5 a 10 dias na estação. É também um gesto diplomático: o Paquistão é o parceiro mais próximo de Pequim na Ásia do Sul.",
+   "fontes": [
+    {
+     "titulo": "Korea Herald: China launches Shenzhou-24",
+     "url": "https://www.koreaherald.com/article/10948946"
+    },
+    {
+     "titulo": "Euronews: China launches Shenzhou-24 mission with Pakistani astronaut",
+     "url": "https://www.euronews.com/video/2026/11/25/moment-china-launches-shenzhou-24-mission-with-pakistani-astronaut-aboard"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima",
+    "União Europeia"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Depois do fracasso da COP31, UE propõe reformar as cúpulas do clima para que um só país não trave tudo",
+   "texto": "A Comissão Europeia quer negociações mais transparentes, menos grupos paralelos e mais peso para coalizões de países dispostos. Segundo a UE, de 80 a 90 países se opuseram à declaração final de Antalya.",
+   "fontes": [
+    {
+     "titulo": "Euronews: EU pushes to overhaul UN climate summits after COP31 collapse",
+     "url": "https://www.euronews.com/2026/11/24/eu-pushes-to-overhaul-un-climate-summits-after-cop31-collapse"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Saúde global",
+    "HIV"
+   ],
+   "historia": "unaids-financiamento",
+   "titulo": "UNAIDS alerta que cortes de financiamento ameaçam décadas de avanço contra o HIV",
+   "texto": "Países de renda baixa e média enfrentam um buraco de US$ 4,3 bilhões, e 446 mil pessoas a menos usaram a PrEP em 2025. Na Nigéria, 98% do gasto com HIV vem de fora.",
+   "fontes": [
+    {
+     "titulo": "UN News: UNAIDS (24/11)",
+     "url": "https://news.un.org/en/story/2026/11/1168869"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Clima",
+    "Tecnologia e IA"
+   ],
+   "historia": "noreaster-acao-de-gracas",
+   "titulo": "Balões do 100º desfile da Macy's só terão decisão na quinta de manhã; Hochul proíbe brinquedos com chatbot de IA",
+   "texto": "A previsão é de rajadas de 45 a 55 mph (70 a 90 km/h) em NYC e de até 70 mph no litoral de NJ a partir do meio-dia de quinta, e a prefeitura estuda antecipar o desfile; os balões ficam no chão se as rajadas passarem de 34 mph. Também na terça, a governadora sancionou uma proibição de cinco anos a brinquedos com chatbots de IA conectados à internet, com multa de até US$ 15 mil por dia.",
+   "fontes": [
+    {
+     "titulo": "ABC7: Will Macy's parade balloons fly?",
+     "url": "https://abc7ny.com/story/will-macys-parade-balloons-fly-storm-wind-rain-puts-doubt/20078423/"
+    },
+    {
+     "titulo": "Governo de NY: Hochul signs five-year ban on AI chatbot toys",
+     "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "O 'poder da bolsa': como o Congresso americano tenta frear guerras pelo orçamento",
+  "texto": "A Constituição dos EUA dá ao presidente o comando das Forças Armadas, mas reserva ao Congresso o poder de declarar guerra e de autorizar gastos. Como resoluções de poderes de guerra raramente passam (e podem ser vetadas), o Congresso já recorreu ao orçamento para encerrar conflitos: em 1973, a emenda Case-Church cortou o dinheiro para operações militares no Sudeste Asiático, e nos anos 1980 a emenda Boland proibiu financiar os Contras na Nicarágua, cuja violação gerou o escândalo Irã-Contras. O limite é prático: um corte só vale se virar lei, e o presidente pode vetá-la, o que hoje se mistura ao risco de shutdown.",
+  "fontes": [
+   {
+    "titulo": "Washington Post via Yahoo: GOP leaders signal openness to cutting Iran war funding",
+    "url": "https://www.yahoo.com/news/politics/articles/gop-leaders-signal-openness-cutting-140100010.html"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm destaque ou nota. Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido. Pelas avaliações, os destaques ficaram com política dos EUA, imigração com dados e ONU, e Israel e Gaza ficaram de fora. Atualização só para o ebola; a eleição brasileira acabou em 25/10 e não teve novidade. Avisos: o PCE e o PIB dos EUA saem às 8h30 de hoje, depois do fechamento desta edição; as minas em Ormuz são alegação iraniana sem verificação; a autoria do ataque em Riad vem de fontes sauditas; os bastidores da escolha na ONU vêm de fontes anônimas; as chances de rebaixamento vêm de um site de projeções; as previsões de bilheteria variam muito. Washington Post, NPR, CNN, CNBC, Gothamist e AP direto bloquearam acesso em parte da pesquisa, e usei republicações das mesmas matérias.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-25T12:08:01+00:00"
+}
