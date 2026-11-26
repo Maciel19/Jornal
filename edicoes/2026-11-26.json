@@ -1,0 +1,500 @@
+{
+ "data": "2026-11-26",
+ "manchete": "EUA propõem nova rodada de tarifas contra 14 economias e miram os aviões da Embraer; China fala em 'medidas necessárias' e o governo Lula chama a ameaça de 'inaceitável'",
+ "abertura": "Num Dia de Ação de Graças com mercados americanos fechados e um nor'easter que adiou pela primeira vez o desfile da Macy's, o comércio global volta ao centro da cena com as tarifas da Seção 301. Nos tribunais, um segundo juiz barra a nova tentativa de Trump de restringir a cidadania por nascimento, e no Brasil Lula sonda um banqueiro para a Fazenda.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Diretor da OMS para a África vai ao epicentro do ebola no Congo",
+   "titulo": "Surto passa de 12 mil casos, e combates voltam em Ituri",
+   "texto": "O Ministério da Saúde da RD Congo contava nesta quinta (26) 12.021 casos confirmados e 5.904 mortes, contra 11.762 e 5.775 no último boletim da OMS; a AP chama o surto de o de crescimento mais rápido da história do ebola. Na manhã de quinta, o Exército e a milícia CRP voltaram a se enfrentar em Iga-Barrière, a 25 km de Bunia, centro da resposta; a OMS diz que os combates já cortaram o acompanhamento de contatos e equipes de centros de tratamento. Os números são do governo e ainda não foram consolidados pela OMS.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+     "url": "https://aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east"
+    },
+    {
+     "titulo": "Euronews/AP: Ebola cases in Congo surpass 12,000 in fastest-growing outbreak",
+     "url": "https://www.euronews.com/2026/11/26/ebola-cases-in-congo-surpass-12000-in-fastest-growing-outbreak"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Comércio",
+    "EUA",
+    "China",
+    "Brasil"
+   ],
+   "historia": "tarifas-secao-301",
+   "titulo": "EUA propõem tarifas de 10% a 20% contra 14 economias por 'excesso de capacidade', e China, UE, Japão e Brasil reagem",
+   "oque": "Na quarta (25), o Representante Comercial dos EUA, Jamieson Greer, concluiu que 14 parceiros usam práticas que 'oneram ou restringem' o comércio americano e propôs tarifas: 20% para China e Vietnã, 18% para Camboja e Indonésia, 17% para Índia e até 15% para UE, Coreia do Sul e Taiwan; Japão, Suíça, Singapura e outros também estão na lista. O Brasil recebeu uma proposta à parte, com tarifa nova de 10% sobre aviões prontos, hoje isentos, o que atinge a Embraer; México e Noruega seguem sob investigação.",
+   "contexto": "Em fevereiro, a Suprema Corte derrubou as tarifas globais que Trump havia imposto com base em poderes de emergência (IEEPA), e o governo passou a usar a Seção 301, que exige investigação e justificativa caso a caso. Os argumentos variam por país: subsídios a estatais e trabalho forçado na China, crédito à exportação na UE, proteção trabalhista na Índia e, no caso brasileiro, desmatamento ilegal, o Pix e regras de comércio digital. As novas tarifas não se somam às setoriais (aço, carros): vale a mais alta.",
+   "lados": "Greer diz que as medidas 'nivelam o jogo' para os americanos e oferece isenções para cerca de US$ 30 bilhões em produtos. A China chamou o excesso de capacidade de 'pretexto para protecionismo' e disse que pode tomar 'medidas necessárias'; a UE cobra o acordo comercial do ano passado; o Japão nega superprodução. O governo Lula chamou a ameaça de 'inaceitável', disse negociar de boa-fé há mais de um ano e não descartou reciprocidade. A ação da Embraer chegou a cair 9,6% e fechou em queda de 4%.",
+   "proximo": "Abre-se agora um período de comentários públicos e audiências; as tarifas não entrariam em vigor antes de janeiro. Observe a forma da retaliação chinesa (Pequim acaba de prorrogar até janeiro a pausa em restrições a minerais críticos), a resposta formal do Itamaraty e a ação de pequenas empresas contra a Seção 301 no Tribunal de Comércio Internacional. A trégua EUA-China vence em janeiro de 2027.",
+   "fontes": [
+    {
+     "titulo": "Dawn/AFP: Major economies balk at new US tariffs over 'unfair' trade",
+     "url": "https://www.dawn.com/news/2047209/major-economies-balk-at-new-us-tariffs-over-unfair-trade"
+    },
+    {
+     "titulo": "The Hill: Trump administration targets EU, other countries with new global tariffs",
+     "url": "https://thehill.com/homenews/administration/6242105-trump-administration-new-tariffs-china-european-union/amp/"
+    },
+    {
+     "titulo": "O Povo: EUA anunciam novas tarifas, miram Embraer e ampliam pressão comercial sobre Brasil e China",
+     "url": "https://www.opovo.com.br/noticias/mundo/2026/11/26/eua-anunciam-novas-tarifas-miram-embraer-e-ampliam-pressao-comercial-sobre-brasil-e-china.html"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Política e história dos EUA",
+    "Justiça"
+   ],
+   "historia": "cidadania-por-nascimento",
+   "titulo": "Segundo juiz federal barra a nova ordem de Trump que restringe a cidadania por nascimento",
+   "oque": "Na quarta (25), o juiz Christopher Cooper, de Washington, concedeu liminar contra a ordem executiva de 6 de agosto e certificou uma ação coletiva em nome das crianças afetadas, proibindo Departamento de Estado, DHS e Previdência de aplicá-la. A ordem negaria cidadania a filhos ligados a 'turismo de parto', a filhos de funcionários de governos estrangeiros ou organismos internacionais sem imunidade diplomática, a nascidos por barriga de aluguel comercial e a filhos de pais classificados como suspeitos de integrar gangues ou como 'inimigos estrangeiros'.",
+   "contexto": "Em 30 de junho, a Suprema Corte derrubou a primeira ordem, de janeiro de 2025, que negava cidadania a filhos de imigrantes sem status. Trump respondeu com uma ordem mais estreita, que tenta criar exceções específicas. Cooper se apoiou na 14ª Emenda e no caso Wong Kim Ark (1898): o governo 'não pode criar novas exceções' para quem nasce no país e está sujeito às suas leis. Em setembro, a juíza Deborah Boardman, de Maryland, já havia bloqueado a mesma ordem.",
+   "lados": "A Casa Branca chamou Cooper de 'juiz ativista' e defende que a Constituição não garante cidadania automática nesses casos. Os autores e grupos de direitos civis dizem que a Cláusula de Cidadania vale para 'praticamente todas as crianças nascidas nos EUA', como escreveu o juiz.",
+   "proximo": "Para aplicar a ordem, o governo precisa derrubar as duas liminares; espera-se recurso aos tribunais de apelação do 4º Circuito e de Washington, e possivelmente à Suprema Corte. Nenhum recurso tinha sido confirmado até esta edição. Em paralelo, a Suprema Corte já aceitou julgar a suspensão do asilo na fronteira.",
+   "fontes": [
+    {
+     "titulo": "ABC News: Judge blocks latest Trump effort to restrict birthright citizenship",
+     "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
+    },
+    {
+     "titulo": "La Voce di New York: Second Federal Judge Blocks Trump's Plans to Restrict Birthright Citizenship",
+     "url": "https://lavocedinewyork.com/en/news/2026/11/26/second-federal-judge-blocks-trumps-plans-to-restrict-birthright-citizenship/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Governo Lula"
+   ],
+   "historia": "fazenda-quarto-mandato",
+   "titulo": "Lula convida Luiz Carlos Trabuco, do Bradesco, para a Fazenda, e o mercado reage com alta da Bolsa e queda do dólar",
+   "oque": "Segundo o Estadão, Lula recebeu na segunda (23), fora da agenda oficial, o presidente do conselho do Bradesco, Luiz Carlos Trabuco, e o convidou para comandar a Fazenda no quarto mandato, a partir de 2027. Trabuco não respondeu; a pessoas próximas, teria dito que não pretende aceitar. Na quarta (25), o Ibovespa subiu 1,58%, a 166.684 pontos, e o dólar caiu 1,53%, a R$ 5,817, com o Bradesco em alta de 4%.",
+   "contexto": "A escolha do ministro é o primeiro grande sinal econômico do novo mandato, num momento de desconfiança fiscal: o governo elevou a previsão de déficit primário de 2026 de R$ 80,9 bilhões para R$ 89,3 bilhões, e o Focus vê o IPCA de 2026 acima do teto da meta. Lula sancionou o ajuste fiscal na terça (24) e discutiu com a equipe uma PEC para conter despesas obrigatórias; o ministro do Planejamento, Bruno Moretti, diz que 'não há PEC pronta' nem 'bala de prata'. Também são citados para a Fazenda o vice Geraldo Alckmin, o atual ministro Dario Durigan e o próprio Moretti.",
+   "lados": "Para parte do mercado, um nome do setor bancário sinalizaria compromisso com o controle de gastos. Na base do PT, a orientação de Lula é não mexer em direitos sociais, o que limita o alcance de qualquer corte. O convite vem de fontes do Estadão e não foi confirmado oficialmente.",
+   "proximo": "Moretti diz que Lula escolherá o primeiro escalão 'sem pressa'. Observe a resposta de Trabuco, a votação do relatório preliminar do Orçamento de 2027 na Comissão Mista e se a PEC de despesas sai antes da posse do novo Congresso, em fevereiro.",
+   "fontes": [
+    {
+     "titulo": "Terra/Estadão: Lula sondou Trabuco para o Ministério da Fazenda; banqueiro ainda avalia proposta",
+     "url": "https://www.terra.com.br/economia/lula-sondou-trabuco-para-o-ministerio-da-fazenda-banqueiro-ainda-avalia-proposta,89a63fa069d1d9e3170a91f473d17d9a9ndwaeyn.html"
+    },
+    {
+     "titulo": "CNN Brasil: Dólar fecha em R$ 5,81 e Bolsa sobe com fiscal, tarifaço e inflação dos EUA",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-25-novembro-2026/"
+    },
+    {
+     "titulo": "InfoMoney/Reuters: Moretti diz que governo não tem PEC sobre despesas",
+     "url": "https://www.infomoney.com.br/politica/moretti-diz-que-governo-nao-tem-pec-sobre-despesas-e-mantem-debate-fiscal-continuo/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Oriente Médio",
+    "Iêmen"
+   ],
+   "historia": "arabia-saudita-houthis",
+   "titulo": "Coalizão saudita bombardeia o porto de Hodeidah, e houthis miram a refinaria de Ras Tanura e Riad",
+   "texto": "Depois do ataque à torre financeira de Riad, a coalizão atacou alvos houthis em Hodeidah, Saada e Amran; a Arábia Saudita diz ter interceptado 4 drones sobre Ras Tanura e, na madrugada de quinta, 2 mísseis contra Riad. No Iêmen, os houthis estão a 60 km de Áden, segundo o Exército iemenita, e ameaçam os portos de Jeddah e Jizan.",
+   "fontes": [
+    {
+     "titulo": "The National: Saudi-led coalition strikes Hodeidah port after Riyadh attack",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/25/saudi-led-coalition-strikes-hodeidah-port-after-riyadh-attack/"
+    },
+    {
+     "titulo": "Al Jazeera: Iran war live, explosion rocks Sanaa, missiles intercepted over Riyadh",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "China"
+   ],
+   "historia": "china-expurgo-politburo",
+   "titulo": "Xi afasta o chefe do partido em Xangai, quarto membro do Politburo sob investigação",
+   "texto": "Chen Jining, de 62 anos, sucessor de Li Qiang em Xangai e já visto como candidato à cúpula, é investigado por 'graves violações de disciplina e da lei', sem detalhes. É o primeiro chefe de Xangai investigado no cargo desde 2006, o que abre dúvidas sobre a sucessão antes do 21º Congresso do Partido, em 2027.",
+   "fontes": [
+    {
+     "titulo": "RFA: China investigates Shanghai party chief, raising questions over Xi's succession plans",
+     "url": "https://www.rfa.org/english/china/2026/11/25/chen-jining-china-investigation-/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Guerra com o Irã",
+    "Congresso"
+   ],
+   "historia": "orcamento-shutdown",
+   "titulo": "Trump diz que a guerra com o Irã está financiada 'até o fim de janeiro', quando os democratas assumem o Congresso",
+   "texto": "Em entrevista ao New York Post, Trump disse que pode 'encerrar a guerra quando quiser' e que os democratas transformariam 'uma vitória total em derrota'. O prazo do orçamento é 11/12; no Golfo, o Irã alega que mais petroleiros bateram em minas em Ormuz e que derrubou dois drones americanos, sem confirmação independente, e o Comando Central diz que as rotas estão livres.",
+   "fontes": [
+    {
+     "titulo": "Israel Hayom: Trump says Iran war is funded through January",
+     "url": "https://www.israelhayom.com/2026/11/25/trump-iran-war-funded-january/"
+    },
+    {
+     "titulo": "Express Tribune: IRGC Navy says two oil tankers hit mines, caught fire in Strait of Hormuz",
+     "url": "https://tribune.com.pk/story/2642226/irgc-navy-says-two-oil-tankers-hit-mines-caught-fire-in-strait-of-hormuz-state-media"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Imprensa",
+    "Justiça"
+   ],
+   "historia": "fcc-abc-licencas",
+   "titulo": "Juíza impede a FCC de revisar antes do prazo as licenças de 8 emissoras da ABC: 'não é um caso difícil'",
+   "texto": "Loren AliKhan escreveu que o presidente da FCC, Brendan Carr, 'tomou a retórica do presidente Trump como ordem de marcha'; a revisão, a primeira antecipada em mais de 50 anos, foi aberta em abril, um dia depois de Trump pedir a demissão de Jimmy Kimmel. A FCC diz que a decisão está 'errada nos fatos e no direito'.",
+   "fontes": [
+    {
+     "titulo": "NTD: Judge Blocks FCC From Early Review of ABC Stations",
+     "url": "https://www.ntd.com/judge-blocks-fcc-from-early-review-of-abc-stations_1187554.html"
+    },
+    {
+     "titulo": "CNN: Judge blocks FCC review of ABC stations",
+     "url": "https://www.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Saúde",
+    "Dados"
+   ],
+   "historia": "medicare-imigrantes",
+   "titulo": "Cerca de 300 mil imigrantes legais recebem aviso de que perderão o Medicare em fevereiro",
+   "texto": "Pela lei orçamentária de 2025, refugiados, asilados, beneficiários de TPS e outros grupos deixam de ter direito ao Medicare; o aviso oficial da Previdência fala em fim da cobertura em 1º/2/2027, e só cidadãos, portadores de green card e alguns grupos específicos continuam elegíveis. A estimativa de 300 mil é do Washington Post; a Newsweek citou 32 mil, e os números divergem.",
+   "fontes": [
+    {
+     "titulo": "Political Wire (Washington Post): 300,000 legal immigrants told they're losing Medicare",
+     "url": "https://politicalwire.com/2026/11/25/300000-legal-immigrants-told-theyre-losing-medicare/"
+    },
+    {
+     "titulo": "SSA: Changes to Medicare Eligibility Requirements",
+     "url": "https://www.ssa.gov/news/en/advocates/2026-11-10.html"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça"
+   ],
+   "historia": "ice-recaptura",
+   "titulo": "Juiz em San Diego proíbe o ICE de prender de novo, sem justificativa individual, imigrantes que comparecem a check-ins",
+   "texto": "Dana Sabraw exigiu que o ICE prove mudança significativa de circunstâncias antes de deter quem não oferece risco de fuga, numa ação coletiva válida para San Diego e Imperial. No caso da doutoranda de Princeton Eva Yi Xie, o ICE se opôs na quarta ao pedido de soltura, e o juiz ainda não decidiu.",
+   "fontes": [
+    {
+     "titulo": "KPBS: San Diego judge temporarily blocks ICE from redetaining people at check-ins",
+     "url": "https://www.kpbs.org/news/border-immigration/2026/11/25/san-diego-judge-temporarily-blocks-ice-from-redetaining-people-at-check-ins"
+    },
+    {
+     "titulo": "Daily Princetonian: ICE files response opposing Xie's petition for release",
+     "url": "https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-ice-eva-yi-xie-responds-opposes-habeas-corpus-petition"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Chips",
+    "China"
+   ],
+   "historia": "nvidia-china-chips",
+   "titulo": "Governo põe a Megaspeed, empresa no centro do caso Nvidia, na lista negra de exportação; Trump não descarta perdão a Huang",
+   "texto": "A Megaspeed, de Singapura, e seis afiliadas, investigadas por desviar chips para a China, entraram na Entity List horas depois da volta de Jensen Huang; especialistas apontam que a regra ainda deixaria passar chips menos potentes fabricados fora dos EUA. Trump disse que um perdão é 'sempre uma opção', mas 'não deve ser necessário'.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US adds Megaspeed to trade blacklist as Nvidia's Huang returns as CEO",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list"
+    },
+    {
+     "titulo": "Forbes: Jensen Huang Returns: Timeline Of The Nvidia Scandal",
+     "url": "https://forbes.com/sites/alisondurkee/2026/11/25/jensen-huang-returns-timeline-of-the-nvidia-scandal-as-trump-isnt-ruling-out-pardon"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercados"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Ação da Anthropic segue abaixo do preço de IPO e acumula queda de mais de 30% desde o pico",
+   "texto": "O papel fechou a US$ 81,91 na terça e oscilou perto de US$ 81 na quarta, contra US$ 83 no IPO e mais de US$ 115 no primeiro dia; o valor de mercado está em torno de US$ 1,09 trilhão. Analistas citam o preço de cerca de 30 vezes a receita e as dúvidas sobre os gastos com IA; no Congresso, democratas preparam projetos de segurança de IA para 2027.",
+   "fontes": [
+    {
+     "titulo": "Yahoo Finance: Anthropic stock sinks further below IPO price",
+     "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-sinks-further-below-ipo-price-as-investors-sour-on-the-amodei-ai-bet-100918869.html"
+    },
+    {
+     "titulo": "Daily Caller: Signs Point Toward AI Safety Crackdown",
+     "url": "https://dailycaller.com/2026/11/24/big-tech-congress-ai-safety-crackdown"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "EUA",
+    "Juros"
+   ],
+   "historia": "fed-juros",
+   "titulo": "Inflação PCE fica em 3,8% e o PIB do 3º trimestre é revisado para 4,3%; alta de juros do Fed em dezembro vira quase certeza",
+   "texto": "O PCE de outubro subiu 0,3% no mês e 3,8% em 12 meses, como esperado, e o núcleo foi a 3,3%, acima dos 3,2% previstos; o PIB foi revisado de 3,4% para 4,3% anualizados. O CME FedWatch dá 97,8% de chance de alta de 0,25 ponto em 8-9/12, para 4,00%-4,25%; o Dow fechou a quarta em 50.182 pontos, e as bolsas não abrem hoje.",
+   "fontes": [
+    {
+     "titulo": "Fox Business: Fed's favored inflation gauge rose in October ahead of expected Fed rate hike",
+     "url": "https://www.foxbusiness.com/economy/october-2026-pce-inflation"
+    },
+    {
+     "titulo": "StockTitan: US GDP Growth Revised Up to 4.3% From 3.4% in the Third Quarter",
+     "url": "https://www.stocktitan.net/articles/q3-2026-gdp-second-estimate"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Economia",
+   "temas": [
+    "Economia",
+    "Brasil",
+    "Inflação"
+   ],
+   "historia": "inflacao-brasil",
+   "titulo": "Prévia da inflação sobe 0,22% em novembro, abaixo do esperado",
+   "texto": "O IPCA-15 desacelerou em relação aos 0,32% de outubro e ficou abaixo das projeções, que giravam em torno de 0,32% a 0,36%; em 12 meses, o índice está em 4,64%, acima do teto da meta de 4,5%.",
+   "fontes": [
+    {
+     "titulo": "InfoMoney: IPCA-15: prévia da inflação sobe 0,22% em novembro, abaixo do esperado",
+     "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-novembro-2026/"
+    },
+    {
+     "titulo": "Money Times: IPCA-15 desacelera em novembro, mas sobe 4,64% em 12 meses",
+     "url": "https://www.moneytimes.com.br/ipca-15-desacelera-em-novembro-mas-sobe-464-em-12-meses/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-rebaixamento",
+   "titulo": "Corinthians empata com o Atlético-MG nos acréscimos, mas deixa o Z-4; Mirassol e Inter ficam na zona",
+   "texto": "O 1 a 1 na Arena MRV levou o Corinthians a 41 pontos, empatado com Grêmio e Mirassol, que é o 17º no critério de desempate; o Inter tem 38. Domingo (29) tem Corinthians x Grêmio e Inter x Bragantino, e a última rodada é em 2/12.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Com um a mais, Corinthians cede empate ao Atlético-MG no fim, mas deixa o Z4",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/"
+    },
+    {
+     "titulo": "O Tempo: Simulador da luta contra o rebaixamento após a 36ª rodada",
+     "url": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/25/simulador-veja-cenarios-da-luta-contra-o-rebaixamento-apos-a-36-rodada-do-brasileirao"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Libertadores",
+    "Champions League"
+   ],
+   "historia": "libertadores-2026-final",
+   "titulo": "Palmeiras chega a Montevidéu para a final; na Champions, Real Madrid lidera e o Bayern perde para o Lille",
+   "texto": "O Palmeiras treina hoje no Uruguai e enfrenta o Estudiantes no sábado (28), às 17h de Brasília (15h em NY), atrás do 4º título. Na 5ª rodada da Champions, o Real Madrid fez 5 a 1 no PSV e soma 15 pontos, e o Liverpool venceu o Brugge por 3 a 0; a classificação foi conferida em uma só fonte.",
+   "fontes": [
+    {
+     "titulo": "Gazeta Esportiva: Palmeiras desembarca em Montevidéu para final da Libertadores",
+     "url": "https://gazetaesportiva.com/times/palmeiras/palmeiras-desembarca-em-montevideu-para-final-da-libertadores"
+    },
+    {
+     "titulo": "ParisFans: Champions League – Matchday 5 results and standings",
+     "url": "https://en.parisfans.fr/champions-league-matchday-5-results-and-standings-2.html"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Cultura",
+   "temas": [
+    "Música"
+   ],
+   "historia": "andy-taylor-morte",
+   "titulo": "Morre Andy Taylor, guitarrista original do Duran Duran, aos 65 anos",
+   "texto": "A banda disse que ele morreu após 'uma longa e corajosa batalha' contra o câncer de próstata, revelado em 2022. Taylor tocou em 'Hungry Like the Wolf', 'Rio' e 'The Reflex' e integrou o Power Station.",
+   "fontes": [
+    {
+     "titulo": "ABC News (Austrália): Duran Duran guitarist Andy Taylor dies",
+     "url": "https://www.abc.net.au/news/2026/11/26/duran-duran-andy-taylor-dies/107428492"
+    },
+    {
+     "titulo": "CNN: Andy Taylor, Duran Duran guitarist, dies",
+     "url": "https://www.cnn.com/2026/11/25/entertainment/andy-taylor-duran-duran-death"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço",
+    "Defesa planetária"
+   ],
+   "historia": "hera-dimorphos",
+   "titulo": "Sonda europeia Hera mostra o asteroide atingido pela Nasa em 2022: 'caos completo'",
+   "texto": "As primeiras imagens de perto de Dimorphos, de 151 m, mostram uma grande zona de impacto, centenas de rochas soltas ao redor e uma rotação agora caótica; o choque da DART encurtou sua órbita em cerca de 33 minutos. É o principal teste até hoje de como desviar um asteroide perigoso.",
+   "fontes": [
+    {
+     "titulo": "Euronews: ESA releases first images showing 'complete chaos' on asteroid smashed by NASA probe",
+     "url": "https://euronews.com/2026/11/25/esa-releases-first-images-showing-complete-chaos-on-asteroid-smashed-by-nasa-probe"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima e meio ambiente"
+   ],
+   "historia": "turfeiras-clima",
+   "titulo": "Estudo na Nature calcula que turfeiras drenadas causam cerca de 2,7% do aquecimento provocado pelo homem",
+   "texto": "As turfeiras guardam 30% do carbono do solo em 3% a 4% das terras; a equipe do MIT mapeou a drenagem de 1800 a 2020 e projeta que, mantida, ela quase dobra o aquecimento vindo dessas áreas até 2100. Reumedecer evita aquecimento futuro, mas não desfaz o passado.",
+   "fontes": [
+    {
+     "titulo": "ECOticias: Peatland drainage warming, MIT Nature study",
+     "url": "https://www.ecoticias.com/en/peatland-drainage-warming-mit-nature-study-cesar-terrer/54701/"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Crise humanitária",
+    "Iêmen"
+   ],
+   "historia": "iemen-crise-humanitaria",
+   "titulo": "Chefe humanitário da ONU diz em Áden que a ajuda ao Iêmen está 'sobrecarregada, subfinanciada e sob ataque'",
+   "texto": "Tom Fletcher citou 364 mil deslocados desde agosto e cobrou acesso a Taiz e a libertação dos funcionários da ONU presos pelos houthis; um deles, Mohammad el Shami, morreu sob custódia após mais de dois anos. Só 12% da verba para abrigos de emergência chegou.",
+   "fontes": [
+    {
+     "titulo": "UN News: Yemen war: Emergency aid chief calls for access to war-hit communities",
+     "url": "https://news.un.org/en/story/2026/11/1168872"
+    },
+    {
+     "titulo": "The National: Yemen crisis deepens as renewed fighting displaces hundreds of thousands",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/26/yemen-crisis-deepens-as-renewed-fighting-displaces-hundreds-of-thousands/"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Nova Jersey",
+    "Clima"
+   ],
+   "historia": "nor-easter-desfile-macys",
+   "titulo": "Pela primeira vez em 100 edições, o desfile da Macy's é adiado por causa do tempo; NJ decreta emergência",
+   "texto": "O desfile passou para sábado (28), às 8h30, com previsão de tempo seco e ventos de 12 a 15 mph; para hoje, a previsão era de rajadas de 30 a 50 mph em NYC, acima do limite de 34 mph para os balões. A governadora Mikie Sherrill decretou estado de emergência nos 21 condados de NJ, com rajadas de até 70 mph e inundações costeiras até sexta.",
+   "fontes": [
+    {
+     "titulo": "FOX 5 NY: Macy's Thanksgiving Day Parade postponed due to weather for first time ever",
+     "url": "https://www.fox5ny.com/news/macys-thanksgiving-day-parade-balloons-grounded-nyc-high-winds"
+    },
+    {
+     "titulo": "NJ Governor: Executive Order No. 31, State of Emergency",
+     "url": "https://nj.gov/governor/news/2026/approved/20261125a.shtml"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Moradia"
+   ],
+   "historia": "congelamento-aluguel-nyc",
+   "titulo": "Justiça de NY mantém o congelamento de aluguéis de Mamdani para cerca de 1 milhão de apartamentos",
+   "texto": "O juiz Brendan Lantry negou o pedido dos proprietários por entender que não provaram que a medida é 'arbitrária'; o congelamento vale para contratos estabilizados de 1 e 2 anos renovados entre outubro de 2026 e setembro de 2027. Os proprietários podem recorrer.",
+   "fontes": [
+    {
+     "titulo": "WNCY: New York court upholds Mayor Mamdani's rent freeze",
+     "url": "https://wncy.com/2026/11/25/new-york-court-upholds-mayor-mamdanis-rent-freeze/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Seção 301: a ferramenta comercial que sobreviveu à Suprema Corte",
+  "texto": "A Seção 301 da Lei de Comércio de 1974 autoriza o Representante Comercial dos EUA a investigar práticas estrangeiras 'injustificáveis' ou 'discriminatórias' e a retaliar com tarifas. Foi muito usada contra o Japão nos anos 1980 e embasou a guerra comercial com a China a partir de 2018. Diferente dos poderes de emergência que a Suprema Corte vetou em fevereiro, ela exige investigação, consulta pública e justificativa por país, por isso é mais lenta, mas mais difícil de derrubar na Justiça. Também contorna a OMC, que em 2020 considerou ilegais parte das tarifas de 2018.",
+  "fontes": [
+   {
+    "titulo": "USTR: Section 301 Investigations",
+    "url": "https://ustr.gov/issue-areas/enforcement/section-301-investigations"
+   },
+   {
+    "titulo": "The Hill: Trump administration targets EU, other countries with new global tariffs",
+    "url": "https://thehill.com/homenews/administration/6242105-trump-administration-new-tariffs-china-european-union/amp/"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm destaque ou nota. Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido; mesmo assim, há nota sobre a ação da Anthropic e o clima no Congresso para a regulação de IA. Pelas avaliações, os destaques ficaram com geopolítica com consequência (tarifas), imigração com decisão judicial e Brasil; Israel e Gaza ficaram de fora. Atualização só para o ebola; a eleição brasileira acabou em 25/10 e não teve novidade. Avisos: o convite a Trabuco vem de fontes do Estadão, sem confirmação oficial; minas e drones em Ormuz são alegações iranianas sem verificação; a estimativa de imigrantes que perdem o Medicare diverge entre veículos; a classificação da Champions foi checada em uma só fonte; os números do ebola são do governo congolês. Vários sites (CNN, NPR, CNBC, Gothamist, France24, Washington Post) bloquearam acesso em parte da pesquisa, e usei republicações ou outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-26T12:13:59+00:00"
+}
