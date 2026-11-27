@@ -1,0 +1,448 @@
+{
+ "data": "2026-11-27",
+ "manchete": "Trabuco aceita a Fazenda e a Bolsa sobe 6%, a maior alta desde o 1º turno; no Golfo, a mediação entre EUA e Irã emperra enquanto ataques a refinarias empurram o petróleo",
+ "abertura": "No Brasil, a escolha de um banqueiro para a Fazenda virou o primeiro sinal concreto do novo mandato de Lula, e o mercado gostou. Lá fora, o Catar e o Paquistão seguem levando recados entre Washington e Teerã, mas sem avanço sobre Ormuz, e em Washington os democratas se dividem sobre usar o prazo do orçamento para frear a guerra.",
+ "atualizacoes": [],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "Economia",
+    "Governo Lula"
+   ],
+   "historia": "trabuco-fazenda",
+   "titulo": "Trabuco aceita comandar a Fazenda no novo mandato de Lula, e a Bolsa tem a maior alta desde o 1º turno",
+   "oque": "O Planalto confirmou em nota, na quinta (26), que Luiz Carlos Trabuco Cappi, 75 anos, presidente do Conselho do Bradesco, aceitou ser ministro da Fazenda a partir de 2027. Ele se reuniu com Lula no Alvorada, junto com o ministro Dario Durigan e o do Planejamento, Bruno Moretti. No mesmo dia, o Ibovespa subiu 6,07%, a 176.799 pontos, e o dólar caiu 1,25%, a R$ 5,744.",
+   "contexto": "Trabuco entrou no Bradesco aos 17 anos e foi seu presidente executivo de 2009 a 2018. Em 2014 recusou o mesmo convite de Dilma e indicou Joaquim Levy. Defende o tripé macroeconômico (meta de inflação, câmbio flutuante e meta fiscal), e sua escolha é lida como aceno ao mercado num momento de Selic em 13,75%, inflação acima do teto e dólar perto de R$ 6 na semana passada. A alta da Bolsa também teve ajuda da prévia da inflação de novembro, de 0,22%, abaixo do esperado.",
+   "lados": "Para o mercado, um nome do sistema financeiro reduz o risco de afrouxamento fiscal no novo mandato; o setor financeiro da Bolsa subiu quase 9%. Na esquerda, a preocupação é que a política econômica fique mais ortodoxa; Trabuco já disse que o fiscal 'não é problema de vida ou morte', frase que cada lado lê de um jeito.",
+   "proximo": "A data da posse não foi informada. Outros nomes, como Camilo Santana na Casa Civil e Alckmin na Segurança Pública, circulam na imprensa sem anúncio oficial. Observe o Copom de 8 e 9/12, o Caged de outubro na segunda (30) e a votação do Orçamento de 2027: a Comissão Mista aprovou o relatório preliminar na quinta, e o plenário do Congresso deve votar até 23/12.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto"
+    },
+    {
+     "titulo": "CNN Brasil: Ibovespa sobe 6% e dólar cai a R$ 5,74",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-novembro-2026/"
+    },
+    {
+     "titulo": "Revista Fórum: Após Trabuco na Fazenda, Lula já teria escolhido novo chefe da Casa Civil",
+     "url": "https://revistaforum.com.br/politica/lula-escolha-casa-civil/"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Petróleo"
+   ],
+   "historia": "guerra-ira-ormuz",
+   "titulo": "Catar e Paquistão seguem mediando entre EUA e Irã, mas Teerã não abre mão das condições para reabrir Ormuz",
+   "oque": "O chanceler iraniano, Abbas Araghchi, disse na quinta (26) que mediadores do Paquistão e do Catar continuam levando ideias entre Teerã e Washington e que o Irã 'não abandonará' suas condições para reabrir o Estreito de Ormuz. Um alto funcionário iraniano afirmou que Teerã mandou aos EUA, via Catar, uma proposta nuclear, mas só a discute depois que Washington atender às exigências. Trump disse no mesmo dia que, se houver novo ataque, os EUA 'com certeza' atingirão a instalação nuclear de Pickaxe Mountain.",
+   "contexto": "A guerra entre EUA e Irã dura cerca de nove meses. O Irã quer o fim do bloqueio naval americano a seus portos, o fim da guerra em todas as frentes, alívio de sanções e liberação de ativos congelados; os EUA querem garantia de passagem segura para navios e o tema nuclear na mesa desde o início. É um impasse clássico de sequência: cada lado exige que o outro ceda primeiro. Enquanto isso, a guerra paralela entre a coalizão saudita e os houthis atingiu refinarias em Jazan (1 morto) e Ras Tanura, a maior da Arábia Saudita, e o fluxo por Ormuz está em cerca de 54% do nível de antes da guerra.",
+   "lados": "Teerã diz que só reabre o estreito com garantias e fim do bloqueio. Trump afirma que a vitória está 'à mão' e que o Irã 'nunca terá arma nuclear'. A Guarda Revolucionária disse nesta sexta ter afastado com tiros de advertência um caça F-16 americano perto de Ormuz; não há confirmação dos EUA. Também não há confirmação independente da morte de dois italianos num ataque no Kuwait, que o Irã nega.",
+   "proximo": "Os chanceleres da Arábia Saudita e da Turquia estão no Paquistão nesta sexta e sábado para discutir o pacto de defesa de Meca, com o Iêmen na pauta. A Opep+ se reúne no domingo (29). O Brent caminha para alta de cerca de 7% na semana, perto de US$ 97.",
+   "fontes": [
+    {
+     "titulo": "Anadolu: Iran says Qatari, Pakistani mediation in talks with US continues",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-says-qatari-pakistani-mediation-in-talks-with-us-continues-/4139552"
+    },
+    {
+     "titulo": "Arab News PK: Iran says Pakistan, Qatar still relaying proposals to US as Hormuz dispute persists",
+     "url": "https://www.arabnews.pk/pakistan/iran-says-pakistan-qatar-still-relaying-proposals-to-us-as-hormuz-dispute-persists-3008212"
+    },
+    {
+     "titulo": "Jerusalem Post: Pickaxe Mountain will be target if US strikes Iran again, Trump says",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-916297"
+    },
+    {
+     "titulo": "The National: Saudi Arabia intercepts wave of retaliatory Houthi attacks",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Congresso",
+    "Guerra"
+   ],
+   "historia": "orcamento-shutdown-dezembro",
+   "titulo": "Democratas se dividem sobre usar o prazo do orçamento de 11/12 para cortar o dinheiro da guerra com o Irã",
+   "oque": "O financiamento do governo federal acaba em 11 de dezembro. Deputados democratas como Ro Khanna e Yassamin Ansari dizem que votarão contra qualquer pacote que não proíba verba para operações ofensivas no Irã, e o senador Chris Van Hollen defende o mesmo no Senado. Já Rosa DeLauro, principal democrata da Comissão de Orçamento da Câmara, é contra arriscar um shutdown por isso.",
+   "contexto": "A divisão ganha peso porque Van Hollen disputa com Chuck Schumer a liderança democrata no Senado, em votação interna marcada para 1º de dezembro. Os democratas assumem as duas Casas em janeiro, mas até lá dependem de votos para chegar aos 60 necessários no Senado. Uma pesquisa Reuters/Ipsos mostra 71% dos americanos querendo que o novo Congresso encerre a guerra, que já custou cerca de US$ 50 bilhões. O último shutdown, em 2025, durou 43 dias, o mais longo da história.",
+   "lados": "A ala mais à esquerda diz que o orçamento é a única ferramenta do Congresso para frear uma guerra não autorizada. Os moderados temem ser culpados por um shutdown no Natal. Trump diz que a guerra está financiada 'até o fim de janeiro' e pode vetar restrições; republicanos do Senado já admitiram limitar o dinheiro para fechar um acordo.",
+   "proximo": "Observe a eleição da liderança democrata em 1º/12, o texto do pacote provisório que os líderes devem apresentar na semana que vem e o depoimento de Jensen Huang no Senado em 3/12, outro tema que mistura segurança nacional e política.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Can Trump continue with Iran war despite funding restrictions?",
+     "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions"
+    },
+    {
+     "titulo": "Scripps News: Iran war funding fight raises threat of December government shutdown",
+     "url": "https://www.scrippsnews.com/politics/congress/iran-war-funding-fight-raises-threat-of-december-government-shutdown"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "União Europeia",
+    "Ucrânia"
+   ],
+   "historia": "orcamento-ue-ucrania",
+   "titulo": "Cúpula da UE termina sem acordo sobre o orçamento de 2028-2034 e o empréstimo à Ucrânia",
+   "texto": "Planejada para dois dias, a cúpula de Bruxelas acabou numa noite: a proposta de António Costa, de cerca de € 1,58 trilhão com até € 100 bilhões em reservas para Kiev, foi rejeitada por Dinamarca, Tchéquia, Itália, Hungria e outros. Merz diz que não há orçamento sem apoio dos 27 à Ucrânia; a próxima tentativa é no Conselho Europeu de 17/12.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Rússia lança 155 drones contra a Ucrânia, e Zelensky alerta para ataque maciço à rede elétrica",
+   "texto": "Na madrugada desta sexta, os ataques atingiram energia e ferrovias em Vinnytsia, Zhytomyr e Kirovohrad e mataram 1 pessoa em Zaporizhzhia; a Estônia acionou caças da Otan. Trump disse ter pedido a Putin que 'recue' na Europa, e o enviado Jared Kushner afirma que as negociações estão num 'impasse' sobre território.",
+   "fontes": [
+    {
+     "titulo": "AP via ABC News: Zelenskyy warns of imminent major Russian attack on Ukraine's power grid",
+     "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250"
+    },
+    {
+     "titulo": "Kyiv Post: Russian Drones Hit Ukraine's Infrastructure as Estonia Scrambles NATO Jets",
+     "url": "https://www.kyivpost.com/post/91387"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Brasil",
+   "temas": [
+    "Orçamento",
+    "Congresso"
+   ],
+   "historia": "orcamento-2027",
+   "titulo": "Comissão de Orçamento aprova relatório preliminar de 2027 com corte de R$ 2,09 bilhões",
+   "texto": "O relatório do senador Eduardo Braga (MDB-AM) prevê R$ 3,4 trilhões em despesas primárias, 91,7% delas obrigatórias, e até R$ 57,5 bilhões em emendas parlamentares; R$ 658 milhões do corte saem da saúde. A LDO de 2027 ainda precisa ser votada antes do texto final.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: CMO aprova relatório do Orçamento de 2027 com corte de R$ 2,09 bilhões",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmo-aprova-relatorio-do-orcamento-de-2027-com-corte-de-r-209-bilhoes"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Comércio",
+    "EUA",
+    "Diplomacia"
+   ],
+   "historia": "tarifas-secao-301",
+   "titulo": "Mauro Vieira recebe o presidente da Embraer, e EUA abrem prazos para a tarifa sobre aviões brasileiros",
+   "texto": "O chanceler pôs a diplomacia à disposição da Embraer, que lembra ter US$ 3,5 bilhões em ativos e 2.500 empregados nos EUA. O USTR quer tarifa de 10% sobre aviões prontos e mais imposto sobre o açúcar; comentários vão até 30/12 e a audiência é em 14/1.",
+   "fontes": [
+    {
+     "titulo": "Imirante: Mauro Vieira defende Embraer após ameaça de tarifa",
+     "url": "https://imirante.com/noticias/brasil/2026/11/27/ipolitica-mauro-vieira-defende-embraer-apos-ameaca-tarifa-eua"
+    },
+    {
+     "titulo": "USTR: proposed modifications of the Section 301 action regarding Brazil",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Trump"
+   ],
+   "historia": "trump-acao-de-gracas",
+   "titulo": "Trump usa a mensagem de Ação de Graças para atacar adversários, imigrantes e o próprio governo",
+   "texto": "Em texto de 461 palavras, Trump acusou, sem provas, o governo federal de falsificar dados econômicos e retratou imigrantes somalis como desempregados ou criminosos. Em ligação com tropas, chamou o bloqueio em Ormuz de 'o maior bloqueio naval que já houve'.",
+   "fontes": [
+    {
+     "titulo": "Reuters via Korea Times: Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government",
+     "url": "https://www.koreatimes.co.kr/world/20261127/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Federalismo"
+   ],
+   "historia": "connecticut-lei-ice",
+   "titulo": "Connecticut prepara reação depois que juiz barrou a proibição de máscaras para agentes do ICE",
+   "texto": "Seguem valendo as partes da lei que exigem mandado para o ICE entrar em escolas, hospitais e templos; caíram a proibição de máscaras, a exigência de identificação e o poder do inspetor-geral de investigar abusos. Ativistas pedem US$ 10 milhões ao governo Lamont para defesa jurídica e preparam novos projetos para janeiro.",
+   "fontes": [
+    {
+     "titulo": "CT Mirror: CT looks to next steps after ruling on ICE: 'We're not backing down'",
+     "url": "https://ctmirror.org/2026/11/27/ct-after-ruling-ice/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Cibersegurança"
+   ],
+   "historia": "invasao-cia",
+   "titulo": "Hackers teriam invadido um sistema de análise de inteligência da CIA usando ferramenta de IA",
+   "texto": "Segundo o New York Times, com fonte anônima, o ataque atingiu um sistema de inteligência de fontes abertas e teria usado o ARTEX, ferramenta de testes de invasão movida a IA; ODNI e NGA também teriam sido afetados, sem exposição de dados classificados. CIA e ODNI não comentaram, e a autoria não está confirmada.",
+   "fontes": [
+    {
+     "titulo": "BleepingComputer: Hackers reportedly breached CIA intelligence analysis system",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Economia",
+   "temas": [
+    "Petróleo",
+    "Mercado global"
+   ],
+   "historia": "petroleo-ormuz",
+   "titulo": "Brent vai a US$ 97 e caminha para alta de 7% na semana; Opep+ se reúne no domingo",
+   "texto": "Ataques a refinarias sauditas e a incidentes no Golfo pressionam a oferta, com Ormuz operando a cerca de 54% do fluxo de antes da guerra. O WTI subia quase 3% nesta sexta, a US$ 86.",
+   "fontes": [
+    {
+     "titulo": "The National: Oil set to post weekly gain as Middle East attacks stoke supply concerns",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/27/oil-set-to-post-weekly-gain-as-middle-east-attacks-stoke-supply-concerns/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "Economia",
+   "temas": [
+    "EUA",
+    "Juros",
+    "Emprego"
+   ],
+   "historia": "fed-dezembro",
+   "titulo": "Mercado se prepara para alta de juros do Fed em dezembro; dúvida é se de 0,25 ou 0,50 ponto",
+   "texto": "A reunião é em 8 e 9/12, e antes sai o relatório de emprego de novembro, com previsão de cerca de 90 mil vagas, contra 165 mil em outubro. BCE e Banco do Japão também devem subir juros; Wall Street opera só até 13h nesta Black Friday.",
+   "fontes": [
+    {
+     "titulo": "Reuters via WKZO: Take Five: A December to remember",
+     "url": "https://wkzo.com/2026/11/27/take-five-a-december-to-remember/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol brasileiro",
+    "Libertadores"
+   ],
+   "historia": "libertadores-2026",
+   "titulo": "Palmeiras e Estudiantes decidem a Libertadores neste sábado em Montevidéu; Inter pode cair no domingo",
+   "texto": "A final é às 17h de Brasília no Centenario, com Paulinho e Sosa devendo começar no banco. No Brasileirão, o Inter (38 pontos, 18º) recebe o Bragantino no domingo e pode ser rebaixado até com empate, conforme os outros resultados; Grêmio, Mirassol e Corinthians têm 41.",
+   "fontes": [
+    {
+     "titulo": "Jornal Grande Bahia: Palmeiras e Estudiantes decidem Libertadores 2026 em Montevidéu",
+     "url": "https://jornalgrandebahia.com.br/2026/11/palmeiras-e-estudiantes-decidem-libertadores-2026-em-montevideu-veja-escalacoes-desfalques-retrospecto-e-onde-assistir/"
+    },
+    {
+     "titulo": "VAVEL: Internacional pode ser rebaixado contra o Bragantino",
+     "url": "https://www.vavel.com/br/futebol/2026/11/26/internacional/1280891-inter-pode-ser-rebaixado-contra-o-bragantino-veja-cenarios.html"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "NFL"
+   ],
+   "historia": "nfl-acao-de-gracas",
+   "titulo": "Bills vencem os Chiefs com field goal de 57 jardas no último lance; Bears batem os Lions",
+   "texto": "Tyler Bass decidiu o 13 a 10 e deixou os Bills com 10-1. Antes, Caleb Williams achou Rome Odunze a 3 segundos do fim no 39 a 35 dos Bears sobre os Lions; os Eagles venceram os Cowboys por 39 a 38.",
+   "fontes": [
+    {
+     "titulo": "ESPN: Bills edge Chiefs with last-second field goal in Thanksgiving thriller",
+     "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+    },
+    {
+     "titulo": "NFL.com: Thanksgiving tripleheader: What We Learned",
+     "url": "https://www.nfl.com/news/thanksgiving-tripleheader-what-we-learned-from-bears-lions-eagles-cowboys-chiefs-bills"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "bilheteria-acao-de-gracas",
+   "titulo": "'Hexed' e 'Focker-In-Law' estreiam fracos, e 'Jogos Vorazes' segue líder no feriado",
+   "texto": "A animação da Disney, que custou mais de US$ 200 milhões, fez cerca de US$ 7,8 milhões na estreia, e a projeção de cinco dias caiu para US$ 35 a 40 milhões; 'Focker-In-Law' fez cerca de US$ 5,2 milhões. 'Sunrise on the Reaping' deve somar US$ 70 a 90 milhões no feriado; os números são estimativas.",
+   "fontes": [
+    {
+     "titulo": "Gold Derby via Yahoo: Thanksgiving box office: 'Sunrise on the Reaping' carves out another No. 1",
+     "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/thanksgiving-box-office-sunrise-reaping-173000684.html"
+    },
+    {
+     "titulo": "The Main Street Mouse: Hexed Box Office opens to $7.8 million",
+     "url": "https://themainstreetmouse.com/2026/11/26/hexed-box-office-opening-day-thanksgiving/"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Vacinas"
+   ],
+   "historia": "sarampo-eua",
+   "titulo": "Sarampo passa de 6 mil casos nos EUA em 2026, dez dias depois de o país perder o status de eliminação",
+   "texto": "O CDC contava 6.039 casos até 24/11, em 47 jurisdições, e 9 mortes; somando os dados estaduais, são pelo menos 14. Em 2025 inteiro foram 2.289 casos, e para recuperar o status o país precisa de 12 meses sem transmissão contínua.",
+   "fontes": [
+    {
+     "titulo": "ABC7: US officially loses measles elimination status, PAHO says",
+     "url": "https://abc7ny.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/"
+    },
+    {
+     "titulo": "N Globe: US measles deaths reach nine in 2026 as cases hit 6,039",
+     "url": "https://nglobenews.com/en/article/us-cdc-measles-nine-deaths-6039-cases-2026-11-26"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Espaço"
+   ],
+   "historia": "voyager-1",
+   "titulo": "Voyager 1 chega a um 'dia-luz' da Terra, a primeira nave a ir tão longe",
+   "texto": "Lançada em 1977, a sonda está tão distante que um sinal de rádio leva 24 horas para chegar até ela, e segue mandando dados com energia em queda. A mesma edição da Nature descreve os 'egovírus', nova ordem de vírus parentes da varíola encontrados no intestino de humanos e animais.",
+   "fontes": [
+    {
+     "titulo": "Nature: Voyager 1 achieves a cosmic first: one 'light day' from Earth",
+     "url": "https://www.nature.com/articles/d41586-026-03672-1"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "ONU",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Secretário-geral"
+   ],
+   "historia": "sucessao-secretario-geral-onu",
+   "titulo": "Escolha do secretário-geral vai à 10ª votação na segunda, o que igualaria o recorde de 1996",
+   "texto": "Na 9ª rodada, só Rebeca Grynspan, da Costa Rica, chegou aos 9 votos necessários, mas teve oposição de dois membros permanentes; Rafael Grossi, da Argentina, teve 8. A nova votação, na segunda (30) às 15h de Nova York, terá cédulas coloridas que separam os votos dos cinco permanentes.",
+   "fontes": [
+    {
+     "titulo": "Security Council Report: Tenth Security Council Straw Poll on UN Secretary-General Candidates",
+     "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/tenth-security-council-straw-poll-on-un-secretary-general-candidates.php"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "Comércio",
+    "Economia global"
+   ],
+   "historia": "comercio-maritimo-unctad",
+   "titulo": "UNCTAD prevê crescimento zero do comércio marítimo em 2026, com quatro gargalos sob pressão",
+   "texto": "Ormuz, Mar Vermelho, Mar Negro e Canal do Panamá estão afetados ao mesmo tempo, e o seguro de guerra de um petroleiro de US$ 100 milhões saltou de cerca de US$ 200 mil para US$ 1 milhão por viagem. Se o choque de combustível durar até 2027, os preços nos países mais pobres podem subir quase o dobro da média mundial.",
+   "fontes": [
+    {
+     "titulo": "UN News: Maritime trade stagnates amid geopolitical uncertainty",
+     "url": "https://news.un.org/en/story/2026/11/1168884"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova Jersey",
+    "Clima"
+   ],
+   "historia": "tempestade-acao-de-gracas",
+   "titulo": "Tempestade de Ação de Graças deixa quase 180 mil sem luz em Nova Jersey",
+   "texto": "A JCP&L, com cerca de 140 mil clientes no escuro, fala em danos extensos causados por árvores e avisa que o vento pode atrasar os reparos. Cape May teve inundação costeira de mais de 1,1 metro, North Wildwood ficou isolada por terra, e trilhos em Hoboken alagaram.",
+   "fontes": [
+    {
+     "titulo": "NJ.com via Yahoo: Nearly 180K N.J. outages after storm",
+     "url": "https://www.yahoo.com/news/weather-news/articles/nearly-180k-n-j-outages-020213209.html"
+    },
+    {
+     "titulo": "Weather.com: Thanksgiving storm leaves damage along the East Coast",
+     "url": "https://weather.com/2026/11/26/news/weather/east-coast-thanksgiving-storm-flooding-winds"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Mamdani"
+   ],
+   "historia": "desfile-macys-100",
+   "titulo": "Desfile da Macy's sai neste sábado às 8h30, e Mamdani opera o tendão de Aquiles hoje",
+   "texto": "Os balões serão reinflados nesta sexta à tarde, sem público, e a previsão para sábado é de rajadas de 25 a 30 mph, abaixo do limite da cidade. Mamdani rompeu o tendão num jogo de futebol com jornalistas; Dean Fuleihan responde pela prefeitura durante a cirurgia, e a The Hill diz que o prefeito vai faltar ao desfile.",
+   "fontes": [
+    {
+     "titulo": "ABC7NY: Macy's parade postponed: Balloon inflation will not get second celebration Friday",
+     "url": "https://abc7ny.com/post/macys-parade-2026-balloon-inflation-how-attend-what-stormy-weather-could-mean/20074929/"
+    },
+    {
+     "titulo": "ABC7NY: Mayor Mamdani announces surgery this week for torn Achilles tendon",
+     "url": "https://abc7ny.com/post/mayor-mamdani-announces-surgery-week-torn-achilles-tendon/20070257/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "'Straw polls': como o Conselho de Segurança escolhe o secretário-geral da ONU",
+  "texto": "A Carta da ONU diz só que o secretário-geral é nomeado pela Assembleia Geral por recomendação do Conselho de Segurança. Na prática, o Conselho faz votações informais e secretas, as 'straw polls', em que cada um dos 15 membros marca 'encorajo', 'desencorajo' ou 'sem opinião' para cada candidato. Um nome precisa de 9 votos e de nenhum veto dos cinco permanentes (EUA, China, Rússia, Reino Unido e França); por isso, em certa altura, as cédulas passam a ter cores diferentes para mostrar como votaram os permanentes. O recorde é de 1996, quando os EUA vetaram a recondução de Boutros Boutros-Ghali e o processo só terminou com Kofi Annan.",
+  "fontes": [
+   {
+    "titulo": "Security Council Report: Tenth Security Council Straw Poll on UN Secretary-General Candidates",
+    "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/tenth-security-council-straw-poll-on-un-secretary-general-candidates.php"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm destaque ou nota. Seu pedido sobre a Anthropic e a lei de IA já tinha sido atendido. Pelas avaliações, os destaques ficaram com Brasil, política dos EUA e geopolítica com consequência (Irã e petróleo); Israel e Gaza ficaram de fora. Sem atualizações hoje: o ebola não teve números novos depois de 12.021 casos (26/11), e a eleição brasileira acabou em 25/10. Avisos: os nomes para Casa Civil e Segurança Pública não são oficiais; o tiro de advertência contra o F-16 é só alegação da Guarda Revolucionária; a morte de dois italianos no Kuwait não foi confirmada por agências; a invasão da CIA vem de fonte anônima; a ausência de Mamdani no desfile vem só da manchete da The Hill; os dados de bilheteria são estimativas. Correção possível: um agregador diz que são cerca de 32 mil (e não 300 mil) os imigrantes legais que perdem o Medicare em fevereiro, e que os 300 mil seriam os que receberam cartas; não consegui confirmar na fonte primária. CNN, NPR, CNBC, The Hill, Gothamist e Agência Brasil bloquearam acesso em parte da pesquisa, e usei republicações ou outras fontes.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-27T12:06:04+00:00"
+}
