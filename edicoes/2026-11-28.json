@@ -1,0 +1,473 @@
+{
+ "data": "2026-11-28",
+ "manchete": "EUA inutilizam mais um navio que furava o bloqueio ao Irã, e Teerã promete reagir; Nvidia suspende envios de servidores ao Sudeste Asiático, e Palmeiras e Estudiantes decidem a Libertadores",
+ "abertura": "O bloqueio naval americano ao Irã volta a produzir incidentes no Golfo de Omã, enquanto Washington aperta o cerco aos chips de IA que chegam à China por terceiros países. No Brasil, a semana fecha com dólar em forte queda, desemprego no menor nível da série e a final da Libertadores em Montevidéu.",
+ "atualizacoes": [
+  {
+   "historia": "ebola-rdc-2026",
+   "historiaTitulo": "Ebola na RD Congo",
+   "titulo": "OMS mantém a emergência internacional e pede mais segurança e pesquisas mais rápidas",
+   "texto": "Segundo o Ministério da Saúde congolês, são 12.021 casos confirmados e 5.904 mortes, letalidade de 49,1%, em 69 das 178 zonas de saúde de oito províncias. A OMS publicou na sexta (27) novas recomendações após o 3º encontro do Comitê de Emergência: acelerar os testes de vacinas e tratamentos, conter a transmissão dentro de unidades de saúde e evitar restrições de viagem. Já são pelo menos 94 ataques contra serviços de saúde, e a AP diz que o surto caminha para superar em mortes o da África Ocidental (2014-16).",
+   "fontes": [
+    {
+     "titulo": "OMS: WHO issues updated Ebola response recommendations",
+     "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research"
+    },
+    {
+     "titulo": "AP (via DTN): Ebola outbreak in Congo reaches 12,000",
+     "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/11/27/ebola-outbreak-congo-reaches-12-000"
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "id": "d1",
+   "secao": "Mundo",
+   "temas": [
+    "Política internacional e geopolítica",
+    "Irã",
+    "Oriente Médio",
+    "EUA"
+   ],
+   "historia": "guerra-ira-ormuz",
+   "titulo": "EUA atingem navio que tentava furar o bloqueio ao Irã; Guarda Revolucionária diz que petroleiro bateu em mina em Ormuz",
+   "oque": "O Comando Central dos EUA disse que aviões americanos dispararam munições de precisão contra a popa do M/V Pacific Archer, de bandeira de Palau, na quinta (26), no Golfo de Omã. O navio tinha saído de Bandar Abbas rumo a Cingapura e ficou sem propulsão; a tripulação não se feriu. Na sexta, a Guarda Revolucionária afirmou que dois petroleiros tentaram uma rota 'não autorizada' perto da ilha Ghanem e que um deles atingiu uma mina, alegação sem confirmação independente.",
+   "contexto": "A guerra começou com ataques de EUA e Israel em fevereiro, que mataram o líder supremo Ali Khamenei. Os EUA bloqueiam portos iranianos desde abril (com retomada em julho), e o Irã reivindica o controle do estreito por onde passa parte relevante do petróleo mundial. Pela contagem da Al Jazeera, é pelo menos o 15º navio inutilizado publicamente pelos EUA, e 158 foram desviados desde julho. Um memorando de entendimento assinado em junho não virou acordo, e a mediação de Catar e Paquistão segue travada.",
+   "lados": "Trump disse a militares, no feriado, que a vitória vem 'quando eu quiser' e que está dando ao Irã 'todas as chances de fazer um acordo'. O comandante da Marinha iraniana, Shahram Irani, prometeu romper o bloqueio; outro comandante disse, sem provas, que comandos retomaram dois petroleiros apreendidos pelos EUA. Em paralelo, o Kuwait convocou o embaixador iraniano após um ataque de drone que matou dois trabalhadores italianos; Teerã nega envolvimento, e Guterres pediu contenção.",
+   "proximo": "A Opep+ se reúne neste domingo (29) para discutir metas de 2027, com o Brent perto de US$ 97. Relatos da imprensa iraniana no exílio indicam que Trump tende a retomar bombardeios depois do Ano-Novo se não houver acordo; vale observar se os incidentes no mar aceleram esse calendário.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: US military says it disabled merchant ship trying to breach Iran blockade",
+     "url": "https://aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+    },
+    {
+     "titulo": "CBS News: Iran war live updates",
+     "url": "https://cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz"
+    },
+    {
+     "titulo": "Al Jazeera: Trump downplays Russia, China support for Iran",
+     "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Chips",
+    "China",
+    "Controle de exportações"
+   ],
+   "historia": "nvidia-china-chips",
+   "titulo": "Nvidia suspende envios de servidores de IA a quatro países do Sudeste Asiático, e rack Blackwell aparece em Xangai",
+   "oque": "Segundo o Financial Times, a Nvidia mandou parceiros suspenderem o envio de servidores de IA para Malásia, Singapura, Tailândia e Indonésia; Dell e Supermicro avisaram clientes que os pedidos não podem ser embarcados. No mesmo dia, a Bloomberg mostrou registros de empréstimo chineses com um rack GB300 NVL72 (72 chips Blackwell Ultra) dado como garantia em Xangai, num local ligado a Alice Huang, figura central do caso Megaspeed.",
+   "contexto": "Uma nova regra do Departamento de Comércio dá a provedores de nuvem 90 dias para obter licenças e provar que seus clientes finais não são entidades restritas. O alvo é a prática de desenvolvedores chineses alugarem servidores Nvidia no Sudeste Asiático para driblar o controle de exportações. Na semana passada, o governo pôs a Megaspeed na lista negra; a Bloomberg diz não ter achado prova de que a própria empresa enviou o equipamento, que veio da Gigabyte. A disputa por chips é hoje um dos eixos centrais da rivalidade EUA-China.",
+   "lados": "A Nvidia não comentou, e não está claro se a suspensão é temporária. A Megaspeed nega irregularidades. Autoridades americanas suspeitam que Alice Huang espione para a China, segundo o Engadget; o papel dela na empresa é descrito de forma divergente (fundadora, para a Bloomberg; funcionária de 2023 a 2025, para o Engadget). A ação da Nvidia caiu cerca de 2% na sexta.",
+   "proximo": "Jensen Huang presta depoimento fechado a três comissões da Câmara na terça (1º/12) e fala publicamente à Comissão Bancária do Senado na quinta (3/12), em audiência sobre a fiscalização dos controles de exportação.",
+   "fontes": [
+    {
+     "titulo": "Technode: Nvidia said to halt server shipments to four SE Asian countries",
+     "url": "https://technode.global/2026/11/27/nvidia-said-to-halt-server-shipments-to-four-se-asian-countries-amid-tighter-us-export-controls-report/"
+    },
+    {
+     "titulo": "Bloomberg: Nvidia Blackwell chips turn up at China site tied to Alice Huang",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+    },
+    {
+     "titulo": "Engadget: Jensen Huang will testify publicly before senators on December 3",
+     "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Liberdade de expressão",
+    "Justiça"
+   ],
+   "historia": "aclu-intimacoes-criticos-ice",
+   "titulo": "ACLU vai à Justiça para barrar intimações que tentam identificar críticos do ICE nas redes sociais",
+   "oque": "A ACLU abriu uma ação coletiva em nome de quatro usuários anônimos no tribunal federal de Washington, cujo sigilo foi levantado pelo juiz-chefe James Boasberg na quarta (25). O processo contesta intimações de um grande júri enviadas a Meta, Bluesky e X para revelar a identidade de quem critica o ICE online. São réus a procuradora federal Jeanine Pirro, o procurador-geral Todd Blanche e o secretário de Segurança Interna, Markwayne Mullin.",
+   "contexto": "Segundo a ACLU, o DHS enviou centenas de intimações administrativas a plataformas no último ano; o escritório de Pirro chamaria o esforço de 'Investigação 18'. A ofensiva vem junto de uma escalada recorde de prisões e deportações e de disputas sobre a identificação dos próprios agentes, como a lei de Connecticut contra máscaras, barrada parcialmente na semana passada. O caso testa o limite entre segurança dos agentes e a proteção da Primeira Emenda ao discurso anônimo.",
+   "lados": "A ACLU diz que o governo usa o grande júri para intimidar e punir críticas protegidas pela Constituição.",
+   "proximo": "O pedido é de uma ordem que suspenda as intimações enquanto o caso tramita. Vale observar se as plataformas entregam os dados antes de uma decisão e se outros tribunais recebem ações semelhantes.",
+   "fontes": [
+    {
+     "titulo": "AP (via Boston.com): ACLU seeks court order blocking efforts to unmask ICE critics on social media",
+     "url": "https://www.boston.com/news/national-news/2026/11/27/aclu-seeks-court-order-blocking-efforts-to-unmask-ice-critics-on-social-media/"
+    }
+   ]
+  }
+ ],
+ "notas": [
+  {
+   "id": "n1",
+   "secao": "Mundo",
+   "temas": [
+    "Rússia",
+    "Ucrânia"
+   ],
+   "historia": "guerra-ucrania",
+   "titulo": "Rússia diz ter derrubado um recorde de 1.246 drones ucranianos em uma noite",
+   "texto": "Segundo Moscou, 460 drones miraram a região da capital, e voos foram restritos em Vnukovo e Domodedovo. Zelensky disse à BBC que Trump chamar Putin de 'amigo' é 'estranho'; Trump respondeu que quer 'parar a matança', e a AP descreve as negociações de Kushner e Witkoff como num 'pequeno impasse' sobre território.",
+   "fontes": [
+    {
+     "titulo": "Reuters (via US News): Russia says it downed 1,246 Ukrainian drones overnight",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-28/russia-says-it-downed-1-246-ukrainian-drones-overnight"
+    },
+    {
+     "titulo": "Washington Post: Trump defends Putin friendship that Zelensky calls strange",
+     "url": "https://www.washingtonpost.com/world/2026/11/27/trump-defends-putin-friendship-that-zelensky-calls-strange/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "secao": "Mundo",
+   "temas": [
+    "Taiwan",
+    "China",
+    "Eleições"
+   ],
+   "historia": "taiwan-eleicoes-locais-2026",
+   "titulo": "Taiwan vota sob o olhar da China: KMT mantém Taipei, e o DPP avança em cidades-chave",
+   "texto": "Pela apuração parcial, o prefeito Chiang Wan-an (KMT) se reelege em Taipei, e o governista DPP admitiu a derrota ali, mas deve retomar Taichung e ganhar condados como Yilan e Changhua. Em 2022 o KMT tinha levado 14 das 22 disputas; os resultados finais ainda estão sendo apurados.",
+   "fontes": [
+    {
+     "titulo": "Bloomberg: Taiwan's Ruling DPP Concedes Taipei Race, Gains in Key Cities",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-28/taiwan-goes-to-polls-in-tight-local-elections-as-china-watches"
+    },
+    {
+     "titulo": "Reuters (via ThePrint): Ruling party set to make gains in Taiwan local elections",
+     "url": "https://theprint.in/world/ruling-party-set-to-make-gains-in-taiwan-local-elections-watched-by-china/3111782/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "secao": "Mundo",
+   "temas": [
+    "Espanha",
+    "Eleições",
+    "Europa"
+   ],
+   "historia": "espanha-eleicao-2026",
+   "titulo": "Espanha vota neste domingo, e pesquisas apontam vantagem de PP e Vox",
+   "texto": "As últimas pesquisas antes do prazo legal davam maioria a uma coalizão de Feijóo (PP) com Abascal (Vox), o que levaria a extrema direita ao governo. Sánchez diz que dados internos mostram o PSOE como mais votado.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: Spain's Pedro Sánchez bets on left-wing voting surge",
+     "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "secao": "Brasil",
+   "temas": [
+    "Brasil e eleição",
+    "STF"
+   ],
+   "historia": "flavio-bolsonaro-emendas",
+   "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro, que mora nos EUA",
+   "texto": "A liminar do ministro do STF atinge 14 emendas de Flávio ao Orçamento de 2027; o senador foi para Miami três dias após perder o segundo turno e vota à distância. Dino citou os precedentes de Eduardo Bolsonaro e Ramagem e pediu ao Senado que diga se a viagem foi autorizada.",
+   "fontes": [
+    {
+     "titulo": "Agência Brasil: Dino suspende emendas parlamentares de Flávio Bolsonaro",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro"
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "secao": "Brasil",
+   "temas": [
+    "Governo Lula",
+    "Fazenda"
+   ],
+   "historia": "trabuco-fazenda",
+   "titulo": "Fazenda monta a transição para Trabuco, e conversas começam na terça",
+   "texto": "Rogério Ceron coordena a passagem, Durigan define os procedimentos na segunda (30) e Trabuco deve ir ao almoço anual da Febraban na terça. Haddad parabenizou o escolhido e defendeu uma Fazenda que siga 'o programa eleito nas ruas'.",
+   "fontes": [
+    {
+     "titulo": "Brasil 247 (citando Folha): Fazenda prepara transição para Trabuco",
+     "url": "https://www.brasil247.com/economia/fazenda-prepara-transicao-para-trabuco-e-deve-apresentar-propostas-de-ajuste-na-proxima-semana/"
+    },
+    {
+     "titulo": "DGABC: Haddad parabeniza escolha de Trabuco",
+     "url": "https://www.dgabc.com.br/Noticia/4371061/haddad-parabeniza-escolha-de-trabuco-para-o-ministerio-da-fazenda"
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "secao": "Economia",
+   "temas": [
+    "Brasil",
+    "Emprego",
+    "Câmbio"
+   ],
+   "historia": "economia-brasil-novembro",
+   "titulo": "Desemprego iguala o menor nível da série, em 5,1%, e dólar cai 7% na semana",
+   "texto": "A PNAD do trimestre até outubro mostrou 103,7 milhões de ocupados e renda real de R$ 3.812 (+3,5% em um ano); o governo central teve superávit de R$ 52,3 bilhões em outubro. O dólar fechou a R$ 5,52 (-3,97% na sexta), enquanto o Ibovespa devolveu parte da alta e fechou estável, com ganho de 6,1% na semana.",
+   "fontes": [
+    {
+     "titulo": "InfoMoney: Taxa de desemprego outubro 2026",
+     "url": "https://www.infomoney.com.br/economia/taxa-de-desemprego-outubro-2026-ibge/"
+    },
+    {
+     "titulo": "CNN Brasil: Contas do governo registram superávit de R$ 52,3 bilhões",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/contas-do-governo-registram-superavit-de-r-523-bilhoes-em-outubro/"
+    },
+    {
+     "titulo": "Money Times: Tempo real 27/11",
+     "url": "https://www.moneytimes.com.br/tempo-real-27-11-2026-davs/"
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "secao": "Economia",
+   "temas": [
+    "EUA",
+    "Consumo",
+    "Mercados"
+   ],
+   "historia": "black-friday-2026",
+   "titulo": "Black Friday online deve passar de US$ 13 bilhões nos EUA; tráfego vindo de assistentes de IA sobe 162%",
+   "texto": "A Adobe projeta US$ 13 a 13,4 bilhões em vendas online na sexta, alta de cerca de 12%, enquanto o movimento em lojas físicas caiu perto de 2%. Em pregão curto, o S&P 500 subiu 1,6% e o Nasdaq 2,3%.",
+   "fontes": [
+    {
+     "titulo": "Investing.com: US Black Friday online sales to cross $13 billion, Adobe says",
+     "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
+    },
+    {
+     "titulo": "Forbes: Black Friday isn't dead but definitely different",
+     "url": "https://www.forbes.com/sites/joanverdon/2026/11/28/black-friday-isnt-dead-but-definitely-different-as-ai-and-online-grow/"
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "secao": "Tecnologia",
+   "temas": [
+    "Tecnologia e IA",
+    "Anthropic",
+    "Mercados"
+   ],
+   "historia": "anthropic-ipo",
+   "titulo": "Ação da Anthropic sobe 11% e volta a ficar acima do preço do IPO",
+   "texto": "Os papéis fecharam a sexta a US$ 91,88, acima dos US$ 83 da oferta, depois de uma primeira semana volátil na Nasdaq, numa recuperação ampla das empresas de tecnologia. Há relatos, não detalhados, de liberação de ações de insiders em meados de dezembro.",
+   "fontes": [
+    {
+     "titulo": "Motley Fool: Anthropic jumps 11%, reclaiming its $83 IPO price",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/"
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "secao": "EUA",
+   "temas": [
+    "Política e história dos EUA",
+    "Suprema Corte"
+   ],
+   "historia": "suprema-corte-dezembro",
+   "titulo": "Suprema Corte abre na segunda a sessão de dezembro, com a proibição de asilo na pauta do semestre",
+   "texto": "O período de sustentações começa em 30/11; a Corte aceitou recentemente julgar a restrição de Trump ao asilo na fronteira (Mullin v. RAICES). Enquanto isso, o prazo do orçamento de 11/12 segue sem acordo, e o novo Congresso, de maioria democrata, toma posse em 3/1.",
+   "fontes": [
+    {
+     "titulo": "SCOTUSblog: Court grants asylum-ban case",
+     "url": "https://www.scotusblog.com/2026/11/scotus-grants-asylum-ban-case/"
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "secao": "Imigração",
+   "temas": [
+    "Imigração (ICE, vistos)",
+    "Justiça"
+   ],
+   "historia": "ice-prisoes-erradas",
+   "titulo": "Juíza de Iowa manda soltar guatemalteco preso por engano e entregue ao ICE",
+   "texto": "Santos Fredy Perez Recinos foi detido em 28/10 no lugar de um suspeito bem mais alto e pesado e passou ao ICE sem audiência de fiança. A juíza-chefe Stephanie Rose chamou o caso de 'quase inacreditável' e disse que erros assim estão crescendo.",
+   "fontes": [
+    {
+     "titulo": "KCRG: Iowa judge calls out ICE mistakes",
+     "url": "https://www.kcrg.com/2026/11/27/iowa-judge-calls-out-ice-mistakes-routine-encounters-gone-awry/"
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Libertadores"
+   ],
+   "historia": "libertadores-2026",
+   "titulo": "Palmeiras e Estudiantes decidem a Libertadores hoje, às 17h de Brasília, no Centenário",
+   "texto": "É a reedição da final de 1968, vencida pelos argentinos, e o campeão desempata Brasil e Argentina, com 25 títulos cada. Abel Ferreira deve ter de volta Murilo e Piquerez; o Estudiantes não terá o suspenso Baltasar Rodríguez.",
+   "fontes": [
+    {
+     "titulo": "Placar: Palmeiras encerra preparação para final da Libertadores",
+     "url": "https://placar.com.br/copa-libertadores/com-possiveis-novidades-em-campo-palmeiras-encerra-preparacao-para-final-da-libertadores/"
+    },
+    {
+     "titulo": "ESPN: Palmeiras x Estudiantes: onde assistir",
+     "url": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/17566905/palmeiras-x-estudiantes-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-final-libertadores"
+    }
+   ]
+  },
+  {
+   "id": "n12",
+   "secao": "Esportes",
+   "temas": [
+    "Futebol",
+    "Brasileirão"
+   ],
+   "historia": "brasileirao-rebaixamento",
+   "titulo": "Internacional pode ser rebaixado neste domingo",
+   "texto": "O Inter, 18º com 38 pontos, recebe o Bragantino às 15h30; se perder, cai caso Corinthians vença ou empate com o Grêmio no confronto direto. Corinthians, Grêmio e Mirassol têm 41 pontos, e ao menos um ex-campeão brasileiro deve cair.",
+   "fontes": [
+    {
+     "titulo": "Tribuna do Sertão: Penúltima rodada promete emoção",
+     "url": "https://www.tribunadosertao.com.br/esportes/2026/11/27/1031547-penultima-rodada-promete-emocao-na-luta-contra-o-rebaixamento-internacional-pode-cair-neste-domingo"
+    }
+   ]
+  },
+  {
+   "id": "n13",
+   "secao": "Cultura",
+   "temas": [
+    "Cinema",
+    "Bilheteria"
+   ],
+   "historia": "bilheteria-acao-de-gracas",
+   "titulo": "Novo 'Jogos Vorazes' deve fazer US$ 85 milhões no feriado e chegar a US$ 233 milhões nos EUA",
+   "texto": "'Amanhecer na Colheita' faturou US$ 11,6 milhões só no Dia de Ação de Graças, à frente de 'Focker-In-Law' e 'Hexed'. Na segunda (30), Nova York recebe o Gotham Awards, termômetro do cinema independente para a temporada de prêmios.",
+   "fontes": [
+    {
+     "titulo": "TheWrap: Hunger Games Thanksgiving box office",
+     "url": "https://www.thewrap.com/culture-lifestyle/culture/hunger-games-thanksgiving-box-office/"
+    }
+   ]
+  },
+  {
+   "id": "n14",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Saúde pública",
+    "Gripe"
+   ],
+   "historia": "gripe-eua-2026",
+   "titulo": "Temporada de gripe nos EUA começa no ritmo mais forte desde 2010",
+   "texto": "O CDC registrou 11.734 internações na semana até 14/11, alta de 22%, e estima ao menos 3,7 milhões de casos e 2.800 mortes na temporada, incluindo 7 crianças. O próximo boletim sai na segunda (30).",
+   "fontes": [
+    {
+     "titulo": "Gothamist: Reported flu cases surge across New York",
+     "url": "https://gothamist.com/news/reported-flu-cases-surge-across-new-york-ahead-of-thanksgiving"
+    }
+   ]
+  },
+  {
+   "id": "n15",
+   "secao": "Ciência e Saúde",
+   "temas": [
+    "Clima"
+   ],
+   "historia": "cop31-antalya",
+   "titulo": "Temperatura global fica acima de 2°C do nível pré-industrial por seis dias seguidos, pela primeira vez",
+   "texto": "É um pico diário, não a média de longo prazo, mas ocorre logo após a COP31 terminar sem menção a combustíveis fósseis. A Comissão Europeia prepara uma proposta para reformar as cúpulas do clima.",
+   "fontes": [
+    {
+     "titulo": "Carbon Brief: DeBriefed 27 November 2026",
+     "url": "https://www.carbonbrief.org/debriefed-27-november-2026-cop31-fails-2c-for-six-days-trumps-false-claims"
+    }
+   ]
+  },
+  {
+   "id": "n16",
+   "secao": "ONU",
+   "temas": [
+    "ONU",
+    "Secretário-geral",
+    "Direitos humanos"
+   ],
+   "historia": "sucessao-secretario-geral-onu",
+   "titulo": "Favorita à chefia da ONU, Grynspan é pressionada a falar sobre a detenção de Francesca Albanese na Costa Rica",
+   "texto": "A Costa Rica barrou a relatora especial da ONU, retida há duas noites no aeroporto de San José; mais de 400 pessoas pediram que Grynspan, costarriquenha e líder das votações, se manifeste. A 10ª votação do Conselho de Segurança é na segunda (30), às 15h de Nova York.",
+   "fontes": [
+    {
+     "titulo": "Al Jazeera: UN chief frontrunner urged to speak out over Albanese detention",
+     "url": "https://aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2"
+    },
+    {
+     "titulo": "Security Council Report: Tenth straw poll",
+     "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/tenth-security-council-straw-poll-on-un-secretary-general-candidates.php"
+    }
+   ]
+  },
+  {
+   "id": "n17",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Política estadual"
+   ],
+   "historia": "stewart-cousins-morte",
+   "titulo": "Morre Andrea Stewart-Cousins, líder da maioria no Senado de NY, aos 76 anos",
+   "texto": "Primeira mulher e primeira mulher negra a comandar o Senado estadual, ela liderava a maioria desde 2019 e representava Yonkers desde 2006. A sucessão deve ser definida nas próximas semanas.",
+   "fontes": [
+    {
+     "titulo": "CBS New York: Andrea Stewart-Cousins dead",
+     "url": "https://www.cbsnews.com/newyork/news/andrea-stewart-cousins-dead-ny-senate-majority-leader/"
+    },
+    {
+     "titulo": "Spectrum News: Senate Majority Leader Andrea Stewart-Cousins dies at 76",
+     "url": "https://spectrumlocalnews.com/nys/rochester/politics/2026/11/27/senate-majority-leader-andrea-stewart-cousins-dies-at-76"
+    }
+   ]
+  },
+  {
+   "id": "n18",
+   "secao": "NY/NJ",
+   "temas": [
+    "Nova York",
+    "Nova Jersey",
+    "Clima"
+   ],
+   "historia": "desfile-macys-100",
+   "titulo": "Desfile da Macy's sai hoje com ventos fracos; 128 mil seguem sem luz em NJ",
+   "texto": "A previsão de tempo seco e vento abaixo dos limites (23 mph sustentado, 34 mph em rajadas) libera os balões no 100º desfile, adiado pela primeira vez por causa do clima. Em Nova Jersey, a JCP&L ainda tinha cerca de 108 mil clientes sem energia na sexta de manhã.",
+   "fontes": [
+    {
+     "titulo": "FOX Weather: 100th Macy's parade cleared for Saturday",
+     "url": "https://www.foxweather.com/weather-news/historic-100th-macys-thanksgiving-day-parade-cleared-takeoff-saturday-after-thursdays-noreaster-groundi"
+    },
+    {
+     "titulo": "NJ101.5: NJ nor'easter power outages",
+     "url": "https://nj1015.com/nj-noreaster-power-outages-2/"
+    }
+   ]
+  }
+ ],
+ "valeSaber": {
+  "titulo": "Bloqueio naval: um ato de guerra com regras próprias",
+  "texto": "Pelo direito internacional, um bloqueio é uma medida de guerra que impede a entrada e saída de navios de portos inimigos, inclusive de países neutros. A Declaração de Londres (1909) e o Manual de San Remo (1994) exigem que ele seja declarado, efetivo e imparcial, e que não impeça a chegada de ajuda humanitária essencial. É diferente de uma 'quarentena', termo que os EUA usaram em Cuba em 1962 justamente para evitar falar em ato de guerra. Por isso cada navio interceptado no Golfo de Omã também é um teste jurídico: neutros podem ser parados, mas o uso da força precisa ser proporcional.",
+  "fontes": [
+   {
+    "titulo": "Wikipedia: Blockade",
+    "url": "https://en.wikipedia.org/wiki/Blockade"
+   }
+  ]
+ },
+ "nota": "Todas as seções têm notícia hoje. A história da eleição brasileira em 'seguindo' terminou com o segundo turno e não tem novidade própria; a cobertura de Brasil segue em Trabuco e Flávio. Seguindo seus votos, priorizei imigração com foco em direitos e tribunais, IA e chips, e reduzi notas de guerra soltas no Oriente Médio. O pedido sobre a Anthropic já tinha sido atendido.",
+ "pedidoAtendidoEm": "2026-10-19T14:21:35.715Z",
+ "geradoEm": "2026-11-28T12:02:41+00:00"
+}
